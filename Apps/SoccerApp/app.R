@@ -12,6 +12,9 @@ library(googledrive)
 
 # Load in team stats
 epl_team_stats <- read_rds("../../Data/epl_team_stats.rds")
+serie_a_team_stats <- read_rds("../../Data/serie_a_team_stats.rds")
+
+all_team_stats <- bind_rows(epl_team_stats, serie_a_team_stats)
 
 # Load in player stats
 epl_player_stats <- read_rds("../../Data/epl_player_stats.rds")
@@ -21,7 +24,7 @@ unique_players <- epl_player_stats$Player |> unique() |> sort()
 
 unique_events <- c("EPL", "Serie A")
 
-unique_teams <- epl_team_stats$Team |> unique() |> sort()
+unique_teams <- all_team_stats$Team |> unique() |> sort()
 
 #===============================================================================
 # Read in scraped odds
@@ -148,37 +151,19 @@ ui <- page_navbar(
                     selectInput(
                         inputId = "stat_input_c",
                         label = "Select Statistic:",
-                        choices = c("Runs",
-                                    "Wickets",
-                                    "Runs at Fall of First Wicket",
-                                    "First Wicket Caught",
-                                    "First Over Runs",
-                                    "Chasing Team Win",
-                                    "4s",
-                                    "6s"),
+                        choices = c("Passes",
+                                    "Shots",
+                                    "Shots_On_Target"),
                         multiple = FALSE,
-                        selected = "Innings Total"
+                        selected = "Shots"
                     ),
                     selectInput(
                         inputId = "venue_input_c",
                         label = "Select Venue:",
-                        choices = epl_player_stats$venue |> unique() |> sort(),
+                        choices = all_team_stats$venue |> unique() |> sort(),
                         multiple = TRUE,
                         selected = NULL,
                         selectize = TRUE
-                    ),
-                    selectInput(
-                        inputId = "innings_input_c",
-                        label = "Select Innings:",
-                        choices = c("1", "2"),
-                        multiple = TRUE,
-                        selected = c("1", "2")
-                    ),
-                    markdown(mds = c("__Select Minimum Innings Length:__")),
-                    numericInput(
-                        inputId = "innings_balls_bowled_min_c",
-                        label = "Number of Balls",
-                        value = 0
                     ),
                     markdown(mds = c("__Select Only Last n Games:__")),
                     numericInput(
@@ -190,7 +175,7 @@ ui <- page_navbar(
                     numericInput(
                         inputId = "reference_line_c",
                         label = "Line Value",
-                        value = 149.5
+                        value = 14.5
                     ))),
             grid_card(area = "team_stat_plot",
                       card_body(
@@ -468,83 +453,48 @@ server <- function(input, output, session) {
     # Filter Team stats
     #=============================================================================
     
-    # filtered_team_stats <- reactive({
-    #     # Filter player stats
-    #     
-    #     filtered_team_stats <-
-    #         innings_stats_long |>
-    #         select(Date = match_date,
-    #                Event = event,
-    #                Venue = venue,
-    #                `Toss Winner` = toss_winner,
-    #                `Toss Decision` = toss_decision,
-    #                `Match Winner` = match_winner,
-    #                `Chasing Team Win` = chasing_team_won,
-    #                Innings = innings,
-    #                Innings_Balls = innings_balls,
-    #                Runs = innings_total,
-    #                `4s` = innings_fours,
-    #                `6s` = innings_sixes,
-    #                Wickets = innings_wickets,
-    #                Batting = innings_batting_team,
-    #                Fielding = innings_fielding_team, 
-    #                `First Dismissal Method` = innings_method_of_first_dismissal,
-    #                `First Wicket Caught` = first_wicket_caught,
-    #                `Runs at Fall of First Wicket` = innings_fall_of_first_wicket,
-    #                `First Over Bowler` = first_over_bowler,
-    #                `First Over Runs` = first_over_total,
-    #                `First Over Wickets` = first_over_wickets,
-    #                `First Over 4s` = first_over_fours,
-    #                `First Over 6s` = first_over_sixes) |> 
-    #         arrange(desc(Date))
-    #     
-    #     # Filter by last n games
-    #     if (!is.na(input$last_games_c)) {
-    #         filtered_team_stats <-
-    #             filtered_team_stats |>
-    #             slice_head(n = input$last_games_c)
-    #     }
-    #     
-    #     # Filter by innings balls bowled
-    #     if (!is.na(input$innings_balls_bowled_min_c)) {
-    #         filtered_team_stats <-
-    #             filtered_team_stats |>
-    #             filter(Innings_Balls >= input$innings_balls_bowled_min_c)
-    #     }
-    #     
-    #     # Filter by innings
-    #     filtered_team_stats <-
-    #         filtered_team_stats |>
-    #         filter(Innings %in% input$innings_input_c)
-    #     
-    #     # Filter by event
-    #     filtered_team_stats <-
-    #         filtered_team_stats |>
-    #         filter(Event %in% input$event_input_c)
-    #     
-    #     # Filter by venue  
-    #     if (!is.null(input$venue_input_c)) {
-    #         filtered_team_stats <-
-    #             filtered_team_stats |>
-    #             filter(Venue %in% input$venue_input_c)
-    #     }
-    #     
-    #     # Filter by team
-    #     if (!is.null(input$team_name_input_c)) {
-    #         filtered_team_stats <-
-    #             filtered_team_stats |>
-    #             filter(Batting %in% input$team_name_input_c)
-    #     }
-    #     
-    #     # Now make game number
-    #     filtered_team_stats <-
-    #         filtered_team_stats |>
-    #         mutate(game_number = row_number())
-    #     
-    #     # Return filtered player stats
-    #     return(filtered_team_stats)
-    #     
-    # })
+    filtered_team_stats <- reactive({
+        # Filter player stats
+
+        filtered_team_stats <-
+            all_team_stats |>
+            arrange(desc(Date))
+
+        # Filter by last n games
+        if (!is.na(input$last_games_c)) {
+            filtered_team_stats <-
+                filtered_team_stats |>
+                slice_head(n = input$last_games_c)
+        }
+
+        # Filter by event
+        filtered_team_stats <-
+            filtered_team_stats |>
+            filter(Competition %in% input$event_input_c)
+
+        # Filter by venue
+        if (!is.null(input$venue_input_c)) {
+            filtered_team_stats <-
+                filtered_team_stats |>
+                filter(Venue %in% input$venue_input_c)
+        }
+
+        # Filter by team
+        if (!is.null(input$team_name_input_c)) {
+            filtered_team_stats <-
+                filtered_team_stats |>
+                filter(Team %in% input$team_name_input_c)
+        }
+
+        # Now make game number
+        filtered_team_stats <-
+            filtered_team_stats |>
+            mutate(game_number = row_number())
+
+        # Return filtered player stats
+        return(filtered_team_stats)
+
+    })
     
     #=============================================================================
     # Get Proportion above reference line
