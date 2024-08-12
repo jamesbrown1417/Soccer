@@ -158,12 +158,157 @@ tab_head_to_head_markets <-
     mutate(margin = round((1 / home_win + 1 / away_win + 1 / draw), digits = 3)) |>
     mutate(agency = "TAB")
 
-# Fix team names
-tab_head_to_head_markets <-
-    tab_head_to_head_markets |>
-    mutate(home_team = fix_team_names(home_team)) |>
-    mutate(away_team = fix_team_names(away_team)) |>
-    mutate(match = paste(home_team, "v", away_team))
+# # Fix team names
+# tab_head_to_head_markets <-
+#     tab_head_to_head_markets |>
+#     mutate(home_team = fix_team_names(home_team)) |>
+#     mutate(away_team = fix_team_names(away_team)) |>
+#     mutate(match = paste(home_team, "v", away_team))
 
 # Write to csv
 write_csv(tab_head_to_head_markets, "Data/scraped_odds/tab_h2h.csv")
+
+#===============================================================================
+# Match Total Goals Markets
+#===============================================================================
+
+# Overs
+totals_overs <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "Total Goals Over/Under")) |> 
+    filter(str_detect(prop_name, "Over")) |>
+    mutate(line = str_extract(prop_name, "\\d+\\.\\d+")) |> 
+    rename(over_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Unders
+totals_unders <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "Total Goals Over/Under")) |> 
+    filter(str_detect(prop_name, "Under")) |>
+    mutate(line = str_extract(prop_name, "\\d+\\.\\d+")) |> 
+    rename(under_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Combine
+tab_total_goals_markets <-
+    totals_overs |>
+    left_join(totals_unders) |>
+    select(match,
+           start_time,
+           market_name,
+           home_team,
+           away_team,
+           line,
+           over_price,
+           under_price) |>
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "TAB")
+    
+#===============================================================================
+# Team Total Goals Markets
+#===============================================================================
+
+# Overs
+team_totals_overs <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "Team Total Goals O/U")) |> 
+    filter(str_detect(prop_name, "Over")) |>
+    mutate(line = str_extract(prop_name, "\\d+\\.\\d+")) |> 
+    mutate(team = str_remove(prop_name, " Over.*$")) |> 
+    rename(over_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Unders
+team_totals_unders <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "Team Total Goals O/U")) |> 
+    filter(str_detect(prop_name, "Under")) |>
+    mutate(line = str_extract(prop_name, "\\d+\\.\\d+")) |> 
+    mutate(team = str_remove(prop_name, " Under.*$")) |> 
+    rename(under_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Combine
+tab_team_total_goals_markets <-
+    team_totals_overs |>
+    left_join(team_totals_unders) |>
+    select(match,
+           start_time,
+           market_name,
+           team,
+           line,
+           over_price,
+           under_price) |>
+    mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
+    mutate(agency = "TAB")
+
+#===============================================================================
+# Both Teams to Score Markets
+#===============================================================================
+
+# Both Teams To Score - Yes
+both_teams_to_score <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "^Both Teams to Score")) |> 
+    filter(prop_name == "Both Teams to Score") |> 
+    rename(yes_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Both Teams To Score - No
+both_teams_not_to_score <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(str_detect(market_name, "^Both Teams to Score")) |> 
+    filter(prop_name == "Only One or Neither to score") |> 
+    rename(no_price = price) |>
+    select(-prop_name, -prop_id)
+
+# Combine
+tab_both_teams_to_score_markets <-
+    both_teams_to_score |>
+    left_join(both_teams_not_to_score) |>
+    select(match,
+           start_time,
+           market_name,
+           home_team,
+           away_team,
+           yes_price,
+           no_price) |>
+    mutate(margin = round((1 / yes_price + 1 / no_price), digits = 3)) |>
+    mutate(agency = "TAB")
