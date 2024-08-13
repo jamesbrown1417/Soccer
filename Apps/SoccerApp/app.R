@@ -14,16 +14,17 @@ library(googledrive)
 epl_team_stats <- read_rds("../../Data/epl_team_stats.rds")
 serie_a_team_stats <- read_rds("../../Data/serie_a_team_stats.rds")
 
+# Combine team stats
 all_team_stats <- bind_rows(epl_team_stats, serie_a_team_stats)
+
+# Create Match stats table
 
 # Load in player stats
 epl_player_stats <- read_rds("../../Data/epl_player_stats.rds")
 
-# Unique players
+# Unique players, events, and teams
 unique_players <- epl_player_stats$Player |> unique() |> sort()
-
 unique_events <- c("EPL", "Serie A")
-
 unique_teams <- all_team_stats$Team |> unique() |> sort()
 
 #===============================================================================
@@ -160,7 +161,7 @@ ui <- page_navbar(
                     selectInput(
                         inputId = "venue_input_c",
                         label = "Select Venue:",
-                        choices = all_team_stats$venue |> unique() |> sort(),
+                        choices = all_team_stats$Venue |> unique() |> sort(),
                         multiple = TRUE,
                         selected = NULL,
                         selectize = TRUE
@@ -458,6 +459,7 @@ server <- function(input, output, session) {
 
         filtered_team_stats <-
             all_team_stats |>
+            select(-MatchURL, -Home_Scorers, -Away_Scorers) |> 
             arrange(desc(Date))
 
         # Filter by last n games
