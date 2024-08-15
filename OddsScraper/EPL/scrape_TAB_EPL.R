@@ -312,3 +312,39 @@ tab_both_teams_to_score_markets <-
            no_price) |>
     mutate(margin = round((1 / yes_price + 1 / no_price), digits = 3)) |>
     mutate(agency = "TAB")
+
+#===============================================================================
+# Player Goals
+#===============================================================================
+
+# Player Goals
+player_goals <-
+    all_tab_markets |>
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    filter(
+        str_detect(market_name, "Anytime Goalscorer") |
+            str_detect(market_name, "To Score \\d+\\+ Goals")
+    ) |>
+    mutate(market_name = str_replace(market_name, "Anytime", "1+")) |>
+    mutate(line = str_extract(market_name, "\\d+")) |>
+    mutate(line = as.numeric(line) - 0.5) |>
+    mutate(player_name = prop_name) |>
+    mutate(market_name = "Player Goals") |> 
+select(match,
+       start_time,
+       market_name,
+       home_team,
+       away_team,
+       player_name,
+       line,
+       over_price = price) |>
+    mutate(agency = "TAB") |> 
+    arrange(start_time, match, player_name, line, over_price)
+    
+    
+    
