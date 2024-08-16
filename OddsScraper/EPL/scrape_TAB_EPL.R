@@ -206,6 +206,7 @@ totals_unders <-
 tab_total_goals_markets <-
     totals_overs |>
     left_join(totals_unders) |>
+    mutate(market_name = "Match Goals")
     select(match,
            start_time,
            market_name,
