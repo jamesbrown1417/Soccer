@@ -7,6 +7,15 @@ library(jsonlite)
 # URL to get responses
 tab_url = "https://api.beta.tab.com.au/v1/tab-info-service/sports/Soccer/competitions/English%20Premier%20League?jurisdiction=SA"
 
+# Get Squads
+epl_squads <- read_rds("Data/epl_squads.rds")
+
+# Get Fix Team Names Function
+source("Scripts/fix_team_names.r")
+
+# Get Fix Player Names Function
+source("Scripts/fix_player_names.r")
+
 # Function to fetch and parse JSON with exponential backoff
 fetch_data_with_backoff <-
     function(url,
@@ -158,12 +167,12 @@ tab_head_to_head_markets <-
     mutate(margin = round((1 / home_win + 1 / away_win + 1 / draw), digits = 3)) |>
     mutate(agency = "TAB")
 
-# # Fix team names
-# tab_head_to_head_markets <-
-#     tab_head_to_head_markets |>
-#     mutate(home_team = fix_team_names(home_team)) |>
-#     mutate(away_team = fix_team_names(away_team)) |>
-#     mutate(match = paste(home_team, "v", away_team))
+# Fix team names
+tab_head_to_head_markets <-
+    tab_head_to_head_markets |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team))
 
 # Write to csv
 write_csv(tab_head_to_head_markets, "Data/scraped_odds/tab_h2h.csv")
@@ -206,7 +215,10 @@ totals_unders <-
 tab_total_goals_markets <-
     totals_overs |>
     left_join(totals_unders) |>
-    mutate(market_name = "Match Goals")
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(market_name = "Match Goals") |> 
     select(match,
            start_time,
            market_name,
@@ -217,6 +229,9 @@ tab_total_goals_markets <-
            under_price) |>
     mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
     mutate(agency = "TAB")
+
+# Write to csv
+write_csv(tab_total_goals_markets, "Data/scraped_odds/tab_total_goals.csv")
     
 #===============================================================================
 # Team Total Goals Markets
@@ -258,15 +273,24 @@ team_totals_unders <-
 tab_team_total_goals_markets <-
     team_totals_overs |>
     left_join(team_totals_unders) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(team = fix_team_names(team)) |>
     select(match,
            start_time,
            market_name,
+           home_team,
+           away_team,
            team,
            line,
            over_price,
            under_price) |>
     mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
     mutate(agency = "TAB")
+
+# Write to csv
+write_csv(tab_team_total_goals_markets, "Data/scraped_odds/tab_team_total_goals.csv")
 
 #===============================================================================
 # Both Teams to Score Markets
@@ -304,6 +328,9 @@ both_teams_not_to_score <-
 tab_both_teams_to_score_markets <-
     both_teams_to_score |>
     left_join(both_teams_not_to_score) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
     select(match,
            start_time,
            market_name,
@@ -313,6 +340,9 @@ tab_both_teams_to_score_markets <-
            no_price) |>
     mutate(margin = round((1 / yes_price + 1 / no_price), digits = 3)) |>
     mutate(agency = "TAB")
+
+# Write to csv
+write_csv(tab_both_teams_to_score_markets, "Data/scraped_odds/tab_both_teams_to_score.csv")
 
 #===============================================================================
 # Player Goals
@@ -336,16 +366,24 @@ player_goals <-
     mutate(line = as.numeric(line) - 0.5) |>
     mutate(player_name = prop_name) |>
     mutate(market_name = "Player Goals") |> 
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |> 
+    mutate(opposition_team = if_else(player_team == home_team, away_team, home_team)) |>
 select(match,
        start_time,
        market_name,
        home_team,
        away_team,
        player_name,
+       player_team,
+       opposition_team,
        line,
        over_price = price) |>
     mutate(agency = "TAB") |> 
     arrange(start_time, match, player_name, line, over_price)
-    
-    
-    
+
+# Write to csv
+write_csv(player_goals, "Data/scraped_odds/tab_player_goals.csv")
