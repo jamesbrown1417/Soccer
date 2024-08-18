@@ -172,10 +172,11 @@ tab_head_to_head_markets <-
     tab_head_to_head_markets |>
     mutate(home_team = fix_team_names(home_team)) |>
     mutate(away_team = fix_team_names(away_team)) |>
-    mutate(match = paste(home_team, "v", away_team))
+    mutate(match = paste(home_team, "v", away_team)) |> 
+    mutate(market_name = "Head To Head")
 
 # Write to csv
-write_csv(tab_head_to_head_markets, "Data/scraped_odds/tab_h2h.csv")
+write_csv(tab_head_to_head_markets, "Data/scraped_odds/EPL/tab_h2h.csv")
 
 #===============================================================================
 # Match Total Goals Markets
@@ -231,7 +232,7 @@ tab_total_goals_markets <-
     mutate(agency = "TAB")
 
 # Write to csv
-write_csv(tab_total_goals_markets, "Data/scraped_odds/tab_total_goals.csv")
+write_csv(tab_total_goals_markets, "Data/scraped_odds/EPL/tab_total_goals.csv")
     
 #===============================================================================
 # Team Total Goals Markets
@@ -287,10 +288,11 @@ tab_team_total_goals_markets <-
            over_price,
            under_price) |>
     mutate(margin = round((1 / over_price + 1 / under_price), digits = 3)) |>
-    mutate(agency = "TAB")
+    mutate(agency = "TAB") |> 
+    mutate(market_name = "Team Goals")
 
 # Write to csv
-write_csv(tab_team_total_goals_markets, "Data/scraped_odds/tab_team_total_goals.csv")
+write_csv(tab_team_total_goals_markets, "Data/scraped_odds/EPL/tab_team_total_goals.csv")
 
 #===============================================================================
 # Both Teams to Score Markets
@@ -342,7 +344,7 @@ tab_both_teams_to_score_markets <-
     mutate(agency = "TAB")
 
 # Write to csv
-write_csv(tab_both_teams_to_score_markets, "Data/scraped_odds/tab_both_teams_to_score.csv")
+write_csv(tab_both_teams_to_score_markets, "Data/scraped_odds/EPL/tab_both_teams_to_score.csv")
 
 #===============================================================================
 # Player Goals
@@ -386,4 +388,4 @@ select(match,
     arrange(start_time, match, player_name, line, over_price)
 
 # Write to csv
-write_csv(player_goals, "Data/scraped_odds/tab_player_goals.csv")
+write_csv(player_goals, "Data/scraped_odds/EPL/tab_player_goals.csv")

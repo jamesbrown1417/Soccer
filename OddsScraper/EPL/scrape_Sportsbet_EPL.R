@@ -102,7 +102,7 @@ main_markets_function <- function() {
         mutate(agency = "Sportsbet")
     
     # Write to csv
-    write_csv(sportsbet_h2h, "Data/scraped_odds/sportsbet_h2h.csv")
+    write_csv(sportsbet_h2h, "Data/scraped_odds/EPL/sportsbet_h2h.csv")
     
 }
 
@@ -296,6 +296,77 @@ player_props_function <- function() {
     
     # Safe version that just returns NULL if there is an error
     safe_read_prop_url <- safely(read_prop_url, otherwise = NULL)
+    
+    #===========================================================================
+    # Top Markets
+    #===========================================================================
+    
+    # Map function to top market urls]
+    top_market_data <-
+        map(top_market_links, safe_read_prop_url)
+    
+    # Get just result part from output
+    top_market_data <-
+        top_market_data |>
+        map("result") |>
+        map_df(bind_rows)
+    
+    # Add market name
+    top_market_data <-
+        top_market_data |>
+        mutate(url = str_extract(as.character(url), "[0-9]{6,8}")) |>
+        rename(match_id = url) |>
+        mutate(match_id = as.numeric(match_id)) |>
+        left_join(team_names, by = "match_id") |>
+        mutate(match = paste(home_team, "v", away_team)) |>
+        left_join(player_prop_metadata)
+    
+    # Get Both Teams To Score---------------------------------------------------
+    both_teams_to_score_data <-
+        top_market_data |>
+        filter(str_detect(prop_market_name, "^Both Teams To Score$"))
+    
+    # Get Both Teams To Score Yes
+    both_teams_to_score_yes <-
+        both_teams_to_score_data |>
+        filter(str_detect(selection_name_prop, "Yes")) |> 
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Both Teams to Score",
+            yes_price = prop_market_price,
+            agency = "Sportsbet",
+            class_external_id,
+            competition_external_id,
+            event_external_id,
+            market_id,
+            player_id
+        )
+    
+    # Get Both Teams To Score No
+    both_teams_to_score_no <-
+        both_teams_to_score_data |>
+        filter(str_detect(selection_name_prop, "No")) |> 
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Both Teams to Score",
+            no_price = prop_market_price,
+            agency = "Sportsbet",
+            class_external_id,
+            competition_external_id,
+            event_external_id,
+            market_id,
+            player_id_under = player_id
+        )
+    
+    # Join Together
+    both_teams_to_score_all <-
+        both_teams_to_score_yes |> 
+        left_join(both_teams_to_score_no) |> 
+        relocate(no_price, .after = yes_price)
     
     #===========================================================================
     # Shot Markets
@@ -555,7 +626,7 @@ player_props_function <- function() {
             match,
             home_team,
             away_team,
-            market_name = "Match Goals",
+            market_name = "Team Goals",
             team,
             line,
             over_price,
@@ -581,7 +652,7 @@ player_props_function <- function() {
             match,
             home_team,
             away_team,
-            market_name = "Match Goals",
+            market_name = "Team Goals",
             team,
             line,
             under_price,
@@ -608,19 +679,13 @@ player_props_function <- function() {
         mutate(line = str_extract(prop_market_name, "\\d{1,2}\\.\\d{1,2}")) |>
         mutate(line = as.numeric(line)) |>
         mutate(team = away_team) |> 
-        # mutate(
-        #     player_name =
-        #         case_when(
-        #             player_name == "Matthew Roberts" ~ "Matt Roberts",
-        #             .default = player_name)) |>
         rename(over_price = prop_market_price) |>
-        # left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        # mutate(opposition_team = if_else(team_name == home_team, away_team, home_team)) |>
+        mutate(team = fix_team_names(team)) |>
         transmute(
             match,
             home_team,
             away_team,
-            market_name = "Match Goals",
+            market_name = "Team Goals",
             team,
             line,
             over_price,
@@ -640,19 +705,13 @@ player_props_function <- function() {
         mutate(line = str_extract(prop_market_name, "\\d{1,2}\\.\\d{1,2}")) |>
         mutate(line = as.numeric(line)) |>
         mutate(team = away_team) |> 
-        # mutate(
-        #     player_name =
-        #         case_when(
-        #             player_name == "Matthew Roberts" ~ "Matt Roberts",
-        #             .default = player_name)) |>
         rename(under_price = prop_market_price) |>
-        # left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        # mutate(opposition_team = if_else(team_name == home_team, away_team, home_team)) |>
+        mutate(team = fix_team_names(team)) |>
         transmute(
             match,
             home_team,
             away_team,
-            market_name = "Match Goals",
+            market_name = "Team Goals",
             team,
             line,
             under_price,
@@ -699,5 +758,69 @@ player_props_function <- function() {
         left_join(team_names, by = "match_id") |>
         mutate(match = paste(home_team, "v", away_team)) |>
         left_join(player_prop_metadata)
-
+    
+    # Get player goals lines----------------------------------------------------
+    player_goalscorer_lines <-
+        player_goal_data |>
+        filter(str_detect(prop_market_name, "^Anytime Goalscorer$|^To Score 2 or More Goals$|^To Score a Hat-Trick$")) |>
+        rename(player_name = selection_name_prop) |>
+        mutate(player_name = fix_player_names(player_name)) |>
+        rename(price = prop_market_price) |>
+        left_join(epl_squads) |> 
+        mutate(opposition_team = if_else(player_team == home_team, away_team, home_team)) |>
+        relocate(match, .before = player_name) |>
+        mutate(line = case_when(
+            str_detect(prop_market_name, "To Score 2 or More Goals") ~ 1.5,
+            str_detect(prop_market_name, "To Score a Hat-Trick") ~ 2.5,
+            TRUE ~ 0.5
+        )) |>
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Player Goals",
+            player_name,
+            player_team,
+            opposition_team,
+            line,
+            over_price = price,
+            agency = "Sportsbet",
+            class_external_id,
+            competition_external_id,
+            event_external_id,
+            market_id,
+            player_id
+        )
+    
+    #===========================================================================
+    # Write all to CSV
+    #===========================================================================
+    
+    # Both Teams To Score
+    write_csv(both_teams_to_score_all, "Data/scraped_odds/EPL/sportsbet_both_teams_to_score.csv")
+    
+    # Player Shots
+    write_csv(player_shots_alternate, "Data/scraped_odds/EPL/sportsbet_player_shots.csv")
+    
+    # Player Shots On Target
+    write_csv(player_shots_on_target_alternate, "Data/scraped_odds/EPL/sportsbet_player_shots_on_target.csv")
+    
+    # Team Shots On Target
+    write_csv(team_shots_on_target_alternate, "Data/scraped_odds/EPL/sportsbet_team_shots_on_target.csv")
+    
+    # Player Attempted Passes
+    write_csv(player_attempted_passes_alternate, "Data/scraped_odds/EPL/sportsbet_player_attempted_passes.csv")
+    
+    # Match Goals
+    write_csv(total_goals_all, "Data/scraped_odds/EPL/sportsbet_total_goals.csv")
+    
+    # Team Goals
+    write_csv(goal_lines_all, "Data/scraped_odds/EPL/sportsbet_team_goals.csv")
+    
+    # Player Goals
+    write_csv(player_goalscorer_lines, "Data/scraped_odds/EPL/sportsbet_player_goals.csv")
 }
+
+# Run Functions
+main_markets_function()
+player_props_function()

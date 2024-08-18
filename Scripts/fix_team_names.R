@@ -18,7 +18,7 @@ fix_team_names <- function(team_name_vector) {
             str_detect(., "(^Liverpool|Livrpl)|(^Reds)") ~ "Liverpool",
             str_detect(., "(^Luton Town)|(^Hatters)") ~ "Luton Town",
             str_detect(., "(^Manchester City|MnCity)|(^Man City)") ~ "Manchester City",
-            str_detect(., "(^Manchester United)|(^Man United)") ~ "Manchester United",
+            str_detect(., "(^Manchester United)|(^Man United)|(^Man Utd)") ~ "Manchester United",
             str_detect(., "^Newcastle|Newcle") ~ "Newcastle United",
             str_detect(., "^Notting|NForst|Nottm") ~ "Nottingham Forest",
             str_detect(., "^Sheffield United") ~ "Sheffield United",

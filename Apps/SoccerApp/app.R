@@ -462,13 +462,6 @@ server <- function(input, output, session) {
             select(-MatchURL, -Home_Scorers, -Away_Scorers) |> 
             arrange(desc(Date))
 
-        # Filter by last n games
-        if (!is.na(input$last_games_c)) {
-            filtered_team_stats <-
-                filtered_team_stats |>
-                slice_head(n = input$last_games_c)
-        }
-
         # Filter by event
         filtered_team_stats <-
             filtered_team_stats |>
@@ -492,6 +485,13 @@ server <- function(input, output, session) {
         filtered_team_stats <-
             filtered_team_stats |>
             mutate(game_number = row_number())
+        
+        # Filter by last n games
+        if (!is.na(input$last_games_c)) {
+            filtered_team_stats <-
+                filtered_team_stats |>
+                slice_head(n = input$last_games_c)
+        }
 
         # Return filtered player stats
         return(filtered_team_stats)
