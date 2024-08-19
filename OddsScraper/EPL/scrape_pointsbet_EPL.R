@@ -136,7 +136,7 @@ pointsbet_h2h_main <- function() {
         mutate(agency = "Pointsbet")
     
     # Write to csv
-    write_csv(pointsbet_h2h, "Data/scraped_odds/pointsbet_h2h.csv")
+    write_csv(pointsbet_h2h, "Data/scraped_odds/EPL/pointsbet_h2h.csv")
     
     #===============================================================================
     # Player Props
@@ -165,6 +165,7 @@ pointsbet_h2h_main <- function() {
         outcome_names <- c()
         outcome_types <- c()
         outcome_prices <- c()
+        headers <- c()
         event_key <- c()
         market_key <- c()
         outcome_key <- c()
@@ -187,6 +188,12 @@ pointsbet_h2h_main <- function() {
                     outcome_names <- c(outcome_names, NA)
                 }
                 
+                if (!is.null(outcome$groupByHeader)) {
+                    headers <- c(headers, outcome$groupByHeader)
+                } else {
+                    headers <- c(headers, NA)
+                }
+
                 if (!is.null(outcome$outcomeType)) {
                     outcome_types <- c(outcome_types, outcome$outcomeType)
                 } else {
@@ -219,6 +226,7 @@ pointsbet_h2h_main <- function() {
         tibble(
             match = match_names,
             market = market_names,
+            headers = headers,
             outcome = outcome_names,
             outcome_type = outcome_types,
             price = outcome_prices,
@@ -232,17 +240,16 @@ pointsbet_h2h_main <- function() {
     pointsbet_data_player_props <- map_df(match_urls, get_player_props)
     
     #===============================================================================
-    # Player Disposals
+    # Player Shots
     #===============================================================================
     
-    # Player disposals alternative totals----------------------------------------------
+    # Player Shots alternative totals-----------------------------------------------
     
-    # Filter list to player disposals
-    pointsbet_player_disposals_lines <-
+    # Filter list to player shots
+    pointsbet_player_shots_lines <-
         pointsbet_data_player_props |>
-        filter(str_detect(market, "Disposals")) |>
-        filter(str_detect(market, "To Get")) |>
-        mutate(line = str_extract(market, "[0-9]{1,2}")) |>
+        filter(str_detect(market, "PLAYER TOTAL SHOTS \\(")) |>
+        mutate(line = str_extract(outcome, "[0-9]{1,2}")) |>
         mutate(line = as.numeric(line) - 0.5) |>
         separate(
             match,
@@ -253,154 +260,36 @@ pointsbet_h2h_main <- function() {
         mutate(home_team = fix_team_names(home_team),
                away_team = fix_team_names(away_team)) |>
         mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            outcome = case_when(
-                outcome == "Lebron James" ~ "LeBron James",
-                .default = outcome
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("outcome" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
+        mutate(player_name = str_remove_all(outcome, " To Have.*")) |> 
+        left_join(epl_squads) |> 
+        mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
         transmute(
             match,
             home_team,
             away_team,
-            market_name = "Player Disposals",
-            player_name = outcome,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Player disposals over / under----------------------------------------------------
-    
-    # Filter list to player disposals over under
-    pointsbet_player_disposals_over_under <-
-        pointsbet_data_player_props |>
-        filter(str_detect(market, "Player Disposals Over/Under"))
-    
-    # Get Overs
-    pointsbet_player_disposals_over <-
-        pointsbet_player_disposals_over_under |>
-        filter(str_detect(outcome, "Over")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Over ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Disposals",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Get Unders
-    pointsbet_player_disposals_under <-
-        pointsbet_player_disposals_over_under |>
-        filter(str_detect(outcome, "Under")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Under ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Disposals",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            under_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey_unders = OutcomeKey
-        )
-    
-    # Combine overs and unders
-    pointsbet_player_disposals_over_under <-
-        pointsbet_player_disposals_over |>
-        left_join(pointsbet_player_disposals_under) |>
-        select(
-            match,
-            home_team,
-            away_team,
-            market_name,
+            market_name = "Player Shots",
             player_name,
             player_team,
             opposition_team,
             line,
-            over_price,
-            under_price,
-            agency,
-            contains("Key")
+            over_price = price,
+            agency = "Pointsbet",
+            EventKey,
+            MarketKey,
+            OutcomeKey
         )
     
     #===============================================================================
-    # Player Fantasy Points
+    # Player Shots On Target
     #===============================================================================
     
-    # Player fantasy alternative totals----------------------------------------------
+    # Player Shots On Target alternative totals-----------------------------------------------
     
-    # Filter list to player fantasy
-    pointsbet_player_fantasy_lines <-
+    # Filter list to player shots on target
+    pointsbet_player_shots_on_target_lines <-
         pointsbet_data_player_props |>
-        filter(str_detect(market, "Fantasy")) |>
-        filter(str_detect(market, "To Get")) |>
-        mutate(line = str_extract(market, "[0-9]{1,3}")) |>
+        filter(str_detect(market, "PLAYER TOTAL SHOTS ON TARGET \\(")) |>
+        mutate(line = str_extract(outcome, "[0-9]{1,2}")) |>
         mutate(line = as.numeric(line) - 0.5) |>
         separate(
             match,
@@ -411,387 +300,76 @@ pointsbet_h2h_main <- function() {
         mutate(home_team = fix_team_names(home_team),
                away_team = fix_team_names(away_team)) |>
         mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            outcome = case_when(
-                outcome == "Lebron James" ~ "LeBron James",
-                .default = outcome
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("outcome" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
+        mutate(player_name = str_remove_all(outcome, " To Have.*")) |> 
+        left_join(epl_squads) |> 
+        mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
         transmute(
             match,
             home_team,
             away_team,
-            market_name = "Player Fantasy",
-            player_name = outcome,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Player fantasy over / under----------------------------------------------------
-    
-    # Filter list to player fantasy over under
-    pointsbet_player_fantasy_over_under <-
-        pointsbet_data_player_props |>
-        filter(str_detect(market, "Player Fantasy Over/Under"))
-    
-    # Get Overs
-    pointsbet_player_fantasy_over <-
-        pointsbet_player_fantasy_over_under |>
-        filter(str_detect(outcome, "Over")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Over ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Fantasy",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Get Unders
-    pointsbet_player_fantasy_under <-
-        pointsbet_player_fantasy_over_under |>
-        filter(str_detect(outcome, "Under")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Under ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Fantasy",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            under_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey_unders = OutcomeKey
-        )
-    
-    # Combine overs and unders
-    pointsbet_player_fantasy_over_under <-
-        pointsbet_player_fantasy_over |>
-        left_join(pointsbet_player_fantasy_under) |>
-        select(
-            match,
-            home_team,
-            away_team,
-            market_name,
+            market_name = "Player Shots On Target",
             player_name,
             player_team,
             opposition_team,
             line,
-            over_price,
-            under_price,
-            agency,
-            contains("Key")
+            over_price = price,
+            agency = "Pointsbet",
+            EventKey,
+            MarketKey,
+            OutcomeKey
         )
     
     #===============================================================================
     # Player Goals
     #===============================================================================
     
-    # Player goals alternative totals----------------------------------------------
-    
+    # Player Goals Alternative Lines------------------------------------------------
     # Filter list to player goals
-    pointsbet_player_goals_lines <-
-        pointsbet_data_player_props |>
-        mutate(market = ifelse(str_detect(market,"Anytime Goalscorer"), "To Kick 1+ Goals", market)) |>
-        filter(str_detect(market, "^To Kick \\d+\\+ Goals")) |>
-        mutate(line = str_extract(market, "[0-9]{1,2}")) |>
-        mutate(line = as.numeric(line) - 0.5) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        mutate(
-            outcome = case_when(
-                outcome == "Lebron James" ~ "LeBron James",
-                .default = outcome
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("outcome" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Goals",
-            player_name = outcome,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Player goals over / under----------------------------------------------------
-    
-    # Filter list to player goals over under
-    pointsbet_player_goals_over_under <-
-        pointsbet_data_player_props |>
-        filter(str_detect(market, "Player Goals Over/Under"))
-    
-    # Get Overs
-    pointsbet_player_goals_over <-
-        pointsbet_player_goals_over_under |>
-        filter(str_detect(outcome, "Over")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Over ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Goals",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    # Get Unders
-    pointsbet_player_goals_under <-
-        pointsbet_player_goals_over_under |>
-        filter(str_detect(outcome, "Under")) |>
-        mutate(player_name = outcome) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " Under ") |>
-        mutate(line = as.numeric(line)) |>
-        mutate(match = str_replace(match, "@", "v")) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(
-            player_name = case_when(
-                player_name == "Lebron James" ~ "LeBron James",
-                .default = player_name
-            )
-        ) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Goals",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            under_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey_unders = OutcomeKey
-        )
-    
-    # Combine overs and unders
-    pointsbet_player_goals_over_under <-
-        pointsbet_player_goals_over |>
-        left_join(pointsbet_player_goals_under) |>
-        select(
-            match,
-            home_team,
-            away_team,
-            market_name,
-            player_name,
-            player_team,
-            opposition_team,
-            line,
-            over_price,
-            under_price,
-            agency,
-            contains("Key")
-        )
-    
-    #===============================================================================
-    # Player Marks
-    #===============================================================================
-    
-    # Player marks alternative totals----------------------------------------------
-    
-    # Filter list to player marks
-    pointsbet_player_marks_lines <-
-        pointsbet_data_player_props |>
-        filter(str_detect(market, "Pick Your Own Marks")) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " To Take ") |> 
-        mutate(line = str_extract(line, "[0-9]{1,2}")) |>
-        mutate(line = as.numeric(line) - 0.5) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Marks",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
-    #===============================================================================
-    # Player Tackles
-    #===============================================================================
-    
-    # Player tackles alternative totals----------------------------------------------
-    
-    # Filter list to player tackles
-    pointsbet_player_tackles_lines <-
-        pointsbet_data_player_props |>
-        filter(str_detect(market, "Pick Your Own Tackles")) |>
-        separate(outcome,
-                 into = c("player_name", "line"),
-                 sep = " To Record ") |> 
-        mutate(line = str_extract(line, "[0-9]{1,2}")) |>
-        mutate(line = as.numeric(line) - 0.5) |>
-        separate(
-            match,
-            into = c("home_team", "away_team"),
-            sep = " v ",
-            remove = FALSE
-        ) |>
-        mutate(home_team = fix_team_names(home_team),
-               away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, "v", away_team)) |>
-        left_join(player_names[, c("player_full_name", "team_name")], by = c("player_name" = "player_full_name")) |>
-        mutate(opposition_team = if_else(home_team == team_name, away_team, home_team)) |>
-        transmute(
-            match,
-            home_team,
-            away_team,
-            market_name = "Player Tackles",
-            player_name,
-            player_team = team_name,
-            opposition_team,
-            line,
-            over_price = price,
-            agency = "Pointsbet",
-            EventKey,
-            MarketKey,
-            OutcomeKey
-        )
-    
+    pointsbet_player_goals <-
+    pointsbet_data_player_props |>
+    filter(str_detect(market, "ANYTIME GOALSCORER|TO SCORE 2\\+|HAT-TRICK")) |> 
+    mutate(line = str_extract(outcome, "[0-9]{1,2}")) |>
+    mutate(line = case_when(
+        str_detect(market, "TO SCORE 2") ~ 1.5,
+        str_detect(market, "HAT-TRICK") ~ 2.5,
+        TRUE ~ 0.5
+    )) |> 
+    separate(
+        match,
+        into = c("home_team", "away_team"),
+        sep = " v ",
+        remove = FALSE
+    ) |>
+    mutate(home_team = fix_team_names(home_team),
+           away_team = fix_team_names(away_team)) |>
+    mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(player_name = str_remove_all(outcome, " To Have.*")) |> 
+    left_join(epl_squads) |> 
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Goals",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency = "Pointsbet",
+        EventKey,
+        MarketKey,
+        OutcomeKey
+    )
+
     #===============================================================================
     # Write to CSV
     #===============================================================================
     
-    # Disposals
-    pointsbet_player_disposals_lines |>
-        bind_rows(pointsbet_player_disposals_over_under) |>
+    # Shots
+    pointsbet_player_shots_lines |>
         mutate(match = paste(home_team, away_team, sep = " v ")) |>
-        select(
+        select(any_of(c(
             "match",
             "home_team",
             "away_team",
@@ -807,106 +385,9 @@ pointsbet_h2h_main <- function() {
             "MarketKey",
             "OutcomeKey",
             "OutcomeKey_unders"
-        ) |>
-        mutate(market_name = "Player Disposals") |>
+        ))) |>
         mutate(agency = "Pointsbet") |>
-        write_csv("Data/scraped_odds/pointsbet_player_disposals.csv")
-    
-    # Goals
-    pointsbet_player_goals_lines |>
-        bind_rows(pointsbet_player_goals_over_under) |>
-        mutate(match = paste(home_team, away_team, sep = " v ")) |>
-        select(
-            "match",
-            "home_team",
-            "away_team",
-            "market_name",
-            "player_name",
-            "player_team",
-            "line",
-            "over_price",
-            "under_price",
-            "agency",
-            "opposition_team",
-            "EventKey",
-            "MarketKey",
-            "OutcomeKey",
-            "OutcomeKey_unders"
-        ) |>
-        mutate(market_name = "Player Goals") |>
-        mutate(agency = "Pointsbet") |>
-        write_csv("Data/scraped_odds/pointsbet_player_goals.csv")
-    
-    # Fantasy Points
-    pointsbet_player_fantasy_lines |>
-        bind_rows(pointsbet_player_fantasy_over_under) |>
-        mutate(home_team = fix_team_names(home_team)) |>
-        mutate(away_team = fix_team_names(away_team)) |>
-        mutate(match = paste(home_team, away_team, sep = " v ")) |>
-        select(
-            "match",
-            "home_team",
-            "away_team",
-            "market_name",
-            "player_name",
-            "player_team",
-            "line",
-            "over_price",
-            "under_price",
-            "agency",
-            "opposition_team",
-            "EventKey",
-            "MarketKey",
-            "OutcomeKey",
-            "OutcomeKey_unders"
-        ) |>
-        mutate(market_name = "Player Fantasy Points") |>
-        mutate(agency = "Pointsbet") |>
-        write_csv("Data/scraped_odds/pointsbet_player_fantasy_points.csv")
-    
-    # Tackles
-    pointsbet_player_tackles_lines |>
-        mutate(match = paste(home_team, away_team, sep = " v ")) |>
-        select(
-            "match",
-            "home_team",
-            "away_team",
-            "market_name",
-            "player_name",
-            "player_team",
-            "line",
-            "over_price",
-            "agency",
-            "opposition_team",
-            "EventKey",
-            "MarketKey",
-            "OutcomeKey",
-        ) |>
-        mutate(market_name = "Player Tackles") |>
-        mutate(agency = "Pointsbet") |>
-        write_csv("Data/scraped_odds/pointsbet_player_tackles.csv")
-    
-    # Marks
-    pointsbet_player_marks_lines |>
-        mutate(match = paste(home_team, away_team, sep = " v ")) |>
-        select(
-            "match",
-            "home_team",
-            "away_team",
-            "market_name",
-            "player_name",
-            "player_team",
-            "line",
-            "over_price",
-            "agency",
-            "opposition_team",
-            "EventKey",
-            "MarketKey",
-            "OutcomeKey",
-        ) |>
-        mutate(market_name = "Player Marks") |>
-        mutate(agency = "Pointsbet") |>
-        write_csv("Data/scraped_odds/pointsbet_player_marks.csv")
+        write_csv("Data/scraped_odds/EPL/pointsbet_player_shots.csv")
 }
 
 ##%######################################################%##
