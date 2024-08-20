@@ -17,6 +17,7 @@ run_scraping <- function(script_name) {
 # Run all odds scraping scripts
 run_scraping("OddsScraper/EPL/scrape_TAB_EPL.R")
 run_scraping("OddsScraper/EPL/scrape_Sportsbet_EPL.R")
+run_scraping("OddsScraper/EPL/scrape_pointsbet_EPL.R")
 
 #===============================================================================
 # Read in all H2H
@@ -35,42 +36,11 @@ h2h_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match) |> 
-    select(-start_time)
+    select(-start_time) |> 
+    select(match:agency)
 
-# Best Home Win
-best_home_win <-
-    h2h_data |> 
-    group_by(match) |> 
-    arrange(match, desc(home_win)) |> 
-    slice_head(n = 1) |> 
-    select(-away_win, -draw, -margin) |> 
-    rename(home_agency = agency)
-
-# Best Draw
-best_draw <-
-    h2h_data |> 
-    group_by(match) |> 
-    arrange(match, desc(draw)) |> 
-    slice_head(n = 1) |> 
-    select(-home_win, -away_win, -margin) |> 
-    rename(draw_agency = agency)
-
-# Best Away Win
-best_away_win <-
-    h2h_data |> 
-    group_by(match) |>
-    arrange(match, desc(away_win)) |>
-    slice_head(n = 1) |>
-    select(-home_win, -margin, -draw) |>
-    rename(away_agency = agency)
-
-# Combine
-best_h2h <-
-    best_home_win |> 
-    inner_join(best_draw) |>
-    inner_join(best_away_win) |> 
-    mutate(margin = 100*(round(1/home_win + 1/draw + 1/away_win, 3) - 1)) |> 
-    arrange(margin)
+# Write out
+write_rds(h2h_data, "Data/processed_odds/h2h_data.rds")
 
 #===============================================================================
 # Both Teams To Score
@@ -92,32 +62,8 @@ btts_data <-
     select(-start_time) |> 
     select(match:agency)
 
-# Get Best Yes Price
-best_yes_price <-
-    btts_data |> 
-    group_by(match) |> 
-    arrange(match, desc(yes_price)) |> 
-    slice_head(n = 1) |> 
-    select(-no_price) |> 
-    rename(yes_agency = agency) |> 
-    select(match:yes_agency)
-
-# Get Best No Price
-best_no_price <-
-    btts_data |> 
-    group_by(match) |> 
-    arrange(match, desc(no_price)) |> 
-    slice_head(n = 1) |> 
-    select(-yes_price) |> 
-    rename(no_agency = agency) |> 
-    select(match:no_agency)
-
-# Combine
-best_btts <-
-    best_yes_price |> 
-    inner_join(best_no_price) |> 
-    mutate(margin = 100*(round(1/yes_price + 1/no_price, 3) - 1)) |> 
-    arrange(margin)
+# Write out
+write_rds(btts_data, "Data/processed_odds/btts_data.rds")
 
 #===============================================================================
 # Player Goals
@@ -136,7 +82,11 @@ player_goals_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
-    select(-start_time)
+    select(-start_time) |> 
+    select(match:agency)
+
+# Write out
+write_rds(player_goals_data, "Data/processed_odds/player_goals_data.rds")
 
 #===============================================================================
 # Total Goals
@@ -159,34 +109,11 @@ total_goals_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, line, desc(over_price)) |> 
-    select(-start_time)
+    select(-start_time) |> 
+    select(match:agency)
 
-# Get best overs
-best_overs <-
-    total_goals_data |> 
-    group_by(match, line) |> 
-    arrange(match, desc(over_price)) |> 
-    slice_head(n = 1) |> 
-    select(-under_price) |> 
-    rename(over_agency = agency) |> 
-    select(match:over_agency)
-
-# Get best unders
-best_unders <-
-    total_goals_data |> 
-    group_by(match, line) |> 
-    arrange(match, line, desc(under_price)) |> 
-    slice_head(n = 1) |> 
-    select(-over_price) |> 
-    rename(under_agency = agency) |> 
-    select(match:under_agency)
-
-# Combine
-best_total_goals <-
-    best_overs |> 
-    inner_join(best_unders) |> 
-    mutate(margin = 100*(round(1/over_price + 1/under_price, 3) - 1)) |> 
-    arrange(margin)
+# Write out
+write_rds(total_goals_data, "Data/processed_odds/total_goals_data.rds")
 
 #===============================================================================
 # Team Goals
@@ -205,31 +132,8 @@ team_goals_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, team, line, desc(over_price)) |> 
-    select(-start_time)
+    select(-start_time) |> 
+    select(match:agency)
 
-# Get best overs
-best_team_overs <-
-    team_goals_data |> 
-    group_by(match, team, line) |> 
-    arrange(match, team, desc(over_price)) |> 
-    slice_head(n = 1) |> 
-    select(-under_price) |> 
-    rename(over_agency = agency) |> 
-    select(match:over_agency)
-
-# Get best unders
-best_team_unders <-
-    team_goals_data |> 
-    group_by(match, team, line) |> 
-    arrange(match, team, line, desc(under_price)) |> 
-    slice_head(n = 1) |> 
-    select(-over_price) |> 
-    rename(under_agency = agency) |> 
-    select(match:under_agency)
-
-# Combine
-best_team_goals <-
-    best_team_overs |> 
-    inner_join(best_team_unders) |> 
-    mutate(margin = 100*(round(1/over_price + 1/under_price, 3) - 1)) |> 
-    arrange(margin)
+# Write out
+write_rds(team_goals_data, "Data/processed_odds/team_goals_data.rds")

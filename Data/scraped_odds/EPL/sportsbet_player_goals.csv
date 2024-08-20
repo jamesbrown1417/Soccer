@@ -1,376 +1,508 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,agency,class_external_id,competition_external_id,event_external_id,market_id,player_id
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ivan Toney,Brentford,Crystal Palace,0.5,2.88,Sportsbet,49,289,12309937,439584017,1961379220
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Bryan Mbeumo,Brentford,Crystal Palace,0.5,3.25,Sportsbet,49,289,12309937,439584017,1961379215
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Fábio Carvalho,Brentford,Crystal Palace,0.5,3.6,Sportsbet,49,289,12309937,439584017,1961379218
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kevin Schade,Brentford,Crystal Palace,0.5,3.6,Sportsbet,49,289,12309937,439584017,1961379222
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yoane Wissa,Brentford,Crystal Palace,0.5,3.75,Sportsbet,49,289,12309937,439584017,1961379234
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Keane Lewis-Potter,Brentford,Crystal Palace,0.5,4.5,Sportsbet,49,289,12309937,439584017,1961379221
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Myles Peart-Harris,Brentford,Crystal Palace,0.5,5.5,Sportsbet,49,289,12309937,439584017,1961379229
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mikkel Damsgaard,Brentford,Crystal Palace,0.5,7,Sportsbet,49,289,12309937,439584017,1961379228
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ryan Trevitt,Brentford,Crystal Palace,0.5,7.5,Sportsbet,49,289,12309937,439584017,1961379231
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yegor Yarmolyuk,Brentford,Crystal Palace,0.5,7.5,Sportsbet,49,289,12309937,439584017,1961379233
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mathias Jensen,Brentford,Crystal Palace,0.5,9,Sportsbet,49,289,12309937,439584017,1961379226
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Frank Onyeka,Brentford,Crystal Palace,0.5,10,Sportsbet,49,289,12309937,439584017,1961379219
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Vitaly Janelt,Brentford,Crystal Palace,0.5,10,Sportsbet,49,289,12309937,439584017,1961379232
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ben Mee,Brentford,Crystal Palace,0.5,11,Sportsbet,49,289,12309937,439584017,1961379214
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Christian Nørgaard,Brentford,Crystal Palace,0.5,12,Sportsbet,49,289,12309937,439584017,1961379216
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathan Collins,Brentford,Crystal Palace,0.5,13,Sportsbet,49,289,12309937,439584017,1961379230
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yunus Konak,NA,NA,0.5,13,Sportsbet,49,289,12309937,439584017,1961379235
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ethan Pinnock,Brentford,Crystal Palace,0.5,15,Sportsbet,49,289,12309937,439584017,1961379217
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kristoffer Ajer,Brentford,Crystal Palace,0.5,15,Sportsbet,49,289,12309937,439584017,1961379224
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mads Roerslev,Brentford,Crystal Palace,0.5,17,Sportsbet,49,289,12309937,439584017,1961379225
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ji-soo Kim,Brentford,Crystal Palace,0.5,18,Sportsbet,49,289,12309937,439584017,1961379223
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Eberechi Eze,Crystal Palace,Brentford,0.5,3.75,Sportsbet,49,289,12309937,439584017,1961379242
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jean-Philippe Mateta,Crystal Palace,Brentford,0.5,3.3,Sportsbet,49,289,12309937,439584017,1961379244
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Odsonne Edouard,Crystal Palace,Brentford,0.5,3.25,Sportsbet,49,289,12309937,439584017,1961379254
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daichi Kamada,Crystal Palace,Brentford,0.5,4.5,Sportsbet,49,289,12309937,439584017,1961379240
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ismaïla Sarr,Crystal Palace,Brentford,0.5,4.33,Sportsbet,49,289,12309937,439584017,1961379243
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jordan Ayew,Crystal Palace,Brentford,0.5,4.5,Sportsbet,49,289,12309937,439584017,1961379250
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jeffrey Schlupp,Crystal Palace,Brentford,0.5,6,Sportsbet,49,289,12309937,439584017,1961379246
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Naouirou Ahamada,Crystal Palace,Brentford,0.5,8,Sportsbet,49,289,12309937,439584017,1961379252
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Will Hughes,Crystal Palace,Brentford,0.5,8,Sportsbet,49,289,12309937,439584017,1961379257
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jefferson Lerma,Crystal Palace,Brentford,0.5,9.5,Sportsbet,49,289,12309937,439584017,1961379245
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daniel Muñoz,Crystal Palace,Brentford,0.5,11,Sportsbet,49,289,12309937,439584017,1961379241
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Adam Wharton,Crystal Palace,Brentford,0.5,13,Sportsbet,49,289,12309937,439584017,1961379236
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chadi Riad,Crystal Palace,Brentford,0.5,13,Sportsbet,49,289,12309937,439584017,1961379237
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Cheick Doucouré,Crystal Palace,Brentford,0.5,15,Sportsbet,49,289,12309937,439584017,1961379238
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chris Richards,Crystal Palace,Brentford,0.5,15,Sportsbet,49,289,12309937,439584017,1961379239
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joachim Andersen,Crystal Palace,Brentford,0.5,15,Sportsbet,49,289,12309937,439584017,1961379248
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Marc Guéhi,Crystal Palace,Brentford,0.5,18,Sportsbet,49,289,12309937,439584017,1961379251
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Rob Holding,Crystal Palace,Brentford,0.5,19,Sportsbet,49,289,12309937,439584017,1961379255
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Tyrick Mitchell,Crystal Palace,Brentford,0.5,21,Sportsbet,49,289,12309937,439584017,1961379256
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joel Ward,Crystal Palace,Brentford,0.5,23,Sportsbet,49,289,12309937,439584017,1961379249
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathaniel Clyne,Crystal Palace,Brentford,0.5,26,Sportsbet,49,289,12309937,439584017,1961379253
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ivan Toney,Brentford,Crystal Palace,1.5,11,Sportsbet,49,289,12309937,439584023,1961379689
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Bryan Mbeumo,Brentford,Crystal Palace,1.5,13,Sportsbet,49,289,12309937,439584023,1961379684
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Fábio Carvalho,Brentford,Crystal Palace,1.5,17,Sportsbet,49,289,12309937,439584023,1961379687
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kevin Schade,Brentford,Crystal Palace,1.5,17,Sportsbet,49,289,12309937,439584023,1961379691
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yoane Wissa,Brentford,Crystal Palace,1.5,18,Sportsbet,49,289,12309937,439584023,1961378983
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Keane Lewis-Potter,Brentford,Crystal Palace,1.5,26,Sportsbet,49,289,12309937,439584023,1961379690
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Myles Peart-Harris,Brentford,Crystal Palace,1.5,36,Sportsbet,49,289,12309937,439584023,1961378978
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mikkel Damsgaard,Brentford,Crystal Palace,1.5,61,Sportsbet,49,289,12309937,439584023,1961378977
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ryan Trevitt,Brentford,Crystal Palace,1.5,81,Sportsbet,49,289,12309937,439584023,1961378980
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yegor Yarmolyuk,Brentford,Crystal Palace,1.5,81,Sportsbet,49,289,12309937,439584023,1961378982
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mathias Jensen,Brentford,Crystal Palace,1.5,101,Sportsbet,49,289,12309937,439584023,1961379695
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Frank Onyeka,Brentford,Crystal Palace,1.5,151,Sportsbet,49,289,12309937,439584023,1961379688
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Vitaly Janelt,Brentford,Crystal Palace,1.5,151,Sportsbet,49,289,12309937,439584023,1961378981
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ben Mee,Brentford,Crystal Palace,1.5,176,Sportsbet,49,289,12309937,439584023,1961379683
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Christian Nørgaard,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961379685
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ethan Pinnock,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961379686
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ji-soo Kim,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961379692
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kristoffer Ajer,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961379693
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mads Roerslev,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961379694
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathan Collins,Brentford,Crystal Palace,1.5,201,Sportsbet,49,289,12309937,439584023,1961378979
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yunus Konak,NA,NA,1.5,201,Sportsbet,49,289,12309937,439584023,1961378984
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Odsonne Edouard,Crystal Palace,Brentford,1.5,13,Sportsbet,49,289,12309937,439584023,1961379003
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jean-Philippe Mateta,Crystal Palace,Brentford,1.5,14,Sportsbet,49,289,12309937,439584023,1961378993
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Eberechi Eze,Crystal Palace,Brentford,1.5,18,Sportsbet,49,289,12309937,439584023,1961378991
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ismaïla Sarr,Crystal Palace,Brentford,1.5,23,Sportsbet,49,289,12309937,439584023,1961378992
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jordan Ayew,Crystal Palace,Brentford,1.5,23,Sportsbet,49,289,12309937,439584023,1961378999
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daichi Kamada,Crystal Palace,Brentford,1.5,26,Sportsbet,49,289,12309937,439584023,1961378989
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jeffrey Schlupp,Crystal Palace,Brentford,1.5,46,Sportsbet,49,289,12309937,439584023,1961378995
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Naouirou Ahamada,Crystal Palace,Brentford,1.5,91,Sportsbet,49,289,12309937,439584023,1961379001
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Will Hughes,Crystal Palace,Brentford,1.5,91,Sportsbet,49,289,12309937,439584023,1961379006
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jefferson Lerma,Crystal Palace,Brentford,1.5,126,Sportsbet,49,289,12309937,439584023,1961378994
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daniel Muñoz,Crystal Palace,Brentford,1.5,176,Sportsbet,49,289,12309937,439584023,1961378990
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Adam Wharton,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378985
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chadi Riad,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378986
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Cheick Doucouré,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378987
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chris Richards,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378988
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joachim Andersen,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378997
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joel Ward,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961378998
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Marc Guéhi,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961379000
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathaniel Clyne,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961379002
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Rob Holding,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961379004
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Tyrick Mitchell,Crystal Palace,Brentford,1.5,201,Sportsbet,49,289,12309937,439584023,1961379005
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ivan Toney,Brentford,Crystal Palace,2.5,91,Sportsbet,49,289,12309937,439584016,1961379176
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Bryan Mbeumo,Brentford,Crystal Palace,2.5,101,Sportsbet,49,289,12309937,439584016,1961379171
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kevin Schade,Brentford,Crystal Palace,2.5,151,Sportsbet,49,289,12309937,439584016,1961379178
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Fábio Carvalho,Brentford,Crystal Palace,2.5,176,Sportsbet,49,289,12309937,439584016,1961379174
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yoane Wissa,Brentford,Crystal Palace,2.5,226,Sportsbet,49,289,12309937,439584016,1961379190
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ben Mee,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379170
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Christian Nørgaard,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379172
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ethan Pinnock,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379173
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Frank Onyeka,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379175
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Keane Lewis-Potter,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379177
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ji-soo Kim,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379179
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Kristoffer Ajer,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379180
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mads Roerslev,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379181
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mathias Jensen,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379182
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Mikkel Damsgaard,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379184
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Myles Peart-Harris,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379185
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathan Collins,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379186
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ryan Trevitt,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379187
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Vitaly Janelt,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379188
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yegor Yarmolyuk,Brentford,Crystal Palace,2.5,251,Sportsbet,49,289,12309937,439584016,1961379189
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Yunus Konak,NA,NA,2.5,251,Sportsbet,49,289,12309937,439584016,1961379191
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jean-Philippe Mateta,Crystal Palace,Brentford,2.5,101,Sportsbet,49,289,12309937,439584016,1961379200
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Odsonne Edouard,Crystal Palace,Brentford,2.5,101,Sportsbet,49,289,12309937,439584016,1961379210
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Eberechi Eze,Crystal Palace,Brentford,2.5,176,Sportsbet,49,289,12309937,439584016,1961379198
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Adam Wharton,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379192
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chadi Riad,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379193
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Cheick Doucouré,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379194
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Chris Richards,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379195
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daichi Kamada,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379196
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Daniel Muñoz,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379197
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Ismaïla Sarr,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379199
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jefferson Lerma,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379201
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jeffrey Schlupp,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379202
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joachim Andersen,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379204
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Joel Ward,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379205
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Jordan Ayew,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379206
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Marc Guéhi,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379207
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Naouirou Ahamada,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379208
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Nathaniel Clyne,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379209
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Rob Holding,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379211
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Tyrick Mitchell,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379212
-Brentford v Crystal Palace,Brentford,Crystal Palace,Player Goals,Will Hughes,Crystal Palace,Brentford,2.5,251,Sportsbet,49,289,12309937,439584016,1961379213
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Christopher Nkunku,Chelsea,Manchester City,0.5,3.4,Sportsbet,49,289,12309932,439606017,1961481317
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Cole Palmer,Chelsea,Manchester City,0.5,3.2,Sportsbet,49,289,12309932,439606017,1961481318
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Guiu,Chelsea,Manchester City,0.5,3.6,Sportsbet,49,289,12309932,439606017,1961481325
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nicolas Jackson,Chelsea,Manchester City,0.5,3.75,Sportsbet,49,289,12309932,439606017,1961481328
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Raheem Sterling,Chelsea,Manchester City,0.5,4.33,Sportsbet,49,289,12309932,439606017,1961481331
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mykhaylo Mudryk,Chelsea,Manchester City,0.5,5,Sportsbet,49,289,12309932,439606017,1961481327
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Noni Madueke,Chelsea,Manchester City,0.5,5,Sportsbet,49,289,12309932,439606017,1961481329
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Pedro Neto,Chelsea,Manchester City,0.5,5.5,Sportsbet,49,289,12309932,439606017,1961481330
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Carney Chukwuemeka,Chelsea,Manchester City,0.5,6,Sportsbet,49,289,12309932,439606017,1961481316
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kiernan Dewsbury-Hall,Chelsea,Manchester City,0.5,6.5,Sportsbet,49,289,12309932,439606017,1961481320
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Enzo Fernández,Chelsea,Manchester City,0.5,7,Sportsbet,49,289,12309932,439606017,1961481319
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Ben Chilwell,Chelsea,Manchester City,0.5,12,Sportsbet,49,289,12309932,439606017,1961481314
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Roméo Lavia,Chelsea,Manchester City,0.5,12,Sportsbet,49,289,12309932,439606017,1961481333
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Moisés Caicedo,Chelsea,Manchester City,0.5,13,Sportsbet,49,289,12309932,439606017,1961481326
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Renato Veiga,Chelsea,Manchester City,0.5,14,Sportsbet,49,289,12309932,439606017,1961481332
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Axel Disasi,Chelsea,Manchester City,0.5,15,Sportsbet,49,289,12309932,439606017,1961481313
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Benoît Badiashile,Chelsea,Manchester City,0.5,15,Sportsbet,49,289,12309932,439606017,1961481315
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Tosin Adarabioyo,Chelsea,Manchester City,0.5,17,Sportsbet,49,289,12309932,439606017,1961481334
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Wesley Fofana,Chelsea,Manchester City,0.5,17,Sportsbet,49,289,12309932,439606017,1961481335
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Levi Colwill,Chelsea,Manchester City,0.5,19,Sportsbet,49,289,12309932,439606017,1961481322
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Cucurella,Chelsea,Manchester City,0.5,21,Sportsbet,49,289,12309932,439606017,1961481324
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Malo Gusto,Chelsea,Manchester City,0.5,23,Sportsbet,49,289,12309932,439606017,1961481323
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Erling Haaland,Manchester City,Chelsea,0.5,2,Sportsbet,49,289,12309932,439606017,1961481337
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Phil Foden,Manchester City,Chelsea,0.5,3,Sportsbet,49,289,12309932,439606017,1961481354
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jack Grealish,Manchester City,Chelsea,0.5,4.5,Sportsbet,49,289,12309932,439606017,1961481339
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,James McAtee,Manchester City,Chelsea,0.5,4.33,Sportsbet,49,289,12309932,439606017,1961481340
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jérémy Doku,Manchester City,Chelsea,0.5,4,Sportsbet,49,289,12309932,439606017,1961481341
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kevin De Bruyne,Manchester City,Chelsea,0.5,4.2,Sportsbet,49,289,12309932,439606017,1961481345
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nico O'Reilly,Manchester City,Chelsea,0.5,4.5,Sportsbet,49,289,12309932,439606017,1961481352
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Savinho,Manchester City,Chelsea,0.5,4,Sportsbet,49,289,12309932,439606017,1961481358
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Bernardo Silva,Manchester City,Chelsea,0.5,5.5,Sportsbet,49,289,12309932,439606017,1961481336
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Máximo Perrone,Manchester City,Chelsea,0.5,6.5,Sportsbet,49,289,12309932,439606017,1961481350
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mateo Kovacic,Manchester City,Chelsea,0.5,7.5,Sportsbet,49,289,12309932,439606017,1961481348
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Matheus Nunes,Manchester City,Chelsea,0.5,7,Sportsbet,49,289,12309932,439606017,1961481349
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Josko Gvardiol,Manchester City,Chelsea,0.5,10,Sportsbet,49,289,12309932,439606017,1961481343
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Issa Kaboré,Manchester City,Chelsea,0.5,11,Sportsbet,49,289,12309932,439606017,1961481338
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nathan Aké,Manchester City,Chelsea,0.5,11,Sportsbet,49,289,12309932,439606017,1961481351
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Manuel Akanji,Manchester City,Chelsea,0.5,12,Sportsbet,49,289,12309932,439606017,1961481347
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,John Stones,Manchester City,Chelsea,0.5,13,Sportsbet,49,289,12309932,439606017,1961481342
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rico Lewis,Manchester City,Chelsea,0.5,15,Sportsbet,49,289,12309932,439606017,1961481355
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rúben Dias,Manchester City,Chelsea,0.5,15,Sportsbet,49,289,12309932,439606017,1961481357
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kyle Walker,Manchester City,Chelsea,0.5,23,Sportsbet,49,289,12309932,439606017,1961481346
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Cole Palmer,Chelsea,Manchester City,1.5,13,Sportsbet,49,289,12309932,439606025,1961481092
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Christopher Nkunku,Chelsea,Manchester City,1.5,14,Sportsbet,49,289,12309932,439606025,1961481091
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Guiu,Chelsea,Manchester City,1.5,17,Sportsbet,49,289,12309932,439606025,1961481099
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nicolas Jackson,Chelsea,Manchester City,1.5,18,Sportsbet,49,289,12309932,439606025,1961481102
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Raheem Sterling,Chelsea,Manchester City,1.5,23,Sportsbet,49,289,12309932,439606025,1961481105
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mykhaylo Mudryk,Chelsea,Manchester City,1.5,36,Sportsbet,49,289,12309932,439606025,1961481101
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Noni Madueke,Chelsea,Manchester City,1.5,36,Sportsbet,49,289,12309932,439606025,1961481103
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Pedro Neto,Chelsea,Manchester City,1.5,36,Sportsbet,49,289,12309932,439606025,1961481104
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Carney Chukwuemeka,Chelsea,Manchester City,1.5,41,Sportsbet,49,289,12309932,439606025,1961481090
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kiernan Dewsbury-Hall,Chelsea,Manchester City,1.5,51,Sportsbet,49,289,12309932,439606025,1961481094
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Enzo Fernández,Chelsea,Manchester City,1.5,61,Sportsbet,49,289,12309932,439606025,1961481093
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Ben Chilwell,Chelsea,Manchester City,1.5,176,Sportsbet,49,289,12309932,439606025,1961481088
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Axel Disasi,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481087
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Benoît Badiashile,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481089
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Levi Colwill,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481096
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Malo Gusto,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481097
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Cucurella,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481098
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Moisés Caicedo,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481100
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Renato Veiga,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481106
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Roméo Lavia,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481107
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Tosin Adarabioyo,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481108
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Wesley Fofana,Chelsea,Manchester City,1.5,201,Sportsbet,49,289,12309932,439606025,1961481109
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Erling Haaland,Manchester City,Chelsea,1.5,5.5,Sportsbet,49,289,12309932,439606025,1961481111
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Phil Foden,Manchester City,Chelsea,1.5,12,Sportsbet,49,289,12309932,439606025,1961481128
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jérémy Doku,Manchester City,Chelsea,1.5,21,Sportsbet,49,289,12309932,439606025,1961481115
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Savinho,Manchester City,Chelsea,1.5,21,Sportsbet,49,289,12309932,439606025,1961481132
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,James McAtee,Manchester City,Chelsea,1.5,23,Sportsbet,49,289,12309932,439606025,1961481114
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kevin De Bruyne,Manchester City,Chelsea,1.5,23,Sportsbet,49,289,12309932,439606025,1961481119
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nico O'Reilly,Manchester City,Chelsea,1.5,26,Sportsbet,49,289,12309932,439606025,1961481126
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jack Grealish,Manchester City,Chelsea,1.5,31,Sportsbet,49,289,12309932,439606025,1961481113
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Bernardo Silva,Manchester City,Chelsea,1.5,46,Sportsbet,49,289,12309932,439606025,1961481110
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Máximo Perrone,Manchester City,Chelsea,1.5,56,Sportsbet,49,289,12309932,439606025,1961481124
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Matheus Nunes,Manchester City,Chelsea,1.5,61,Sportsbet,49,289,12309932,439606025,1961481123
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mateo Kovacic,Manchester City,Chelsea,1.5,81,Sportsbet,49,289,12309932,439606025,1961481122
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Josko Gvardiol,Manchester City,Chelsea,1.5,126,Sportsbet,49,289,12309932,439606025,1961481117
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Issa Kaboré,Manchester City,Chelsea,1.5,151,Sportsbet,49,289,12309932,439606025,1961481112
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,John Stones,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481116
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kyle Walker,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481120
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Manuel Akanji,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481121
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nathan Aké,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481125
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rico Lewis,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481129
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rúben Dias,Manchester City,Chelsea,1.5,201,Sportsbet,49,289,12309932,439606025,1961481131
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Cole Palmer,Chelsea,Manchester City,2.5,101,Sportsbet,49,289,12309932,439606019,1961481411
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Christopher Nkunku,Chelsea,Manchester City,2.5,126,Sportsbet,49,289,12309932,439606019,1961481410
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Guiu,Chelsea,Manchester City,2.5,176,Sportsbet,49,289,12309932,439606019,1961481418
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nicolas Jackson,Chelsea,Manchester City,2.5,176,Sportsbet,49,289,12309932,439606019,1961481421
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Axel Disasi,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481406
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Ben Chilwell,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481407
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Benoît Badiashile,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481408
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Carney Chukwuemeka,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481409
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Enzo Fernández,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481412
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kiernan Dewsbury-Hall,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481413
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Levi Colwill,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481415
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Malo Gusto,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481416
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Marc Cucurella,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481417
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Moisés Caicedo,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481419
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mykhaylo Mudryk,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481420
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Noni Madueke,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481422
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Pedro Neto,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481423
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Raheem Sterling,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481424
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Renato Veiga,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481425
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Roméo Lavia,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481426
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Tosin Adarabioyo,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481427
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Wesley Fofana,Chelsea,Manchester City,2.5,251,Sportsbet,49,289,12309932,439606019,1961481428
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Erling Haaland,Manchester City,Chelsea,2.5,23,Sportsbet,49,289,12309932,439606019,1961481430
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Phil Foden,Manchester City,Chelsea,2.5,91,Sportsbet,49,289,12309932,439606019,1961481447
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Bernardo Silva,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481429
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Issa Kaboré,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481431
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jack Grealish,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481432
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,James McAtee,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481433
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Jérémy Doku,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481434
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,John Stones,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481435
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Josko Gvardiol,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481436
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kevin De Bruyne,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481438
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Kyle Walker,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481439
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Manuel Akanji,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481440
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Mateo Kovacic,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481441
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Matheus Nunes,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481442
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Máximo Perrone,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481443
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nathan Aké,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481444
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Nico O'Reilly,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481445
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rico Lewis,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481448
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Rúben Dias,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481450
-Chelsea v Manchester City,Chelsea,Manchester City,Player Goals,Savinho,Manchester City,Chelsea,2.5,251,Sportsbet,49,289,12309932,439606019,1961481451
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Stephy Mavididi,Leicester City,Tottenham Hotspur,0.5,4.2,Sportsbet,49,289,12309967,439670626,1961779498
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Tom Cannon,Leicester City,Tottenham Hotspur,0.5,4.5,Sportsbet,49,289,12309967,439670626,1961779499
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Bobby De Cordova-Reid,Leicester City,Tottenham Hotspur,0.5,5,Sportsbet,49,289,12309967,439670626,1961779486
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Facundo Buonanotte,Leicester City,Tottenham Hotspur,0.5,5.5,Sportsbet,49,289,12309967,439670626,1961779489
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Kasey McAteer,Leicester City,Tottenham Hotspur,0.5,5.5,Sportsbet,49,289,12309967,439670626,1961779495
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wanya Marçal,Leicester City,Tottenham Hotspur,0.5,5,Sportsbet,49,289,12309967,439670626,1961779501
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Issahaku Fatawu,Leicester City,Tottenham Hotspur,0.5,6,Sportsbet,49,289,12309967,439670626,1961779492
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Will Alves,NA,NA,0.5,8.5,Sportsbet,49,289,12309967,439670626,1961779503
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Harry Winks,Leicester City,Tottenham Hotspur,0.5,10,Sportsbet,49,289,12309967,439670626,1961779491
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ricardo Pereira,Leicester City,Tottenham Hotspur,0.5,13,Sportsbet,49,289,12309967,439670626,1961779497
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilfred Ndidi,Leicester City,Tottenham Hotspur,0.5,13,Sportsbet,49,289,12309967,439670626,1961779502
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Justin,Leicester City,Tottenham Hotspur,0.5,14,Sportsbet,49,289,12309967,439670626,1961779493
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Hamza Choudhury,Leicester City,Tottenham Hotspur,0.5,15,Sportsbet,49,289,12309967,439670626,1961779490
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Jannik Vestergaard,Leicester City,Tottenham Hotspur,0.5,15,Sportsbet,49,289,12309967,439670626,1961779494
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wout Faes,Leicester City,Tottenham Hotspur,0.5,17,Sportsbet,49,289,12309967,439670626,1961779504
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Boubakary Soumaré,Leicester City,Tottenham Hotspur,0.5,20,Sportsbet,49,289,12309967,439670626,1961779487
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Nelson,NA,NA,0.5,21,Sportsbet,49,289,12309967,439670626,1961779485
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Victor Kristiansen,Leicester City,Tottenham Hotspur,0.5,21,Sportsbet,49,289,12309967,439670626,1961779500
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Caleb Okoli,Leicester City,Tottenham Hotspur,0.5,26,Sportsbet,49,289,12309967,439670626,1961779488
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dominic Solanke,Tottenham Hotspur,Leicester City,0.5,2.25,Sportsbet,49,289,12309967,439670626,1961779512
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Leicester City,0.5,2.4,Sportsbet,49,289,12309967,439670626,1963682301
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Heung-min Son,Tottenham Hotspur,Leicester City,0.5,2.4,Sportsbet,49,289,12309967,439670626,1961779513
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Leicester City,0.5,2.88,Sportsbet,49,289,12309967,439670626,1961779524
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Leicester City,0.5,3.4,Sportsbet,49,289,12309967,439670626,1961779507
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Leicester City,0.5,3.75,Sportsbet,49,289,12309967,439670626,1961779514
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Manor Solomon,Tottenham Hotspur,Leicester City,0.5,3.3,Sportsbet,49,289,12309967,439670626,1961779516
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Mikey Moore,NA,NA,0.5,3.1,Sportsbet,49,289,12309967,439670626,1961779518
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Leicester City,0.5,3.2,Sportsbet,49,289,12309967,439670626,1963062274
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Leicester City,0.5,4.33,Sportsbet,49,289,12309967,439670626,1961779509
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Leicester City,0.5,4.33,Sportsbet,49,289,12309967,439670626,1961779515
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Leicester City,0.5,6.5,Sportsbet,49,289,12309967,439670626,1961779520
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Leicester City,0.5,6.5,Sportsbet,49,289,12309967,439670626,1961779523
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Leicester City,0.5,7.5,Sportsbet,49,289,12309967,439670626,1961779505
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Leicester City,0.5,7.5,Sportsbet,49,289,12309967,439670626,1961779511
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Leicester City,0.5,7.5,Sportsbet,49,289,12309967,439670626,1961779521
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Leicester City,0.5,9,Sportsbet,49,289,12309967,439670626,1961779510
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Micky van de Ven,Tottenham Hotspur,Leicester City,0.5,10,Sportsbet,49,289,12309967,439670626,1961779517
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Oliver Skipp,Tottenham Hotspur,Leicester City,0.5,10,Sportsbet,49,289,12309967,439670626,1961779519
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Radu Drăgușin,Tottenham Hotspur,Leicester City,0.5,11,Sportsbet,49,289,12309967,439670626,1961779522
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Leicester City,0.5,12,Sportsbet,49,289,12309967,439670626,1961779506
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Leicester City,0.5,13,Sportsbet,49,289,12309967,439670626,1961779508
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Stephy Mavididi,Leicester City,Tottenham Hotspur,1.5,21,Sportsbet,49,289,12309967,439670632,1961779349
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Tom Cannon,Leicester City,Tottenham Hotspur,1.5,26,Sportsbet,49,289,12309967,439670632,1961779350
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Bobby De Cordova-Reid,Leicester City,Tottenham Hotspur,1.5,34,Sportsbet,49,289,12309967,439670632,1961779337
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wanya Marçal,Leicester City,Tottenham Hotspur,1.5,34,Sportsbet,49,289,12309967,439670632,1961779352
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Facundo Buonanotte,Leicester City,Tottenham Hotspur,1.5,46,Sportsbet,49,289,12309967,439670632,1961779340
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Kasey McAteer,Leicester City,Tottenham Hotspur,1.5,46,Sportsbet,49,289,12309967,439670632,1961779346
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Issahaku Fatawu,Leicester City,Tottenham Hotspur,1.5,51,Sportsbet,49,289,12309967,439670632,1961779343
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Will Alves,NA,NA,1.5,91,Sportsbet,49,289,12309967,439670632,1961779354
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Harry Winks,Leicester City,Tottenham Hotspur,1.5,126,Sportsbet,49,289,12309967,439670632,1961779342
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Nelson,NA,NA,1.5,201,Sportsbet,49,289,12309967,439670632,1961779336
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Boubakary Soumaré,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779338
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Caleb Okoli,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779339
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Hamza Choudhury,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779341
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Justin,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779344
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Jannik Vestergaard,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779345
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ricardo Pereira,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779348
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Victor Kristiansen,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779351
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilfred Ndidi,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779353
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wout Faes,Leicester City,Tottenham Hotspur,1.5,201,Sportsbet,49,289,12309967,439670632,1961779355
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dominic Solanke,Tottenham Hotspur,Leicester City,1.5,7,Sportsbet,49,289,12309967,439670632,1961779363
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Heung-min Son,Tottenham Hotspur,Leicester City,1.5,7.5,Sportsbet,49,289,12309967,439670632,1961779364
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Leicester City,1.5,8,Sportsbet,49,289,12309967,439670632,1963682307
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Leicester City,1.5,11,Sportsbet,49,289,12309967,439670632,1961779375
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Mikey Moore,NA,NA,1.5,12,Sportsbet,49,289,12309967,439670632,1961779369
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Leicester City,1.5,13,Sportsbet,49,289,12309967,439670632,1963062280
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Leicester City,1.5,15,Sportsbet,49,289,12309967,439670632,1961779358
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Manor Solomon,Tottenham Hotspur,Leicester City,1.5,15,Sportsbet,49,289,12309967,439670632,1961779367
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Leicester City,1.5,18,Sportsbet,49,289,12309967,439670632,1961779365
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Leicester City,1.5,23,Sportsbet,49,289,12309967,439670632,1961779360
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Leicester City,1.5,23,Sportsbet,49,289,12309967,439670632,1961779366
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Leicester City,1.5,56,Sportsbet,49,289,12309967,439670632,1961779371
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Leicester City,1.5,61,Sportsbet,49,289,12309967,439670632,1961779374
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Leicester City,1.5,67,Sportsbet,49,289,12309967,439670632,1961779372
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Leicester City,1.5,71,Sportsbet,49,289,12309967,439670632,1961779356
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Leicester City,1.5,81,Sportsbet,49,289,12309967,439670632,1961779362
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Leicester City,1.5,101,Sportsbet,49,289,12309967,439670632,1961779361
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Micky van de Ven,Tottenham Hotspur,Leicester City,1.5,151,Sportsbet,49,289,12309967,439670632,1961779368
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Leicester City,1.5,176,Sportsbet,49,289,12309967,439670632,1961779357
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Oliver Skipp,Tottenham Hotspur,Leicester City,1.5,176,Sportsbet,49,289,12309967,439670632,1961779370
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Radu Drăgușin,Tottenham Hotspur,Leicester City,1.5,176,Sportsbet,49,289,12309967,439670632,1961779373
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Leicester City,1.5,201,Sportsbet,49,289,12309967,439670632,1961779359
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Issahaku Fatawu,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779451
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Nelson,NA,NA,2.5,251,Sportsbet,49,289,12309967,439670625,1961779444
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Bobby De Cordova-Reid,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779445
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Boubakary Soumaré,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779446
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Caleb Okoli,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779447
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Facundo Buonanotte,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779448
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Hamza Choudhury,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779449
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Harry Winks,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779450
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Justin,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779452
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Jannik Vestergaard,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779453
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Kasey McAteer,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779454
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ricardo Pereira,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779456
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Stephy Mavididi,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779457
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Tom Cannon,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779458
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Victor Kristiansen,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779459
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wanya Marçal,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779460
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilfred Ndidi,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779461
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Will Alves,NA,NA,2.5,251,Sportsbet,49,289,12309967,439670625,1961779462
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wout Faes,Leicester City,Tottenham Hotspur,2.5,251,Sportsbet,49,289,12309967,439670625,1961779463
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dominic Solanke,Tottenham Hotspur,Leicester City,2.5,36,Sportsbet,49,289,12309967,439670625,1961779471
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Leicester City,2.5,41,Sportsbet,49,289,12309967,439670625,1963682300
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Heung-min Son,Tottenham Hotspur,Leicester City,2.5,41,Sportsbet,49,289,12309967,439670625,1961779472
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Leicester City,2.5,91,Sportsbet,49,289,12309967,439670625,1961779483
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Manor Solomon,Tottenham Hotspur,Leicester City,2.5,101,Sportsbet,49,289,12309967,439670625,1961779475
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Mikey Moore,NA,NA,2.5,101,Sportsbet,49,289,12309967,439670625,1961779477
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Leicester City,2.5,101,Sportsbet,49,289,12309967,439670625,1963062273
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Leicester City,2.5,126,Sportsbet,49,289,12309967,439670625,1961779466
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Leicester City,2.5,176,Sportsbet,49,289,12309967,439670625,1961779473
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779464
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779465
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779467
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779468
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779469
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779470
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779474
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Micky van de Ven,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779476
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Oliver Skipp,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779478
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779479
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779480
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Radu Drăgușin,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779481
-Leicester City v Tottenham Hotspur,Leicester City,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Leicester City,2.5,251,Sportsbet,49,289,12309967,439670625,1961779482
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,João Pedro,Brighton & Hove Albion,Manchester United,0.5,2.88,Sportsbet,49,289,12565951,440365091,1964884480
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Danny Welbeck,Brighton & Hove Albion,Manchester United,0.5,3.4,Sportsbet,49,289,12565951,440365091,1964884472
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Evan Ferguson,Brighton & Hove Albion,Manchester United,0.5,3,Sportsbet,49,289,12565951,440365091,1964884473
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Georginio Rutter,NA,NA,0.5,3.6,Sportsbet,49,289,12565951,440365091,1964884474
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mark O'Mahony,NA,NA,0.5,3.75,Sportsbet,49,289,12565951,440365091,1964884484
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Simon Adingra,Brighton & Hove Albion,Manchester United,0.5,3.75,Sportsbet,49,289,12565951,440365091,1964884487
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Brajan Gruda,Brighton & Hove Albion,Manchester United,0.5,4.33,Sportsbet,49,289,12565951,440365091,1964884470
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Manchester United,0.5,4,Sportsbet,49,289,12565951,440365091,1964884482
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Manchester United,0.5,4.33,Sportsbet,49,289,12565951,440365091,1964884690
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jeremy Sarmiento,Brighton & Hove Albion,Manchester United,0.5,5,Sportsbet,49,289,12565951,440365091,1964884479
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yasin Ayari,Brighton & Hove Albion,Manchester United,0.5,5,Sportsbet,49,289,12565951,440365091,1964884691
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jack Hinshelwood,Brighton & Hove Albion,Manchester United,0.5,7,Sportsbet,49,289,12565951,440365091,1964884476
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,James Milner,Brighton & Hove Albion,Manchester United,0.5,7.5,Sportsbet,49,289,12565951,440365091,1964884477
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mats Wieffer,Brighton & Hove Albion,Manchester United,0.5,8.5,Sportsbet,49,289,12565951,440365091,1964884485
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lewis Dunk,Brighton & Hove Albion,Manchester United,0.5,10,Sportsbet,49,289,12565951,440365091,1964884483
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Pervis Estupinan,NA,NA,0.5,10,Sportsbet,49,289,12565951,440365091,1964884486
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Valentín Barco,Brighton & Hove Albion,Manchester United,0.5,10,Sportsbet,49,289,12565951,440365091,1964884689
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Billy Gilmour,Brighton & Hove Albion,Manchester United,0.5,11,Sportsbet,49,289,12565951,440365091,1964884469
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Carlos Baleba,Brighton & Hove Albion,Manchester United,0.5,11,Sportsbet,49,289,12565951,440365091,1964884471
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Tariq Lamptey,Brighton & Hove Albion,Manchester United,0.5,13,Sportsbet,49,289,12565951,440365091,1964884488
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Adam Webster,Brighton & Hove Albion,Manchester United,0.5,15,Sportsbet,49,289,12565951,440365091,1964884468
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jan Paul van Hecke,Brighton & Hove Albion,Manchester United,0.5,15,Sportsbet,49,289,12565951,440365091,1964884478
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joël Veltman,Brighton & Hove Albion,Manchester United,0.5,18,Sportsbet,49,289,12565951,440365091,1964884481
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Igor,Brighton & Hove Albion,Manchester United,0.5,21,Sportsbet,49,289,12565951,440365091,1964884475
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Amad Diallo,Manchester United,Brighton & Hove Albion,0.5,3.75,Sportsbet,49,289,12565951,440365091,1964884693
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Brighton & Hove Albion,0.5,3.2,Sportsbet,49,289,12565951,440365091,1964884702
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Marcus Rashford,Manchester United,Brighton & Hove Albion,0.5,3.5,Sportsbet,49,289,12565951,440365091,1964884705
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Alejandro Garnacho,Manchester United,Brighton & Hove Albion,0.5,4,Sportsbet,49,289,12565951,440365091,1964884692
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Brighton & Hove Albion,0.5,4.2,Sportsbet,49,289,12565951,440365091,1964884695
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jadon Sancho,Manchester United,Brighton & Hove Albion,0.5,4.5,Sportsbet,49,289,12565951,440365091,1964884700
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Scott McTominay,Manchester United,Brighton & Hove Albion,0.5,4.33,Sportsbet,49,289,12565951,440365091,1964884709
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Antony,Manchester United,Brighton & Hove Albion,0.5,5,Sportsbet,49,289,12565951,440365091,1964884694
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mason Mount,Manchester United,Brighton & Hove Albion,0.5,5.5,Sportsbet,49,289,12565951,440365091,1964884706
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Christian Eriksen,Manchester United,Brighton & Hove Albion,0.5,8.5,Sportsbet,49,289,12565951,440365091,1964884697
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Casemiro,Manchester United,Brighton & Hove Albion,0.5,9.5,Sportsbet,49,289,12565951,440365091,1964884696
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Toby Collyer,Manchester United,Brighton & Hove Albion,0.5,9.5,Sportsbet,49,289,12565951,440365091,1964884710
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kobbie Mainoo,Manchester United,Brighton & Hove Albion,0.5,10,Sportsbet,49,289,12565951,440365091,1964884703
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Harry Maguire,Manchester United,Brighton & Hove Albion,0.5,12,Sportsbet,49,289,12565951,440365091,1964884699
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Matthijs de Ligt,Manchester United,Brighton & Hove Albion,0.5,14,Sportsbet,49,289,12565951,440365091,1964884707
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jonny Evans,Manchester United,Brighton & Hove Albion,0.5,15,Sportsbet,49,289,12565951,440365091,1964884701
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Diogo Dalot,Manchester United,Brighton & Hove Albion,0.5,17,Sportsbet,49,289,12565951,440365091,1964884698
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lisandro Martinez,NA,NA,0.5,18,Sportsbet,49,289,12565951,440365091,1964884704
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Noussair Mazraoui,Manchester United,Brighton & Hove Albion,0.5,18,Sportsbet,49,289,12565951,440365091,1964884708
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,João Pedro,Brighton & Hove Albion,Manchester United,1.5,10,Sportsbet,49,289,12565951,440365102,1964884918
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Evan Ferguson,Brighton & Hove Albion,Manchester United,1.5,11,Sportsbet,49,289,12565951,440365102,1964884911
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Danny Welbeck,Brighton & Hove Albion,Manchester United,1.5,15,Sportsbet,49,289,12565951,440365102,1964884910
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Georginio Rutter,NA,NA,1.5,17,Sportsbet,49,289,12565951,440365102,1964884912
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mark O'Mahony,NA,NA,1.5,18,Sportsbet,49,289,12565951,440365102,1964884922
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Manchester United,1.5,19,Sportsbet,49,289,12565951,440365102,1964884920
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Simon Adingra,Brighton & Hove Albion,Manchester United,1.5,20,Sportsbet,49,289,12565951,440365102,1964884925
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Brajan Gruda,Brighton & Hove Albion,Manchester United,1.5,23,Sportsbet,49,289,12565951,440365102,1964884908
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Manchester United,1.5,23,Sportsbet,49,289,12565951,440365102,1964884928
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jeremy Sarmiento,Brighton & Hove Albion,Manchester United,1.5,31,Sportsbet,49,289,12565951,440365102,1964884917
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yasin Ayari,Brighton & Hove Albion,Manchester United,1.5,36,Sportsbet,49,289,12565951,440365102,1964884929
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jack Hinshelwood,Brighton & Hove Albion,Manchester United,1.5,67,Sportsbet,49,289,12565951,440365102,1964884914
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,James Milner,Brighton & Hove Albion,Manchester United,1.5,81,Sportsbet,49,289,12565951,440365102,1964884915
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mats Wieffer,Brighton & Hove Albion,Manchester United,1.5,101,Sportsbet,49,289,12565951,440365102,1964884923
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lewis Dunk,Brighton & Hove Albion,Manchester United,1.5,151,Sportsbet,49,289,12565951,440365102,1964884921
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Pervis Estupinan,NA,NA,1.5,151,Sportsbet,49,289,12565951,440365102,1964884924
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Valentín Barco,Brighton & Hove Albion,Manchester United,1.5,151,Sportsbet,49,289,12565951,440365102,1964884927
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Adam Webster,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884906
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Billy Gilmour,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884907
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Carlos Baleba,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884909
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Igor,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884913
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jan Paul van Hecke,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884916
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joël Veltman,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884919
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Tariq Lamptey,Brighton & Hove Albion,Manchester United,1.5,201,Sportsbet,49,289,12565951,440365102,1964884926
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Brighton & Hove Albion,1.5,13,Sportsbet,49,289,12565951,440365102,1964884940
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Marcus Rashford,Manchester United,Brighton & Hove Albion,1.5,15,Sportsbet,49,289,12565951,440365102,1964884943
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Alejandro Garnacho,Manchester United,Brighton & Hove Albion,1.5,21,Sportsbet,49,289,12565951,440365102,1964884930
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Amad Diallo,Manchester United,Brighton & Hove Albion,1.5,21,Sportsbet,49,289,12565951,440365102,1964884931
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Brighton & Hove Albion,1.5,21,Sportsbet,49,289,12565951,440365102,1964884933
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jadon Sancho,Manchester United,Brighton & Hove Albion,1.5,23,Sportsbet,49,289,12565951,440365102,1964884938
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Scott McTominay,Manchester United,Brighton & Hove Albion,1.5,23,Sportsbet,49,289,12565951,440365102,1964884947
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Antony,Manchester United,Brighton & Hove Albion,1.5,31,Sportsbet,49,289,12565951,440365102,1964884932
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mason Mount,Manchester United,Brighton & Hove Albion,1.5,41,Sportsbet,49,289,12565951,440365102,1964884944
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Christian Eriksen,Manchester United,Brighton & Hove Albion,1.5,91,Sportsbet,49,289,12565951,440365102,1964884935
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Toby Collyer,Manchester United,Brighton & Hove Albion,1.5,101,Sportsbet,49,289,12565951,440365102,1964884948
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Casemiro,Manchester United,Brighton & Hove Albion,1.5,126,Sportsbet,49,289,12565951,440365102,1964884934
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kobbie Mainoo,Manchester United,Brighton & Hove Albion,1.5,126,Sportsbet,49,289,12565951,440365102,1964884941
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Diogo Dalot,Manchester United,Brighton & Hove Albion,1.5,201,Sportsbet,49,289,12565951,440365102,1964884936
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Harry Maguire,Manchester United,Brighton & Hove Albion,1.5,201,Sportsbet,49,289,12565951,440365102,1964884937
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jonny Evans,Manchester United,Brighton & Hove Albion,1.5,201,Sportsbet,49,289,12565951,440365102,1964884939
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lisandro Martinez,NA,NA,1.5,201,Sportsbet,49,289,12565951,440365102,1964884942
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Matthijs de Ligt,Manchester United,Brighton & Hove Albion,1.5,201,Sportsbet,49,289,12565951,440365102,1964884945
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Noussair Mazraoui,Manchester United,Brighton & Hove Albion,1.5,201,Sportsbet,49,289,12565951,440365102,1964884946
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Evan Ferguson,Brighton & Hove Albion,Manchester United,2.5,81,Sportsbet,49,289,12565951,440365094,1964884804
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,João Pedro,Brighton & Hove Albion,Manchester United,2.5,81,Sportsbet,49,289,12565951,440365094,1964884811
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Danny Welbeck,Brighton & Hove Albion,Manchester United,2.5,126,Sportsbet,49,289,12565951,440365094,1964884803
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Georginio Rutter,NA,NA,2.5,151,Sportsbet,49,289,12565951,440365094,1964884805
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mark O'Mahony,NA,NA,2.5,176,Sportsbet,49,289,12565951,440365094,1964884815
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Manchester United,2.5,201,Sportsbet,49,289,12565951,440365094,1964884813
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Simon Adingra,Brighton & Hove Albion,Manchester United,2.5,226,Sportsbet,49,289,12565951,440365094,1964884818
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Adam Webster,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884799
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Billy Gilmour,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884800
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Brajan Gruda,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884801
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Carlos Baleba,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884802
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Igor,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884806
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jack Hinshelwood,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884807
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,James Milner,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884808
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jan Paul van Hecke,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884809
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jeremy Sarmiento,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884810
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joël Veltman,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884812
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lewis Dunk,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884814
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mats Wieffer,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884816
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Pervis Estupinan,NA,NA,2.5,251,Sportsbet,49,289,12565951,440365094,1964884817
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Tariq Lamptey,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884819
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Valentín Barco,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884820
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884821
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Yasin Ayari,Brighton & Hove Albion,Manchester United,2.5,251,Sportsbet,49,289,12565951,440365094,1964884822
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Brighton & Hove Albion,2.5,101,Sportsbet,49,289,12565951,440365094,1964884833
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Marcus Rashford,Manchester United,Brighton & Hove Albion,2.5,101,Sportsbet,49,289,12565951,440365094,1964884836
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Alejandro Garnacho,Manchester United,Brighton & Hove Albion,2.5,226,Sportsbet,49,289,12565951,440365094,1964884823
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Brighton & Hove Albion,2.5,226,Sportsbet,49,289,12565951,440365094,1964884826
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Amad Diallo,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884824
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Antony,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884825
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Casemiro,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884827
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Christian Eriksen,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884828
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Diogo Dalot,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884829
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Harry Maguire,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884830
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jadon Sancho,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884831
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Jonny Evans,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884832
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Kobbie Mainoo,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884834
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Lisandro Martinez,NA,NA,2.5,251,Sportsbet,49,289,12565951,440365094,1964884835
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Mason Mount,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884837
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Matthijs de Ligt,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884838
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Noussair Mazraoui,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884839
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Scott McTominay,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884840
+Brighton & Hove Albion v Manchester United,Brighton & Hove Albion,Manchester United,Player Goals,Toby Collyer,Manchester United,Brighton & Hove Albion,2.5,251,Sportsbet,49,289,12565951,440365094,1964884841
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Philippe Mateta,Crystal Palace,West Ham United,0.5,2.8,Sportsbet,49,289,12565534,440365403,1964886486
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Odsonne Edouard,Crystal Palace,West Ham United,0.5,2.8,Sportsbet,49,289,12565534,440365403,1964886495
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Eberechi Eze,Crystal Palace,West Ham United,0.5,3.2,Sportsbet,49,289,12565534,440365403,1964886484
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Ismaïla Sarr,Crystal Palace,West Ham United,0.5,3.75,Sportsbet,49,289,12565534,440365403,1964886485
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jordan Ayew,Crystal Palace,West Ham United,0.5,3.75,Sportsbet,49,289,12565534,440365403,1964886491
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daichi Kamada,Crystal Palace,West Ham United,0.5,4,Sportsbet,49,289,12565534,440365403,1964886482
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jeffrey Schlupp,Crystal Palace,West Ham United,0.5,5,Sportsbet,49,289,12565534,440365403,1964886488
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Naouirou Ahamada,Crystal Palace,West Ham United,0.5,7,Sportsbet,49,289,12565534,440365403,1964886493
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Will Hughes,Crystal Palace,West Ham United,0.5,7,Sportsbet,49,289,12565534,440365403,1964886498
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jefferson Lerma,Crystal Palace,West Ham United,0.5,8,Sportsbet,49,289,12565534,440365403,1964886487
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daniel Muñoz,Crystal Palace,West Ham United,0.5,9,Sportsbet,49,289,12565534,440365403,1964886483
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Adam Wharton,Crystal Palace,West Ham United,0.5,10,Sportsbet,49,289,12565534,440365403,1964886478
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Cheick Doucouré,Crystal Palace,West Ham United,0.5,13,Sportsbet,49,289,12565534,440365403,1964886480
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chris Richards,Crystal Palace,West Ham United,0.5,13,Sportsbet,49,289,12565534,440365403,1964886481
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chadi Riad,Crystal Palace,West Ham United,0.5,14,Sportsbet,49,289,12565534,440365403,1964886479
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joachim Andersen,Crystal Palace,West Ham United,0.5,14,Sportsbet,49,289,12565534,440365403,1964886489
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Marc Guéhi,Crystal Palace,West Ham United,0.5,15,Sportsbet,49,289,12565534,440365403,1964886492
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Rob Holding,Crystal Palace,West Ham United,0.5,15,Sportsbet,49,289,12565534,440365403,1964886496
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tyrick Mitchell,Crystal Palace,West Ham United,0.5,17,Sportsbet,49,289,12565534,440365403,1964886497
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joel Ward,Crystal Palace,West Ham United,0.5,19,Sportsbet,49,289,12565534,440365403,1964886490
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nathaniel Clyne,Crystal Palace,West Ham United,0.5,21,Sportsbet,49,289,12565534,440365403,1964886494
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Danny Ings,West Ham United,Crystal Palace,0.5,3.75,Sportsbet,49,289,12565534,440365403,1964886503
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Crystal Palace,0.5,3.75,Sportsbet,49,289,12565534,440365403,1964886508
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Crystal Palace,0.5,3.75,Sportsbet,49,289,12565534,440365403,1964886518
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Crystal Palace,0.5,4.5,Sportsbet,49,289,12565534,440365403,1964886502
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Michail Antonio,West Ham United,Crystal Palace,0.5,4.2,Sportsbet,49,289,12565534,440365403,1964886515
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Crystal Palace,0.5,4.5,Sportsbet,49,289,12565534,440365403,1964886516
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Andy Irving,West Ham United,Crystal Palace,0.5,5,Sportsbet,49,289,12565534,440365403,1964886501
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,James Ward-Prowse,West Ham United,Crystal Palace,0.5,5.5,Sportsbet,49,289,12565534,440365403,1964886507
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Crystal Palace,0.5,6.5,Sportsbet,49,289,12565534,440365403,1964886512
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tomas Soucek,West Ham United,Crystal Palace,0.5,6.5,Sportsbet,49,289,12565534,440365403,1964886519
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Luis Guilherme,West Ham United,Crystal Palace,0.5,7,Sportsbet,49,289,12565534,440365403,1964886513
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Edson Álvarez,West Ham United,Crystal Palace,0.5,12,Sportsbet,49,289,12565534,440365403,1964886504
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Guido Rodríguez,West Ham United,Crystal Palace,0.5,12,Sportsbet,49,289,12565534,440365403,1964886506
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Kurt Zouma,West Ham United,Crystal Palace,0.5,13,Sportsbet,49,289,12565534,440365403,1964886511
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Emerson,West Ham United,Crystal Palace,0.5,15,Sportsbet,49,289,12565534,440365403,1964886505
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nayef Aguerd,West Ham United,Crystal Palace,0.5,15,Sportsbet,49,289,12565534,440365403,1964886517
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Max Kilman,West Ham United,Crystal Palace,0.5,17,Sportsbet,49,289,12565534,440365403,1964886514
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Konstantinos Mavropanos,West Ham United,Crystal Palace,0.5,19,Sportsbet,49,289,12565534,440365403,1964886510
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Vladimír Coufal,West Ham United,Crystal Palace,0.5,19,Sportsbet,49,289,12565534,440365403,1964886520
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Cresswell,West Ham United,Crystal Palace,0.5,20,Sportsbet,49,289,12565534,440365403,1964886499
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Clair Todibo,West Ham United,Crystal Palace,0.5,23,Sportsbet,49,289,12565534,440365403,1964886509
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Wan-Bissaka,West Ham United,Crystal Palace,0.5,31,Sportsbet,49,289,12565534,440365403,1964886500
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Philippe Mateta,Crystal Palace,West Ham United,1.5,10,Sportsbet,49,289,12565534,440365409,1964886245
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Odsonne Edouard,Crystal Palace,West Ham United,1.5,10,Sportsbet,49,289,12565534,440365409,1964886254
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Eberechi Eze,Crystal Palace,West Ham United,1.5,13,Sportsbet,49,289,12565534,440365409,1964886243
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Ismaïla Sarr,Crystal Palace,West Ham United,1.5,18,Sportsbet,49,289,12565534,440365409,1964886244
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jordan Ayew,Crystal Palace,West Ham United,1.5,18,Sportsbet,49,289,12565534,440365409,1964886250
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daichi Kamada,Crystal Palace,West Ham United,1.5,20,Sportsbet,49,289,12565534,440365409,1964886241
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jeffrey Schlupp,Crystal Palace,West Ham United,1.5,36,Sportsbet,49,289,12565534,440365409,1964886247
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Naouirou Ahamada,Crystal Palace,West Ham United,1.5,71,Sportsbet,49,289,12565534,440365409,1964886252
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Will Hughes,Crystal Palace,West Ham United,1.5,71,Sportsbet,49,289,12565534,440365409,1964886257
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jefferson Lerma,Crystal Palace,West Ham United,1.5,91,Sportsbet,49,289,12565534,440365409,1964886246
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daniel Muñoz,Crystal Palace,West Ham United,1.5,126,Sportsbet,49,289,12565534,440365409,1964886242
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Adam Wharton,Crystal Palace,West Ham United,1.5,176,Sportsbet,49,289,12565534,440365409,1964886237
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chadi Riad,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886238
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Cheick Doucouré,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886239
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chris Richards,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886240
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joachim Andersen,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886248
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joel Ward,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886249
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Marc Guéhi,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886251
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nathaniel Clyne,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886253
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Rob Holding,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886255
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tyrick Mitchell,Crystal Palace,West Ham United,1.5,201,Sportsbet,49,289,12565534,440365409,1964886256
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Danny Ings,West Ham United,Crystal Palace,1.5,18,Sportsbet,49,289,12565534,440365409,1964886262
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Crystal Palace,1.5,18,Sportsbet,49,289,12565534,440365409,1964886267
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Crystal Palace,1.5,18,Sportsbet,49,289,12565534,440365409,1964886277
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Michail Antonio,West Ham United,Crystal Palace,1.5,21,Sportsbet,49,289,12565534,440365409,1964886274
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Crystal Palace,1.5,23,Sportsbet,49,289,12565534,440365409,1964886275
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Crystal Palace,1.5,26,Sportsbet,49,289,12565534,440365409,1964886261
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Andy Irving,West Ham United,Crystal Palace,1.5,31,Sportsbet,49,289,12565534,440365409,1964886260
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,James Ward-Prowse,West Ham United,Crystal Palace,1.5,41,Sportsbet,49,289,12565534,440365409,1964886266
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tomas Soucek,West Ham United,Crystal Palace,1.5,51,Sportsbet,49,289,12565534,440365409,1964886278
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Crystal Palace,1.5,56,Sportsbet,49,289,12565534,440365409,1964886271
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Luis Guilherme,West Ham United,Crystal Palace,1.5,67,Sportsbet,49,289,12565534,440365409,1964886272
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Edson Álvarez,West Ham United,Crystal Palace,1.5,176,Sportsbet,49,289,12565534,440365409,1964886263
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Cresswell,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886258
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Wan-Bissaka,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886259
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Emerson,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886264
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Guido Rodríguez,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886265
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Clair Todibo,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886268
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Konstantinos Mavropanos,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886269
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Kurt Zouma,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886270
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Max Kilman,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886273
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nayef Aguerd,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886276
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Vladimír Coufal,West Ham United,Crystal Palace,1.5,201,Sportsbet,49,289,12565534,440365409,1964886279
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Philippe Mateta,Crystal Palace,West Ham United,2.5,71,Sportsbet,49,289,12565534,440365402,1964886443
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Odsonne Edouard,Crystal Palace,West Ham United,2.5,76,Sportsbet,49,289,12565534,440365402,1964886452
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Eberechi Eze,Crystal Palace,West Ham United,2.5,101,Sportsbet,49,289,12565534,440365402,1964886441
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daichi Kamada,Crystal Palace,West Ham United,2.5,201,Sportsbet,49,289,12565534,440365402,1964886439
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Ismaïla Sarr,Crystal Palace,West Ham United,2.5,201,Sportsbet,49,289,12565534,440365402,1964886442
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jordan Ayew,Crystal Palace,West Ham United,2.5,226,Sportsbet,49,289,12565534,440365402,1964886448
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Adam Wharton,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886435
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chadi Riad,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886436
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Cheick Doucouré,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886437
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Chris Richards,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886438
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Daniel Muñoz,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886440
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jefferson Lerma,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886444
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jeffrey Schlupp,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886445
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joachim Andersen,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886446
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Joel Ward,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886447
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Marc Guéhi,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886449
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Naouirou Ahamada,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886450
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nathaniel Clyne,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886451
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Rob Holding,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886453
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tyrick Mitchell,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886454
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Will Hughes,Crystal Palace,West Ham United,2.5,251,Sportsbet,49,289,12565534,440365402,1964886455
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Crystal Palace,2.5,126,Sportsbet,49,289,12565534,440365402,1964886475
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Crystal Palace,2.5,151,Sportsbet,49,289,12565534,440365402,1964886465
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Danny Ings,West Ham United,Crystal Palace,2.5,176,Sportsbet,49,289,12565534,440365402,1964886460
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Cresswell,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886456
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Aaron Wan-Bissaka,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886457
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Andy Irving,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886458
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886459
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Edson Álvarez,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886461
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Emerson,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886462
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Guido Rodríguez,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886463
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,James Ward-Prowse,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886464
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Jean-Clair Todibo,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886466
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Konstantinos Mavropanos,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886467
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Kurt Zouma,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886468
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886469
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Luis Guilherme,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886470
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Max Kilman,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886471
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Michail Antonio,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886472
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886473
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Nayef Aguerd,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886474
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Tomas Soucek,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886476
+Crystal Palace v West Ham United,Crystal Palace,West Ham United,Player Goals,Vladimír Coufal,West Ham United,Crystal Palace,2.5,251,Sportsbet,49,289,12565534,440365402,1964886477
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jay Stansfield,Fulham,Leicester City,0.5,2.63,Sportsbet,49,289,12565539,440369600,1964904253
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Raul Jimenez,NA,NA,0.5,2.8,Sportsbet,49,289,12565539,440369600,1964904258
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Rodrigo Muniz,Fulham,Leicester City,0.5,2.75,Sportsbet,49,289,12565539,440369600,1964904259
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Emile Smith Rowe,Fulham,Leicester City,0.5,3.75,Sportsbet,49,289,12565539,440369600,1964904249
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Wilson,Fulham,Leicester City,0.5,3.75,Sportsbet,49,289,12565539,440369600,1964904251
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Adama Traore,NA,NA,0.5,4.33,Sportsbet,49,289,12565539,440369600,1964904244
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Alex Iwobi,Fulham,Leicester City,0.5,4.5,Sportsbet,49,289,12565539,440369600,1964904245
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Andreas Pereira,Fulham,Leicester City,0.5,4.5,Sportsbet,49,289,12565539,440369600,1964904246
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sasa Lukic,NA,NA,0.5,5.5,Sportsbet,49,289,12565539,440369600,1964904262
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cairney,Fulham,Leicester City,0.5,5.5,Sportsbet,49,289,12565539,440369600,1964904264
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sander Berge,NA,NA,0.5,6.5,Sportsbet,49,289,12565539,440369600,1964904261
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harrison Reed,Fulham,Leicester City,0.5,7.5,Sportsbet,49,289,12565539,440369600,1964904250
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Josh King,NA,NA,0.5,7.5,Sportsbet,49,289,12565539,440369600,1964904255
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ryan Sessegnon,Fulham,Leicester City,0.5,7,Sportsbet,49,289,12565539,440369600,1964904260
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jorge Cuenca,Fulham,Leicester City,0.5,12,Sportsbet,49,289,12565539,440369600,1964904254
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Timothy Castagne,Fulham,Leicester City,0.5,13,Sportsbet,49,289,12565539,440369600,1964904263
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issa Diop,Fulham,Leicester City,0.5,14,Sportsbet,49,289,12565539,440369600,1964904252
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Calvin Bassey,Fulham,Leicester City,0.5,15,Sportsbet,49,289,12565539,440369600,1964904248
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kenny Tete,Fulham,Leicester City,0.5,17,Sportsbet,49,289,12565539,440369600,1964904256
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Antonee Robinson,Fulham,Leicester City,0.5,20,Sportsbet,49,289,12565539,440369600,1964904247
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luc De Fougerolles,NA,NA,0.5,20,Sportsbet,49,289,12565539,440369600,1964904257
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jamie Vardy,Leicester City,Fulham,0.5,4,Sportsbet,49,289,12565539,440369600,1964904274
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Stephy Mavididi,Leicester City,Fulham,0.5,4.2,Sportsbet,49,289,12565539,440369600,1964904280
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cannon,Leicester City,Fulham,0.5,4.5,Sportsbet,49,289,12565539,440369600,1964904281
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Bobby De Cordova-Reid,Leicester City,Fulham,0.5,5,Sportsbet,49,289,12565539,440369600,1964904266
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Facundo Buonanotte,Leicester City,Fulham,0.5,5.5,Sportsbet,49,289,12565539,440369600,1964904269
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issahaku Fatawu,Leicester City,Fulham,0.5,6,Sportsbet,49,289,12565539,440369600,1964904272
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kasey McAteer,Leicester City,Fulham,0.5,6,Sportsbet,49,289,12565539,440369600,1964904276
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wilfred Ndidi,Leicester City,Fulham,0.5,9.5,Sportsbet,49,289,12565539,440369600,1964904283
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Winks,Leicester City,Fulham,0.5,10,Sportsbet,49,289,12565539,440369600,1964904271
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ricardo Pereira,Leicester City,Fulham,0.5,13,Sportsbet,49,289,12565539,440369600,1964904279
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Hamza Choudhury,Leicester City,Fulham,0.5,15,Sportsbet,49,289,12565539,440369600,1964904270
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jannik Vestergaard,Leicester City,Fulham,0.5,15,Sportsbet,49,289,12565539,440369600,1964904275
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,James Justin,Leicester City,Fulham,0.5,17,Sportsbet,49,289,12565539,440369600,1964904273
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Oliver Skipp,Tottenham Hotspur,Fulham,0.5,17,Sportsbet,49,289,12565539,440369600,1964904278
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wout Faes,Leicester City,Fulham,0.5,17,Sportsbet,49,289,12565539,440369600,1964904284
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Boubakary Soumaré,Leicester City,Fulham,0.5,19,Sportsbet,49,289,12565539,440369600,1964904267
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Victor Kristiansen,Leicester City,Fulham,0.5,20,Sportsbet,49,289,12565539,440369600,1964904282
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ben Nelson,NA,NA,0.5,21,Sportsbet,49,289,12565539,440369600,1964904265
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Caleb Okoli,Leicester City,Fulham,0.5,26,Sportsbet,49,289,12565539,440369600,1964904268
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luke Thomas,Leicester City,Fulham,0.5,31,Sportsbet,49,289,12565539,440369600,1964904277
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jay Stansfield,Fulham,Leicester City,1.5,9.5,Sportsbet,49,289,12565539,440369609,1964904629
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Rodrigo Muniz,Fulham,Leicester City,1.5,10,Sportsbet,49,289,12565539,440369609,1964904635
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Raul Jimenez,NA,NA,1.5,11,Sportsbet,49,289,12565539,440369609,1964904634
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Wilson,Fulham,Leicester City,1.5,18,Sportsbet,49,289,12565539,440369609,1964904627
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Emile Smith Rowe,Fulham,Leicester City,1.5,21,Sportsbet,49,289,12565539,440369609,1964904625
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Adama Traore,NA,NA,1.5,23,Sportsbet,49,289,12565539,440369609,1964904620
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Alex Iwobi,Fulham,Leicester City,1.5,26,Sportsbet,49,289,12565539,440369609,1964904621
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Andreas Pereira,Fulham,Leicester City,1.5,31,Sportsbet,49,289,12565539,440369609,1964904622
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sasa Lukic,NA,NA,1.5,36,Sportsbet,49,289,12565539,440369609,1964904638
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cairney,Fulham,Leicester City,1.5,41,Sportsbet,49,289,12565539,440369609,1964904640
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ryan Sessegnon,Fulham,Leicester City,1.5,61,Sportsbet,49,289,12565539,440369609,1964904636
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sander Berge,NA,NA,1.5,61,Sportsbet,49,289,12565539,440369609,1964904637
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harrison Reed,Fulham,Leicester City,1.5,81,Sportsbet,49,289,12565539,440369609,1964904626
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Josh King,NA,NA,1.5,81,Sportsbet,49,289,12565539,440369609,1964904631
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Antonee Robinson,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904623
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Calvin Bassey,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904624
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issa Diop,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904628
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jorge Cuenca,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904630
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kenny Tete,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904632
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luc De Fougerolles,NA,NA,1.5,201,Sportsbet,49,289,12565539,440369609,1964904633
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Timothy Castagne,Fulham,Leicester City,1.5,201,Sportsbet,49,289,12565539,440369609,1964904639
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jamie Vardy,Leicester City,Fulham,1.5,21,Sportsbet,49,289,12565539,440369609,1964904650
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Stephy Mavididi,Leicester City,Fulham,1.5,21,Sportsbet,49,289,12565539,440369609,1964904656
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cannon,Leicester City,Fulham,1.5,26,Sportsbet,49,289,12565539,440369609,1964904657
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Bobby De Cordova-Reid,Leicester City,Fulham,1.5,36,Sportsbet,49,289,12565539,440369609,1964904642
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Facundo Buonanotte,Leicester City,Fulham,1.5,46,Sportsbet,49,289,12565539,440369609,1964904645
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kasey McAteer,Leicester City,Fulham,1.5,46,Sportsbet,49,289,12565539,440369609,1964904652
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issahaku Fatawu,Leicester City,Fulham,1.5,56,Sportsbet,49,289,12565539,440369609,1964904648
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wilfred Ndidi,Leicester City,Fulham,1.5,126,Sportsbet,49,289,12565539,440369609,1964904659
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Winks,Leicester City,Fulham,1.5,151,Sportsbet,49,289,12565539,440369609,1964904647
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ben Nelson,NA,NA,1.5,201,Sportsbet,49,289,12565539,440369609,1964904641
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Boubakary Soumaré,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904643
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Caleb Okoli,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904644
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Hamza Choudhury,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904646
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,James Justin,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904649
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jannik Vestergaard,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904651
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luke Thomas,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904653
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Oliver Skipp,Tottenham Hotspur,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904654
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ricardo Pereira,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904655
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Victor Kristiansen,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904658
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wout Faes,Leicester City,Fulham,1.5,201,Sportsbet,49,289,12565539,440369609,1964904660
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jay Stansfield,Fulham,Leicester City,2.5,61,Sportsbet,49,289,12565539,440369605,1964904062
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Rodrigo Muniz,Fulham,Leicester City,2.5,67,Sportsbet,49,289,12565539,440369605,1964904068
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Raul Jimenez,NA,NA,2.5,71,Sportsbet,49,289,12565539,440369605,1964904067
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Emile Smith Rowe,Fulham,Leicester City,2.5,226,Sportsbet,49,289,12565539,440369605,1964904058
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Adama Traore,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904053
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Alex Iwobi,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904054
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Andreas Pereira,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904055
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Antonee Robinson,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904056
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Calvin Bassey,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904057
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harrison Reed,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904059
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Wilson,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904060
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issa Diop,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904061
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jorge Cuenca,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904063
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Josh King,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904064
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kenny Tete,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904065
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luc De Fougerolles,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904066
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ryan Sessegnon,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904069
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sander Berge,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904070
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Sasa Lukic,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904071
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Timothy Castagne,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904072
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cairney,Fulham,Leicester City,2.5,251,Sportsbet,49,289,12565539,440369605,1964904073
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jamie Vardy,Leicester City,Fulham,2.5,201,Sportsbet,49,289,12565539,440369605,1964904083
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Stephy Mavididi,Leicester City,Fulham,2.5,226,Sportsbet,49,289,12565539,440369605,1964904089
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Issahaku Fatawu,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904081
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ben Nelson,NA,NA,2.5,251,Sportsbet,49,289,12565539,440369605,1964904074
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Bobby De Cordova-Reid,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904075
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Boubakary Soumaré,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904076
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Caleb Okoli,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904077
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Facundo Buonanotte,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904078
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Hamza Choudhury,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904079
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Harry Winks,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904080
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,James Justin,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904082
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Jannik Vestergaard,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904084
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Kasey McAteer,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904085
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Luke Thomas,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904086
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Oliver Skipp,Tottenham Hotspur,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904087
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Ricardo Pereira,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904088
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Tom Cannon,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904090
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Victor Kristiansen,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904091
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wilfred Ndidi,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904092
+Fulham v Leicester City,Fulham,Leicester City,Player Goals,Wout Faes,Leicester City,Fulham,2.5,251,Sportsbet,49,289,12565539,440369605,1964904093
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ollie Watkins,Aston Villa,Arsenal,0.5,3.4,Sportsbet,49,289,12565944,440380603,1964951747
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jhon Duran,NA,NA,0.5,4.5,Sportsbet,49,289,12565944,440380603,1964951739
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jaden Philogene,Aston Villa,Arsenal,0.5,5,Sportsbet,49,289,12565944,440380603,1964951738
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leon Bailey,Aston Villa,Arsenal,0.5,5.5,Sportsbet,49,289,12565944,440380603,1964951743
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Emiliano Buendía,Aston Villa,Arsenal,0.5,6,Sportsbet,49,289,12565944,440380603,1964951733
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Morgan Rogers,Aston Villa,Arsenal,0.5,6,Sportsbet,49,289,12565944,440380603,1964951746
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ross Barkley,Aston Villa,Arsenal,0.5,6.5,Sportsbet,49,289,12565944,440380603,1964951749
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Samuel Iling-Junior,Aston Villa,Arsenal,0.5,7,Sportsbet,49,289,12565944,440380603,1964951750
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jacob Ramsey,Aston Villa,Arsenal,0.5,8.5,Sportsbet,49,289,12565944,440380603,1964951737
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Youri Tielemans,Aston Villa,Arsenal,0.5,8.5,Sportsbet,49,289,12565944,440380603,1964951751
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,John McGinn,Aston Villa,Arsenal,0.5,9.5,Sportsbet,49,289,12565944,440380603,1964951740
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Amadou Onana,Aston Villa,Arsenal,0.5,12,Sportsbet,49,289,12565944,440380603,1964951731
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Matty Cash,Aston Villa,Arsenal,0.5,12,Sportsbet,49,289,12565944,440380603,1964951745
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ian Maatsen,Aston Villa,Arsenal,0.5,13,Sportsbet,49,289,12565944,440380603,1964951736
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Enzo Barrenechea,Aston Villa,Arsenal,0.5,14,Sportsbet,49,289,12565944,440380603,1964951734
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leander Dendoncker,Aston Villa,Arsenal,0.5,14,Sportsbet,49,289,12565944,440380603,1964951742
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Pau Torres,Aston Villa,Arsenal,0.5,15,Sportsbet,49,289,12565944,440380603,1964951748
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Álex Moreno,Aston Villa,Arsenal,0.5,17,Sportsbet,49,289,12565944,440380603,1964951730
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Lucas Digne,Aston Villa,Arsenal,0.5,18,Sportsbet,49,289,12565944,440380603,1964951744
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ezri Konsa,Aston Villa,Arsenal,0.5,20,Sportsbet,49,289,12565944,440380603,1964951735
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kosta Nedeljkovic,Aston Villa,Arsenal,0.5,20,Sportsbet,49,289,12565944,440380603,1964951741
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Diego Carlos,Aston Villa,Arsenal,0.5,21,Sportsbet,49,289,12565944,440380603,1964951732
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Jesus,Arsenal,Aston Villa,0.5,2.88,Sportsbet,49,289,12565944,440380603,1964951758
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Bukayo Saka,Arsenal,Aston Villa,0.5,3.2,Sportsbet,49,289,12565944,440380603,1964951753
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Eddie Nketiah,Arsenal,Aston Villa,0.5,3,Sportsbet,49,289,12565944,440380603,1964951755
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Martinelli,Arsenal,Aston Villa,0.5,3.6,Sportsbet,49,289,12565944,440380603,1964951760
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kai Havertz,Arsenal,Aston Villa,0.5,3.2,Sportsbet,49,289,12565944,440380603,1964951764
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leandro Trossard,Arsenal,Aston Villa,0.5,3.6,Sportsbet,49,289,12565944,440380603,1964951765
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Reiss Nelson,Arsenal,Aston Villa,0.5,3.75,Sportsbet,49,289,12565944,440380603,1964951768
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ethan Nwaneri,NA,NA,0.5,4.33,Sportsbet,49,289,12565944,440380603,1964951756
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Martin Ødegaard,Arsenal,Aston Villa,0.5,4,Sportsbet,49,289,12565944,440380603,1964951766
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Fábio Vieira,Arsenal,Aston Villa,0.5,5.5,Sportsbet,49,289,12565944,440380603,1964951757
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Declan Rice,Arsenal,Aston Villa,0.5,6.5,Sportsbet,49,289,12565944,440380603,1964951754
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jorginho,Arsenal,Aston Villa,0.5,6.5,Sportsbet,49,289,12565944,440380603,1964951762
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Magalhães,Arsenal,Aston Villa,0.5,9.5,Sportsbet,49,289,12565944,440380603,1964951759
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Thomas Partey,Arsenal,Aston Villa,0.5,9.5,Sportsbet,49,289,12565944,440380603,1964951770
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Oleksandr Zinchenko,Arsenal,Aston Villa,0.5,10,Sportsbet,49,289,12565944,440380603,1964951767
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Riccardo Calafiori,Arsenal,Aston Villa,0.5,10,Sportsbet,49,289,12565944,440380603,1964951769
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,William Saliba,Arsenal,Aston Villa,0.5,13,Sportsbet,49,289,12565944,440380603,1964951771
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ben White,Arsenal,Aston Villa,0.5,15,Sportsbet,49,289,12565944,440380603,1964951752
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jurrien Timber,Arsenal,Aston Villa,0.5,15,Sportsbet,49,289,12565944,440380603,1964951763
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jakub Kiwior,Arsenal,Aston Villa,0.5,17,Sportsbet,49,289,12565944,440380603,1964951761
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ollie Watkins,Aston Villa,Arsenal,1.5,15,Sportsbet,49,289,12565944,440380609,1964951316
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jhon Duran,NA,NA,1.5,26,Sportsbet,49,289,12565944,440380609,1964951308
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jaden Philogene,Aston Villa,Arsenal,1.5,31,Sportsbet,49,289,12565944,440380609,1964951307
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leon Bailey,Aston Villa,Arsenal,1.5,41,Sportsbet,49,289,12565944,440380609,1964951312
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Emiliano Buendía,Aston Villa,Arsenal,1.5,46,Sportsbet,49,289,12565944,440380609,1964951302
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Morgan Rogers,Aston Villa,Arsenal,1.5,46,Sportsbet,49,289,12565944,440380609,1964951315
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ross Barkley,Aston Villa,Arsenal,1.5,51,Sportsbet,49,289,12565944,440380609,1964951318
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Samuel Iling-Junior,Aston Villa,Arsenal,1.5,61,Sportsbet,49,289,12565944,440380609,1964951319
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jacob Ramsey,Aston Villa,Arsenal,1.5,101,Sportsbet,49,289,12565944,440380609,1964951306
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Youri Tielemans,Aston Villa,Arsenal,1.5,101,Sportsbet,49,289,12565944,440380609,1964951320
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,John McGinn,Aston Villa,Arsenal,1.5,126,Sportsbet,49,289,12565944,440380609,1964951309
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Álex Moreno,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951299
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Amadou Onana,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951300
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Diego Carlos,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951301
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Enzo Barrenechea,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951303
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ezri Konsa,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951304
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ian Maatsen,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951305
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kosta Nedeljkovic,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951310
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leander Dendoncker,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951311
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Lucas Digne,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951313
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Matty Cash,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951314
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Pau Torres,Aston Villa,Arsenal,1.5,201,Sportsbet,49,289,12565944,440380609,1964951317
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Jesus,Arsenal,Aston Villa,1.5,11,Sportsbet,49,289,12565944,440380609,1964951327
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Eddie Nketiah,Arsenal,Aston Villa,1.5,12,Sportsbet,49,289,12565944,440380609,1964951324
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Bukayo Saka,Arsenal,Aston Villa,1.5,13,Sportsbet,49,289,12565944,440380609,1964951322
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kai Havertz,Arsenal,Aston Villa,1.5,13,Sportsbet,49,289,12565944,440380609,1964951333
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Martinelli,Arsenal,Aston Villa,1.5,15,Sportsbet,49,289,12565944,440380609,1964951329
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leandro Trossard,Arsenal,Aston Villa,1.5,17,Sportsbet,49,289,12565944,440380609,1964951334
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Martin Ødegaard,Arsenal,Aston Villa,1.5,20,Sportsbet,49,289,12565944,440380609,1964951335
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Reiss Nelson,Arsenal,Aston Villa,1.5,20,Sportsbet,49,289,12565944,440380609,1964951337
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ethan Nwaneri,NA,NA,1.5,23,Sportsbet,49,289,12565944,440380609,1964951325
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Fábio Vieira,Arsenal,Aston Villa,1.5,41,Sportsbet,49,289,12565944,440380609,1964951326
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Declan Rice,Arsenal,Aston Villa,1.5,51,Sportsbet,49,289,12565944,440380609,1964951323
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jorginho,Arsenal,Aston Villa,1.5,61,Sportsbet,49,289,12565944,440380609,1964951331
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Magalhães,Arsenal,Aston Villa,1.5,151,Sportsbet,49,289,12565944,440380609,1964951328
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Thomas Partey,Arsenal,Aston Villa,1.5,151,Sportsbet,49,289,12565944,440380609,1964951539
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Oleksandr Zinchenko,Arsenal,Aston Villa,1.5,176,Sportsbet,49,289,12565944,440380609,1964951336
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Riccardo Calafiori,Arsenal,Aston Villa,1.5,176,Sportsbet,49,289,12565944,440380609,1964951338
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ben White,Arsenal,Aston Villa,1.5,201,Sportsbet,49,289,12565944,440380609,1964951321
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jakub Kiwior,Arsenal,Aston Villa,1.5,201,Sportsbet,49,289,12565944,440380609,1964951330
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jurrien Timber,Arsenal,Aston Villa,1.5,201,Sportsbet,49,289,12565944,440380609,1964951332
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,William Saliba,Arsenal,Aston Villa,1.5,201,Sportsbet,49,289,12565944,440380609,1964951540
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ollie Watkins,Aston Villa,Arsenal,2.5,126,Sportsbet,49,289,12565944,440380602,1964951705
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Álex Moreno,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951688
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Amadou Onana,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951689
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Diego Carlos,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951690
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Emiliano Buendía,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951691
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Enzo Barrenechea,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951692
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ezri Konsa,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951693
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ian Maatsen,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951694
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jacob Ramsey,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951695
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jaden Philogene,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951696
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jhon Duran,NA,NA,2.5,251,Sportsbet,49,289,12565944,440380602,1964951697
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,John McGinn,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951698
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kosta Nedeljkovic,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951699
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leander Dendoncker,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951700
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leon Bailey,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951701
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Lucas Digne,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951702
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Matty Cash,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951703
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Morgan Rogers,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951704
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Pau Torres,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951706
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ross Barkley,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951707
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Samuel Iling-Junior,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951708
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Youri Tielemans,Aston Villa,Arsenal,2.5,251,Sportsbet,49,289,12565944,440380602,1964951709
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Jesus,Arsenal,Aston Villa,2.5,76,Sportsbet,49,289,12565944,440380602,1964951716
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Eddie Nketiah,Arsenal,Aston Villa,2.5,81,Sportsbet,49,289,12565944,440380602,1964951713
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Bukayo Saka,Arsenal,Aston Villa,2.5,101,Sportsbet,49,289,12565944,440380602,1964951711
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Kai Havertz,Arsenal,Aston Villa,2.5,126,Sportsbet,49,289,12565944,440380602,1964951722
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Martinelli,Arsenal,Aston Villa,2.5,151,Sportsbet,49,289,12565944,440380602,1964951718
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Leandro Trossard,Arsenal,Aston Villa,2.5,176,Sportsbet,49,289,12565944,440380602,1964951723
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Reiss Nelson,Arsenal,Aston Villa,2.5,226,Sportsbet,49,289,12565944,440380602,1964951726
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ben White,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951710
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Declan Rice,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951712
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Ethan Nwaneri,NA,NA,2.5,251,Sportsbet,49,289,12565944,440380602,1964951714
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Fábio Vieira,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951715
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Gabriel Magalhães,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951717
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jakub Kiwior,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951719
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jorginho,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951720
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Jurrien Timber,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951721
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Martin Ødegaard,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951724
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Oleksandr Zinchenko,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951725
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Riccardo Calafiori,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951727
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,Thomas Partey,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951728
+Aston Villa v Arsenal,Aston Villa,Arsenal,Player Goals,William Saliba,Arsenal,Aston Villa,2.5,251,Sportsbet,49,289,12565944,440380602,1964951729

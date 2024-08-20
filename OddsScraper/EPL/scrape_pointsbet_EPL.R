@@ -388,6 +388,52 @@ pointsbet_h2h_main <- function() {
         ))) |>
         mutate(agency = "Pointsbet") |>
         write_csv("Data/scraped_odds/EPL/pointsbet_player_shots.csv")
+    
+    # Shots On Target
+    pointsbet_player_shots_on_target_lines |>
+        mutate(match = paste(home_team, away_team, sep = " v ")) |>
+        select(any_of(c(
+            "match",
+            "home_team",
+            "away_team",
+            "market_name",
+            "player_name",
+            "player_team",
+            "line",
+            "over_price",
+            "under_price",
+            "agency",
+            "opposition_team",
+            "EventKey",
+            "MarketKey",
+            "OutcomeKey",
+            "OutcomeKey_unders"
+        ))) |>
+        mutate(agency = "Pointsbet") |>
+        write_csv("Data/scraped_odds/EPL/pointsbet_player_shots_on_target.csv")
+    
+    # Goals
+    pointsbet_player_goals |>
+        mutate(match = paste(home_team, away_team, sep = " v ")) |>
+        select(any_of(c(
+            "match",
+            "home_team",
+            "away_team",
+            "market_name",
+            "player_name",
+            "player_team",
+            "line",
+            "over_price",
+            "under_price",
+            "agency",
+            "opposition_team",
+            "EventKey",
+            "MarketKey",
+            "OutcomeKey",
+            "OutcomeKey_unders"
+        ))) |>
+        mutate(agency = "Pointsbet") |>
+        write_csv("Data/scraped_odds/EPL/pointsbet_player_goals.csv")
 }
 
 ##%######################################################%##
@@ -398,6 +444,7 @@ pointsbet_h2h_main <- function() {
 
 # This runs both the props and head to head as they use same info
 h2h_safe_pointsbet <- safely(pointsbet_h2h_main)
+players_safe_pointsbet <- safely(pointsbet_player_props_main)
 
 # Run functions
 h2h_safe_pointsbet()

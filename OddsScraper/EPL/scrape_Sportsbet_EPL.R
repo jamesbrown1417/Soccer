@@ -382,6 +382,21 @@ player_props_function <- function() {
         map("result") |>
         map_df(bind_rows)
     
+    # If nrow 0 create tibble with 0 rows
+    if (nrow(shots_data) == 0) {
+        shots_data <-
+            tibble(match = NA,
+                   prop_market_name = NA,
+                   selection_name_prop = NA,
+                   prop_market_price = NA,
+                   market_id = NA,
+                   player_id = NA,
+                   class_external_id = NA,
+                   competition_external_id = NA,
+                   event_external_id = NA,
+                   url = NA)
+    }
+    
     # Add market name
     shots_data <-
         shots_data |>
@@ -491,6 +506,21 @@ player_props_function <- function() {
         pass_data |>
         map("result") |>
         map_df(bind_rows)
+    
+    # If nrow 0 create tibble with 0 rows
+    if (nrow(pass_data) == 0) {
+        pass_data <-
+            tibble(match = NA,
+                   prop_market_name = NA,
+                   selection_name_prop = NA,
+                   prop_market_price = NA,
+                   market_id = NA,
+                   player_id = NA,
+                   class_external_id = NA,
+                   competition_external_id = NA,
+                   event_external_id = NA,
+                   url = NA)
+    }
     
     # Add market name
     pass_data <-

@@ -31,6 +31,8 @@ unique_teams <- all_team_stats$Team |> unique() |> sort()
 # Read in scraped odds
 #===============================================================================
 
+
+
 #===============================================================================
 # UI
 #===============================================================================
@@ -208,30 +210,28 @@ ui <- page_navbar(
                 area = "odds_screen",
                 card_header("Settings"),
                 card_body(
-                    # Add your specific input fields here
-                    # Example: selectInput, textInput, numericInput, etc.
-                    # selectInput(
-                    #   inputId = "agency_input",
-                    #   label = "Select Agencies:",
-                    #   choices = player_runs_data$agency |> unique(),
-                    #   multiple = TRUE,
-                    #   selectize = TRUE,
-                    #   selected = player_runs_data$agency |> unique(),
-                    # ),
+                    selectInput(
+                      inputId = "agency_input",
+                      label = "Select Agencies:",
+                      choices = player_runs_data$agency |> unique(),
+                      multiple = TRUE,
+                      selectize = TRUE,
+                      selected = player_runs_data$agency |> unique(),
+                    ),
                     selectInput(
                         inputId = "market_input",
                         label = "Select Market:",
                         choices = c("Runs", "Wickets", "Boundaries"),
                         multiple = FALSE
                     ),
-                    # selectInput(
-                    #   inputId = "match_input",
-                    #   label = "Select Matches:",
-                    #   choices = player_runs_data$match |> unique(),
-                    #   multiple = TRUE,
-                    #   selectize = FALSE,
-                    #   selected = player_runs_data$match |> unique()
-                    # ),
+                    selectInput(
+                      inputId = "match_input",
+                      label = "Select Matches:",
+                      choices = player_runs_data$match |> unique(),
+                      multiple = TRUE,
+                      selectize = FALSE,
+                      selected = player_runs_data$match |> unique()
+                    ),
                     textInput(
                         inputId = "player_name_input_b",
                         label = "Select Player:",
