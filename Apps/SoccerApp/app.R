@@ -3,8 +3,6 @@ library(bslib)
 library(gridlayout)
 library(DT)
 library(tidyverse)
-library(googlesheets4)
-library(googledrive)
 
 #===============================================================================
 # Load in data
@@ -26,12 +24,56 @@ epl_player_stats <- read_rds("../../Data/epl_player_stats.rds")
 unique_players <- epl_player_stats$Player |> unique() |> sort()
 unique_events <- c("EPL", "Serie A")
 unique_teams <- all_team_stats$Team |> unique() |> sort()
+unique_seasons <- all_team_stats$Season |> unique() |> sort()
 
 #===============================================================================
 # Read in scraped odds
 #===============================================================================
 
+# Head to head
+head_to_head_data <-
+    read_rds("../../Data/processed_odds/h2h_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name) |> 
+    mutate(CV = sd(home_win) / abs(mean(home_win))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
 
+# Total Goals
+total_goals_data <-
+    read_rds("../../Data/processed_odds/total_goals_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Player goals
+player_goals_data <-
+    read_rds("../../Data/processed_odds/player_goals_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, player_name) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Team goals
+team_goals_data <-
+    read_rds("../../Data/processed_odds/team_goals_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, team) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Both teams to score
+btts_data <-
+    read_rds("../../Data/processed_odds/btts_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name) |>
+    mutate(CV = sd(yes_price) / abs(mean(yes_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
 
 #===============================================================================
 # UI
@@ -78,6 +120,13 @@ ui <- page_navbar(
                         choices = unique_events,
                         multiple = TRUE,
                         selected = unique_events
+                    ),
+                    selectInput(
+                        inputId = "season_input_a",
+                        label = "Select Season:",
+                        choices = unique_seasons,
+                        multiple = TRUE,
+                        selected = c("2023/2024", "2024/2025")
                     ),
                     selectInput(
                         inputId = "stat_input_a",
@@ -152,6 +201,13 @@ ui <- page_navbar(
                         selected = unique_events
                     ),
                     selectInput(
+                        inputId = "season_input_c",
+                        label = "Select Season:",
+                        choices = unique_seasons,
+                        multiple = TRUE,
+                        selected = c("2023/2024", "2024/2025")
+                    ),
+                    selectInput(
                         inputId = "stat_input_c",
                         label = "Select Statistic:",
                         choices = c("Passes",
@@ -213,24 +269,32 @@ ui <- page_navbar(
                     selectInput(
                       inputId = "agency_input",
                       label = "Select Agencies:",
-                      choices = player_runs_data$agency |> unique(),
+                      choices = head_to_head_data$agency |> unique(),
                       multiple = TRUE,
                       selectize = TRUE,
-                      selected = player_runs_data$agency |> unique(),
+                      selected = head_to_head_data$agency |> unique(),
+                    ),
+                    selectInput(
+                        inputId = "event_input_odds",
+                        label = "Select Competition:",
+                        choices = c("EPL", "Serie A"),
+                        multiple = TRUE,
+                        selectize = TRUE,
+                        selected = c("EPL")
                     ),
                     selectInput(
                         inputId = "market_input",
                         label = "Select Market:",
-                        choices = c("Runs", "Wickets", "Boundaries"),
+                        choices = c("Head To Head", "Both Teams To Score", "Match Goals", "Team Goals", "Player Goals"),
                         multiple = FALSE
                     ),
                     selectInput(
                       inputId = "match_input",
                       label = "Select Matches:",
-                      choices = player_runs_data$match |> unique(),
+                      choices = head_to_head_data$match |> unique(),
                       multiple = TRUE,
                       selectize = FALSE,
-                      selected = player_runs_data$match |> unique()
+                      selected = head_to_head_data$match |> unique()
                     ),
                     textInput(
                         inputId = "player_name_input_b",
@@ -319,6 +383,11 @@ server <- function(input, output, session) {
         filtered_player_stats <-
             filtered_player_stats |>
             filter(Competition %in% input$event_input_a)
+        
+        # Filter by season
+        filtered_player_stats <-
+            filtered_player_stats |>
+            filter(Season %in% input$season_input_a)
         
         # Filter by venue
         if (!is.null(input$venue_input_a)) {
@@ -467,6 +536,11 @@ server <- function(input, output, session) {
             filtered_team_stats |>
             filter(Competition %in% input$event_input_c)
 
+        # Filter by season
+        filtered_team_stats <-
+            filtered_team_stats |>
+            filter(Season %in% input$season_input_c)
+        
         # Filter by venue
         if (!is.null(input$venue_input_c)) {
             filtered_team_stats <-
@@ -644,61 +718,74 @@ server <- function(input, output, session) {
     scraped_odds <- reactive({
         # Get odds---------------------------------------------------------------
         
-        # Runs
-        if (input$market_input == "Runs") {
+        # H2H
+        if (input$market_input == "Head To Head") {
             odds <-
-                player_runs_data |> 
-                mutate(variation = round(variation, 2)) |>
-                filter(match %in% input$match_input) |>
-                select(-match)
+                head_to_head_data |> 
+                filter(competition %in% input$event_input_odds) |> 
+                filter(match %in% input$match_input)
         }
         
-        # Boundaries
-        if (input$market_input == "Boundaries") {
+        # Both Teams To Score
+        if (input$market_input == "Both Teams To Score") {
             odds <-
-                player_boundaries_data |> 
-                mutate(variation = round(variation, 2)) |>
-                filter(match %in% input$match_input) |>
-                select(-match) 
+                btts_data |> 
+                filter(competition %in% input$event_input_odds) |> 
+                filter(match %in% input$match_input)
         }
         
-        # Wickets
-        if (input$market_input == "Wickets") {
+        # Match Total Goals
+        if (input$market_input == "Match Goals") {
             odds <-
-                player_wickets_data |> 
-                mutate(variation = round(variation, 2)) |>
-                filter(match %in% input$match_input) |>
-                select(-match)
+                total_goals_data |> 
+                filter(competition %in% input$event_input_odds) |> 
+                filter(match %in% input$match_input)
         }
         
-        if (input$player_name_input_b != "") {
+        # Team Goals
+        if (input$market_input == "Team Goals") {
             odds <-
-                odds |>
-                filter(str_detect(player_name, input$player_name_input_b))
+                team_goals_data |> 
+                filter(competition %in% input$event_input_odds) |> 
+                filter(match %in% input$match_input)
         }
         
-        if (input$only_best == TRUE) {
+        # Player Goals
+        if (input$market_input == "Player Goals") {
             odds <-
-                odds |> 
-                arrange(player_name, line, desc(over_price)) |>
-                group_by(player_name, market, line) |> 
-                slice_head(n = 1) |>
-                ungroup()
-        }
-        
-        if (input$only_best_unders == TRUE) {
-            odds <-
-                odds |> 
-                arrange(player_name, line, desc(under_price)) |>
-                group_by(player_name, market, line) |> 
-                slice_head(n = 1) |>
-                ungroup()
-        }
-        
-        if (input$only_unders == TRUE) {
-            odds <-
-                odds |> 
-                filter(!is.na(under_price))
+                player_goals_data |> 
+                filter(competition %in% input$event_input_odds) |> 
+                filter(match %in% input$match_input)
+            
+            if (input$player_name_input_b != "") {
+                odds <-
+                    odds |>
+                    filter(str_detect(player_name, input$player_name_input_b))
+            }
+            
+            if (input$only_best == TRUE) {
+                odds <-
+                    odds |> 
+                    arrange(player_name, line, desc(over_price)) |>
+                    group_by(player_name, market, line) |> 
+                    slice_head(n = 1) |>
+                    ungroup()
+            }
+            
+            if (input$only_best_unders == TRUE) {
+                odds <-
+                    odds |> 
+                    arrange(player_name, line, desc(under_price)) |>
+                    group_by(player_name, market, line) |> 
+                    slice_head(n = 1) |>
+                    ungroup()
+            }
+            
+            if (input$only_unders == TRUE) {
+                odds <-
+                    odds |> 
+                    filter(!is.na(under_price))
+            }
         }
         
         # Return odds

@@ -92,7 +92,7 @@ return(epl_match_summary_stats_final)
 
 # Get team stats for the last 5 seasons
 epl_team_stats <-
-    future_map(2020:2024, get_team_stats, .progress = TRUE) |>
+    future_map(2020:2025, get_team_stats, .progress = TRUE) |>
     bind_rows()
 
 #===============================================================================
@@ -170,7 +170,7 @@ get_player_stats <- function(season) {
 
 # Get player stats for the last 5 seasons
 epl_player_stats <-
-    future_map(2020:2024, get_player_stats, .progress = TRUE) |>
+    future_map(2020:2025, get_player_stats, .progress = TRUE) |>
     bind_rows()
 
 #===============================================================================
