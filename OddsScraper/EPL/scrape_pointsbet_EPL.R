@@ -240,6 +240,68 @@ pointsbet_h2h_main <- function() {
     pointsbet_data_player_props <- map_df(match_urls, get_player_props)
     
     #===============================================================================
+    # Both Teams To Score
+    #===============================================================================
+    
+    # Both Teams To Score-------------------------------------------------------
+    pointsbet_btts_yes <-
+        pointsbet_data_player_props |>
+        filter(str_detect(market, "^BOTH TEAMS TO SCORE \\(")) |>
+        separate(
+            match,
+            into = c("home_team", "away_team"),
+            sep = " v ",
+            remove = FALSE
+        ) |>
+        filter(outcome == "Yes") |> 
+        mutate(home_team = fix_team_names(home_team),
+               away_team = fix_team_names(away_team)) |>
+        mutate(match = paste(home_team, "v", away_team)) |>
+        rename(yes_price = price) |> 
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Both Teams To Score",
+            yes_price,
+            agency = "Pointsbet",
+            EventKey,
+            MarketKey,
+            OutcomeKey
+        )
+    
+    pointsbet_btts_no <-
+        pointsbet_data_player_props |>
+        filter(str_detect(market, "^BOTH TEAMS TO SCORE \\(")) |>
+        separate(
+            match,
+            into = c("home_team", "away_team"),
+            sep = " v ",
+            remove = FALSE
+        ) |>
+        filter(outcome == "No") |> 
+        mutate(home_team = fix_team_names(home_team),
+               away_team = fix_team_names(away_team)) |>
+        mutate(match = paste(home_team, "v", away_team)) |>
+        rename(no_price = price) |> 
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Both Teams To Score",
+            no_price,
+            agency = "Pointsbet",
+            EventKey,
+            MarketKey,
+            OutcomeKey_unders = OutcomeKey
+        )
+    
+    # Join
+    pointsbet_btts <-
+        left_join(pointsbet_btts_yes, pointsbet_btts_no) |> 
+        relocate(no_price, .after = yes_price)
+    
+    #===============================================================================
     # Player Shots
     #===============================================================================
     
@@ -365,6 +427,10 @@ pointsbet_h2h_main <- function() {
     #===============================================================================
     # Write to CSV
     #===============================================================================
+    
+    # Both Teams To Score
+    pointsbet_btts |>
+        write_csv("Data/scraped_odds/EPL/pointsbet_both_teams_to_score.csv")
     
     # Shots
     pointsbet_player_shots_lines |>
