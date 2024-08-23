@@ -262,7 +262,7 @@ pointsbet_h2h_main <- function() {
             match,
             home_team,
             away_team,
-            market_name = "Both Teams To Score",
+            market_name = "Both Teams to Score",
             yes_price,
             agency = "Pointsbet",
             EventKey,
@@ -288,7 +288,7 @@ pointsbet_h2h_main <- function() {
             match,
             home_team,
             away_team,
-            market_name = "Both Teams To Score",
+            market_name = "Both Teams to Score",
             no_price,
             agency = "Pointsbet",
             EventKey,
@@ -510,7 +510,6 @@ pointsbet_h2h_main <- function() {
 
 # This runs both the props and head to head as they use same info
 h2h_safe_pointsbet <- safely(pointsbet_h2h_main)
-players_safe_pointsbet <- safely(pointsbet_player_props_main)
 
 # Run functions
 h2h_safe_pointsbet()

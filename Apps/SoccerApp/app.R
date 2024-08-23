@@ -76,6 +76,132 @@ btts_data <-
     ungroup()
 
 #===============================================================================
+# Create wide mode for odds tables
+#===============================================================================
+
+# Head to head------------------------------------------------------------------
+
+# Best Home Odds
+head_to_head_best_home_odds <-
+    head_to_head_data |>
+    arrange(match, desc(home_win)) |> 
+    group_by(match) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -draw, -away_win, -margin) |> 
+    rename(home_agency = agency)
+
+# Best Draw Odds
+head_to_head_best_draw_odds <-
+    head_to_head_data |>
+    arrange(match, desc(draw)) |> 
+    group_by(match) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -home_win, -away_win, -margin) |> 
+    rename(draw_agency = agency)
+
+# Best Away Odds
+head_to_head_best_away_odds <-
+    head_to_head_data |>
+    arrange(match, desc(away_win)) |> 
+    group_by(match) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -draw, -home_win, -margin) |> 
+    rename(away_agency = agency)
+
+head_to_head_wide <-
+    head_to_head_best_home_odds |>
+    left_join(head_to_head_best_draw_odds) |>
+    left_join(head_to_head_best_away_odds) |> 
+    relocate(home_win, home_agency, draw, draw_agency, away_win, away_agency, .after = competition) |> 
+    mutate(margin = 1/home_win + 1/draw + 1/away_win) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin)
+
+# Total Goals-------------------------------------------------------------------
+
+# Best Over Odds
+total_goals_best_over_odds <-
+    total_goals_data |>
+    arrange(match, line, desc(over_price)) |> 
+    group_by(match, line) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+total_goals_best_under_odds <-
+    total_goals_data |>
+    arrange(match, line, desc(under_price)) |> 
+    group_by(match, line) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+total_goals_wide <-
+    total_goals_best_over_odds |>
+    left_join(total_goals_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin)
+
+# Team Goals--------------------------------------------------------------------
+
+# Best Over Odds
+team_goals_best_over_odds <-
+    team_goals_data |>
+    arrange(match, line, team, desc(over_price)) |> 
+    group_by(match, line, team) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+team_goals_best_under_odds <-
+    team_goals_data |>
+    arrange(match, line, team, desc(under_price)) |> 
+    group_by(match, line, team) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+team_goals_wide <-
+    team_goals_best_over_odds |>
+    left_join(team_goals_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |>
+    arrange(margin)
+
+# Both Teams to Score-----------------------------------------------------------
+
+# Best Yes Odds
+btts_best_yes_odds <-
+    btts_data |>
+    arrange(match, desc(yes_price)) |> 
+    group_by(match) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -no_price) |> 
+    rename(yes_agency = agency)
+
+# Best No Odds
+btts_best_no_odds <-
+    btts_data |>
+    arrange(match, desc(no_price)) |> 
+    group_by(match) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -yes_price) |> 
+    rename(no_agency = agency)
+
+btts_wide <-
+    btts_best_yes_odds |>
+    left_join(btts_best_no_odds) |> 
+    relocate(yes_price, yes_agency, no_price, no_agency, .after = competition) |> 
+    mutate(margin = 1/yes_price + 1/no_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin)
+
+#===============================================================================
 # UI
 #===============================================================================
 
@@ -288,6 +414,11 @@ ui <- page_navbar(
                         choices = c("Head To Head", "Both Teams To Score", "Match Goals", "Team Goals", "Player Goals"),
                         multiple = FALSE
                     ),
+                    checkboxInput(
+                        inputId = "wide_mode_odds",
+                        label = "Arb / Rollover Mode",
+                        value = FALSE
+                    ),
                     selectInput(
                       inputId = "match_input",
                       label = "Select Matches:",
@@ -341,7 +472,8 @@ server <- function(input, output, session) {
         # Filter player stats
         
         all_player_stats <-
-            epl_player_stats
+            epl_player_stats |>
+            mutate(Player_Team_Goals = ifelse(Player_Team == Home, HomeGoals, AwayGoals))
         
             filtered_player_stats <-
                 all_player_stats |>
@@ -362,6 +494,7 @@ server <- function(input, output, session) {
                        Yellow_Cards,
                        Red_Cards,
                        Player_Team,
+                       Player_Team_Goals,
                        Goals,
                        Assists,
                        Passes,
@@ -720,10 +853,20 @@ server <- function(input, output, session) {
         
         # H2H
         if (input$market_input == "Head To Head") {
-            odds <-
-                head_to_head_data |> 
-                filter(competition %in% input$event_input_odds) |> 
-                filter(match %in% input$match_input)
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    head_to_head_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    head_to_head_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
         }
         
         # Both Teams To Score

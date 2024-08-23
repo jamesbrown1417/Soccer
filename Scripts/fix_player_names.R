@@ -80,6 +80,22 @@ fix_player_names <- function(player_name_vector) {
             str_detect(., "Willy-Arnaud Boly") ~ "Willy Boly",
             str_detect(., "Boubacar Traore") ~ "Boubacar Traoré",
             str_detect(., "Edson Alvarez") ~ "Edson Álvarez",
+            str_detect(., "Pervis Estupinan") ~ "Pervis Estupiñán",
+            str_detect(., "Lisandro Martinez") ~ "Lisandro Martínez",
+            str_detect(., "Josh King") ~ "Joshua King",
+            str_detect(., "Luc De Fougerolles") ~ "Luc de Fougerolles",
+            str_detect(., "Sander Berge") ~ "Sander Berge",
+            str_detect(., "Sasa Lukic") ~ "Saša Lukić",
+            str_detect(., "Adama Traore") ~ "Adama Traoré",
+            str_detect(., "Raul Jimenez") ~ "Raúl Jiménez",
+            str_detect(., "Nikola Milenkovic") ~ "Nikola Milenković",
+            str_detect(., "Sam Szmodics") ~ "Sammie Szmodics",
+            str_detect(., "Jhon Duran") ~ "Jhon Durán",
+            str_detect(., "Nelson Semedo") ~ "Nélson Semedo",
+            str_detect(., "Joao Felix") ~ "João Félix",
+            str_detect(., "Hamed Traore") ~ "Hamed Junior Traorè",
+            str_detect(., "Yunus Konak") ~ "Yunus Emre Konak",
+            str_detect(., "Ramon Sosa") ~ "Ramón Sosa",
             TRUE ~ . # Default case to return the original player name
         )
     )
