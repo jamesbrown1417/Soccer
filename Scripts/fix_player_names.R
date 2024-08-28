@@ -1,4 +1,4 @@
-# Fix player names function based on Transfermarkt online sources
+# Fix player names function
 fix_player_names <- function(player_name_vector) {
     map_chr(
         player_name_vector,

@@ -2,7 +2,7 @@ from playwright.async_api import async_playwright
 import asyncio
 
 # The URL pattern we are interested in
-url_pattern = "https://api.neds.com.au/v2/sport/event-request?category_ids=%5B%2223d497e6-8aab-4309-905b-9421f42c9bc5%22%5D&include_any_team_vs_any_team_events=true"
+url_pattern = "https://api.neds.com.au/v2/sport/event-request?category_ids=%5B%2271955b54-62f6-4ac5-abaa-df88cad0aeef%22%5D&include_any_team_vs_any_team_events=true"
 
 async def close_browser(browser):
     """Close the browser."""
@@ -21,7 +21,7 @@ async def main():
                 # Fetch and decode the response body
                 body = await response.body()
                 # Write out the body of the response to a file
-                with open("OddsScraper\\Neds\\neds_response.json", "w") as f:
+                with open("OddsScraper\\EPL\\Neds\\neds_response.json", "w") as f:
                     f.write(body.decode("utf-8"))
                 # Print a message to the console
                 print("Response captured!")
@@ -32,7 +32,7 @@ async def main():
         page.on('response', handle_response)
 
         # Navigate to the target page
-        await page.goto("https://www.neds.com.au/sports/australian-rules/afl", wait_until="networkidle")
+        await page.goto("https://www.neds.com.au/sports/soccer/uk-ireland/premier-league", wait_until="networkidle")
 
         # Keep the script running until the browser is closed
         while len(await browser.contexts()) > 0:
