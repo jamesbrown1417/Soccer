@@ -1,668 +1,419 @@
 match,start_time,market_name,home_team,away_team,player_name,player_team,opposition_team,line,over_price,agency
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Armstrong,Southampton,Brentford,0.5,2.9,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Armstrong,Southampton,Brentford,1.5,11,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Armstrong,Southampton,Brentford,2.5,81,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Lallana,Southampton,Brentford,0.5,6.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Lallana,Southampton,Brentford,1.5,81,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Lallana,Southampton,Brentford,0.5,15,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Lallana,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Adam Lallana,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,0.5,3.2,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,1.5,13,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,2.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Mee,Brentford,Southampton,0.5,7,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Mee,Brentford,Southampton,1.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Mee,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Bryan Mbeumo,Brentford,Southampton,0.5,2.4,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Bryan Mbeumo,Brentford,Southampton,1.5,9,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Bryan Mbeumo,Brentford,Southampton,2.5,41,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,0.5,3.2,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,1.5,13,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,2.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Charlie Taylor,Southampton,Brentford,0.5,15,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Charlie Taylor,Southampton,Brentford,1.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Charlie Taylor,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Christian Nørgaard,Brentford,Southampton,0.5,5.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Christian Nørgaard,Brentford,Southampton,1.5,51,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,0.5,8.5,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,1.5,151,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ben Brereton Díaz,Southampton,Brentford,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Bryan Mbeumo,Brentford,Southampton,2.5,9,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,0.5,8,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Cameron Archer,Southampton,Brentford,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Christian Nørgaard,Brentford,Southampton,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Christian Nørgaard,Brentford,Southampton,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Christian Nørgaard,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ethan Pinnock,Brentford,Southampton,0.5,7,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ethan Pinnock,Brentford,Southampton,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ethan Pinnock,Brentford,Southampton,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ethan Pinnock,Brentford,Southampton,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ethan Pinnock,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Flynn Downes,Southampton,Brentford,0.5,8,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Flynn Downes,Southampton,Brentford,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Flynn Downes,Southampton,Brentford,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Flynn Downes,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Flynn Downes,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,0.5,2.9,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,1.5,11,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,2.5,67,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jack Stephens,Southampton,Brentford,0.5,15,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jack Stephens,Southampton,Brentford,1.5,201,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,0.5,9,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,1.5,151,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Fábio Carvalho,Brentford,Southampton,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jack Stephens,Southampton,Brentford,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jack Stephens,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jack Stephens,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,James Bree,Southampton,Brentford,0.5,15,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,James Bree,Southampton,Brentford,1.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,James Bree,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jan Bednarek,Southampton,Brentford,0.5,10,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jan Bednarek,Southampton,Brentford,1.5,201,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jan Bednarek,Southampton,Brentford,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jan Bednarek,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Jan Bednarek,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Joe Aribo,Southampton,Brentford,0.5,4.75,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Joe Aribo,Southampton,Brentford,1.5,34,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Joe Aribo,Southampton,Brentford,2.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,0.5,3.25,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,1.5,13,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,2.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kevin Schade,Brentford,Southampton,0.5,2.8,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kevin Schade,Brentford,Southampton,1.5,10,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kevin Schade,Brentford,Southampton,2.5,67,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kristoffer Ajer,Brentford,Southampton,0.5,12,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kristoffer Ajer,Brentford,Southampton,1.5,151,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,0.5,10,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,1.5,201,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Keane Lewis-Potter,Brentford,Southampton,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kristoffer Ajer,Brentford,Southampton,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kristoffer Ajer,Brentford,Southampton,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kristoffer Ajer,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kyle Walker-Peters,Southampton,Brentford,0.5,9,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kyle Walker-Peters,Southampton,Brentford,1.5,151,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kyle Walker-Peters,Southampton,Brentford,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kyle Walker-Peters,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Kyle Walker-Peters,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Lesley Ugochukwu,Southampton,Brentford,0.5,8,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Lesley Ugochukwu,Southampton,Brentford,1.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Lesley Ugochukwu,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mads Roerslev,Brentford,Southampton,0.5,7,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mads Roerslev,Brentford,Southampton,1.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mads Roerslev,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,0.5,5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,1.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,2.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,0.5,5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,1.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,2.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mikkel Damsgaard,Brentford,Southampton,0.5,3.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mikkel Damsgaard,Brentford,Southampton,1.5,17,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mikkel Damsgaard,Brentford,Southampton,2.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Nathan Collins,Brentford,Southampton,0.5,7,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Nathan Collins,Brentford,Southampton,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,0.5,12,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,1.5,201,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mateus Fernandes,Southampton,Brentford,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,1.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Mathias Jensen,Brentford,Southampton,2.5,301,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Nathan Collins,Brentford,Southampton,0.5,15,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Nathan Collins,Brentford,Southampton,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Nathan Collins,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ryan Trevitt,Brentford,Southampton,0.5,3.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ryan Trevitt,Brentford,Southampton,1.5,17,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Ryan Trevitt,Brentford,Southampton,2.5,101,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Samuel Amo-Ameyaw,Southampton,Brentford,0.5,4,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Samuel Amo-Ameyaw,Southampton,Brentford,1.5,21,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Samuel Amo-Ameyaw,Southampton,Brentford,2.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Sepp van den Berg,Brentford,Southampton,0.5,7,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Sepp van den Berg,Brentford,Southampton,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Sepp van den Berg,Brentford,Southampton,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Sepp van den Berg,Brentford,Southampton,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Sepp van den Berg,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Taylor Harwood-Bellis,Southampton,Brentford,0.5,10,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Taylor Harwood-Bellis,Southampton,Brentford,1.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Taylor Harwood-Bellis,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Tyler Dibling,Southampton,Brentford,0.5,5.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Tyler Dibling,Southampton,Brentford,1.5,51,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Tyler Dibling,Southampton,Brentford,0.5,13,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Tyler Dibling,Southampton,Brentford,1.5,201,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Tyler Dibling,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Vitaly Janelt,Brentford,Southampton,0.5,5.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Vitaly Janelt,Brentford,Southampton,1.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Vitaly Janelt,Brentford,Southampton,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Will Smallbone,Southampton,Brentford,0.5,5.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Will Smallbone,Southampton,Brentford,1.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Will Smallbone,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yegor Yarmolyuk,Brentford,Southampton,0.5,4.25,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yegor Yarmolyuk,Brentford,Southampton,1.5,26,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yegor Yarmolyuk,Brentford,Southampton,2.5,201,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yoane Wissa,Brentford,Southampton,0.5,2.6,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yoane Wissa,Brentford,Southampton,1.5,9,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yoane Wissa,Brentford,Southampton,2.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yukinari Sugawara,Southampton,Brentford,0.5,8,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yukinari Sugawara,Southampton,Brentford,1.5,101,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yoane Wissa,Brentford,Southampton,1.5,10,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yoane Wissa,Brentford,Southampton,2.5,151,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yukinari Sugawara,Southampton,Brentford,0.5,17,TAB
+Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yukinari Sugawara,Southampton,Brentford,1.5,301,TAB
 Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yukinari Sugawara,Southampton,Brentford,2.5,301,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yunus Emre Konak,Brentford,Southampton,0.5,5.5,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yunus Emre Konak,Brentford,Southampton,1.5,51,TAB
-Brentford v Southampton,2024-08-31T14:00:00.000Z,Player Goals,Brentford,Southampton,Yunus Emre Konak,Brentford,Southampton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,0.5,4,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,1.5,21,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,2.5,151,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Adam Smith,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Adam Smith,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,0.5,12,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Abdoulaye Doucouré,Everton,Bournemouth,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Adam Smith,Bournemouth,Everton,0.5,21,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Adam Smith,Bournemouth,Everton,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Adam Smith,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,0.5,4.25,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,1.5,26,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,2.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,0.5,2.9,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,1.5,11,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,2.5,81,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ashley Young,Everton,Bournemouth,0.5,9,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ashley Young,Everton,Bournemouth,1.5,151,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ashley Young,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Beto,Everton,Bournemouth,0.5,3.2,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Beto,Everton,Bournemouth,1.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Beto,Everton,Bournemouth,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,0.5,3.5,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,1.5,15,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,David Brooks,Bournemouth,Everton,0.5,3.4,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,David Brooks,Bournemouth,Everton,1.5,15,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,David Brooks,Bournemouth,Everton,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dean Huijsen,Bournemouth,Everton,0.5,8.5,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dean Huijsen,Bournemouth,Everton,1.5,151,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,0.5,15,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,1.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Alex Scott,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,0.5,12,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Antoine Semenyo,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,0.5,13,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dango Ouattara,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dean Huijsen,Bournemouth,Everton,0.5,17,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dean Huijsen,Bournemouth,Everton,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dean Huijsen,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dominic Calvert-Lewin,Everton,Bournemouth,0.5,2.8,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dominic Calvert-Lewin,Everton,Bournemouth,1.5,11,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dominic Calvert-Lewin,Everton,Bournemouth,2.5,67,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,0.5,4.25,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,1.5,26,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,2.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Evanilson,Bournemouth,Everton,0.5,2.6,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Evanilson,Bournemouth,Everton,1.5,10,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Evanilson,Bournemouth,Everton,2.5,51,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Harrison Armstrong,Everton,Bournemouth,0.5,6,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Harrison Armstrong,Everton,Bournemouth,1.5,81,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Harrison Armstrong,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Idrissa Gueye,Everton,Bournemouth,0.5,6,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Idrissa Gueye,Everton,Bournemouth,1.5,81,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dominic Calvert-Lewin,Everton,Bournemouth,1.5,9,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dominic Calvert-Lewin,Everton,Bournemouth,2.5,151,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,0.5,15,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Dwight McNeil,Everton,Bournemouth,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Idrissa Gueye,Everton,Bournemouth,0.5,17,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Idrissa Gueye,Everton,Bournemouth,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Idrissa Gueye,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Iliman Ndiaye,Everton,Bournemouth,0.5,3.4,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Iliman Ndiaye,Everton,Bournemouth,1.5,13,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Iliman Ndiaye,Everton,Bournemouth,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ilya Zabarnyi,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ilya Zabarnyi,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ilya Zabarnyi,Bournemouth,Everton,0.5,21,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ilya Zabarnyi,Bournemouth,Everton,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ilya Zabarnyi,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,0.5,4.25,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,1.5,26,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,2.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jake O'Brien,Everton,Bournemouth,0.5,8,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jake O'Brien,Everton,Bournemouth,1.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jake O'Brien,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Garner,Everton,Bournemouth,0.5,5.5,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Garner,Everton,Bournemouth,1.5,67,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Garner,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Hill,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Hill,Bournemouth,Everton,1.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Hill,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Tarkowski,Everton,Bournemouth,0.5,8,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Tarkowski,Everton,Bournemouth,1.5,101,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,0.5,12,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jack Harrison,Everton,Bournemouth,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Tarkowski,Everton,Bournemouth,0.5,26,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Tarkowski,Everton,Bournemouth,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,James Tarkowski,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jesper Lindstrøm,Everton,Bournemouth,0.5,4,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jesper Lindstrøm,Everton,Bournemouth,1.5,21,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Jesper Lindstrøm,Everton,Bournemouth,2.5,151,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Julián Araujo,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Julián Araujo,Bournemouth,Everton,1.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Julián Araujo,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,0.5,3.15,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,1.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Lewis Cook,Bournemouth,Everton,0.5,7.5,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Lewis Cook,Bournemouth,Everton,1.5,101,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,0.5,13,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Justin Kluivert,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Lewis Cook,Bournemouth,Everton,0.5,17,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Lewis Cook,Bournemouth,Everton,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Lewis Cook,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,0.5,3.15,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,1.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,2.5,101,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcos Senesi,Bournemouth,Everton,0.5,6.5,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcos Senesi,Bournemouth,Everton,1.5,81,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcos Senesi,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,0.5,4,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,1.5,21,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,2.5,151,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Max Aarons,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Max Aarons,Bournemouth,Everton,1.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Max Aarons,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Michael Keane,Everton,Bournemouth,0.5,8,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Michael Keane,Everton,Bournemouth,1.5,101,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,0.5,12,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Luis Sinisterra,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,0.5,13,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,1.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Marcus Tavernier,Bournemouth,Everton,2.5,301,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Michael Keane,Everton,Bournemouth,1.5,26,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Michael Keane,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Milos Kerkez,Bournemouth,Everton,0.5,12,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Milos Kerkez,Bournemouth,Everton,1.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Milos Kerkez,Bournemouth,Everton,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Roman Dixon,Everton,Bournemouth,0.5,13,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Roman Dixon,Everton,Bournemouth,1.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Roman Dixon,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ryan Christie,Bournemouth,Everton,0.5,4.75,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ryan Christie,Bournemouth,Everton,1.5,41,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Ryan Christie,Bournemouth,Everton,2.5,201,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Séamus Coleman,Everton,Bournemouth,0.5,13,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Séamus Coleman,Everton,Bournemouth,1.5,201,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Séamus Coleman,Everton,Bournemouth,0.5,26,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Séamus Coleman,Everton,Bournemouth,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Séamus Coleman,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Tim Iroegbunam,Everton,Bournemouth,0.5,7,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Tim Iroegbunam,Everton,Bournemouth,1.5,101,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Tim Iroegbunam,Everton,Bournemouth,0.5,15,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Tim Iroegbunam,Everton,Bournemouth,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Tim Iroegbunam,Everton,Bournemouth,2.5,301,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Vitaliy Mykolenko,Everton,Bournemouth,0.5,9,TAB
-Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Vitaliy Mykolenko,Everton,Bournemouth,1.5,151,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Vitaliy Mykolenko,Everton,Bournemouth,0.5,17,TAB
+Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Vitaliy Mykolenko,Everton,Bournemouth,1.5,301,TAB
 Everton v Bournemouth,2024-08-31T14:00:00.000Z,Player Goals,Everton,Bournemouth,Vitaliy Mykolenko,Everton,Bournemouth,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Adama Traoré,Fulham,Ipswich Town,0.5,3.4,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Adama Traoré,Fulham,Ipswich Town,1.5,15,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Adama Traoré,Fulham,Ipswich Town,2.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,0.5,4,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,1.5,21,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,2.5,151,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,0.5,2.9,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,1.5,11,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,2.5,81,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,0.5,3.7,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,1.5,17,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,2.5,151,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Antonee Robinson,Fulham,Ipswich Town,0.5,10,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Antonee Robinson,Fulham,Ipswich Town,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Adama Traoré,Fulham,Ipswich Town,1.5,12,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Adama Traoré,Fulham,Ipswich Town,2.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,0.5,12,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Alex Iwobi,Fulham,Ipswich Town,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,0.5,10,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ali Al-Hamadi,Ipswich Town,Fulham,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,0.5,11,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Andreas Pereira,Fulham,Ipswich Town,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Antonee Robinson,Fulham,Ipswich Town,0.5,26,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Antonee Robinson,Fulham,Ipswich Town,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Antonee Robinson,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Axel Tuanzebe,Ipswich Town,Fulham,0.5,11,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Axel Tuanzebe,Ipswich Town,Fulham,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Axel Tuanzebe,Ipswich Town,Fulham,0.5,21,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Axel Tuanzebe,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Axel Tuanzebe,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ben Johnson,Ipswich Town,Fulham,0.5,7,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ben Johnson,Ipswich Town,Fulham,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Ben Johnson,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Calvin Bassey,Fulham,Ipswich Town,0.5,8.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Calvin Bassey,Fulham,Ipswich Town,1.5,151,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Calvin Bassey,Fulham,Ipswich Town,0.5,17,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Calvin Bassey,Fulham,Ipswich Town,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Calvin Bassey,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Chaplin,Ipswich Town,Fulham,0.5,3.1,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Chaplin,Ipswich Town,Fulham,1.5,12,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Chaplin,Ipswich Town,Fulham,2.5,81,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Townsend,Ipswich Town,Fulham,0.5,11,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Townsend,Ipswich Town,Fulham,1.5,201,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Conor Townsend,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Dara OShea,NA,NA,0.5,7,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Dara OShea,NA,NA,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Dara OShea,NA,NA,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Emile Smith Rowe,Fulham,Ipswich Town,0.5,3.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Emile Smith Rowe,Fulham,Ipswich Town,1.5,17,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Emile Smith Rowe,Fulham,Ipswich Town,2.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harrison Reed,Fulham,Ipswich Town,0.5,6,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harrison Reed,Fulham,Ipswich Town,1.5,67,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harrison Reed,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harry Wilson,Fulham,Ipswich Town,0.5,3.3,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harry Wilson,Fulham,Ipswich Town,1.5,13,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Harry Wilson,Fulham,Ipswich Town,2.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Issa Diop,Fulham,Ipswich Town,0.5,10,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Issa Diop,Fulham,Ipswich Town,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Issa Diop,Fulham,Ipswich Town,0.5,26,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Issa Diop,Fulham,Ipswich Town,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Issa Diop,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,0.5,3.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,1.5,15,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,2.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jacob Greaves,Ipswich Town,Fulham,0.5,9,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jacob Greaves,Ipswich Town,Fulham,1.5,151,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,0.5,12,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jack Clarke,Ipswich Town,Fulham,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jacob Greaves,Ipswich Town,Fulham,0.5,26,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jacob Greaves,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jacob Greaves,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jens Cajuste,Ipswich Town,Fulham,0.5,6,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jens Cajuste,Ipswich Town,Fulham,1.5,67,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jens Cajuste,Ipswich Town,Fulham,0.5,17,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jens Cajuste,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jens Cajuste,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Crystal Palace,Ipswich Town,0.5,7.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Fulham,Ipswich Town,0.5,7.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Crystal Palace,Ipswich Town,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Fulham,Ipswich Town,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Crystal Palace,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Joachim Andersen,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jorge Cuenca,Fulham,Ipswich Town,0.5,8.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jorge Cuenca,Fulham,Ipswich Town,1.5,151,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Jorge Cuenca,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Manchester City,Ipswich Town,0.5,7,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Ipswich Town,Fulham,0.5,7,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Manchester City,Ipswich Town,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Ipswich Town,Fulham,1.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Manchester City,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kalvin Phillips,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kenny Tete,Fulham,Ipswich Town,0.5,10,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kenny Tete,Fulham,Ipswich Town,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kenny Tete,Fulham,Ipswich Town,0.5,26,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kenny Tete,Fulham,Ipswich Town,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Kenny Tete,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Leif Davis,Ipswich Town,Fulham,0.5,9,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Leif Davis,Ipswich Town,Fulham,1.5,151,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Leif Davis,Ipswich Town,Fulham,0.5,26,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Leif Davis,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Leif Davis,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Liam Delap,Ipswich Town,Fulham,0.5,3.1,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Liam Delap,Ipswich Town,Fulham,1.5,12,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Liam Delap,Ipswich Town,Fulham,2.5,81,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Luke Woolfenden,Ipswich Town,Fulham,0.5,11,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Luke Woolfenden,Ipswich Town,Fulham,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Luke Woolfenden,Ipswich Town,Fulham,0.5,21,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Luke Woolfenden,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Luke Woolfenden,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Massimo Luongo,Ipswich Town,Fulham,0.5,6,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Massimo Luongo,Ipswich Town,Fulham,1.5,67,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Massimo Luongo,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,0.5,3.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,1.5,15,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,2.5,101,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,0.5,4.25,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,1.5,26,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,2.5,201,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,0.5,2.8,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,1.5,10,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,2.5,67,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Rodrigo Muniz,Fulham,Ipswich Town,0.5,2.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Rodrigo Muniz,Fulham,Ipswich Town,1.5,9,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Rodrigo Muniz,Fulham,Ipswich Town,2.5,51,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sam Morsy,Ipswich Town,Fulham,0.5,8,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sam Morsy,Ipswich Town,Fulham,1.5,101,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,0.5,12,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,1.5,201,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Omari Hutchinson,Ipswich Town,Fulham,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,0.5,15,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,1.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Player32Home,NA,NA,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,0.5,9,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,1.5,151,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Raúl Jiménez,Fulham,Ipswich Town,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sam Morsy,Ipswich Town,Fulham,0.5,17,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sam Morsy,Ipswich Town,Fulham,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sam Morsy,Ipswich Town,Fulham,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sammie Szmodics,Ipswich Town,Fulham,0.5,3,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sammie Szmodics,Ipswich Town,Fulham,1.5,12,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sammie Szmodics,Ipswich Town,Fulham,2.5,81,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,0.5,4.75,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,1.5,41,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,2.5,201,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Saša Lukić,Fulham,Ipswich Town,0.5,5.5,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Saša Lukić,Fulham,Ipswich Town,1.5,51,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,0.5,13,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,1.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Sander Berge,Fulham,Ipswich Town,2.5,301,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Saša Lukić,Fulham,Ipswich Town,0.5,15,TAB
+Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Saša Lukić,Fulham,Ipswich Town,1.5,301,TAB
 Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Saša Lukić,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Timothy Castagne,Fulham,Ipswich Town,0.5,10,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Timothy Castagne,Fulham,Ipswich Town,1.5,201,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Timothy Castagne,Fulham,Ipswich Town,2.5,301,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Tom Cairney,Fulham,Ipswich Town,0.5,4.75,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Tom Cairney,Fulham,Ipswich Town,1.5,41,TAB
-Ipswich Town v Fulham,2024-08-31T14:00:00.000Z,Player Goals,Ipswich Town,Fulham,Tom Cairney,Fulham,Ipswich Town,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Amadou Onana,Aston Villa,Leicester City,0.5,4.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Amadou Onana,Aston Villa,Leicester City,1.5,34,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Amadou Onana,Aston Villa,Leicester City,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,0.5,4,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,1.5,21,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,2.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bobby De Cordova-Reid,Leicester City,Aston Villa,0.5,3.7,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bobby De Cordova-Reid,Leicester City,Aston Villa,1.5,17,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bobby De Cordova-Reid,Leicester City,Aston Villa,2.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Boubakary Soumaré,Leicester City,Aston Villa,0.5,8.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Boubakary Soumaré,Leicester City,Aston Villa,1.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Boubakary Soumaré,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Caleb Okoli,Leicester City,Aston Villa,0.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Caleb Okoli,Leicester City,Aston Villa,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,0.5,11,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Bilal El Khannouss,Leicester City,Aston Villa,2.5,301,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Caleb Okoli,Leicester City,Aston Villa,0.5,26,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Caleb Okoli,Leicester City,Aston Villa,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Caleb Okoli,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Emiliano Buendía,Aston Villa,Leicester City,0.5,3.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Emiliano Buendía,Aston Villa,Leicester City,1.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Emiliano Buendía,Aston Villa,Leicester City,2.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ezri Konsa,Aston Villa,Leicester City,0.5,9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ezri Konsa,Aston Villa,Leicester City,1.5,151,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ezri Konsa,Aston Villa,Leicester City,0.5,17,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ezri Konsa,Aston Villa,Leicester City,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ezri Konsa,Aston Villa,Leicester City,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Facundo Buonanotte,Leicester City,Aston Villa,0.5,4.25,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Facundo Buonanotte,Leicester City,Aston Villa,1.5,26,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Facundo Buonanotte,Leicester City,Aston Villa,1.5,13,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Facundo Buonanotte,Leicester City,Aston Villa,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Harry Winks,Leicester City,Aston Villa,0.5,7.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Harry Winks,Leicester City,Aston Villa,1.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Harry Winks,Leicester City,Aston Villa,0.5,17,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Harry Winks,Leicester City,Aston Villa,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Harry Winks,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ian Maatsen,Aston Villa,Leicester City,0.5,5.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ian Maatsen,Aston Villa,Leicester City,1.5,67,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ian Maatsen,Aston Villa,Leicester City,0.5,15,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ian Maatsen,Aston Villa,Leicester City,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ian Maatsen,Aston Villa,Leicester City,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Issahaku Fatawu,Leicester City,Aston Villa,0.5,4.25,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Issahaku Fatawu,Leicester City,Aston Villa,1.5,26,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Issahaku Fatawu,Leicester City,Aston Villa,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jacob Ramsey,Aston Villa,Leicester City,0.5,3.9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jacob Ramsey,Aston Villa,Leicester City,1.5,21,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jacob Ramsey,Aston Villa,Leicester City,2.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,James Justin,Leicester City,Aston Villa,0.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,James Justin,Leicester City,Aston Villa,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,James Justin,Leicester City,Aston Villa,0.5,26,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,James Justin,Leicester City,Aston Villa,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,James Justin,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,0.5,2.7,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,1.5,10,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,2.5,51,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jannik Vestergaard,Leicester City,Aston Villa,0.5,12,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jannik Vestergaard,Leicester City,Aston Villa,1.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jannik Vestergaard,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jhon Durán,Aston Villa,Leicester City,0.5,2.5,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,0.5,7.5,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,1.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jamie Vardy,Leicester City,Aston Villa,2.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jhon Durán,Aston Villa,Leicester City,1.5,9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jhon Durán,Aston Villa,Leicester City,2.5,41,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,0.5,4,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,1.5,21,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Crystal Palace,Leicester City,0.5,3.25,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Leicester City,Aston Villa,0.5,3.25,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Crystal Palace,Leicester City,1.5,13,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Leicester City,Aston Villa,1.5,13,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Crystal Palace,Leicester City,2.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jordan Ayew,Leicester City,Aston Villa,2.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kasey McAteer,Leicester City,Aston Villa,0.5,3.7,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kasey McAteer,Leicester City,Aston Villa,1.5,17,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kasey McAteer,Leicester City,Aston Villa,2.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kosta Nedeljkovic,Aston Villa,Leicester City,0.5,7.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kosta Nedeljkovic,Aston Villa,Leicester City,1.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Jhon Durán,Aston Villa,Leicester City,2.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,0.5,13,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,John McGinn,Aston Villa,Leicester City,2.5,301,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kosta Nedeljkovic,Aston Villa,Leicester City,0.5,21,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kosta Nedeljkovic,Aston Villa,Leicester City,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Kosta Nedeljkovic,Aston Villa,Leicester City,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lamare Bogarde,Aston Villa,Leicester City,0.5,4.75,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lamare Bogarde,Aston Villa,Leicester City,1.5,41,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lamare Bogarde,Aston Villa,Leicester City,2.5,201,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Leon Bailey,Aston Villa,Leicester City,0.5,2.9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Leon Bailey,Aston Villa,Leicester City,1.5,11,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Leon Bailey,Aston Villa,Leicester City,2.5,81,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lucas Digne,Aston Villa,Leicester City,0.5,7.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lucas Digne,Aston Villa,Leicester City,1.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lucas Digne,Aston Villa,Leicester City,0.5,21,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lucas Digne,Aston Villa,Leicester City,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Lucas Digne,Aston Villa,Leicester City,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,0.5,2.9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,1.5,11,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,2.5,67,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Oliver Skipp,Leicester City,Aston Villa,0.5,12,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Oliver Skipp,Leicester City,Aston Villa,1.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Oliver Skipp,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ollie Watkins,Aston Villa,Leicester City,0.5,2.05,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ollie Watkins,Aston Villa,Leicester City,1.5,6.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ollie Watkins,Aston Villa,Leicester City,2.5,21,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Pau Torres,Aston Villa,Leicester City,0.5,7.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Pau Torres,Aston Villa,Leicester City,1.5,101,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,0.5,10,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Morgan Rogers,Aston Villa,Leicester City,2.5,301,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Pau Torres,Aston Villa,Leicester City,0.5,21,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Pau Torres,Aston Villa,Leicester City,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Pau Torres,Aston Villa,Leicester City,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ricardo Pereira,Leicester City,Aston Villa,0.5,7,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ricardo Pereira,Leicester City,Aston Villa,1.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ricardo Pereira,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,0.5,3.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,1.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,2.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Sil Swinkels,NA,NA,0.5,9,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Sil Swinkels,NA,NA,1.5,151,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Sil Swinkels,NA,NA,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,0.5,3.25,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,1.5,13,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,2.5,101,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Victor Kristiansen,Leicester City,Aston Villa,0.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Victor Kristiansen,Leicester City,Aston Villa,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,0.5,11,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Ross Barkley,Aston Villa,Leicester City,2.5,301,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,0.5,9,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,1.5,151,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Stephy Mavididi,Leicester City,Aston Villa,2.5,301,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Victor Kristiansen,Leicester City,Aston Villa,0.5,26,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Victor Kristiansen,Leicester City,Aston Villa,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Victor Kristiansen,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wilfred Ndidi,Leicester City,Aston Villa,0.5,5.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wilfred Ndidi,Leicester City,Aston Villa,1.5,51,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wilfred Ndidi,Leicester City,Aston Villa,0.5,17,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wilfred Ndidi,Leicester City,Aston Villa,1.5,201,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wilfred Ndidi,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wout Faes,Leicester City,Aston Villa,0.5,15,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wout Faes,Leicester City,Aston Villa,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wout Faes,Leicester City,Aston Villa,0.5,26,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wout Faes,Leicester City,Aston Villa,1.5,301,TAB
 Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Wout Faes,Leicester City,Aston Villa,2.5,301,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,0.5,4.5,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,1.5,34,TAB
-Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,0.5,3.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,1.5,15,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,2.5,101,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,0.5,2.9,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,1.5,11,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,2.5,81,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Chris Wood,Nottingham Forest,Wolverhampton Wanderers,0.5,2.15,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Chris Wood,Nottingham Forest,Wolverhampton Wanderers,1.5,7,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Chris Wood,Nottingham Forest,Wolverhampton Wanderers,2.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Craig Dawson,Wolverhampton Wanderers,Nottingham Forest,0.5,8.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Craig Dawson,Wolverhampton Wanderers,Nottingham Forest,1.5,151,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,0.5,13,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,1.5,201,TAB
+Leicester City v Aston Villa,2024-08-31T14:00:00.000Z,Player Goals,Leicester City,Aston Villa,Youri Tielemans,Aston Villa,Leicester City,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,0.5,10,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Anthony Elanga,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,0.5,9,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,1.5,151,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Callum Hudson-Odoi,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Chris Wood,Nottingham Forest,Wolverhampton Wanderers,1.5,7.5,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Chris Wood,Nottingham Forest,Wolverhampton Wanderers,2.5,101,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Craig Dawson,Wolverhampton Wanderers,Nottingham Forest,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Craig Dawson,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Craig Dawson,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,0.5,4.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,1.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Eric da Silva Moreira,Nottingham Forest,Wolverhampton Wanderers,0.5,4.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Eric da Silva Moreira,Nottingham Forest,Wolverhampton Wanderers,1.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Eric da Silva Moreira,Nottingham Forest,Wolverhampton Wanderers,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,0.5,4,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,1.5,21,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,2.5,151,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,0.5,2.9,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,1.5,11,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,2.5,81,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ibrahim Sangaré,Nottingham Forest,Wolverhampton Wanderers,0.5,6.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ibrahim Sangaré,Nottingham Forest,Wolverhampton Wanderers,1.5,101,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ibrahim Sangaré,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jean-Ricner Bellegarde,Wolverhampton Wanderers,Nottingham Forest,0.5,5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jean-Ricner Bellegarde,Wolverhampton Wanderers,Nottingham Forest,1.5,41,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jean-Ricner Bellegarde,Wolverhampton Wanderers,Nottingham Forest,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jota Silva,Nottingham Forest,Wolverhampton Wanderers,0.5,3.7,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jota Silva,Nottingham Forest,Wolverhampton Wanderers,1.5,17,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jota Silva,Nottingham Forest,Wolverhampton Wanderers,2.5,151,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,João Gomes,Wolverhampton Wanderers,Nottingham Forest,0.5,6.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,João Gomes,Wolverhampton Wanderers,Nottingham Forest,1.5,81,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,João Gomes,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,0.5,2.9,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,1.5,11,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,2.5,67,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Mario Lemina,Wolverhampton Wanderers,Nottingham Forest,0.5,5.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Mario Lemina,Wolverhampton Wanderers,Nottingham Forest,1.5,51,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,0.5,15,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Elliot Anderson,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,0.5,13,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Gonçalo Guedes,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,0.5,11,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Hee-chan Hwang,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,0.5,11,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Jørgen Strand Larsen,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Mario Lemina,Wolverhampton Wanderers,Nottingham Forest,0.5,26,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Mario Lemina,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Mario Lemina,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,0.5,2.9,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,1.5,11,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,2.5,67,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matt Doherty,Wolverhampton Wanderers,Nottingham Forest,0.5,7.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matt Doherty,Wolverhampton Wanderers,Nottingham Forest,1.5,101,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,0.5,11,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matheus Cunha,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matt Doherty,Wolverhampton Wanderers,Nottingham Forest,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matt Doherty,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Matt Doherty,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,0.5,3,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,1.5,12,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,2.5,81,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Murillo,Nottingham Forest,Wolverhampton Wanderers,0.5,9,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Murillo,Nottingham Forest,Wolverhampton Wanderers,1.5,151,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,0.5,9,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,1.5,151,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Murillo,Nottingham Forest,Wolverhampton Wanderers,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Murillo,Nottingham Forest,Wolverhampton Wanderers,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Murillo,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Neco Williams,Nottingham Forest,Wolverhampton Wanderers,0.5,6.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Neco Williams,Nottingham Forest,Wolverhampton Wanderers,1.5,101,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Neco Williams,Nottingham Forest,Wolverhampton Wanderers,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Neco Williams,Nottingham Forest,Wolverhampton Wanderers,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Neco Williams,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nicolás Domínguez,Nottingham Forest,Wolverhampton Wanderers,0.5,4.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nicolás Domínguez,Nottingham Forest,Wolverhampton Wanderers,1.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nicolás Domínguez,Nottingham Forest,Wolverhampton Wanderers,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nikola Milenković,Nottingham Forest,Wolverhampton Wanderers,0.5,8,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nikola Milenković,Nottingham Forest,Wolverhampton Wanderers,1.5,101,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nikola Milenković,Nottingham Forest,Wolverhampton Wanderers,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nikola Milenković,Nottingham Forest,Wolverhampton Wanderers,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nikola Milenković,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nélson Semedo,Wolverhampton Wanderers,Nottingham Forest,0.5,13,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nélson Semedo,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Nélson Semedo,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ola Aina,Nottingham Forest,Wolverhampton Wanderers,0.5,8,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ola Aina,Nottingham Forest,Wolverhampton Wanderers,1.5,101,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ola Aina,Nottingham Forest,Wolverhampton Wanderers,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ola Aina,Nottingham Forest,Wolverhampton Wanderers,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ola Aina,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Pablo Sarabia,Wolverhampton Wanderers,Nottingham Forest,0.5,3.7,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Pablo Sarabia,Wolverhampton Wanderers,Nottingham Forest,1.5,17,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Pablo Sarabia,Wolverhampton Wanderers,Nottingham Forest,2.5,151,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ramón Sosa,Nottingham Forest,Wolverhampton Wanderers,0.5,2.7,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ramón Sosa,Nottingham Forest,Wolverhampton Wanderers,1.5,10,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ramón Sosa,Nottingham Forest,Wolverhampton Wanderers,2.5,51,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rayan Aït-Nouri,Wolverhampton Wanderers,Nottingham Forest,0.5,7.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rayan Aït-Nouri,Wolverhampton Wanderers,Nottingham Forest,1.5,101,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rayan Aït-Nouri,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rodrigo Gomes,Wolverhampton Wanderers,Nottingham Forest,0.5,4.25,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rodrigo Gomes,Wolverhampton Wanderers,Nottingham Forest,1.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Rodrigo Gomes,Wolverhampton Wanderers,Nottingham Forest,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,0.5,4.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,1.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,2.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Santiago Bueno,Wolverhampton Wanderers,Nottingham Forest,0.5,13,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Santiago Bueno,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Santiago Bueno,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Taiwo Awoniyi,Nottingham Forest,Wolverhampton Wanderers,0.5,2.2,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Taiwo Awoniyi,Nottingham Forest,Wolverhampton Wanderers,1.5,7.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Taiwo Awoniyi,Nottingham Forest,Wolverhampton Wanderers,2.5,26,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Tommy Doyle,Wolverhampton Wanderers,Nottingham Forest,0.5,6.5,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Tommy Doyle,Wolverhampton Wanderers,Nottingham Forest,1.5,81,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,0.5,15,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Ryan Yates,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Tommy Doyle,Wolverhampton Wanderers,Nottingham Forest,0.5,17,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Tommy Doyle,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Tommy Doyle,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Toti,Wolverhampton Wanderers,Nottingham Forest,0.5,10,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Toti,Wolverhampton Wanderers,Nottingham Forest,1.5,151,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Toti,Wolverhampton Wanderers,Nottingham Forest,0.5,21,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Toti,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Toti,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Willy Boly,Nottingham Forest,Wolverhampton Wanderers,0.5,8,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Willy Boly,Nottingham Forest,Wolverhampton Wanderers,1.5,101,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Willy Boly,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Yerson Mosquera,Wolverhampton Wanderers,Nottingham Forest,0.5,13,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Yerson Mosquera,Wolverhampton Wanderers,Nottingham Forest,1.5,201,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Yerson Mosquera,Wolverhampton Wanderers,Nottingham Forest,0.5,21,TAB
+Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Yerson Mosquera,Wolverhampton Wanderers,Nottingham Forest,1.5,301,TAB
 Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Yerson Mosquera,Wolverhampton Wanderers,Nottingham Forest,2.5,301,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Álex Moreno,Nottingham Forest,Wolverhampton Wanderers,0.5,6,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Álex Moreno,Nottingham Forest,Wolverhampton Wanderers,1.5,67,TAB
-Nottingham Forest v Wolverhampton Wanderers,2024-08-31T14:00:00.000Z,Player Goals,Nottingham Forest,Wolverhampton Wanderers,Álex Moreno,Nottingham Forest,Wolverhampton Wanderers,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Cresswell,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Cresswell,West Ham United,Manchester City,1.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Cresswell,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,1.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,0.5,3.8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,1.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,2.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,0.5,5.5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,1.5,41,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,1.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,1.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,0.5,1.58,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,1.5,3.8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,2.5,11,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,0.5,12,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,1.5,201,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,0.5,3.8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,1.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,2.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,0.5,3.8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,1.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,2.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,0.5,3.1,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,1.5,13,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,2.5,81,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,0.5,4.25,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,1.5,21,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,2.5,201,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,1.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,0.5,8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,1.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,0.5,8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,1.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,0.5,3.3,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,1.5,15,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,2.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,0.5,2.9,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,1.5,13,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,2.5,81,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,0.5,15,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,1.5,201,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,0.5,15,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,1.5,201,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,0.5,5.5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,1.5,41,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,0.5,8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,1.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,0.5,6.5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,1.5,67,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,0.5,5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,1.5,41,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,1.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,0.5,5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,1.5,34,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,0.5,5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,1.5,34,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,2.5,301,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,0.5,10,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,1.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,0.5,4,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,1.5,21,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,2.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Phil Foden,Manchester City,West Ham United,0.5,2.15,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Phil Foden,Manchester City,West Ham United,1.5,7.5,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Phil Foden,Manchester City,West Ham United,2.5,26,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,0.5,8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,1.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,0.5,4.75,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,1.5,26,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,2.5,201,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,0.5,10,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,1.5,151,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Savinho,Manchester City,West Ham United,0.5,3.1,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Savinho,Manchester City,West Ham United,1.5,13,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Savinho,Manchester City,West Ham United,2.5,81,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,0.5,8,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,1.5,101,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,2.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,0.5,17,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,1.5,401,TAB
-West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,2.5,401,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Adam Wharton,Crystal Palace,Chelsea,0.5,9,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,0.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Aaron Wan-Bissaka,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Andy Irving,West Ham United,Manchester City,0.5,7,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Andy Irving,West Ham United,Manchester City,1.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Andy Irving,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,0.5,3.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,1.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Bernardo Silva,Manchester City,West Ham United,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,0.5,4.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,1.5,26,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Crysencio Summerville,West Ham United,Manchester City,2.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,0.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Edson Álvarez,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,0.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Emerson,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,0.5,1.48,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,1.5,3.5,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Erling Haaland,Manchester City,West Ham United,2.5,9,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,0.5,8.5,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,1.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Guido Rodríguez,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,0.5,3.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,1.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Ilkay Gündogan,NA,NA,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,0.5,3.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,1.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jack Grealish,Manchester City,West Ham United,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,0.5,2.8,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,1.5,10,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,James McAtee,Manchester City,West Ham United,2.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,0.5,3.5,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,1.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jarrod Bowen,West Ham United,Manchester City,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,0.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jean-Clair Todibo,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,0.5,6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,1.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,John Stones,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,0.5,6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,1.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Josko Gvardiol,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,0.5,2.9,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,1.5,11,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Jérémy Doku,Manchester City,West Ham United,2.5,81,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kaelan Casey,NA,NA,0.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kaelan Casey,NA,NA,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kaelan Casey,NA,NA,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,0.5,2.6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,1.5,10,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kevin De Bruyne,Manchester City,West Ham United,2.5,51,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,0.5,9,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,1.5,151,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Konstantinos Mavropanos,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,0.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,1.5,151,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Kyle Walker,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,0.5,4.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,1.5,26,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Lucas Paquetá,West Ham United,Manchester City,2.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Luis Guilherme,West Ham United,Manchester City,0.5,5.5,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Luis Guilherme,West Ham United,Manchester City,1.5,51,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Luis Guilherme,West Ham United,Manchester City,2.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,0.5,6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,1.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Manuel Akanji,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,0.5,5,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,1.5,51,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mateo Kovacic,Manchester City,West Ham United,2.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,0.5,4.25,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,1.5,26,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Matheus Nunes,Manchester City,West Ham United,2.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,0.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Max Kilman,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,0.5,4,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,1.5,21,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Michail Antonio,West Ham United,Manchester City,2.5,151,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,0.5,4,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,1.5,21,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Mohammed Kudus,West Ham United,Manchester City,2.5,151,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,0.5,7,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,1.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nathan Aké,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,0.5,3.3,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,1.5,13,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Niclas Füllkrug,West Ham United,Manchester City,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nico O'Reilly,Manchester City,West Ham United,0.5,3.4,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nico O'Reilly,Manchester City,West Ham United,1.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Nico O'Reilly,Manchester City,West Ham United,2.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,0.5,6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,1.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rico Lewis,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,0.5,4,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,1.5,21,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rodri,Manchester City,West Ham United,2.5,151,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,0.5,7,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,1.5,101,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Rúben Dias,Manchester City,West Ham United,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,0.5,6,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,1.5,67,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Tomas Soucek,West Ham United,Manchester City,2.5,301,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,0.5,15,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,1.5,201,TAB
+West Ham United v Manchester City,2024-08-31T16:30:00.000Z,Player Goals,West Ham United,Manchester City,Vladimír Coufal,West Ham United,Manchester City,2.5,301,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Adam Wharton,Crystal Palace,Chelsea,0.5,8.5,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Adam Wharton,Crystal Palace,Chelsea,1.5,101,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Adam Wharton,Crystal Palace,Chelsea,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Benoît Badiashile,Chelsea,Crystal Palace,0.5,11,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Benoît Badiashile,Chelsea,Crystal Palace,1.5,151,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Benoît Badiashile,Chelsea,Crystal Palace,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chadi Riad,Crystal Palace,Chelsea,0.5,15,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chadi Riad,Crystal Palace,Chelsea,1.5,301,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chadi Riad,Crystal Palace,Chelsea,1.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chadi Riad,Crystal Palace,Chelsea,2.5,401,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Cheick Doucouré,Crystal Palace,Chelsea,0.5,10,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Cheick Doucouré,Crystal Palace,Chelsea,0.5,9,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Cheick Doucouré,Crystal Palace,Chelsea,1.5,151,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Cheick Doucouré,Crystal Palace,Chelsea,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chris Richards,Crystal Palace,Chelsea,0.5,15,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chris Richards,Crystal Palace,Chelsea,1.5,301,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chris Richards,Crystal Palace,Chelsea,1.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Chris Richards,Crystal Palace,Chelsea,2.5,401,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Christopher Nkunku,Chelsea,Crystal Palace,0.5,2.1,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Christopher Nkunku,Chelsea,Crystal Palace,0.5,2.15,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Christopher Nkunku,Chelsea,Crystal Palace,1.5,7,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Christopher Nkunku,Chelsea,Crystal Palace,2.5,26,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Cole Palmer,Chelsea,Crystal Palace,0.5,2,TAB
@@ -674,19 +425,19 @@ Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal P
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Daniel Muñoz,Crystal Palace,Chelsea,0.5,12,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Daniel Muñoz,Crystal Palace,Chelsea,1.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Daniel Muñoz,Crystal Palace,Chelsea,2.5,401,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Eberechi Eze,Crystal Palace,Chelsea,0.5,3.6,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Eberechi Eze,Crystal Palace,Chelsea,0.5,3.5,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Eberechi Eze,Crystal Palace,Chelsea,1.5,17,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Eberechi Eze,Crystal Palace,Chelsea,2.5,101,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Enzo Fernández,Chelsea,Crystal Palace,0.5,4.5,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Enzo Fernández,Chelsea,Crystal Palace,1.5,26,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Enzo Fernández,Chelsea,Crystal Palace,2.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Ismaïla Sarr,Crystal Palace,Chelsea,0.5,4,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Ismaïla Sarr,Crystal Palace,Chelsea,1.5,21,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Ismaïla Sarr,Crystal Palace,Chelsea,1.5,17,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Ismaïla Sarr,Crystal Palace,Chelsea,2.5,151,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jean-Philippe Mateta,Crystal Palace,Chelsea,0.5,3.2,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jean-Philippe Mateta,Crystal Palace,Chelsea,1.5,13,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jean-Philippe Mateta,Crystal Palace,Chelsea,2.5,101,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jefferson Lerma,Crystal Palace,Chelsea,0.5,9,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jefferson Lerma,Crystal Palace,Chelsea,0.5,8.5,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jefferson Lerma,Crystal Palace,Chelsea,1.5,101,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jefferson Lerma,Crystal Palace,Chelsea,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Jeffrey Schlupp,Crystal Palace,Chelsea,0.5,6,TAB
@@ -714,7 +465,7 @@ Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal P
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guiu,Chelsea,Crystal Palace,1.5,11,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guiu,Chelsea,Crystal Palace,2.5,51,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guéhi,Crystal Palace,Chelsea,0.5,15,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guéhi,Crystal Palace,Chelsea,1.5,301,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guéhi,Crystal Palace,Chelsea,1.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Marc Guéhi,Crystal Palace,Chelsea,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Moisés Caicedo,Chelsea,Crystal Palace,0.5,9,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Moisés Caicedo,Chelsea,Crystal Palace,1.5,101,TAB
@@ -725,14 +476,14 @@ Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal P
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nathaniel Clyne,Crystal Palace,Chelsea,0.5,17,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nathaniel Clyne,Crystal Palace,Chelsea,1.5,301,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nathaniel Clyne,Crystal Palace,Chelsea,2.5,401,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nicolas Jackson,Chelsea,Crystal Palace,0.5,2.1,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nicolas Jackson,Chelsea,Crystal Palace,0.5,2.15,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nicolas Jackson,Chelsea,Crystal Palace,1.5,7,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Nicolas Jackson,Chelsea,Crystal Palace,2.5,26,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Noni Madueke,Chelsea,Crystal Palace,0.5,2.8,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Noni Madueke,Chelsea,Crystal Palace,1.5,12,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Noni Madueke,Chelsea,Crystal Palace,1.5,13,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Noni Madueke,Chelsea,Crystal Palace,2.5,67,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Pedro Neto,Chelsea,Crystal Palace,0.5,2.8,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Pedro Neto,Chelsea,Crystal Palace,1.5,12,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Pedro Neto,Chelsea,Crystal Palace,1.5,13,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Pedro Neto,Chelsea,Crystal Palace,2.5,67,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Renato Veiga,Chelsea,Crystal Palace,0.5,5,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Renato Veiga,Chelsea,Crystal Palace,1.5,41,TAB
@@ -747,7 +498,7 @@ Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal P
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tosin Adarabioyo,Chelsea,Crystal Palace,1.5,151,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tosin Adarabioyo,Chelsea,Crystal Palace,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tyrick Mitchell,Crystal Palace,Chelsea,0.5,15,TAB
-Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tyrick Mitchell,Crystal Palace,Chelsea,1.5,301,TAB
+Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tyrick Mitchell,Crystal Palace,Chelsea,1.5,201,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Tyrick Mitchell,Crystal Palace,Chelsea,2.5,401,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Wesley Fofana,Chelsea,Crystal Palace,0.5,11,TAB
 Chelsea v Crystal Palace,2024-09-01T12:30:00.000Z,Player Goals,Chelsea,Crystal Palace,Wesley Fofana,Chelsea,Crystal Palace,1.5,151,TAB
@@ -881,10 +632,10 @@ Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester U
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Casemiro,Manchester United,Liverpool,0.5,8,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Casemiro,Manchester United,Liverpool,1.5,101,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Casemiro,Manchester United,Liverpool,2.5,401,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Christian Eriksen,Manchester United,Liverpool,0.5,7.5,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Christian Eriksen,Manchester United,Liverpool,0.5,7,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Christian Eriksen,Manchester United,Liverpool,1.5,81,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Christian Eriksen,Manchester United,Liverpool,2.5,401,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Cody Gakpo,Liverpool,Manchester United,0.5,2.5,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Cody Gakpo,Liverpool,Manchester United,0.5,2.6,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Cody Gakpo,Liverpool,Manchester United,1.5,11,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Cody Gakpo,Liverpool,Manchester United,2.5,51,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Conor Bradley,Liverpool,Manchester United,0.5,9,TAB
@@ -894,14 +645,14 @@ Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester U
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Curtis Jones,Liverpool,Manchester United,1.5,17,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Curtis Jones,Liverpool,Manchester United,2.5,151,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Darwin Núñez,Liverpool,Manchester United,0.5,2.3,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Darwin Núñez,Liverpool,Manchester United,1.5,8,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Darwin Núñez,Liverpool,Manchester United,1.5,8.5,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Darwin Núñez,Liverpool,Manchester United,2.5,34,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Dalot,Manchester United,Liverpool,0.5,10,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Dalot,Manchester United,Liverpool,1.5,151,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Dalot,Manchester United,Liverpool,2.5,401,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Jota,Liverpool,Manchester United,0.5,2.3,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Jota,Liverpool,Manchester United,0.5,2.4,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Jota,Liverpool,Manchester United,1.5,9,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Jota,Liverpool,Manchester United,2.5,34,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Diogo Jota,Liverpool,Manchester United,2.5,41,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Dominik Szoboszlai,Liverpool,Manchester United,0.5,3.9,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Dominik Szoboszlai,Liverpool,Manchester United,1.5,17,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Dominik Szoboszlai,Liverpool,Manchester United,2.5,151,TAB
@@ -926,7 +677,7 @@ Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester U
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Jonny Evans,Manchester United,Liverpool,0.5,15,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Jonny Evans,Manchester United,Liverpool,1.5,301,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Jonny Evans,Manchester United,Liverpool,2.5,401,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Joshua Zirkzee,Manchester United,Liverpool,0.5,3,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Joshua Zirkzee,Manchester United,Liverpool,1.5,13,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Joshua Zirkzee,Manchester United,Liverpool,2.5,81,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Kobbie Mainoo,Manchester United,Liverpool,0.5,8,TAB
@@ -941,14 +692,14 @@ Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester U
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Luis Díaz,Liverpool,Manchester United,0.5,2.9,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Luis Díaz,Liverpool,Manchester United,1.5,13,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Luis Díaz,Liverpool,Manchester United,2.5,67,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Marcus Rashford,Manchester United,Liverpool,0.5,3.3,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Marcus Rashford,Manchester United,Liverpool,0.5,3.25,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Marcus Rashford,Manchester United,Liverpool,1.5,15,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Marcus Rashford,Manchester United,Liverpool,2.5,101,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Matthijs de Ligt,Manchester United,Liverpool,0.5,12,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Matthijs de Ligt,Manchester United,Liverpool,1.5,201,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Matthijs de Ligt,Manchester United,Liverpool,2.5,401,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Mohamed Salah,Liverpool,Manchester United,0.5,2.1,TAB
-Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Mohamed Salah,Liverpool,Manchester United,1.5,6.5,TAB
+Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Mohamed Salah,Liverpool,Manchester United,1.5,7,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Mohamed Salah,Liverpool,Manchester United,2.5,21,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Noussair Mazraoui,Manchester United,Liverpool,0.5,10,TAB
 Manchester United v Liverpool,2024-09-01T15:00:00.000Z,Player Goals,Manchester United,Liverpool,Noussair Mazraoui,Manchester United,Liverpool,1.5,151,TAB

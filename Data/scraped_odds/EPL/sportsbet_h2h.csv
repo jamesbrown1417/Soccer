@@ -1,20 +1,30 @@
 match,market_name,home_team,home_win,draw,away_team,away_win,margin,agency
-Everton v Bournemouth,Head To Head,Everton,2.87,3.4,Bournemouth,2.45,1.051,Sportsbet
-Ipswich Town v Fulham,Head To Head,Ipswich Town,3,3.4,Fulham,2.3,1.062,Sportsbet
-Brentford v Southampton,Head To Head,Brentford,1.75,3.75,Southampton,4.4,1.065,Sportsbet
-Nottingham Forest v Wolverhampton Wanderers,Head To Head,Nottingham Forest,2,3.5,Wolverhampton Wanderers,3.7,1.056,Sportsbet
-Leicester City v Aston Villa,Head To Head,Leicester City,3.9,3.7,Aston Villa,1.9,1.053,Sportsbet
-West Ham United v Manchester City,Head To Head,West Ham United,7.5,5,Manchester City,1.33,1.085,Sportsbet
+Everton v Bournemouth,Head To Head,Everton,NA,46,Bournemouth,81,NA,Sportsbet
+Ipswich Town v Fulham,Head To Head,Ipswich Town,8,1.28,Fulham,5.5,1.088,Sportsbet
+Brentford v Southampton,Head To Head,Brentford,NA,81,Southampton,81,NA,Sportsbet
+Nottingham Forest v Wolverhampton Wanderers,Head To Head,Nottingham Forest,3.8,1.44,Wolverhampton Wanderers,8.5,1.075,Sportsbet
+Leicester City v Aston Villa,Head To Head,Leicester City,56,6,Aston Villa,1.13,1.069,Sportsbet
+West Ham United v Manchester City,Head To Head,West Ham United,7,5,Manchester City,1.4,1.057,Sportsbet
 Chelsea v Crystal Palace,Head To Head,Chelsea,1.61,4.2,Crystal Palace,5,1.059,Sportsbet
 Newcastle United v Tottenham Hotspur,Head To Head,Newcastle United,2.45,3.9,Tottenham Hotspur,2.5,1.065,Sportsbet
-Manchester United v Liverpool,Head To Head,Manchester United,3.75,4,Liverpool,1.85,1.057,Sportsbet
-Southampton v Manchester United,Head To Head,Southampton,4.33,3.8,Manchester United,1.75,1.066,Sportsbet
-Fulham v West Ham United,Head To Head,Fulham,2.45,3.3,West Ham United,2.8,1.068,Sportsbet
+Manchester United v Liverpool,Head To Head,Manchester United,3.8,4,Liverpool,1.85,1.054,Sportsbet
+Southampton v Manchester United,Head To Head,Southampton,4.6,3.8,Manchester United,1.75,1.052,Sportsbet
+Fulham v West Ham United,Head To Head,Fulham,2.4,3.4,West Ham United,2.8,1.068,Sportsbet
 Manchester City v Brentford,Head To Head,Manchester City,1.15,8,Brentford,14,1.066,Sportsbet
 Crystal Palace v Leicester City,Head To Head,Crystal Palace,1.61,4.1,Leicester City,5,1.065,Sportsbet
-Brighton & Hove Albion v Ipswich Town,Head To Head,Brighton & Hove Albion,1.36,4.75,Ipswich Town,8.5,1.063,Sportsbet
+Brighton & Hove Albion v Ipswich Town,Head To Head,Brighton & Hove Albion,1.33,5,Ipswich Town,9.5,1.057,Sportsbet
 Liverpool v Nottingham Forest,Head To Head,Liverpool,1.2,6.5,Nottingham Forest,13,1.064,Sportsbet
 Aston Villa v Everton,Head To Head,Aston Villa,1.47,4.33,Everton,6.5,1.065,Sportsbet
-Bournemouth v Chelsea,Head To Head,Bournemouth,3.5,3.7,Chelsea,2,1.056,Sportsbet
-Tottenham Hotspur v Arsenal,Head To Head,Tottenham Hotspur,3.6,3.8,Arsenal,1.9,1.067,Sportsbet
+Bournemouth v Chelsea,Head To Head,Bournemouth,3.5,3.75,Chelsea,2,1.052,Sportsbet
+Tottenham Hotspur v Arsenal,Head To Head,Tottenham Hotspur,3.6,3.7,Arsenal,1.95,1.061,Sportsbet
 Wolverhampton Wanderers v Newcastle United,Head To Head,Wolverhampton Wanderers,3.3,3.6,Newcastle United,2.1,1.057,Sportsbet
+West Ham United v Chelsea,Head To Head,West Ham United,2.7,3.75,Chelsea,2.37,1.059,Sportsbet
+Aston Villa v Wolverhampton Wanderers,Head To Head,Aston Villa,1.47,4.6,Wolverhampton Wanderers,6,1.064,Sportsbet
+Tottenham Hotspur v Brentford,Head To Head,Tottenham Hotspur,1.44,4.6,Brentford,6.5,1.066,Sportsbet
+Liverpool v Bournemouth,Head To Head,Liverpool,1.33,5,Bournemouth,8,1.077,Sportsbet
+Fulham v Newcastle United,Head To Head,Fulham,3.6,3.9,Newcastle United,1.9,1.061,Sportsbet
+Southampton v Ipswich Town,Head To Head,Southampton,1.95,3.75,Ipswich Town,3.5,1.065,Sportsbet
+Leicester City v Everton,Head To Head,Leicester City,2.3,3.5,Everton,2.9,1.065,Sportsbet
+Crystal Palace v Manchester United,Head To Head,Crystal Palace,2.75,3.7,Manchester United,2.37,1.056,Sportsbet
+Brighton & Hove Albion v Nottingham Forest,Head To Head,Brighton & Hove Albion,1.61,4.2,Nottingham Forest,5,1.059,Sportsbet
+Manchester City v Arsenal,Head To Head,Manchester City,1.86,3.7,Arsenal,4,1.058,Sportsbet

@@ -217,7 +217,8 @@ list_of_player_shots <-
 all_player_shots <-
   list_of_player_shots |> 
   mutate(player = fix_player_names(player)) |> 
-  rename(player_name = player, player_team = team)
+  rename(player_name = player, player_team = team) |> 
+  mutate(player_team = fix_team_names(player_team))
 
 # Output as a csv
 write_csv(all_player_shots, "Data/scraped_odds/EPL/bet365_player_shots.csv")

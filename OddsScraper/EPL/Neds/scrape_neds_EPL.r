@@ -171,6 +171,8 @@ total_goals_overs <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Over")) |>
     select(
@@ -189,6 +191,8 @@ total_goals_unders <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Under")) |>
     select(
@@ -227,6 +231,8 @@ team_total_goals_overs <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Over")) |>
     mutate(team = str_remove(market_name, "Over\\/Under")) |> 
@@ -248,6 +254,8 @@ team_total_goals_unders <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Under")) |>
     mutate(team = str_remove(market_name, "Over\\/Under")) |> 
@@ -290,6 +298,8 @@ btts_yes <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Yes")) |>
     select(
@@ -307,6 +317,8 @@ btts_no <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "No")) |>
     select(
@@ -346,6 +358,8 @@ player_attempted_passes_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
@@ -381,6 +395,8 @@ player_shots_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
@@ -416,6 +432,8 @@ player_shots_on_target_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
@@ -451,6 +469,8 @@ player_tackles_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
@@ -494,6 +514,8 @@ player_goals_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
@@ -528,6 +550,8 @@ player_assists_data <-
              c("home_team", "away_team"),
              sep = " vs ",
              remove = FALSE) |>
+    mutate(home_team = fix_team_names(home_team)) |>
+    mutate(away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
     transmute(
