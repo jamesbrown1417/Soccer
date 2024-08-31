@@ -511,6 +511,40 @@ player_goals_data <-
 
 ##%######################################################%##
 #                                                          #
+####                   Player Assists                   ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player assists markets
+player_assists_data <-
+    market_df |>
+    filter(str_detect(market_name, "^Anytime Assist$")) |>
+    mutate(line = 0.5) |> 
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Assists",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
+
+##%######################################################%##
+#                                                          #
 ####                  Write out as CSV                  ####
 #                                                          #
 ##%######################################################%##
@@ -524,3 +558,4 @@ player_shots_data |> write_csv("Data/scraped_odds/EPL/neds_player_shots.csv")
 player_shots_on_target_data |> write_csv("Data/scraped_odds/EPL/neds_player_shots_on_target.csv")
 player_tackles_data |> write_csv("Data/scraped_odds/EPL/neds_player_tackles.csv")
 player_goals_data |> write_csv("Data/scraped_odds/EPL/neds_player_goals.csv")
+player_assists_data |> write_csv("Data/scraped_odds/EPL/neds_player_assists.csv")
