@@ -570,7 +570,7 @@ ui <- page_navbar(
                     selectInput(
                         inputId = "market_input",
                         label = "Select Market:",
-                        choices = c("Head To Head", "Both Teams To Score", "Match Goals", "Team Goals", "Player Goals"),
+                        choices = c("Head To Head", "Both Teams To Score", "Match Goals", "Team Goals", "Player Goals", "Player Shots", "Player Shots On Target", "Player Tackles", "Player Assists"),
                         multiple = FALSE
                     ),
                     checkboxInput(
@@ -1041,6 +1041,82 @@ server <- function(input, output, session) {
             else {
                 odds <-
                     btts_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+        }
+        
+        # Player Shots
+        if (input$market_input == "Player Shots") {
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    player_shots_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    player_shots_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+        }
+        
+        # Player Shots On Target
+        if (input$market_input == "Player Shots On Target") {
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    player_shots_on_target_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    player_shots_on_target_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+        }
+        
+        # Player Tackles
+        if (input$market_input == "Player Tackles") {
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    player_tackles_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    player_tackles_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+        }
+        
+        # Player Assists
+        if (input$market_input == "Player Assists") {
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    player_assists_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    player_assists_data |>
                     filter(competition %in% input$event_input_odds) |>
                     filter(match %in% input$match_input)
             }

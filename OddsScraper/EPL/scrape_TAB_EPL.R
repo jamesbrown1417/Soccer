@@ -32,9 +32,9 @@ headers <- c(
     "user-agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 )
 
-# Try response, if nothing in 3 seconds, make it null
+# Try response, if nothing in 10 seconds, make it null
 response <- tryCatch({
-    GET(tab_url, add_headers(.headers = headers), timeout(5))
+    GET(tab_url, add_headers(.headers = headers), timeout(10))
 }, error = function(e) {
     return(NULL)
 })
