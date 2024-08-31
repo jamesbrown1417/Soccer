@@ -18,6 +18,7 @@ run_scraping <- function(script_name) {
 run_scraping("OddsScraper/EPL/scrape_TAB_EPL.R")
 run_scraping("OddsScraper/EPL/scrape_Sportsbet_EPL.R")
 run_scraping("OddsScraper/EPL/scrape_pointsbet_EPL.R")
+run_scraping("OddsScraper/EPL/Neds/scrape_neds_EPL.R")
 
 #===============================================================================
 # Read in all H2H
@@ -47,7 +48,7 @@ write_rds(h2h_data, "Data/processed_odds/h2h_data.rds")
 #===============================================================================
 
 # Read in both teams to score data
-list_of_btts_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "both_teams_to_score")
+list_of_btts_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "both_teams_to_score|btts")
 
 # Read in all both teams to score data
 list_of_btts_data <-
@@ -137,3 +138,95 @@ team_goals_data <-
 
 # Write out
 write_rds(team_goals_data, "Data/processed_odds/team_goals_data.rds")
+
+#===============================================================================
+# Player Shots
+#===============================================================================
+
+# Read in player shots data
+list_of_player_shots_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "player_shots\\.csv")
+
+# Read in all player shots data
+list_of_player_shots_data <-
+    map(list_of_player_shots_files, read_csv)
+
+# Combine
+player_shots_data <-
+    list_of_player_shots_data |> 
+    keep(~nrow(.x) > 0) |>
+    bind_rows() |> 
+    arrange(match, player_name, line, desc(over_price)) |> 
+    select(match:agency) |>
+    mutate(market_name = "Player Shots")
+
+# Write out
+write_rds(player_shots_data, "Data/processed_odds/player_shots_data.rds")
+
+#===============================================================================
+# Player Shots On Target
+#===============================================================================
+
+# Read in player shots on target data
+list_of_player_shots_on_target_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "player_shots_on_target")
+
+# Read in all player shots on target data
+list_of_player_shots_on_target_data <-
+    map(list_of_player_shots_on_target_files, read_csv)
+
+# Combine
+player_shots_on_target_data <-
+    list_of_player_shots_on_target_data |> 
+    keep(~nrow(.x) > 0) |>
+    bind_rows() |> 
+    arrange(match, player_name, line, desc(over_price)) |> 
+    select(match:agency) |> 
+    mutate(market_name = "Player Shots On Target")
+
+# Write out
+write_rds(player_shots_on_target_data, "Data/processed_odds/player_shots_on_target_data.rds")
+
+#===============================================================================
+# Player Tackles
+#===============================================================================
+
+# Read in player tackles data
+list_of_player_tackles_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "player_tackles")
+
+# Read in all player tackles data
+list_of_player_tackles_data <-
+    map(list_of_player_tackles_files, read_csv)
+
+# Combine
+player_tackles_data <-
+    list_of_player_tackles_data |> 
+    keep(~nrow(.x) > 0) |>
+    bind_rows() |> 
+    arrange(match, player_name, line, desc(over_price)) |> 
+    select(match:agency) |> 
+    mutate(market_name = "Player Tackles")
+
+# Write out
+write_rds(player_tackles_data, "Data/processed_odds/player_tackles_data.rds")
+
+#===============================================================================
+# Player Assists
+#===============================================================================
+
+# Read in player assists data
+list_of_player_assists_files <- list.files("Data/scraped_odds/EPL", full.names = TRUE, pattern = "player_assists")
+
+# Read in all player assists data
+list_of_player_assists_data <-
+    map(list_of_player_assists_files, read_csv)
+
+# Combine
+player_assists_data <-
+    list_of_player_assists_data |> 
+    keep(~nrow(.x) > 0) |>
+    bind_rows() |> 
+    arrange(match, player_name, line, desc(over_price)) |> 
+    select(match:agency) |> 
+    mutate(market_name = "Player Assists")
+
+# Write out
+write_rds(player_assists_data, "Data/processed_odds/player_assists_data.rds")

@@ -75,6 +75,42 @@ btts_data <-
     mutate(CV = round(CV, 2)) |> 
     ungroup()
 
+# Player Shots
+player_shots_data <-
+    read_rds("../../Data/processed_odds/player_shots_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, player_name) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Player Shots On Target
+player_shots_on_target_data <-
+    read_rds("../../Data/processed_odds/player_shots_on_target_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, player_name) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Player Tackles
+player_tackles_data <-
+    read_rds("../../Data/processed_odds/player_tackles_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, player_name) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
+# Player Assists
+player_assists_data <-
+    read_rds("../../Data/processed_odds/player_assists_data.rds") |> 
+    mutate(competition = "EPL") |> 
+    group_by(match, competition, market_name, line, player_name) |>
+    mutate(CV = sd(over_price) / abs(mean(over_price))) |>
+    mutate(CV = round(CV, 2)) |> 
+    ungroup()
+
 #===============================================================================
 # Create wide mode for odds tables
 #===============================================================================
@@ -143,7 +179,8 @@ total_goals_wide <-
     relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
     mutate(margin = 1/over_price + 1/under_price) |>
     mutate(margin = round(margin, 3)) |> 
-    arrange(margin)
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
 
 # Team Goals--------------------------------------------------------------------
 
@@ -171,7 +208,8 @@ team_goals_wide <-
     relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
     mutate(margin = 1/over_price + 1/under_price) |>
     mutate(margin = round(margin, 3)) |>
-    arrange(margin)
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
 
 # Both Teams to Score-----------------------------------------------------------
 
@@ -199,7 +237,128 @@ btts_wide <-
     relocate(yes_price, yes_agency, no_price, no_agency, .after = competition) |> 
     mutate(margin = 1/yes_price + 1/no_price) |>
     mutate(margin = round(margin, 3)) |> 
-    arrange(margin)
+    arrange(margin) |> 
+    relocate(margin, .after = no_agency)
+
+# Player Shots------------------------------------------------------------------
+
+# Best Over Odds
+player_shots_best_over_odds <-
+    player_shots_data |>
+    arrange(match, line, player_name, desc(over_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+player_shots_best_under_odds <-
+    player_shots_data |>
+    filter(!is.na(under_price)) |> 
+    arrange(match, line, player_name, desc(under_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+player_shots_wide <-
+    player_shots_best_over_odds |>
+    inner_join(player_shots_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
+
+# Player Shots On Target--------------------------------------------------------
+
+# Best Over Odds
+player_shots_on_target_best_over_odds <-
+    player_shots_on_target_data |>
+    arrange(match, line, player_name, desc(over_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+player_shots_on_target_best_under_odds <-
+    player_shots_on_target_data |>
+    filter(!is.na(under_price)) |> 
+    arrange(match, line, player_name, desc(under_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+player_shots_on_target_wide <-
+    player_shots_on_target_best_over_odds |>
+    inner_join(player_shots_on_target_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
+
+# Player Tackles----------------------------------------------------------------
+
+# Best Over Odds
+player_tackles_best_over_odds <-
+    player_tackles_data |>
+    arrange(match, line, player_name, desc(over_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+player_tackles_best_under_odds <-
+    player_tackles_data |>
+    filter(!is.na(under_price)) |> 
+    arrange(match, line, player_name, desc(under_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+player_tackles_wide <-
+    player_tackles_best_over_odds |>
+    inner_join(player_tackles_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
+
+# Player Assists----------------------------------------------------------------
+
+# Best Over Odds
+player_assists_best_over_odds <-
+    player_assists_data |>
+    arrange(match, line, player_name, desc(over_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -under_price) |> 
+    rename(over_agency = agency)
+
+# Best Under Odds
+player_assists_best_under_odds <-
+    player_assists_data |>
+    filter(!is.na(under_price)) |> 
+    arrange(match, line, player_name, desc(under_price)) |> 
+    group_by(match, line, player_name) |> 
+    slice_head(n = 1) |> 
+    select(-CV, -over_price) |> 
+    rename(under_agency = agency)
+
+player_assists_wide <- 
+    player_assists_best_over_odds |>
+    inner_join(player_assists_best_under_odds) |> 
+    relocate(over_price, over_agency, under_price, under_agency, .after = competition) |> 
+    mutate(margin = 1/over_price + 1/under_price) |>
+    mutate(margin = round(margin, 3)) |> 
+    arrange(margin) |> 
+    relocate(margin, .after = under_agency)
 
 #===============================================================================
 # UI
@@ -871,10 +1030,21 @@ server <- function(input, output, session) {
         
         # Both Teams To Score
         if (input$market_input == "Both Teams To Score") {
-            odds <-
-                btts_data |> 
-                filter(competition %in% input$event_input_odds) |> 
-                filter(match %in% input$match_input)
+            
+            if (input$wide_mode_odds) {
+                odds <-
+                    btts_wide |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
+            else {
+                odds <-
+                    btts_data |>
+                    filter(competition %in% input$event_input_odds) |>
+                    filter(match %in% input$match_input)
+            }
+            
         }
         
         # Match Total Goals

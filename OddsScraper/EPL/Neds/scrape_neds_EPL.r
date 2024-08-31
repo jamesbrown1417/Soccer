@@ -174,7 +174,7 @@ total_goals_overs <-
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Over")) |>
     select(
-        match = match_name,
+        match,
         home_team,
         away_team,
         line = handicaps,
@@ -192,7 +192,7 @@ total_goals_unders <-
     mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
     filter(str_detect(entrants, "Under")) |>
     select(
-        match = match_name,
+        match,
         home_team,
         away_team,
         line = handicaps,
@@ -209,6 +209,305 @@ total_goals_data <-
     mutate(market_name = "Total Goals") |>
     select(match, market_name, home_team, away_team, line, over_price, under_price, margin, agency)
 
+##%######################################################%##
+#                                                          #
+####                Get Team Goals Data                 ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include team total goals markets
+team_total_goals_data <-
+    market_df |> 
+    filter(str_detect(market_name, "^Over/Under [A-Za-z]+ Total Goals [0-9\\.]{3}$"))
+
+# Overs
+team_total_goals_overs <-
+    team_total_goals_data |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    filter(str_detect(entrants, "Over")) |>
+    mutate(team = str_remove(market_name, "Over\\/Under")) |> 
+    mutate(team = str_remove(team, " Total Goals.*$")) |> 
+    select(
+        match,
+        home_team,
+        away_team,
+        team,
+        line = handicaps,
+        over_price = price,
+        entrant_id
+    )
+
+# Unders
+team_total_goals_unders <-
+    team_total_goals_data |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    filter(str_detect(entrants, "Under")) |>
+    mutate(team = str_remove(market_name, "Over\\/Under")) |> 
+    mutate(team = str_remove(team, " Total Goals.*$")) |> 
+    select(
+        match,
+        home_team,
+        away_team,
+        team,
+        line = handicaps,
+        under_price = price,
+        entrant_id_under = entrant_id
+    )
+
+# Merge overs and unders
+team_total_goals_data <-
+    team_total_goals_overs |>
+    left_join(team_total_goals_unders) |> 
+    mutate(margin = round(1 / over_price + 1 / under_price, digits = 2)) |>
+    mutate(agency = "Neds") |>
+    mutate(market_name = "Total Goals") |>
+    select(match, market_name, home_team, away_team, team, line, over_price, under_price, margin, agency)
+
+##%######################################################%##
+#                                                          #
+####                Both Teams To Score                 ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include both teams to score markets
+btts_data <-
+    market_df |> 
+    filter(str_detect(market_name, "^Both Teams to Score$")) |>
+    select(-market_name)
+
+# Yes
+btts_yes <-
+    btts_data |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    filter(str_detect(entrants, "Yes")) |>
+    select(
+        match,
+        home_team,
+        away_team,
+        yes_price = price,
+        entrant_id
+    )
+
+# No
+btts_no <-
+    btts_data |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    filter(str_detect(entrants, "No")) |>
+    select(
+        match,
+        home_team,
+        away_team,
+        no_price = price,
+        entrant_id_under = entrant_id
+    )
+
+# Merge yes and no
+btts_data <-
+    btts_yes |>
+    left_join(btts_no) |> 
+    mutate(margin = round(1 / yes_price + 1 / no_price, digits = 2)) |>
+    mutate(agency = "Neds") |>
+    mutate(market_name = "Both Teams to Score") |>
+    select(match, market_name, home_team, away_team, yes_price, no_price, margin, agency)
+
+##%######################################################%##
+#                                                          #
+####              Player Attempted Passes               ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player attempted passes markets
+player_attempted_passes_data <-
+    market_df |>
+    filter(str_detect(market_name, "To Have .* Passes")) |>
+    mutate(line = str_extract(market_name, "[0-9]+")) |>
+    mutate(line = as.numeric(line) - 0.5) |>
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Attempted Passes",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
+
+##%######################################################%##
+#                                                          #
+####                    Player Shots                    ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player shots markets
+player_shots_data <-
+    market_df |>
+    filter(str_detect(market_name, "To Have .* Shots$")) |>
+    mutate(line = str_extract(market_name, "[0-9]+")) |>
+    mutate(line = as.numeric(line) - 0.5) |>
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Shots",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
+
+##%######################################################%##
+#                                                          #
+####               Player Shots On Target               ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player shots_on_target markets
+player_shots_on_target_data <-
+    market_df |>
+    filter(str_detect(market_name, "To Have .* Shots on Target$")) |>
+    mutate(line = str_extract(market_name, "[0-9]+")) |>
+    mutate(line = as.numeric(line) - 0.5) |>
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Shots On Target",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
+
+##%######################################################%##
+#                                                          #
+####                   Player Tackles                   ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player tackles markets
+player_tackles_data <-
+    market_df |>
+    filter(str_detect(market_name, "To Have .* Tackles$")) |>
+    mutate(line = str_extract(market_name, "[0-9]+")) |>
+    mutate(line = as.numeric(line) - 0.5) |>
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Tackles",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
+
+##%######################################################%##
+#                                                          #
+####                    Player Goals                    ####
+#                                                          #
+##%######################################################%##
+
+# Filter to only include player goals markets
+player_goals_data <-
+    market_df |>
+    filter(
+        str_detect(
+            market_name,
+            "Anytime Goalscorer|Player to Score 2 or More Goals|Hat-trick"
+        )
+    ) |>
+    mutate(line = case_when(
+        str_detect(market_name, "Anytime") ~ 0.5,
+        str_detect(market_name, "2 or More") ~ 1.5,
+        str_detect(market_name, "Hat-trick") ~ 2.5
+    )) |>
+    mutate(player_name = str_remove(entrants, " \\(.*$")) |>
+    mutate(player_name = fix_player_names(player_name)) |>
+    left_join(epl_squads) |>
+    mutate(agency = "Neds") |>
+    separate(match_name,
+             c("home_team", "away_team"),
+             sep = " vs ",
+             remove = FALSE) |>
+    mutate(match = paste(home_team, "v", away_team, sep = " ")) |>
+    mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+    transmute(
+        match,
+        home_team,
+        away_team,
+        market_name = "Player Goals",
+        player_name,
+        player_team,
+        opposition_team,
+        line,
+        over_price = price,
+        agency =  "Neds"
+    )
 
 ##%######################################################%##
 #                                                          #
@@ -216,7 +515,12 @@ total_goals_data <-
 #                                                          #
 ##%######################################################%##
 
-h2h_data |> write_csv("Data/scraped_odds/neds_h2h.csv")
-player_disposals_data |> write_csv("Data/scraped_odds/neds_player_disposals.csv")
-player_goals_data |> write_csv("Data/scraped_odds/neds_player_goals.csv")
-player_fantasy_data |> write_csv("Data/scraped_odds/neds_player_fantasy_points.csv")
+h2h_data |> write_csv("Data/scraped_odds/EPL/neds_h2h.csv")
+total_goals_data |> write_csv("Data/scraped_odds/EPL/neds_total_goals.csv")
+team_total_goals_data |> write_csv("Data/scraped_odds/EPL/neds_team_total_goals.csv")
+btts_data |> write_csv("Data/scraped_odds/EPL/neds_btts.csv")
+player_attempted_passes_data |> write_csv("Data/scraped_odds/EPL/neds_player_attempted_passes.csv")
+player_shots_data |> write_csv("Data/scraped_odds/EPL/neds_player_shots.csv")
+player_shots_on_target_data |> write_csv("Data/scraped_odds/EPL/neds_player_shots_on_target.csv")
+player_tackles_data |> write_csv("Data/scraped_odds/EPL/neds_player_tackles.csv")
+player_goals_data |> write_csv("Data/scraped_odds/EPL/neds_player_goals.csv")

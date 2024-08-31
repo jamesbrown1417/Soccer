@@ -23,7 +23,7 @@ async def main():
         body_html = await elem.get_attribute('outerHTML')
         
         # Write html to file - overwrite existing file
-        with open(f"Odds-Scraping/The Hundred/Bet365/HTML/h2h_html.txt", 'w') as f:
+        with open(f"OddsScraper/EPL/Bet365/HTML/h2h_html.txt", 'w') as f:
             f.write(body_html)
         
         # Get all occurences of src-ParticipantFixtureDetailsHigher_Team, we want to click on each one
@@ -34,8 +34,12 @@ async def main():
             print(await team_element.get_attribute('innerText'))
         
         # URL List
-        goals_url_list = []
+        specials_url_list = []
         player_url_list = []
+        
+        # If len(team_elements) is greater than 10, just get the first 10
+        if len(team_elements) > 10:
+            team_elements = team_elements[:10]
         
         for index in range(len(team_elements)):
             # Get the team elements again as the page has been refreshed
@@ -54,27 +58,25 @@ async def main():
             # Get Current URL
             cur_url = await driver.current_url
 
-            # Append 'I1/' to URL
-            modified_goals_url = cur_url + 'I6/'
+            # Append 'I8/' to URL after removing "I0/"
+            modified_player_url = cur_url.replace("I0/", "I8/")
             
-            # Append 'I2/' to URL
-            modified_player_url = cur_url + 'I8/'
+            # Append 'I9/' to URL after removing "I0/"
+            modified_special_url = cur_url.replace("I0/", "I9/")
             
-            goals_url_list.append(modified_goals_url)
+            specials_url_list.append(modified_special_url)
             player_url_list.append(modified_player_url)
-            
-            print(modified_goals_url)
             
             # Go back to the previous page
             await driver.back()
             
         # Write URL as a csv
-        goals_url_list = '\n'.join(goals_url_list)
-        with open(f"Odds-Scraping/The Hundred/Bet365/goals_urls.csv", 'w') as f:
-           f.write(goals_url_list)
+        specials_url_list = '\n'.join(specials_url_list)
+        with open(f"OddsScraper/EPL/Bet365/specials_urls.csv", 'w') as f:
+           f.write(specials_url_list)
            
         player_url_list = '\n'.join(player_url_list)
-        with open(f"Odds-Scraping/The Hundred/Bet365/player_urls.csv", 'w') as f:
+        with open(f"OddsScraper/EPL/Bet365/player_urls.csv", 'w') as f:
            f.write(player_url_list)
 
 asyncio.run(main())

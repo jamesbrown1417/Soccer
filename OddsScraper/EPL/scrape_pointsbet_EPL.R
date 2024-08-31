@@ -586,6 +586,46 @@ pointsbet_h2h_main <- function() {
         )
     
     #===============================================================================
+    # Player Assists
+    #===============================================================================
+    
+    # Player assists Alternative Lines-----------------------------------------------
+    # Filter list to player assists
+    pointsbet_player_assists <-
+        pointsbet_data_player_props |>
+        filter(str_detect(headers, "^PLAYER TOTAL ASSISTS$")) |> 
+        mutate(line = str_extract(outcome, "[0-9]{1,2}")) |>
+        mutate(line = as.numeric(line) - 0.5) |>
+        separate(
+            match,
+            into = c("home_team", "away_team"),
+            sep = " v ",
+            remove = FALSE
+        ) |>
+        mutate(home_team = fix_team_names(home_team),
+               away_team = fix_team_names(away_team)) |>
+        mutate(match = paste(home_team, "v", away_team)) |>
+        mutate(player_name = str_remove_all(outcome, " To Have.*")) |> 
+        mutate(player_name = fix_player_names_pointsbet(player_name, name_lookup_pb)) |>
+        left_join(epl_squads) |> 
+        mutate(opposition_team = if_else(home_team == player_team, away_team, home_team)) |>
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Player assists",
+            player_name,
+            player_team,
+            opposition_team,
+            line,
+            over_price = price,
+            agency = "Pointsbet",
+            EventKey,
+            MarketKey,
+            OutcomeKey
+        )
+    
+    #===============================================================================
     # Write to CSV
     #===============================================================================
     
@@ -753,6 +793,29 @@ pointsbet_h2h_main <- function() {
         ))) |>
         mutate(agency = "Pointsbet") |>
         write_csv("Data/scraped_odds/EPL/pointsbet_player_tackles.csv")
+    
+    # Assists
+    pointsbet_player_assists |>
+        mutate(match = paste(home_team, away_team, sep = " v ")) |>
+        select(any_of(c(
+            "match",
+            "home_team",
+            "away_team",
+            "market_name",
+            "player_name",
+            "player_team",
+            "line",
+            "over_price",
+            "under_price",
+            "agency",
+            "opposition_team",
+            "EventKey",
+            "MarketKey",
+            "OutcomeKey",
+            "OutcomeKey_unders"
+        ))) |>
+        mutate(agency = "Pointsbet") |>
+        write_csv("Data/scraped_odds/EPL/pointsbet_player_assists.csv")
 }
 
 ##%######################################################%##

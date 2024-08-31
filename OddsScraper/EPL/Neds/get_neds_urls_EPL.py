@@ -21,7 +21,7 @@ async def main():
                 # Fetch and decode the response body
                 body = await response.body()
                 # Write out the body of the response to a file
-                with open("OddsScraper\\EPL\\Neds\\neds_response.json", "w") as f:
+                with open("OddsScraper\\EPL\\Neds\\neds_response.json", "w", encoding = 'utf-8') as f:
                     f.write(body.decode("utf-8"))
                 # Print a message to the console
                 print("Response captured!")
