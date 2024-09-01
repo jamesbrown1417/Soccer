@@ -1,214 +1,987 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,agency
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,46,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,46,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,9.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,51,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,2.5,126,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,2.5,151,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,2.5,176,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,2.5,34,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,2.5,151,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,2.5,101,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,2.5,71,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,2.5,67,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,2.5,21,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,2.5,126,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,56,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,1.5,51,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,61,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,2.5,81,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,2.5,81,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,2.5,34,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,2.5,176,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Newcastle United,2.5,46,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,2.5,34,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,2.5,176,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,2.5,176,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,2.5,81,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,2.5,81,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,2.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Noni Madueke,Chelsea,Crystal Palace,1.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Christopher Nkunku,Chelsea,Crystal Palace,1.5,10,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Pedro Neto,Chelsea,Crystal Palace,1.5,17,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Mykhaylo Mudryk,Chelsea,Crystal Palace,1.5,19,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Ismaïla Sarr,Crystal Palace,Chelsea,1.5,29,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Daichi Kamada,Crystal Palace,Chelsea,1.5,29,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Benoît Badiashile,Chelsea,Crystal Palace,1.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Kiernan Dewsbury Hall,NA,NA,1.5,34,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Tosin Adarabioyo,Chelsea,Crystal Palace,1.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Nicolas Jackson,Chelsea,Crystal Palace,1.5,9.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Daniel Muñoz,Crystal Palace,Chelsea,1.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Will Hughes,Crystal Palace,Chelsea,1.5,176,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Renato Veiga,Chelsea,Crystal Palace,1.5,101,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Chadi Riad,Crystal Palace,Chelsea,1.5,176,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,João Félix,Chelsea,Crystal Palace,1.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jefferson Lerma,Crystal Palace,Chelsea,1.5,126,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Wesley Fofana,Chelsea,Crystal Palace,1.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Cheick Oumar Doucoure,NA,NA,1.5,126,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Levi Colwill,Chelsea,Crystal Palace,1.5,151,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Adam Wharton,Crystal Palace,Chelsea,1.5,126,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Roméo Lavia,Chelsea,Crystal Palace,1.5,101,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jean-Philippe Mateta,Crystal Palace,Chelsea,1.5,12,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Moisés Caicedo,Chelsea,Crystal Palace,1.5,101,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Marc Guiu,Chelsea,Crystal Palace,1.5,10,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Cole Palmer,Chelsea,Crystal Palace,1.5,6.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Enzo Fernández,Chelsea,Crystal Palace,1.5,29,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jeffrey Schlupp,Crystal Palace,Chelsea,1.5,51,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Eberechi Eze,Crystal Palace,Chelsea,1.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,2.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,2.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,2.5,201,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,2.5,34,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,2.5,34,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,2.5,176,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,2.5,176,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,2.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,2.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,2.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,2.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,2.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,2.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,2.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,2.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,2.5,71,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,2.5,71,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,2.5,71,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,2.5,71,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,2.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,2.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,2.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,2.5,126,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,2.5,126,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,11,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.45,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,7.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,10,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,7.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.25,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.1,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.25,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.3,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,7.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,19,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,19,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.9,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Mofe Jemide,NA,NA,0.5,26,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Tosin Adarabioyo,Chelsea,Crystal Palace,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Christopher Nkunku,Chelsea,Crystal Palace,0.5,2.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Pedro Neto,Chelsea,Crystal Palace,0.5,3.4,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Nathaniel Clyne,Crystal Palace,Chelsea,0.5,26,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Moisés Caicedo,Chelsea,Crystal Palace,0.5,11,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Daichi Kamada,Crystal Palace,Chelsea,0.5,4.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Marc Cucurella,Chelsea,Crystal Palace,0.5,17,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Tyrick Mitchell,Crystal Palace,Chelsea,0.5,21,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Marc Guiu,Chelsea,Crystal Palace,0.5,2.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Ismaïla Sarr,Crystal Palace,Chelsea,0.5,4.5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Noni Madueke,Chelsea,Crystal Palace,0.5,2.9,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jean-Philippe Mateta,Crystal Palace,Chelsea,0.5,2.8,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Joel Ward,Crystal Palace,Chelsea,0.5,23,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Nicolas Jackson,Chelsea,Crystal Palace,0.5,2.45,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,João Félix,Chelsea,Crystal Palace,0.5,2.9,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Kiernan Dewsbury Hall,NA,NA,0.5,5,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Adam Wharton,Crystal Palace,Chelsea,0.5,11,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Wesley Fofana,Chelsea,Crystal Palace,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Mykhaylo Mudryk,Chelsea,Crystal Palace,0.5,3.6,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jefferson Lerma,Crystal Palace,Chelsea,0.5,12,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Chris Richards,Crystal Palace,Chelsea,0.5,23,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Will Hughes,Crystal Palace,Chelsea,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Marc Guéhi,Crystal Palace,Chelsea,0.5,23,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Renato Veiga,Chelsea,Crystal Palace,0.5,10,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Rob Holding,Crystal Palace,Chelsea,0.5,23,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Enzo Fernández,Chelsea,Crystal Palace,0.5,4.6,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Daniel Muñoz,Crystal Palace,Chelsea,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Levi Colwill,Chelsea,Crystal Palace,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Malo Gusto,Chelsea,Crystal Palace,0.5,17,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Benoît Badiashile,Chelsea,Crystal Palace,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,No Goalscorer,NA,NA,0.5,15,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Roméo Lavia,Chelsea,Crystal Palace,0.5,10,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Cole Palmer,Chelsea,Crystal Palace,0.5,2.05,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Cheick Oumar Doucoure,NA,NA,0.5,12,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Eberechi Eze,Crystal Palace,Chelsea,0.5,3.2,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Chadi Riad,Crystal Palace,Chelsea,0.5,13,Neds
-Chelsea v Crystal Palace,Chelsea,Crystal Palace,Player Goals,Jeffrey Schlupp,Crystal Palace,Chelsea,0.5,6.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,1.5,13,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,1.5,151,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,1.5,101,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,1.5,21,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,1.5,8.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Newcastle United,1.5,10,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,1.5,67,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,1.5,71,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Emil Krafth,Newcastle United,Tottenham Hotspur,1.5,201,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.1,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.25,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Curtis Jones,Liverpool,Manchester United,0.5,6,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,13,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,21,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,11,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,19,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mason Mount,Manchester United,Liverpool,0.5,7,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,3.8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,1.5,91,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,1.5,91,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,1.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,1.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,1.5,61,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,1.5,61,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,1.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,1.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,1.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,1.5,29,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,1.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,1.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,1.5,67,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,1.5,67,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,1.5,151,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,61,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,61,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,1.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,1.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,1.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,1.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,1.5,15,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,1.5,15,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,1.5,15,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,1.5,15,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,1.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,1.5,101,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,1.5,67,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,1.5,67,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,1.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,1.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,1.5,151,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,1.5,91,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,1.5,91,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,1.5,61,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,1.5,61,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
 Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,0.5,5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,0.5,4.33,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,0.5,3,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lewis Hall,Newcastle United,Tottenham Hotspur,0.5,11,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,0.5,4.6,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,0.5,10,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Newcastle United,0.5,6,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,0.5,3,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Newcastle United,0.5,13,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Kieran Trippier,Newcastle United,Tottenham Hotspur,0.5,10,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,0.5,9.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Bruno Guimarães,Newcastle United,Tottenham Hotspur,0.5,5.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joelinton,Newcastle United,Tottenham Hotspur,0.5,5.75,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Matt Targett,Newcastle United,Tottenham Hotspur,0.5,17,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,0.5,13,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Micky van de Ven,Tottenham Hotspur,Newcastle United,0.5,11,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joe Willock,Newcastle United,Tottenham Hotspur,0.5,6.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,0.5,5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lloyd Kelly,Newcastle United,Tottenham Hotspur,0.5,17,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,0.5,7.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,0.5,4.75,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,0.5,2.3,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sandro Tonali,Newcastle United,Tottenham Hotspur,0.5,6,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,0.5,13,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sean Longstaff,Newcastle United,Tottenham Hotspur,0.5,6,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Richarlison,Tottenham Hotspur,Newcastle United,0.5,2.5,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,0.5,1.9100000000000001,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Federico Chiesa,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,81,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,67,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,71,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
+Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Valentino Livramento,NA,NA,0.5,17,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alex Murphy,Newcastle United,Tottenham Hotspur,0.5,13,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,0.5,3.7,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,0.5,4,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,0.5,4.2,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,0.5,8,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Yves Bissouma,Tottenham Hotspur,Newcastle United,0.5,12,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,0.5,4.33,Neds
-Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,No Goalscorer,NA,NA,0.5,23,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Valentino Livramento,NA,NA,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,0.5,5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,0.5,5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,0.5,7,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,0.5,7,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joelinton,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joelinton,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,0.5,5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,0.5,5,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Emil Krafth,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Emil Krafth,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lewis Hall,Newcastle United,Tottenham Hotspur,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lewis Hall,Newcastle United,Tottenham Hotspur,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Kieran Trippier,Newcastle United,Tottenham Hotspur,0.5,10,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Kieran Trippier,Newcastle United,Tottenham Hotspur,0.5,10,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,0.5,3.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,0.5,3.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Bruno Guimarães,Newcastle United,Tottenham Hotspur,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Bruno Guimarães,Newcastle United,Tottenham Hotspur,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,0.5,4.33,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,0.5,4.33,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Kieran Trippier,Newcastle United,Tottenham Hotspur,0.5,10,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Kieran Trippier,Newcastle United,Tottenham Hotspur,0.5,10,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sandro Tonali,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sandro Tonali,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,0.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,0.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Matt Targett,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Matt Targett,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,0.5,3.1,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,0.5,3.1,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Newcastle United,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Newcastle United,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,0.5,4.33,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Miguel Almirón,Newcastle United,Tottenham Hotspur,0.5,4.33,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,0.5,4.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,0.5,4.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sean Longstaff,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sean Longstaff,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Newcastle United,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Newcastle United,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,0.5,5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,0.5,5,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dan Burn,Newcastle United,Tottenham Hotspur,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dan Burn,Newcastle United,Tottenham Hotspur,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Newcastle United,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Destiny Udogie,Tottenham Hotspur,Newcastle United,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alex Murphy,Newcastle United,Tottenham Hotspur,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alex Murphy,Newcastle United,Tottenham Hotspur,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Yves Bissouma,Tottenham Hotspur,Newcastle United,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Yves Bissouma,Tottenham Hotspur,Newcastle United,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,0.5,4.6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,0.5,4.6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Yves Bissouma,Tottenham Hotspur,Newcastle United,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Yves Bissouma,Tottenham Hotspur,Newcastle United,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sean Longstaff,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sean Longstaff,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,0.5,4.6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,James Maddison,Tottenham Hotspur,Newcastle United,0.5,4.6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lewis Hall,Newcastle United,Tottenham Hotspur,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lewis Hall,Newcastle United,Tottenham Hotspur,0.5,11,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Matt Targett,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Matt Targett,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joelinton,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Joelinton,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alex Murphy,Newcastle United,Tottenham Hotspur,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alex Murphy,Newcastle United,Tottenham Hotspur,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Ben Davies,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,0.5,1.9100000000000001,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,0.5,1.9100000000000001,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,0.5,4.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,0.5,4.75,Neds
 Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,0.5,2.25,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,0.5,2.25,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,No Goalscorer,NA,NA,0.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,No Goalscorer,NA,NA,0.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Timo Werner,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Newcastle United,0.5,4.4,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,0.5,3.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Anthony Gordon,Newcastle United,Tottenham Hotspur,0.5,3.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lloyd Kelly,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lloyd Kelly,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,0.5,4.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alfie Devine,Tottenham Hotspur,Newcastle United,0.5,4.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dan Burn,Newcastle United,Tottenham Hotspur,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Dan Burn,Newcastle United,Tottenham Hotspur,0.5,12,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Wilson Odobert,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,0.5,3.1,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Harvey Barnes,Newcastle United,Tottenham Hotspur,0.5,3.1,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,0.5,2.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,0.5,2.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Newcastle United,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Cristian Romero,Tottenham Hotspur,Newcastle United,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lloyd Kelly,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lloyd Kelly,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Radu Matei Dragusin,NA,NA,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,0.5,4.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Jacob Murphy,Newcastle United,Tottenham Hotspur,0.5,4.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Emil Krafth,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Emil Krafth,Newcastle United,Tottenham Hotspur,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Djed Spence,Tottenham Hotspur,Newcastle United,0.5,13,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Valentino Livramento,NA,NA,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Valentino Livramento,NA,NA,0.5,17,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,0.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pedro Porro,Tottenham Hotspur,Newcastle United,0.5,7.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,0.5,2.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Heung Min Son,NA,NA,0.5,2.2,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,0.5,2.25,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,William Osula,Newcastle United,Tottenham Hotspur,0.5,2.25,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Archie Gray,Tottenham Hotspur,Newcastle United,0.5,9.5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Bruno Guimarães,Newcastle United,Tottenham Hotspur,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Bruno Guimarães,Newcastle United,Tottenham Hotspur,0.5,5.75,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,No Goalscorer,NA,NA,0.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,No Goalscorer,NA,NA,0.5,21,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,0.5,1.9100000000000001,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Alexander Isak,Newcastle United,Tottenham Hotspur,0.5,1.9100000000000001,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sandro Tonali,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Sandro Tonali,Newcastle United,Tottenham Hotspur,0.5,6,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,0.5,7,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Newcastle United,0.5,7,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Brennan Johnson,Tottenham Hotspur,Newcastle United,0.5,3.8,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,0.5,5,Neds
+Newcastle United v Tottenham Hotspur,Newcastle United,Tottenham Hotspur,Player Goals,Lucas Bergvall,Tottenham Hotspur,Newcastle United,0.5,5,Neds

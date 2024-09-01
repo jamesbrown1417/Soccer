@@ -37,9 +37,9 @@ async def main():
         specials_url_list = []
         player_url_list = []
         
-        # If len(team_elements) is greater than 10, just get the first 10
-        if len(team_elements) > 10:
-            team_elements = team_elements[:10]
+        # If len(team_elements) is greater than 3, just get the first 3
+        if len(team_elements) > 3:
+            team_elements = team_elements[:3]
         
         for index in range(len(team_elements)):
             # Get the team elements again as the page has been refreshed
