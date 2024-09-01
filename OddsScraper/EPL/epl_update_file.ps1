@@ -3,6 +3,7 @@ Set-Location -Path "C:\Users\james\OneDrive\Desktop\Projects\Soccer"
 
 # Remove .json and .txt files in specific directories
 Remove-Item -Path "C:\Users\james\OneDrive\Desktop\Projects\Soccer\OddsScraper\EPL\Neds\*.json"
+Remove-Item -Path "C:\Users\james\OneDrive\Desktop\Projects\Soccer\OddsScraper\EPL\Bet365\HTML\*.txt"
 
 # Execute Python and R scripts
 & "C:/Users/james/AppData/Local/Microsoft/WindowsApps/python3.12.exe" "c:/Users/james/OneDrive/Desktop/Projects/Soccer/OddsScraper/EPL/Bet365/01-get_bet365_html.py"
