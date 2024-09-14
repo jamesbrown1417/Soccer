@@ -14,6 +14,9 @@ source("Scripts/fix_team_names.r")
 # Get Fix Player Names Function
 source("Scripts/fix_player_names.r")
 
+# Get Squads
+epl_squads <- read_rds("Data/epl_squads.rds")
+
 # Main Function
 get_player_shots_on_target <- function(scraped_file) {
   # Get Markets
@@ -40,11 +43,11 @@ get_player_shots_on_target <- function(scraped_file) {
       html_elements(".srb-ParticipantLabelWithTeam_Name") |>
       html_text()
   
-  # Get Player Teams from node
-  shots_on_target_teams <-
-      bet365_player_markets[[shots_on_target_over_under_index]] |>
-      html_elements(".srb-ParticipantLabelWithTeam_Team") |>
-      html_text()
+  # # Get Player Teams from node
+  # shots_on_target_teams <-
+  #     bet365_player_markets[[shots_on_target_over_under_index]] |>
+  #     html_elements(".srb-ParticipantLabelWithTeam_Team") |>
+  #     html_text()
   
   # Get Over Node Index
   shots_on_target_cols <-
@@ -77,7 +80,7 @@ get_player_shots_on_target <- function(scraped_file) {
   # Create Player Shots On Target Table
   player_shots_on_target <-
       tibble(player = shots_on_target_players,
-             team = shots_on_target_teams,
+             # team = shots_on_target_teams,
              line = as.numeric(shots_on_target_over_lines),
              over_price = as.numeric(shots_on_target_over_odds),
              under_price = as.numeric(shots_on_target_under_odds)) |>
@@ -97,12 +100,12 @@ get_player_shots_on_target <- function(scraped_file) {
       html_elements(".srb-ParticipantLabelWithTeam_Name") |>
       html_text()
   
-  # Get Player Teams from node
-  alternate_shots_on_target_teams <-
-      bet365_player_markets[[alternate_shots_on_target_index]] |>
-      html_elements(".srb-ParticipantLabelWithTeam_Team") |>
-      html_text()
-  
+  # # Get Player Teams from node
+  # alternate_shots_on_target_teams <-
+  #     bet365_player_markets[[alternate_shots_on_target_index]] |>
+  #     html_elements(".srb-ParticipantLabelWithTeam_Team") |>
+  #     html_text()
+  # 
   # Get Shots On Target Node Indexes for 0.5 to 3.5
   alternate_shots_on_target_cols <-
       bet365_player_markets[[alternate_shots_on_target_index]] |>
@@ -137,7 +140,7 @@ get_player_shots_on_target <- function(scraped_file) {
   # Create Alternate Player Shots On Target Tables
   alternate_shots_on_target_05 <-
       tibble(player = alternate_shots_on_target_players,
-             team = alternate_shots_on_target_teams,
+             # team = alternate_shots_on_target_teams,
              line = 0.5,
              over_price = as.numeric(alternate_shots_on_target_05_odds)) |>
       mutate(market_name = "Alternate Player Shots On Target") |>
@@ -145,7 +148,7 @@ get_player_shots_on_target <- function(scraped_file) {
   
   alternate_shots_on_target_15 <-
       tibble(player = alternate_shots_on_target_players,
-             team = alternate_shots_on_target_teams,
+             # team = alternate_shots_on_target_teams,
              line = 1.5,
              over_price = as.numeric(alternate_shots_on_target_15_odds)) |>
       mutate(market_name = "Alternate Player Shots On Target") |>
@@ -153,7 +156,7 @@ get_player_shots_on_target <- function(scraped_file) {
   
   alternate_shots_on_target_25 <-
       tibble(player = alternate_shots_on_target_players,
-             team = alternate_shots_on_target_teams,
+             # team = alternate_shots_on_target_teams,
              line = 2.5,
              over_price = as.numeric(alternate_shots_on_target_25_odds)) |>
       mutate(market_name = "Alternate Player Shots On Target") |>
@@ -161,7 +164,7 @@ get_player_shots_on_target <- function(scraped_file) {
   
   alternate_shots_on_target_35 <-
       tibble(player = alternate_shots_on_target_players,
-             team = alternate_shots_on_target_teams,
+             # team = alternate_shots_on_target_teams,
              line = 3.5,
              over_price = as.numeric(alternate_shots_on_target_35_odds)) |>
       mutate(market_name = "Alternate Player Shots On Target") |>
@@ -217,7 +220,8 @@ list_of_player_shots_on_target <-
 all_player_shots_on_target <-
   list_of_player_shots_on_target |> 
   mutate(player = fix_player_names(player)) |> 
-  rename(player_name = player, player_team = team) |> 
+  left_join(epl_squads, by = c("player" = "player_name")) |>
+  rename(player_name = player) |> 
   mutate(player_team = fix_team_names(player_team))
 
 # Output as a CSV

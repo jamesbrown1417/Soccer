@@ -14,6 +14,9 @@ source("Scripts/fix_team_names.r")
 # Get Fix Player Names Function
 source("Scripts/fix_player_names.r")
 
+# Get Squads
+epl_squads <- read_rds("Data/epl_squads.rds")
+
 # Main Function
 get_player_tackles <- function(scraped_file) {
     # Get Markets
@@ -40,11 +43,11 @@ get_player_tackles <- function(scraped_file) {
         html_elements(".srb-ParticipantLabelWithTeam_Name") |>
         html_text()
     
-    # Get Player Teams from node
-    tackles_teams <-
-        bet365_player_markets[[tackles_over_under_index]] |>
-        html_elements(".srb-ParticipantLabelWithTeam_Team") |>
-        html_text()
+    # # Get Player Teams from node
+    # tackles_teams <-
+    #     bet365_player_markets[[tackles_over_under_index]] |>
+    #     html_elements(".srb-ParticipantLabelWithTeam_Team") |>
+    #     html_text()
     
     # Get Over Node Index
     tackles_cols <-
@@ -77,7 +80,7 @@ get_player_tackles <- function(scraped_file) {
     # Create Player Tackles Table
     player_tackles <-
         tibble(player = tackles_players,
-               team = tackles_teams,
+               # team = tackles_teams,
                line = as.numeric(tackles_over_lines),
                over_price = as.numeric(tackles_over_odds),
                under_price = as.numeric(tackles_under_odds)) |>
@@ -130,7 +133,8 @@ list_of_player_tackles <-
 all_player_tackles <-
     list_of_player_tackles |> 
     mutate(player = fix_player_names(player)) |> 
-    rename(player_name = player, player_team = team) |> 
+    left_join(epl_squads, by = c("player" = "player_name")) |>
+    rename(player_name = player) |> 
     mutate(player_team = fix_team_names(player_team))
 
 # Output as a csv
