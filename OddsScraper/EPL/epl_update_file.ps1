@@ -29,3 +29,6 @@ git commit -m $commitMessage
 
 # Push the commit to the 'main' branch on 'origin'
 git push origin main
+
+# Render the report
+echo "1" | & "quarto" "publish" "quarto-pub" "Reports\arbs_EPL.qmd"
