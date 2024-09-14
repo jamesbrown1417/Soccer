@@ -1,79 +1,724 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,agency
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,1.5,8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,1.5,101,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,1.5,61,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,1.5,67,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,1.5,23,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,1.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ethan Wheatley,NA,NA,1.5,21,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,1.5,10,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,1.5,41,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,1.5,151,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,1.5,23,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,1.5,51,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,1.5,91,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,1.5,101,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,1.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,1.5,17,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,1.5,201,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,1.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,1.5,29,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,1.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,1.5,176,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,1.5,91,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,1.5,26,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,1.5,71,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,1.5,7.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,1.5,13,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,1.5,46,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,0.5,4,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,0.5,2.3,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,0.5,4.75,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,0.5,2.15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Dominik Szoboszlai,Liverpool,Manchester United,0.5,6.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ryan Gravenberch,Liverpool,Manchester United,0.5,8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harvey Elliott,Liverpool,Manchester United,0.5,6,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jonny Evans,Manchester United,Liverpool,0.5,17,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Kobbie Mainoo,Manchester United,Liverpool,0.5,7,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Darwin Núñez,Liverpool,Manchester United,0.5,2.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Dalot,Manchester United,Liverpool,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,No Goalscorer,NA,NA,0.5,19,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,0.5,4,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,0.5,3.4,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joseph Gomez,NA,NA,0.5,19,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Luis Díaz,Liverpool,Manchester United,0.5,3.2,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Toby Collyer,Manchester United,Liverpool,0.5,10,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Trent Alexander-Arnold,Liverpool,Manchester United,0.5,8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Wataru Endo,Liverpool,Manchester United,0.5,9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Noussair Mazraoui,Manchester United,Liverpool,0.5,17,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Casemiro,Manchester United,Liverpool,0.5,7,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Lisandro Martínez,Manchester United,Liverpool,0.5,17,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Virgil van Dijk,Liverpool,Manchester United,0.5,10,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Harry Maguire,Manchester United,Liverpool,0.5,11,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ethan Wheatley,NA,NA,0.5,3.7,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,0.5,2.9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Konstantinos Tsimikas,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ibrahima Konaté,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,0.5,4,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Jarell Quansah,Liverpool,Manchester United,0.5,12,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Christian Eriksen,Manchester United,Liverpool,0.5,9,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Andrew Robertson,Liverpool,Manchester United,0.5,15,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alexis Mac Allister,Liverpool,Manchester United,0.5,5.5,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,0.5,3.25,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Conor Bradley,Liverpool,Manchester United,0.5,8,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Matthijs De Ligt,NA,NA,0.5,13,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Marcus Rashford,Manchester United,Liverpool,2.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Mohamed Salah,Liverpool,Manchester United,2.5,29,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Ethan Wheatley,NA,NA,2.5,101,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Diogo Jota,Liverpool,Manchester United,2.5,34,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Cody Gakpo,Liverpool,Manchester United,2.5,61,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Antony,Manchester United,Liverpool,2.5,176,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Alejandro Garnacho,Manchester United,Liverpool,2.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Amad Diallo,Manchester United,Liverpool,2.5,126,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Bruno Fernandes,Manchester United,Liverpool,2.5,91,Neds
-Manchester United v Liverpool,Manchester United,Liverpool,Player Goals,Joshua Zirkzee,Manchester United,Liverpool,2.5,81,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Sammie Szmodics,Ipswich Town,Brighton & Hove Albion,2.5,101,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Ipswich Town,2.5,71,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Ipswich Town,2.5,61,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,João Pedro,Brighton & Hove Albion,Ipswich Town,2.5,29,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yasin Ayari,Brighton & Hove Albion,Ipswich Town,2.5,151,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Evan Ferguson,Brighton & Hove Albion,Ipswich Town,2.5,34,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Brajan Gruda,Brighton & Hove Albion,Ipswich Town,2.5,81,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Omari Hutchinson,Ipswich Town,Brighton & Hove Albion,2.5,201,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Julio Enciso,Brighton & Hove Albion,Ipswich Town,2.5,61,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Simon Adingra,Brighton & Hove Albion,Ipswich Town,2.5,61,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Danny Welbeck,Brighton & Hove Albion,Ipswich Town,2.5,34,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Alexander Isak,Newcastle United,Wolverhampton Wanderers,0.5,2.05,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Boubacar Traoré,Wolverhampton Wanderers,Newcastle United,0.5,9.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Gonçalo Guedes,Wolverhampton Wanderers,Newcastle United,0.5,3.9,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Anthony Gordon,Newcastle United,Wolverhampton Wanderers,0.5,3.6,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Rayan Aït-Nouri,Wolverhampton Wanderers,Newcastle United,0.5,7.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Sandro Tonali,Newcastle United,Wolverhampton Wanderers,0.5,6.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Lloyd Kelly,Newcastle United,Wolverhampton Wanderers,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Nélson Semedo,Wolverhampton Wanderers,Newcastle United,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Bruno Guimarães,Newcastle United,Wolverhampton Wanderers,0.5,6.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Andre Trindade,NA,NA,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Hwang Hee-chan,NA,NA,0.5,3,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Craig Dawson,Wolverhampton Wanderers,Newcastle United,0.5,11,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Emil Krafth,Newcastle United,Wolverhampton Wanderers,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,William Osula,Newcastle United,Wolverhampton Wanderers,0.5,2.63,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Matt Doherty,Wolverhampton Wanderers,Newcastle United,0.5,13,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Pablo Sarabia,Wolverhampton Wanderers,Newcastle United,0.5,4.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Matheus Cunha,Wolverhampton Wanderers,Newcastle United,0.5,2.8,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Joe Willock,Newcastle United,Wolverhampton Wanderers,0.5,6.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Mario Lemina,Wolverhampton Wanderers,Newcastle United,0.5,7.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,João Gomes,Wolverhampton Wanderers,Newcastle United,0.5,10,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Rodrigo Gomes,Wolverhampton Wanderers,Newcastle United,0.5,4,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Valentino Livramento,NA,NA,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Yerson Mosquera,Wolverhampton Wanderers,Newcastle United,0.5,13,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Joelinton,Newcastle United,Wolverhampton Wanderers,0.5,5.75,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Santiago Bueno,Wolverhampton Wanderers,Newcastle United,0.5,21,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Pedro Lima,Wolverhampton Wanderers,Newcastle United,0.5,13,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Carlos Forbs,Wolverhampton Wanderers,Newcastle United,0.5,4.8,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Kieran Trippier,Newcastle United,Wolverhampton Wanderers,0.5,11,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Callum Wilson,Newcastle United,Wolverhampton Wanderers,0.5,2.15,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Miguel Almirón,Newcastle United,Wolverhampton Wanderers,0.5,4.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Jørgen Strand Larsen,Wolverhampton Wanderers,Newcastle United,0.5,2.63,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Jeanricner Bellegarde,NA,NA,0.5,5.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Dan Burn,Newcastle United,Wolverhampton Wanderers,0.5,11,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Tommy Doyle,Wolverhampton Wanderers,Newcastle United,0.5,7.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Toti,Wolverhampton Wanderers,Newcastle United,0.5,19,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Fabian Schär,Newcastle United,Wolverhampton Wanderers,0.5,9,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Lewis Hall,Newcastle United,Wolverhampton Wanderers,0.5,11,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Jacob Murphy,Newcastle United,Wolverhampton Wanderers,0.5,4.33,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Harvey Barnes,Newcastle United,Wolverhampton Wanderers,0.5,3.25,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,No Goalscorer,NA,NA,0.5,15,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Sean Longstaff,Newcastle United,Wolverhampton Wanderers,0.5,7.5,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Matt Targett,Newcastle United,Wolverhampton Wanderers,0.5,17,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Alex Murphy,Newcastle United,Wolverhampton Wanderers,0.5,15,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Yegor Yarmolyuk,Brentford,Manchester City,1.5,91,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nathan Aké,Manchester City,Brentford,1.5,91,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jérémy Doku,Manchester City,Brentford,1.5,26,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Phil Foden,Manchester City,Brentford,1.5,9.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Savio Moreira,NA,NA,1.5,19,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rico Lewis,Manchester City,Brentford,1.5,46,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Josko Gvardiol,Manchester City,Brentford,1.5,51,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,John Stones,Manchester City,Brentford,1.5,91,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nico O'Reilly,Manchester City,Brentford,1.5,15,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jaden Philogene-Bidace,NA,NA,0.5,2.9,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,No Goalscorer,NA,NA,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jhon Durán,Aston Villa,Everton,0.5,2.35,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Leon Bailey,Aston Villa,Everton,0.5,2.8,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Kosta Nedeljkovic,Aston Villa,Everton,0.5,12,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Emiliano Buendía,Aston Villa,Everton,0.5,3.6,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Dwight McNeil,Everton,Aston Villa,0.5,6.5,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ezri Konsa,Aston Villa,Everton,0.5,11,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Sil Swinkels,NA,NA,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Pau Torres,Aston Villa,Everton,0.5,11,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Harrison Armstrong,Everton,Aston Villa,0.5,11,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jesper Lindstrøm,Everton,Aston Villa,0.5,6.5,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Abdoulaye Doucouré,Everton,Aston Villa,0.5,5,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,John McGinn,Aston Villa,Everton,0.5,4.75,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Tim Iroegbunam,Everton,Aston Villa,0.5,10,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Idrissa Gueye,Everton,Aston Villa,0.5,10,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jake O'brien,NA,NA,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jacob Ramsey,Aston Villa,Everton,0.5,3.1,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Lucas Digne,Aston Villa,Everton,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Amadou Onana,Aston Villa,Everton,0.5,4,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,James Tarkowski,Everton,Aston Villa,0.5,15,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jack Harrison,Everton,Aston Villa,0.5,6,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Lamare Bogarde,Aston Villa,Everton,0.5,12,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ashley Young,Everton,Aston Villa,0.5,17,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ollie Watkins,Aston Villa,Everton,0.5,2.25,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Iliman Ndiaye,Everton,Aston Villa,0.5,5.25,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Beto Betuncal,NA,NA,0.5,4.6,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Youri Tielemans,Aston Villa,Everton,0.5,6,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Orel Mangala,Everton,Aston Villa,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ross Barkley,Aston Villa,Everton,0.5,4.8,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Roman Dixon,Everton,Aston Villa,0.5,26,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Vitaliy Mykolenko,Everton,Aston Villa,0.5,19,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Séamus Coleman,Everton,Aston Villa,0.5,23,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Dominic Calvert-Lewin,Everton,Aston Villa,0.5,4.2,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ian Maatsen,Aston Villa,Everton,0.5,9.5,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Michael Keane,Everton,Aston Villa,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Diego Carlos,Aston Villa,Everton,0.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Morgan Rogers,Aston Villa,Everton,0.5,2.5,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,James Garner,Everton,Aston Villa,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Radu Matei Dragusin,NA,NA,1.5,151,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Kai Havertz,Arsenal,Tottenham Hotspur,1.5,19,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Lucas Bergvall,Tottenham Hotspur,Arsenal,1.5,56,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dominic Solanke,Tottenham Hotspur,Arsenal,1.5,12,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Micky van de Ven,Tottenham Hotspur,Arsenal,1.5,151,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Thomas Partey,Arsenal,Tottenham Hotspur,1.5,126,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Djed Spence,Tottenham Hotspur,Arsenal,1.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,William Saliba,Arsenal,Tottenham Hotspur,1.5,176,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Oleksandr Zinchenko,Arsenal,Tottenham Hotspur,1.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ben White,Arsenal,Tottenham Hotspur,1.5,126,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Heung Min Son,NA,NA,1.5,13,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ethan Nwaneri,Arsenal,Tottenham Hotspur,1.5,26,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Bukayo Saka,Arsenal,Tottenham Hotspur,1.5,13,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Timo Werner,Tottenham Hotspur,Arsenal,1.5,41,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ben Davies,Tottenham Hotspur,Arsenal,1.5,176,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Magalhães,Arsenal,Tottenham Hotspur,1.5,101,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Arsenal,1.5,81,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Destiny Udogie,Tottenham Hotspur,Arsenal,1.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Salah-Eddine Oulad M'Hand,NA,NA,1.5,41,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Martin Ødegaard,Arsenal,Tottenham Hotspur,1.5,41,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Leandro Trossard,Arsenal,Tottenham Hotspur,1.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,James Maddison,Tottenham Hotspur,Arsenal,1.5,41,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Jesus,Arsenal,Tottenham Hotspur,1.5,17,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Jurrien Timber,Arsenal,Tottenham Hotspur,1.5,176,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Yves Bissouma,Tottenham Hotspur,Arsenal,1.5,151,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Arsenal,1.5,41,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Martinelli,Arsenal,Tottenham Hotspur,1.5,19,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Cristian Romero,Tottenham Hotspur,Arsenal,1.5,71,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Raheem Sterling,Arsenal,Tottenham Hotspur,1.5,17,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Riccardo Calafiori,Arsenal,Tottenham Hotspur,1.5,176,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Brennan Johnson,Tottenham Hotspur,Arsenal,1.5,29,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Jorginho,Arsenal,Tottenham Hotspur,1.5,61,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Wilson Odobert,Tottenham Hotspur,Arsenal,1.5,34,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Archie Gray,Tottenham Hotspur,Arsenal,1.5,126,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Pedro Porro,Tottenham Hotspur,Arsenal,1.5,81,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jordan Ayew,Crystal Palace,Leicester City,0.5,4.6,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jordan Ayew,Leicester City,Crystal Palace,0.5,4.6,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Facundo Buonanotte,Leicester City,Crystal Palace,0.5,6.5,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Wout Faes,Leicester City,Crystal Palace,0.5,19,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Bobby De Cordova-Reid,Leicester City,Crystal Palace,0.5,4.6,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Boubakary Soumaré,Leicester City,Crystal Palace,0.5,26,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Bilal El Khannous,NA,NA,0.5,9.5,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Asher Agbinone,NA,NA,0.5,2.7,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Chris Richards,Crystal Palace,Leicester City,0.5,11,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jeffrey Schlupp,Crystal Palace,Leicester City,0.5,4,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,James Justin,Leicester City,Crystal Palace,0.5,21,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Marc Guéhi,Crystal Palace,Leicester City,0.5,17,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Daichi Kamada,Crystal Palace,Leicester City,0.5,3.25,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Harry Winks,Leicester City,Crystal Palace,0.5,17,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,No Goalscorer,NA,NA,0.5,11,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Kaden Rodney,NA,NA,0.5,11,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Trevoh Chalobah,Chelsea,Crystal Palace,0.5,13,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Ricardo Pereira,Leicester City,Crystal Palace,0.5,15,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Victor Kristiansen,Leicester City,Crystal Palace,0.5,34,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Daniel Muñoz,Crystal Palace,Leicester City,0.5,10,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Will Hughes,Crystal Palace,Leicester City,0.5,11,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Nathaniel Clyne,Crystal Palace,Leicester City,0.5,21,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Conor Coady,Leicester City,Crystal Palace,0.5,21,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Issahaku Fatawu,Leicester City,Crystal Palace,0.5,5.25,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Eberechi Eze,Crystal Palace,Leicester City,0.5,1.95,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Hamza Choudhury,Leicester City,Crystal Palace,0.5,17,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Adam Wharton,Crystal Palace,Leicester City,0.5,6,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Justin Devenny,NA,NA,0.5,3.9,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Ismaïla Sarr,Crystal Palace,Leicester City,0.5,3.3,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jefferson Lerma,Crystal Palace,Leicester City,0.5,6.5,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Cheick Oumar Doucoure,NA,NA,0.5,8,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Tyrick Mitchell,Crystal Palace,Leicester City,0.5,12,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jannik Vestergaard,Leicester City,Crystal Palace,0.5,17,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Stephy Mavididi,Leicester City,Crystal Palace,0.5,4.6,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Wilfred Ndidi,Leicester City,Crystal Palace,0.5,7.5,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Caleb Okoli,Leicester City,Crystal Palace,0.5,17,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Luke Thomas,Leicester City,Crystal Palace,0.5,29,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jean-Philippe Mateta,Crystal Palace,Leicester City,0.5,2.3,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Oliver Skipp,Leicester City,Crystal Palace,0.5,13,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Franco Umeh-Chibueze,NA,NA,0.5,3.75,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Eddie Nketiah,Arsenal,Crystal Palace,0.5,2.38,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Eddie Nketiah,Crystal Palace,Leicester City,0.5,2.38,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Kasey McAteer,Leicester City,Crystal Palace,0.5,6.5,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Jamie Vardy,Leicester City,Crystal Palace,0.5,3.75,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Joel Ward,Crystal Palace,Leicester City,0.5,17,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ross Barkley,Aston Villa,Everton,2.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jaden Philogene-Bidace,NA,NA,2.5,67,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Dominic Calvert-Lewin,Everton,Aston Villa,2.5,151,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Leon Bailey,Aston Villa,Everton,2.5,61,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Abdoulaye Doucouré,Everton,Aston Villa,2.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Beto Betuncal,NA,NA,2.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Iliman Ndiaye,Everton,Aston Villa,2.5,201,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Emiliano Buendía,Aston Villa,Everton,2.5,101,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Amadou Onana,Aston Villa,Everton,2.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,John McGinn,Aston Villa,Everton,2.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jacob Ramsey,Aston Villa,Everton,2.5,71,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ollie Watkins,Aston Villa,Everton,2.5,34,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Morgan Rogers,Aston Villa,Everton,2.5,46,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jhon Durán,Aston Villa,Everton,2.5,34,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dominic Solanke,Tottenham Hotspur,Arsenal,2.5,56,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Wilson Odobert,Tottenham Hotspur,Arsenal,2.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Arsenal,2.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Brennan Johnson,Tottenham Hotspur,Arsenal,2.5,176,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ethan Nwaneri,Arsenal,Tottenham Hotspur,2.5,151,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Leandro Trossard,Arsenal,Tottenham Hotspur,2.5,81,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Timo Werner,Tottenham Hotspur,Arsenal,2.5,201,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Bukayo Saka,Arsenal,Tottenham Hotspur,2.5,67,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Kai Havertz,Arsenal,Tottenham Hotspur,2.5,101,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Christian Nørgaard,Brentford,Manchester City,0.5,19,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jayden Meghoma,Brentford,Manchester City,0.5,13,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,John Stones,Manchester City,Brentford,0.5,9.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Mikkel Damsgaard,Brentford,Manchester City,0.5,9,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Yegor Yarmolyuk,Brentford,Manchester City,0.5,9,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,James McAtee,Manchester City,Brentford,0.5,3.6,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rodrigo Hernandez Cascante,NA,NA,0.5,3.7,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Vitaly Janelt,Brentford,Manchester City,0.5,17,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nathan Aké,Manchester City,Brentford,0.5,9.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rúben Dias,Manchester City,Brentford,0.5,11,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jérémy Doku,Manchester City,Brentford,0.5,4.2,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,No Goalscorer,NA,NA,0.5,21,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Erling Haaland,Manchester City,Brentford,0.5,1.4,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Mateo Kovacic,Manchester City,Brentford,0.5,6,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Yoane Wissa,Brentford,Manchester City,0.5,4.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Phil Foden,Manchester City,Brentford,0.5,2.4,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Ethan Pinnock,Brentford,Manchester City,0.5,21,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Mathias Jensen,Brentford,Manchester City,0.5,15,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Kevin De Bruyne,Manchester City,Brentford,0.5,2.63,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Savio Moreira,NA,NA,0.5,3.6,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Mads Roerslev Rasmussen,NA,NA,0.5,34,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jack Grealish,Manchester City,Brentford,0.5,3.2,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Matheus Nunes,Manchester City,Brentford,0.5,6.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Kyle Walker,Manchester City,Brentford,0.5,17,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nico O'Reilly,Manchester City,Brentford,0.5,3.1,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Josko Gvardiol,Manchester City,Brentford,0.5,6,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Keane Lewis-Potter,Brentford,Manchester City,0.5,8.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Bryan Mbeumo,Brentford,Manchester City,0.5,4.2,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Bernardo Silva,Manchester City,Brentford,0.5,3.4,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Fábio Carvalho,Brentford,Manchester City,0.5,5.75,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Sepp Van den Berg,NA,NA,0.5,26,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nathan Collins,Brentford,Manchester City,0.5,21,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Ben Mee,Brentford,Manchester City,0.5,19,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rico Henry,Brentford,Manchester City,0.5,26,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Ryan Trevitt,Brentford,Manchester City,0.5,8.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Kevin Schade,Brentford,Manchester City,0.5,6.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Yunus Emre Konak,Brentford,Manchester City,0.5,21,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Ilkay Gündogan,NA,NA,0.5,4,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Kristoffer Ajer,Brentford,Manchester City,0.5,23,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Manuel Akanji,Manchester City,Brentford,0.5,12,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rico Lewis,Manchester City,Brentford,0.5,6,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Carlos Forbs,Wolverhampton Wanderers,Newcastle United,2.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Luis Guilherme,West Ham United,Fulham,0.5,7,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Saša Lukić,Fulham,West Ham United,0.5,8.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Andreas Pereira,Fulham,West Ham United,0.5,6.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jean-Clair Todibo,West Ham United,Fulham,0.5,21,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Adama Traoré,Fulham,West Ham United,0.5,4.75,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Fulham,0.5,3.1,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Aaron Wan-Bissaka,West Ham United,Fulham,0.5,29,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Raúl Jiménez,Fulham,West Ham United,0.5,2.8,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Tom Cairney,Fulham,West Ham United,0.5,7.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Andy Irving,West Ham United,Fulham,0.5,5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Joachim Andersen,Crystal Palace,Fulham,0.5,12,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Joachim Andersen,Fulham,West Ham United,0.5,12,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,No Goalscorer,NA,NA,0.5,13,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Edson Álvarez,West Ham United,Fulham,0.5,11,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Fulham,0.5,5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Harry Wilson,Fulham,West Ham United,0.5,5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Kenny Tete,Fulham,West Ham United,0.5,13,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Antonee Robinson,Fulham,West Ham United,0.5,19,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Emerson,West Ham United,Fulham,0.5,19,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Kaelen Casey,NA,NA,0.5,15,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Harrison Reed,Fulham,West Ham United,0.5,9.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Tomas Soucek,West Ham United,Fulham,0.5,4.8,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Guido Rodríguez,West Ham United,Fulham,0.5,7.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Alexander Iwobi,NA,NA,0.5,4.4,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Danny Ings,West Ham United,Fulham,0.5,3.3,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Timothy Castagne,Fulham,West Ham United,0.5,13,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Issa Diop,Fulham,West Ham United,0.5,15,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Fulham,0.5,3.75,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Max Kilman,West Ham United,Fulham,0.5,13,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Sander Berge,Fulham,West Ham United,0.5,8.5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Michail Antonio,West Ham United,Fulham,0.5,3.1,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jorge Cuenca,Fulham,West Ham United,0.5,10,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Calvin Bassey,Fulham,West Ham United,0.5,13,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Fulham,0.5,2.8,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Fulham,0.5,4.33,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Ryan Sessegnon,Fulham,West Ham United,0.5,10,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Emile Smith Rowe,Fulham,West Ham United,0.5,3.6,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Reiss Nelson,Arsenal,Fulham,0.5,4.2,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Reiss Nelson,Fulham,West Ham United,0.5,4.2,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Rodrigo Muniz,Fulham,West Ham United,0.5,2.35,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Carlos Soler,West Ham United,Fulham,0.5,5,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Vladimír Coufal,West Ham United,Fulham,0.5,29,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Konstantinos Mavropanos,West Ham United,Fulham,0.5,15,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Yukinari Sugawara,Southampton,Manchester United,0.5,10,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Flynn Downes,Southampton,Manchester United,0.5,11,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Victor Lindelof,NA,NA,0.5,15,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Kyle Walker-Peters,Southampton,Manchester United,0.5,12,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Nathan Wood-Gordon,NA,NA,0.5,21,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Cameron Archer,Southampton,Manchester United,0.5,3.6,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ben Brereton Díaz,Southampton,Manchester United,0.5,2.9,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ryan Fraser,Southampton,Manchester United,0.5,6,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Charlie Taylor,Southampton,Manchester United,0.5,26,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Southampton,0.5,2.38,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Will Smallbone,Southampton,Manchester United,0.5,8.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ethan Wheatley,NA,NA,0.5,2.8,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ross Stewart,Southampton,Manchester United,0.5,3.7,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,James Bree,Southampton,Manchester United,0.5,26,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Lisandro Martínez,Manchester United,Southampton,0.5,15,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Christian Eriksen,Manchester United,Southampton,0.5,7.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Southampton,0.5,2.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Jonny Evans,Manchester United,Southampton,0.5,15,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Noussair Mazraoui,Manchester United,Southampton,0.5,13,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Taylor Harwood-Bellis,Southampton,Manchester United,0.5,19,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Tyler Dibling,Southampton,Manchester United,0.5,5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Samuel Amo-Ameyaw,Southampton,Manchester United,0.5,4,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Rasmus Hojlund,NA,NA,0.5,2.35,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Kobbie Mainoo,Manchester United,Southampton,0.5,6.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Harry Maguire,Manchester United,Southampton,0.5,10,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Matthijs De Ligt,NA,NA,0.5,13,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Kamal-Deen Sulemana,NA,NA,0.5,6.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Adam Lallana,Southampton,Manchester United,0.5,9,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,No Goalscorer,NA,NA,0.5,15,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Joe Aribo,Southampton,Manchester United,0.5,7.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Manuel Ugarte,Manchester United,Southampton,0.5,9.5,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Casemiro,Manchester United,Southampton,0.5,6,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Diogo Dalot,Manchester United,Southampton,0.5,13,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Mateus Fernandes,Southampton,Manchester United,0.5,7,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Toby Collyer,Manchester United,Southampton,0.5,8,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Antony,Manchester United,Southampton,0.5,3.6,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Amad Diallo,Manchester United,Southampton,0.5,3.1,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Jan Bednarek,Southampton,Manchester United,0.5,17,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Lesley Ugochukwu,Southampton,Manchester United,0.5,10,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Alejandro Garnacho,Manchester United,Southampton,0.5,3,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Adam Armstrong,Southampton,Manchester United,0.5,3.2,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Marcus Rashford,Manchester United,Southampton,0.5,3.2,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Luke Shaw,Manchester United,Southampton,0.5,13,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Jack Stephens,Southampton,Manchester United,0.5,23,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Joe Aribo,Southampton,Manchester United,1.5,71,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Antony,Manchester United,Southampton,1.5,19,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Noussair Mazraoui,Manchester United,Southampton,1.5,151,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Kamal-Deen Sulemana,NA,NA,1.5,56,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ben Brereton Díaz,Southampton,Manchester United,1.5,13,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ryan Fraser,Southampton,Manchester United,1.5,51,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ross Stewart,Southampton,Manchester United,1.5,21,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Will Smallbone,Southampton,Manchester United,1.5,81,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Southampton,1.5,10,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Tyler Dibling,Southampton,Manchester United,1.5,34,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Southampton,1.5,9,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Jonny Evans,Manchester United,Southampton,1.5,176,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Rasmus Hojlund,NA,NA,1.5,9,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Ilkay Gündogan,NA,NA,2.5,126,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Rodrigo Hernandez Cascante,NA,NA,2.5,101,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Yoane Wissa,Brentford,Manchester City,2.5,151,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Savio Moreira,NA,NA,2.5,101,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Bernardo Silva,Manchester City,Brentford,2.5,91,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Erling Haaland,Manchester City,Brentford,2.5,7.5,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jérémy Doku,Manchester City,Brentford,2.5,126,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Jack Grealish,Manchester City,Brentford,2.5,81,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Nico O'Reilly,Manchester City,Brentford,2.5,71,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Kevin De Bruyne,Manchester City,Brentford,2.5,51,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,James McAtee,Manchester City,Brentford,2.5,101,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Bryan Mbeumo,Brentford,Manchester City,2.5,126,Neds
+Manchester City v Brentford,Manchester City,Brentford,Player Goals,Phil Foden,Manchester City,Brentford,2.5,41,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Raúl Jiménez,Fulham,West Ham United,2.5,61,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Harry Wilson,Fulham,West Ham United,2.5,201,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Emile Smith Rowe,Fulham,West Ham United,2.5,101,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Reiss Nelson,Arsenal,Fulham,2.5,151,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Reiss Nelson,Fulham,West Ham United,2.5,151,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Fulham,2.5,56,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Adama Traoré,Fulham,West Ham United,2.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Fulham,2.5,71,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Danny Ings,West Ham United,Fulham,2.5,81,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Michail Antonio,West Ham United,Fulham,2.5,71,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Fulham,2.5,101,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Fulham,2.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Alexander Iwobi,NA,NA,2.5,151,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Andy Irving,West Ham United,Fulham,2.5,201,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Tomas Soucek,West Ham United,Fulham,2.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Rodrigo Muniz,Fulham,West Ham United,2.5,34,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Carlos Soler,West Ham United,Fulham,2.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Fulham,2.5,151,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Eddie Nketiah,Arsenal,Crystal Palace,2.5,41,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Eddie Nketiah,Crystal Palace,Leicester City,2.5,41,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Nicolas Jackson,Chelsea,Bournemouth,2.5,51,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Mykhaylo Mudryk,Chelsea,Bournemouth,2.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Enzo Fernández,Chelsea,Bournemouth,2.5,201,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Luis Sinisterra,Bournemouth,Chelsea,2.5,101,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Christopher Nkunku,Chelsea,Bournemouth,2.5,56,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Jadon Sancho,Manchester United,Bournemouth,2.5,61,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marc Guiu,Chelsea,Bournemouth,2.5,51,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Pedro Neto,Chelsea,Bournemouth,2.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marcus Tavernier,Bournemouth,Chelsea,2.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Dango Ouattara,Bournemouth,Chelsea,2.5,151,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Evanilson,Bournemouth,Chelsea,2.5,51,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,David Brooks,Bournemouth,Chelsea,2.5,151,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Noni Madueke,Chelsea,Bournemouth,2.5,61,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Cole Palmer,Chelsea,Bournemouth,2.5,29,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Bilal El Khannous,NA,NA,1.5,91,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Facundo Buonanotte,Leicester City,Crystal Palace,1.5,56,Neds
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Player Goals,Cheick Oumar Doucoure,NA,NA,1.5,81,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Jesus,Arsenal,Tottenham Hotspur,0.5,3.4,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Bukayo Saka,Arsenal,Tottenham Hotspur,0.5,2.9,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Rodrigo Bentancur,Tottenham Hotspur,Arsenal,0.5,6,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Riccardo Calafiori,Arsenal,Tottenham Hotspur,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Destiny Udogie,Tottenham Hotspur,Arsenal,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Djed Spence,Tottenham Hotspur,Arsenal,0.5,17,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Brennan Johnson,Tottenham Hotspur,Arsenal,0.5,4.6,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Raheem Sterling,Arsenal,Tottenham Hotspur,0.5,3.4,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Jurrien Timber,Arsenal,Tottenham Hotspur,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Salah-Eddine Oulad M'Hand,NA,NA,0.5,5.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Micky van de Ven,Tottenham Hotspur,Arsenal,0.5,13,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Archie Gray,Tottenham Hotspur,Arsenal,0.5,12,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Cristian Romero,Tottenham Hotspur,Arsenal,0.5,8,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Wilson Odobert,Tottenham Hotspur,Arsenal,0.5,5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Pedro Porro,Tottenham Hotspur,Arsenal,0.5,8,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dejan Kulusevski,Tottenham Hotspur,Arsenal,0.5,5.25,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Thomas Partey,Arsenal,Tottenham Hotspur,0.5,11,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ben White,Arsenal,Tottenham Hotspur,0.5,11,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Dominic Solanke,Tottenham Hotspur,Arsenal,0.5,2.7,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ethan Nwaneri,Arsenal,Tottenham Hotspur,0.5,4.33,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Oleksandr Zinchenko,Arsenal,Tottenham Hotspur,0.5,17,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Jakub Kiwior,Arsenal,Tottenham Hotspur,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Ben Davies,Tottenham Hotspur,Arsenal,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Timo Werner,Tottenham Hotspur,Arsenal,0.5,5.25,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Lucas Bergvall,Tottenham Hotspur,Arsenal,0.5,6.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Yves Bissouma,Tottenham Hotspur,Arsenal,0.5,13,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Martinelli,Arsenal,Tottenham Hotspur,0.5,3.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Kai Havertz,Arsenal,Tottenham Hotspur,0.5,3.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Martin Ødegaard,Arsenal,Tottenham Hotspur,0.5,5.25,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Pape Matar Sarr,Tottenham Hotspur,Arsenal,0.5,8.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,No Goalscorer,NA,NA,0.5,15,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Radu Matei Dragusin,NA,NA,0.5,13,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Myles Lewis-Skelly,NA,NA,0.5,10,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Leandro Trossard,Arsenal,Tottenham Hotspur,0.5,3.2,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,James Maddison,Tottenham Hotspur,Arsenal,0.5,5.5,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Gabriel Magalhães,Arsenal,Tottenham Hotspur,0.5,10,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Heung Min Son,NA,NA,0.5,2.8,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,Jorginho,Arsenal,Tottenham Hotspur,0.5,7,Neds
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Player Goals,William Saliba,Arsenal,Tottenham Hotspur,0.5,15,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Michael Keane,Everton,Aston Villa,1.5,151,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jake O'brien,NA,NA,1.5,151,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Lucas Digne,Aston Villa,Everton,1.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Dominic Calvert-Lewin,Everton,Aston Villa,1.5,26,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Pau Torres,Aston Villa,Everton,1.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jhon Durán,Aston Villa,Everton,1.5,9,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jesper Lindstrøm,Everton,Aston Villa,1.5,56,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jaden Philogene-Bidace,NA,NA,1.5,13,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Abdoulaye Doucouré,Everton,Aston Villa,1.5,34,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Youri Tielemans,Aston Villa,Everton,1.5,51,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jacob Ramsey,Aston Villa,Everton,1.5,15,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Tim Iroegbunam,Everton,Aston Villa,1.5,101,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Beto Betuncal,NA,NA,1.5,29,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ezri Konsa,Aston Villa,Everton,1.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ollie Watkins,Aston Villa,Everton,1.5,8,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,James Garner,Everton,Aston Villa,1.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Sil Swinkels,NA,NA,1.5,151,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Iliman Ndiaye,Everton,Aston Villa,1.5,34,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Lamare Bogarde,Aston Villa,Everton,1.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Emiliano Buendía,Aston Villa,Everton,1.5,19,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Idrissa Gueye,Everton,Aston Villa,1.5,101,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Harrison Armstrong,Everton,Aston Villa,1.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Leon Bailey,Aston Villa,Everton,1.5,12,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ross Barkley,Aston Villa,Everton,1.5,34,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,James Tarkowski,Everton,Aston Villa,1.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,John McGinn,Aston Villa,Everton,1.5,29,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Dwight McNeil,Everton,Aston Villa,1.5,56,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Diego Carlos,Aston Villa,Everton,1.5,176,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Amadou Onana,Aston Villa,Everton,1.5,23,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Morgan Rogers,Aston Villa,Everton,1.5,10,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Kosta Nedeljkovic,Aston Villa,Everton,1.5,126,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Ian Maatsen,Aston Villa,Everton,1.5,101,Neds
+Aston Villa v Everton,Aston Villa,Everton,Player Goals,Jack Harrison,Everton,Aston Villa,1.5,46,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Chris Wood,Nottingham Forest,Liverpool,2.5,151,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Darwin Núñez,Liverpool,Nottingham Forest,2.5,26,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Cody Gakpo,Liverpool,Nottingham Forest,2.5,29,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Dominik Szoboszlai,Liverpool,Nottingham Forest,2.5,151,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Alexis Mac Allister,Liverpool,Nottingham Forest,2.5,176,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Taiwo Awoniyi,Nottingham Forest,Liverpool,2.5,176,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Mohamed Salah,Liverpool,Nottingham Forest,2.5,17,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Luis Díaz,Liverpool,Nottingham Forest,2.5,29,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Curtis Jones,Liverpool,Nottingham Forest,2.5,201,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Diogo Jota,Liverpool,Nottingham Forest,2.5,23,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Federico Chiesa,Liverpool,Nottingham Forest,2.5,29,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Tyler Dibling,Southampton,Manchester United,2.5,201,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ben Brereton Díaz,Southampton,Manchester United,2.5,67,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Alejandro Garnacho,Manchester United,Southampton,2.5,71,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Rasmus Hojlund,NA,NA,2.5,34,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Marcus Rashford,Manchester United,Southampton,2.5,81,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Bruno Fernandes,Manchester United,Southampton,2.5,46,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ethan Wheatley,NA,NA,2.5,56,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Cameron Archer,Southampton,Manchester United,2.5,101,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Adam Armstrong,Southampton,Manchester United,2.5,81,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Samuel Amo-Ameyaw,Southampton,Manchester United,2.5,126,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Joshua Zirkzee,Manchester United,Southampton,2.5,41,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Amad Diallo,Manchester United,Southampton,2.5,71,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Antony,Manchester United,Southampton,2.5,101,Neds
+Southampton v Manchester United,Southampton,Manchester United,Player Goals,Ross Stewart,Southampton,Manchester United,2.5,101,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Noni Madueke,Chelsea,Bournemouth,1.5,13,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Renato Veiga,Chelsea,Bournemouth,1.5,101,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Cole Palmer,Chelsea,Bournemouth,1.5,7,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Christopher Nkunku,Chelsea,Bournemouth,1.5,12,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Reece James,Chelsea,Bournemouth,1.5,81,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,David Brooks,Bournemouth,Chelsea,1.5,29,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Cesare Casadei,Chelsea,Bournemouth,1.5,61,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Justin Kluivert,Bournemouth,Chelsea,1.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Enzo Fernández,Chelsea,Bournemouth,1.5,34,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Nicolas Jackson,Chelsea,Bournemouth,1.5,11,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Milos Kerkez,Bournemouth,Chelsea,1.5,201,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Moisés Caicedo,Chelsea,Bournemouth,1.5,151,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Evanilson,Bournemouth,Chelsea,1.5,11,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marcos Senesi,Bournemouth,Chelsea,1.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Luis Sinisterra,Bournemouth,Chelsea,1.5,19,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Wesley Fofana,Chelsea,Bournemouth,1.5,201,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Tosin Adarabioyo,Chelsea,Bournemouth,1.5,176,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Benoît Badiashile,Chelsea,Bournemouth,1.5,176,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Alex Scott,Bournemouth,Chelsea,1.5,91,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marc Guiu,Chelsea,Bournemouth,1.5,11,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Mykhaylo Mudryk,Chelsea,Bournemouth,1.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Antoine Semenyo,Bournemouth,Chelsea,1.5,12,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Pedro Neto,Chelsea,Bournemouth,1.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,João Félix,Chelsea,Bournemouth,1.5,13,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Levi Colwill,Chelsea,Bournemouth,1.5,151,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Dean Huijsen,Bournemouth,Chelsea,1.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Ryan Christie,Bournemouth,Chelsea,1.5,71,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Dango Ouattara,Bournemouth,Chelsea,1.5,26,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Axel Disasi,Chelsea,Bournemouth,1.5,151,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Roméo Lavia,Chelsea,Bournemouth,1.5,126,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marcus Tavernier,Bournemouth,Chelsea,1.5,26,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Philip Billing,Bournemouth,Chelsea,1.5,46,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,No Goalscorer,NA,NA,0.5,15,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Lewis Dunk,Brighton & Hove Albion,Ipswich Town,0.5,9,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Sammie Szmodics,Ipswich Town,Brighton & Hove Albion,0.5,3.6,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Clarke,Ipswich Town,Brighton & Hove Albion,0.5,5.25,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Igor,Brighton & Hove Albion,Ipswich Town,0.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Georginio Rutter,Brighton & Hove Albion,Ipswich Town,0.5,2.4,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Simon Adingra,Brighton & Hove Albion,Ipswich Town,0.5,2.8,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Joël Veltman,Brighton & Hove Albion,Ipswich Town,0.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Ali Al-Hamadi,Ipswich Town,Brighton & Hove Albion,0.5,5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Massimo Luongo,Ipswich Town,Brighton & Hove Albion,0.5,15,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yasin Ayari,Brighton & Hove Albion,Ipswich Town,0.5,4.4,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Tariq Lamptey,Brighton & Hove Albion,Ipswich Town,0.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Taylor,Ipswich Town,Brighton & Hove Albion,0.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Conor Chaplin,Ipswich Town,Brighton & Hove Albion,0.5,6,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jan Paul van Hecke,Brighton & Hove Albion,Ipswich Town,0.5,10,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Adam Webster,Brighton & Hove Albion,Ipswich Town,0.5,8.5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Ipswich Town,0.5,2.9,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Ferdi Kadioglu,NA,NA,0.5,7.5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Axel Tuanzebe,Ipswich Town,Brighton & Hove Albion,0.5,29,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Liam Delap,Ipswich Town,Brighton & Hove Albion,0.5,4.4,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Dara O'Shea,Ipswich Town,Brighton & Hove Albion,0.5,17,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Luke Woolfenden,Ipswich Town,Brighton & Hove Albion,0.5,26,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,João Pedro,Brighton & Hove Albion,Ipswich Town,0.5,2.1,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Carlos Baleba Noom,NA,NA,0.5,8,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jacob Greaves,Ipswich Town,Brighton & Hove Albion,0.5,17,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Mats Wieffer,Brighton & Hove Albion,Ipswich Town,0.5,7,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Brajan Gruda,Brighton & Hove Albion,Ipswich Town,0.5,3.3,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Ipswich Town,0.5,3.1,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Danny Welbeck,Brighton & Hove Albion,Ipswich Town,0.5,2.35,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Wes Burns,Ipswich Town,Brighton & Hove Albion,0.5,11,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Chiedozie Ogbene,Ipswich Town,Brighton & Hove Albion,0.5,7,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Cameron Burgess,Ipswich Town,Brighton & Hove Albion,0.5,21,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Evan Ferguson,Brighton & Hove Albion,Ipswich Town,0.5,2.35,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Samy Morsy,NA,NA,0.5,19,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jens Cajuste,Ipswich Town,Brighton & Hove Albion,0.5,17,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Julio Enciso,Brighton & Hove Albion,Ipswich Town,0.5,2.9,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Kalvin Phillips,Manchester City,Brighton & Hove Albion,0.5,19,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Kalvin Phillips,Ipswich Town,Brighton & Hove Albion,0.5,19,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Pervis Estupiñán,Brighton & Hove Albion,Ipswich Town,0.5,6,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Conor Townsend,Ipswich Town,Brighton & Hove Albion,0.5,26,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Hinshelwood,Brighton & Hove Albion,Ipswich Town,0.5,6.5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Omari Hutchinson,Ipswich Town,Brighton & Hove Albion,0.5,5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Leif Davis,Ipswich Town,Brighton & Hove Albion,0.5,26,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Ben Johnson,Ipswich Town,Brighton & Hove Albion,0.5,19,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Carlos Forbs,Wolverhampton Wanderers,Newcastle United,1.5,34,Neds
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Player Goals,Jeanricner Bellegarde,NA,NA,1.5,41,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Evanilson,Bournemouth,Chelsea,0.5,2.63,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Malo Gusto,Chelsea,Bournemouth,0.5,17,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Moisés Caicedo,Chelsea,Bournemouth,0.5,13,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Kiernan Dewsbury Hall,NA,NA,0.5,5.25,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Wesley Fofana,Chelsea,Bournemouth,0.5,15,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Cesare Casadei,Chelsea,Bournemouth,0.5,7,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marc Cucurella,Chelsea,Bournemouth,0.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Max Aarons,Bournemouth,Chelsea,0.5,26,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Milos Kerkez,Bournemouth,Chelsea,0.5,17,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,David Brooks,Bournemouth,Chelsea,0.5,4.6,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Pedro Neto,Chelsea,Bournemouth,0.5,3.9,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Alex Scott,Bournemouth,Chelsea,0.5,9,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Mykhaylo Mudryk,Chelsea,Bournemouth,0.5,3.9,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Luis Sinisterra,Bournemouth,Chelsea,0.5,3.6,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marc Guiu,Chelsea,Bournemouth,0.5,2.63,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Roméo Lavia,Chelsea,Bournemouth,0.5,12,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Ryan Christie,Bournemouth,Chelsea,0.5,8,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marcos Senesi,Bournemouth,Chelsea,0.5,11,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Christopher Nkunku,Chelsea,Bournemouth,0.5,2.75,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,James Hill,Bournemouth,Chelsea,0.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Lewis Cook,Bournemouth,Chelsea,0.5,17,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,No Goalscorer,NA,NA,0.5,19,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Cole Palmer,Chelsea,Bournemouth,0.5,2.15,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Justin Kluivert,Bournemouth,Chelsea,0.5,4,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Levi Colwill,Chelsea,Bournemouth,0.5,13,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Noni Madueke,Chelsea,Bournemouth,0.5,2.8,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Axel Disasi,Chelsea,Bournemouth,0.5,13,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Adam Smith,Bournemouth,Chelsea,0.5,26,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Benoît Badiashile,Chelsea,Bournemouth,0.5,15,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Jadon Sancho,Manchester United,Bournemouth,0.5,2.88,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Illya Zabarnyi,NA,NA,0.5,23,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Reece James,Chelsea,Bournemouth,0.5,8.5,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Dango Ouattara,Bournemouth,Chelsea,0.5,4.33,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,João Félix,Chelsea,Bournemouth,0.5,3,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Marcus Tavernier,Bournemouth,Chelsea,0.5,4,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Renato Veiga,Chelsea,Bournemouth,0.5,11,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Dean Huijsen,Bournemouth,Chelsea,0.5,12,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Antoine Semenyo,Bournemouth,Chelsea,0.5,2.8,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Philip Billing,Bournemouth,Chelsea,0.5,5.75,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Tosin Adarabioyo,Chelsea,Bournemouth,0.5,15,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Enzo Fernández,Chelsea,Bournemouth,0.5,5,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Julián Araujo,Bournemouth,Chelsea,0.5,19,Neds
+Bournemouth v Chelsea,Bournemouth,Chelsea,Player Goals,Nicolas Jackson,Chelsea,Bournemouth,0.5,2.6,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Joachim Andersen,Crystal Palace,Fulham,1.5,126,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Joachim Andersen,Fulham,West Ham United,1.5,126,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Andreas Pereira,Fulham,West Ham United,1.5,51,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Rodrigo Muniz,Fulham,West Ham United,1.5,9,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jarrod Bowen,West Ham United,Fulham,1.5,12,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Andy Irving,West Ham United,Fulham,1.5,34,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Adama Traoré,Fulham,West Ham United,1.5,29,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Kenny Tete,Fulham,West Ham United,1.5,151,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Sander Berge,Fulham,West Ham United,1.5,81,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Tom Cairney,Fulham,West Ham United,1.5,71,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Lucas Paquetá,West Ham United,Fulham,1.5,34,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Guido Rodríguez,West Ham United,Fulham,1.5,71,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Harry Wilson,Fulham,West Ham United,1.5,34,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Tomas Soucek,West Ham United,Fulham,1.5,34,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Max Kilman,West Ham United,Fulham,1.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Mohammed Kudus,West Ham United,Fulham,1.5,21,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Alexander Iwobi,NA,NA,1.5,29,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Konstantinos Mavropanos,West Ham United,Fulham,1.5,201,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Danny Ings,West Ham United,Fulham,1.5,17,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Ryan Sessegnon,Fulham,West Ham United,1.5,101,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Michail Antonio,West Ham United,Fulham,1.5,15,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Luis Guilherme,West Ham United,Fulham,1.5,61,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Harrison Reed,Fulham,West Ham United,1.5,101,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Calvin Bassey,Fulham,West Ham United,1.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Emile Smith Rowe,Fulham,West Ham United,1.5,19,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Issa Diop,Fulham,West Ham United,1.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Edson Álvarez,West Ham United,Fulham,1.5,126,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Jorge Cuenca,Fulham,West Ham United,1.5,101,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Timothy Castagne,Fulham,West Ham United,1.5,151,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Crysencio Summerville,West Ham United,Fulham,1.5,26,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Saša Lukić,Fulham,West Ham United,1.5,81,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Kaelen Casey,NA,NA,1.5,176,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Niclas Füllkrug,West Ham United,Fulham,1.5,15,Neds
+Fulham v West Ham United,Fulham,West Ham United,Player Goals,Raúl Jiménez,Fulham,West Ham United,1.5,12,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Lewis Dunk,Brighton & Hove Albion,Ipswich Town,1.5,91,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Igor,Brighton & Hove Albion,Ipswich Town,1.5,176,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Hinshelwood,Brighton & Hove Albion,Ipswich Town,1.5,56,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Kaoru Mitoma,Brighton & Hove Albion,Ipswich Town,1.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yankuba Minteh,Brighton & Hove Albion,Ipswich Town,1.5,15,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Dara O'Shea,Ipswich Town,Brighton & Hove Albion,1.5,201,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Omari Hutchinson,Ipswich Town,Brighton & Hove Albion,1.5,34,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Georginio Rutter,Brighton & Hove Albion,Ipswich Town,1.5,9.5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Simon Adingra,Brighton & Hove Albion,Ipswich Town,1.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Joël Veltman,Brighton & Hove Albion,Ipswich Town,1.5,176,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jacob Greaves,Ipswich Town,Brighton & Hove Albion,1.5,201,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Julio Enciso,Brighton & Hove Albion,Ipswich Town,1.5,13,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Pervis Estupiñán,Brighton & Hove Albion,Ipswich Town,1.5,51,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jan Paul van Hecke,Brighton & Hove Albion,Ipswich Town,1.5,101,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Liam Delap,Ipswich Town,Brighton & Hove Albion,1.5,29,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Yasin Ayari,Brighton & Hove Albion,Ipswich Town,1.5,29,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jens Cajuste,Ipswich Town,Brighton & Hove Albion,1.5,201,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Ferdi Kadioglu,NA,NA,1.5,71,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Conor Chaplin,Ipswich Town,Brighton & Hove Albion,1.5,46,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Carlos Baleba Noom,NA,NA,1.5,71,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Adam Webster,Brighton & Hove Albion,Ipswich Town,1.5,81,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Evan Ferguson,Brighton & Hove Albion,Ipswich Town,1.5,8.5,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Tariq Lamptey,Brighton & Hove Albion,Ipswich Town,1.5,151,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Sammie Szmodics,Ipswich Town,Brighton & Hove Albion,1.5,19,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Brajan Gruda,Brighton & Hove Albion,Ipswich Town,1.5,17,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Mats Wieffer,Brighton & Hove Albion,Ipswich Town,1.5,61,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Wes Burns,Ipswich Town,Brighton & Hove Albion,1.5,126,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Massimo Luongo,Ipswich Town,Brighton & Hove Albion,1.5,201,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Taylor,Ipswich Town,Brighton & Hove Albion,1.5,176,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,João Pedro,Brighton & Hove Albion,Ipswich Town,1.5,7,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Chiedozie Ogbene,Ipswich Town,Brighton & Hove Albion,1.5,61,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Jack Clarke,Ipswich Town,Brighton & Hove Albion,1.5,34,Neds
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Player Goals,Danny Welbeck,Brighton & Hove Albion,Ipswich Town,1.5,8.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Andrew Omobamidele,Nottingham Forest,Liverpool,0.5,26,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Diogo Jota,Liverpool,Nottingham Forest,0.5,1.95,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,James Ward Prowse,NA,NA,0.5,11,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Callum Hudson-Odoi,Nottingham Forest,Liverpool,0.5,6.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Nicolás Domínguez,Nottingham Forest,Liverpool,0.5,15,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Virgil van Dijk,Liverpool,Nottingham Forest,0.5,9,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Neco Williams,Nottingham Forest,Liverpool,0.5,17,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Jota Silva,Nottingham Forest,Liverpool,0.5,6.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Murillo,Nottingham Forest,Liverpool,0.5,46,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Chris Wood,Nottingham Forest,Liverpool,0.5,4.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Joseph Gomez,NA,NA,0.5,15,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Nikola Milenković,Nottingham Forest,Liverpool,0.5,21,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Federico Chiesa,Liverpool,Nottingham Forest,0.5,2.2,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Mohamed Salah,Liverpool,Nottingham Forest,0.5,1.75,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Wataru Endo,Liverpool,Nottingham Forest,0.5,8,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ramón Sosa,Nottingham Forest,Liverpool,0.5,7.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Harry Toffolo,Nottingham Forest,Liverpool,0.5,26,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Darwin Núñez,Liverpool,Nottingham Forest,0.5,2.05,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Taiwo Awoniyi,Nottingham Forest,Liverpool,0.5,4.75,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Konstantinos Tsimikas,Liverpool,Nottingham Forest,0.5,11,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Luis Díaz,Liverpool,Nottingham Forest,0.5,2.15,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Elliot Anderson,Nottingham Forest,Liverpool,0.5,13,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,No Goalscorer,NA,NA,0.5,19,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Andrew Robertson,Liverpool,Nottingham Forest,0.5,10,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Alexis Mac Allister,Liverpool,Nottingham Forest,0.5,4.8,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ibrahima Konaté,Liverpool,Nottingham Forest,0.5,10,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ryan Gravenberch,Liverpool,Nottingham Forest,0.5,8,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Morgan Gibbs-White,Nottingham Forest,Liverpool,0.5,6,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ola Aina,Nottingham Forest,Liverpool,0.5,29,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Jarell Quansah,Liverpool,Nottingham Forest,0.5,10,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Curtis Jones,Liverpool,Nottingham Forest,0.5,5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Álex Moreno,Nottingham Forest,Liverpool,0.5,21,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ryan Yates,Nottingham Forest,Liverpool,0.5,12,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Ibrahim Sangaré,Nottingham Forest,Liverpool,0.5,21,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Conor Bradley,Liverpool,Nottingham Forest,0.5,6.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Trent Alexander-Arnold,Liverpool,Nottingham Forest,0.5,6.5,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Willy Boly,Nottingham Forest,Liverpool,0.5,29,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Anthony Elanga,Nottingham Forest,Liverpool,0.5,8,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Cody Gakpo,Liverpool,Nottingham Forest,0.5,2.15,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Dominik Szoboszlai,Liverpool,Nottingham Forest,0.5,4.33,Neds
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Player Goals,Eric da Silva Moreira,Nottingham Forest,Liverpool,0.5,9,Neds

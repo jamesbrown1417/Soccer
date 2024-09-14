@@ -1,168 +1,161 @@
 match,home_team,away_team,market_name,line,over_price,under_price,agency,class_external_id,competition_external_id,event_external_id,market_id,player_id,player_id_under
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,0.5,1.01,19,Sportsbet,49,289,12570022,440254409,1964362237,1964362236
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,1.5,1.11,6,Sportsbet,49,289,12570022,440254411,1964362241,1964362240
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,2.5,1.4,2.82,Sportsbet,49,289,12570022,440254359,1964362257,1964362256
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,3.5,2.04,1.72,Sportsbet,49,289,12570022,440254361,1964362261,1964362260
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,4.5,3.45,1.28,Sportsbet,49,289,12570022,440254363,1964362265,1964362264
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,5.5,6,1.11,Sportsbet,49,289,12570022,440254365,1964362269,1964362268
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,6.5,10,1.03,Sportsbet,49,289,12570022,440254367,1964362273,1964362272
-Manchester United v Liverpool,Manchester United,Liverpool,Match Goals,7.5,17,1.005,Sportsbet,49,289,12570022,440254482,1964361973,1964361972
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,0.5,1.02,13,Sportsbet,49,289,12609300,441392361,1969479076,1969479075
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12609300,441392303,1969479080,1969479079
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,2.5,1.67,2.12,Sportsbet,49,289,12609300,441392311,1969479096,1969479095
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,3.5,2.77,1.41,Sportsbet,49,289,12609300,441392313,1969479100,1969479099
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,4.5,5.2,1.14,Sportsbet,49,289,12609300,441392315,1969479104,1969479103
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12609300,441392317,1969479108,1969479107
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,6.5,14,1.01,Sportsbet,49,289,12609300,441392319,1969479112,1969479111
-Southampton v Manchester United,Southampton,Manchester United,Match Goals,7.5,67,1.002,Sportsbet,49,289,12609300,441392246,1969479156,1969479155
-Fulham v West Ham United,Fulham,West Ham United,Match Goals,0.5,1.02,12.5,Sportsbet,49,289,12609284,441391358,1969475493,1969475492
-Fulham v West Ham United,Fulham,West Ham United,Match Goals,1.5,1.17,4.3,Sportsbet,49,289,12609284,441391360,1969475497,1969475496
-Fulham v West Ham United,Fulham,West Ham United,Match Goals,2.5,1.66,2.14,Sportsbet,49,289,12609284,441391275,1969475513,1969475512
-Fulham v West Ham United,Fulham,West Ham United,Match Goals,3.5,2.74,1.42,Sportsbet,49,289,12609284,441391277,1969475517,1969475516
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,0.5,1.02,15.25,Sportsbet,49,289,12609300,441392361,1969479076,1969479075
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12609300,441392303,1969479080,1969479079
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,2.5,1.53,2.39,Sportsbet,49,289,12609300,441392311,1969479096,1969479095
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,3.5,2.4,1.53,Sportsbet,49,289,12609300,441392313,1969479100,1969479099
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,4.5,4.3,1.2,Sportsbet,49,289,12609300,441392315,1969479104,1969479103
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,5.5,7.75,1.06,Sportsbet,49,289,12609300,441392317,1969479108,1969479107
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,6.5,13,1.01,Sportsbet,49,289,12609300,441392319,1969479112,1969479111
+Southampton v Manchester United,Southampton,Manchester United,Match Goals,7.5,41,1.002,Sportsbet,49,289,12609300,441392246,1969479156,1969479155
+Fulham v West Ham United,Fulham,West Ham United,Match Goals,0.5,1.02,12.75,Sportsbet,49,289,12609284,441391358,1969475493,1969475492
+Fulham v West Ham United,Fulham,West Ham United,Match Goals,1.5,1.17,4.6,Sportsbet,49,289,12609284,441391360,1969475497,1969475496
+Fulham v West Ham United,Fulham,West Ham United,Match Goals,2.5,1.65,2.15,Sportsbet,49,289,12609284,441391275,1969475513,1969475512
+Fulham v West Ham United,Fulham,West Ham United,Match Goals,3.5,2.69,1.43,Sportsbet,49,289,12609284,441391277,1969475517,1969475516
 Fulham v West Ham United,Fulham,West Ham United,Match Goals,4.5,5.2,1.14,Sportsbet,49,289,12609284,441391279,1969475521,1969475520
 Fulham v West Ham United,Fulham,West Ham United,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12609284,441391281,1969475525,1969475524
 Fulham v West Ham United,Fulham,West Ham United,Match Goals,6.5,14,1.01,Sportsbet,49,289,12609284,441391283,1969475529,1969475528
 Fulham v West Ham United,Fulham,West Ham United,Match Goals,7.5,67,1.002,Sportsbet,49,289,12609284,441391338,1969475235,1969475234
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,1.5,1.07,7,Sportsbet,49,289,12609285,441391629,1969476701,1969476700
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,3.5,1.83,1.9,Sportsbet,49,289,12609285,441391528,1969476725,1969476724
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,2.5,1.3,3.35,Sportsbet,49,289,12609285,441391637,1969476717,1969476716
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,4.5,3,1.36,Sportsbet,49,289,12609285,441391532,1969476752,1969476751
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,5.5,5.2,1.14,Sportsbet,49,289,12609285,441391536,1969476392,1969476391
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,6.5,9.5,1.04,Sportsbet,49,289,12609285,441391539,1969476398,1969476397
-Manchester City v Brentford,Manchester City,Brentford,Match Goals,7.5,14,1.01,Sportsbet,49,289,12609285,441391546,1969476414,1969476413
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,0.5,1.01,27,Sportsbet,49,289,12609285,441391622,1969476687,1969476686
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,1.5,1.08,6.5,Sportsbet,49,289,12609285,441391629,1969476701,1969476700
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,3.5,1.95,1.78,Sportsbet,49,289,12609285,441391528,1969476725,1969476724
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,2.5,1.34,3.1,Sportsbet,49,289,12609285,441391637,1969476717,1969476716
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,4.5,3.33,1.3,Sportsbet,49,289,12609285,441391532,1969476752,1969476751
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,5.5,5.9,1.11,Sportsbet,49,289,12609285,441391536,1969476392,1969476391
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,6.5,10,1.03,Sportsbet,49,289,12609285,441391539,1969476398,1969476397
+Manchester City v Brentford,Manchester City,Brentford,Match Goals,7.5,17,1.005,Sportsbet,49,289,12609285,441391546,1969476414,1969476413
 Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,0.5,1.02,12.25,Sportsbet,49,289,12609302,441392498,1969479656,1969479655
-Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12609302,441392500,1969479660,1969479659
-Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,2.5,1.71,2.06,Sportsbet,49,289,12609302,441392568,1969479676,1969479675
-Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,3.5,2.92,1.38,Sportsbet,49,289,12609302,441392570,1969479680,1969479679
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,1.5,1.22,4,Sportsbet,49,289,12609302,441392500,1969479660,1969479659
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,2.5,1.73,2.03,Sportsbet,49,289,12609302,441392568,1969479676,1969479675
+Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,3.5,2.95,1.37,Sportsbet,49,289,12609302,441392570,1969479680,1969479679
 Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,4.5,5.4,1.13,Sportsbet,49,289,12609302,441392572,1969479684,1969479683
 Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12609302,441392574,1969479688,1969479687
 Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,6.5,17,1.005,Sportsbet,49,289,12609302,441392576,1969479692,1969479691
 Crystal Palace v Leicester City,Crystal Palace,Leicester City,Match Goals,7.5,81,1.001,Sportsbet,49,289,12609302,441392438,1969479897,1969479896
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,0.5,1.01,17,Sportsbet,49,289,12609321,441393803,1969484969,1969484968
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,1.5,1.15,5,Sportsbet,49,289,12609321,441393808,1969484981,1969484980
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,3.5,2.45,1.51,Sportsbet,49,289,12609321,441393691,1969484319,1969485017
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,2.5,1.53,2.37,Sportsbet,49,289,12609321,441393689,1969485014,1969485013
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,4.5,4.6,1.17,Sportsbet,49,289,12609321,441393693,1969484323,1969484322
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,5.5,8.5,1.05,Sportsbet,49,289,12609321,441393698,1969484333,1969484332
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,6.5,13,1.01,Sportsbet,49,289,12609321,441393777,1969484346,1969484345
-Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,7.5,51,1.002,Sportsbet,49,289,12609321,441393737,1969484744,1969484743
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,0.5,1.01,18.25,Sportsbet,49,289,12609321,441393803,1969484969,1969484968
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12609321,441393808,1969484981,1969484980
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,3.5,2.35,1.55,Sportsbet,49,289,12609321,441393691,1969484319,1969485017
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,2.5,1.5,2.47,Sportsbet,49,289,12609321,441393689,1969485014,1969485013
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,4.5,4.25,1.2,Sportsbet,49,289,12609321,441393693,1969484323,1969484322
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,5.5,7.5,1.06,Sportsbet,49,289,12609321,441393698,1969484333,1969484332
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,6.5,12,1.02,Sportsbet,49,289,12609321,441393777,1969484346,1969484345
+Brighton & Hove Albion v Ipswich Town,Brighton & Hove Albion,Ipswich Town,Match Goals,7.5,41,1.002,Sportsbet,49,289,12609321,441393737,1969484744,1969484743
 Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,0.5,1.01,27,Sportsbet,49,289,12609330,441393113,1969482204,1969482203
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,1.5,1.08,6.5,Sportsbet,49,289,12609330,441393119,1969482216,1969482215
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,3.5,1.91,1.82,Sportsbet,49,289,12609330,441393072,1969482242,1969482241
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,2.5,1.33,3.18,Sportsbet,49,289,12609330,441393127,1969482232,1969482231
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,4.5,3.22,1.31,Sportsbet,49,289,12609330,441393076,1969481688,1969481687
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,5.5,5.4,1.13,Sportsbet,49,289,12609330,441393079,1969481701,1969481700
-Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,6.5,9.5,1.04,Sportsbet,49,289,12609330,441393083,1969481710,1969481709
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,1.5,1.1,6,Sportsbet,49,289,12609330,441393119,1969482216,1969482215
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,3.5,1.95,1.78,Sportsbet,49,289,12609330,441393072,1969482242,1969482241
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,2.5,1.34,3.1,Sportsbet,49,289,12609330,441393127,1969482232,1969482231
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,4.5,3.32,1.3,Sportsbet,49,289,12609330,441393076,1969481688,1969481687
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,5.5,5.9,1.11,Sportsbet,49,289,12609330,441393079,1969481701,1969481700
+Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,6.5,10,1.03,Sportsbet,49,289,12609330,441393083,1969481710,1969481709
 Liverpool v Nottingham Forest,Liverpool,Nottingham Forest,Match Goals,7.5,15,1.01,Sportsbet,49,289,12609330,441393090,1969481726,1969481725
-Aston Villa v Everton,Aston Villa,Everton,Match Goals,0.5,1.02,15,Sportsbet,49,289,12609319,441392744,1969481143,1969481142
+Aston Villa v Everton,Aston Villa,Everton,Match Goals,0.5,1.02,14.75,Sportsbet,49,289,12609319,441392744,1969481143,1969481142
 Aston Villa v Everton,Aston Villa,Everton,Match Goals,1.5,1.17,4.65,Sportsbet,49,289,12609319,441392750,1969481157,1969481156
-Aston Villa v Everton,Aston Villa,Everton,Match Goals,2.5,1.6,2.25,Sportsbet,49,289,12609319,441392798,1969481193,1969481192
-Aston Villa v Everton,Aston Villa,Everton,Match Goals,3.5,2.65,1.44,Sportsbet,49,289,12609319,441392800,1969480597,1969481196
-Aston Villa v Everton,Aston Villa,Everton,Match Goals,4.5,4.8,1.16,Sportsbet,49,289,12609319,441392802,1969480601,1969480600
+Aston Villa v Everton,Aston Villa,Everton,Match Goals,2.5,1.6,2.24,Sportsbet,49,289,12609319,441392798,1969481193,1969481192
+Aston Villa v Everton,Aston Villa,Everton,Match Goals,3.5,2.64,1.45,Sportsbet,49,289,12609319,441392800,1969480597,1969481196
+Aston Villa v Everton,Aston Villa,Everton,Match Goals,4.5,4.65,1.17,Sportsbet,49,289,12609319,441392802,1969480601,1969480600
 Aston Villa v Everton,Aston Villa,Everton,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12609319,441392806,1969480609,1969480608
 Aston Villa v Everton,Aston Villa,Everton,Match Goals,6.5,14,1.01,Sportsbet,49,289,12609319,441392699,1969480622,1969480621
 Aston Villa v Everton,Aston Villa,Everton,Match Goals,7.5,67,1.002,Sportsbet,49,289,12609319,441392681,1969480526,1969480525
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,0.5,1.01,17.75,Sportsbet,49,289,12609338,441393229,1969483165,1969483164
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,1.5,1.13,5.4,Sportsbet,49,289,12609338,441393312,1969483183,1969483182
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,3.5,2.21,1.61,Sportsbet,49,289,12609338,441393332,1969482829,1969482828
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,2.5,1.46,2.58,Sportsbet,49,289,12609338,441393327,1969482819,1969482818
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,4.5,4,1.22,Sportsbet,49,289,12609338,441393336,1969482980,1969482979
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,5.5,6.5,1.08,Sportsbet,49,289,12609338,441393341,1969482597,1969482596
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,6.5,12,1.02,Sportsbet,49,289,12609338,441393348,1969482613,1969482612
-Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,7.5,34,1.004,Sportsbet,49,289,12609338,441393262,1969482566,1969482565
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,0.5,1.02,15.25,Sportsbet,49,289,12609339,441393568,1969483836,1969483835
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12609339,441393443,1969483854,1969483853
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,3.5,2.44,1.51,Sportsbet,49,289,12609339,441393536,1969483500,1969483499
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,0.5,1.01,18.75,Sportsbet,49,289,12609338,441393229,1969483165,1969483164
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,1.5,1.13,5.5,Sportsbet,49,289,12609338,441393312,1969483183,1969483182
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,3.5,2.1,1.68,Sportsbet,49,289,12609338,441393332,1969482829,1969482828
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,2.5,1.42,2.73,Sportsbet,49,289,12609338,441393327,1969482819,1969482818
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,4.5,3.7,1.25,Sportsbet,49,289,12609338,441393336,1969482980,1969482979
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,5.5,6,1.1,Sportsbet,49,289,12609338,441393341,1969482597,1969482596
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,6.5,11,1.02,Sportsbet,49,289,12609338,441393348,1969482613,1969482612
+Bournemouth v Chelsea,Bournemouth,Chelsea,Match Goals,7.5,21,1.005,Sportsbet,49,289,12609338,441393262,1969482566,1969482565
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,0.5,1.02,14.25,Sportsbet,49,289,12609339,441393568,1969483836,1969483835
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,1.5,1.15,5,Sportsbet,49,289,12609339,441393443,1969483854,1969483853
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,3.5,2.42,1.52,Sportsbet,49,289,12609339,441393536,1969483500,1969483499
 Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,2.5,1.55,2.35,Sportsbet,49,289,12609339,441393458,1969483490,1969483489
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,4.5,4.6,1.17,Sportsbet,49,289,12609339,441393540,1969483651,1969483650
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,5.5,8,1.06,Sportsbet,49,289,12609339,441393545,1969483868,1969483867
-Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,6.5,13,1.01,Sportsbet,49,289,12609339,441393552,1969483884,1969483883
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,4.5,4.3,1.17,Sportsbet,49,289,12609339,441393540,1969483651,1969483650
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,5.5,7.75,1.06,Sportsbet,49,289,12609339,441393545,1969483868,1969483867
+Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,6.5,12,1.01,Sportsbet,49,289,12609339,441393552,1969483884,1969483883
 Tottenham Hotspur v Arsenal,Tottenham Hotspur,Arsenal,Match Goals,7.5,41,1.002,Sportsbet,49,289,12609339,441393526,1969483437,1969483436
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,0.5,1.01,17.5,Sportsbet,49,289,12609295,441391949,1969477945,1969477944
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,1.5,1.13,5.4,Sportsbet,49,289,12609295,441391951,1969477949,1969477948
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,3.5,2.23,1.61,Sportsbet,49,289,12609295,441391961,1969477969,1969477968
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,2.5,1.47,2.55,Sportsbet,49,289,12609295,441391959,1969477965,1969477964
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,4.5,4,1.22,Sportsbet,49,289,12609295,441391983,1969477973,1969477972
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,5.5,6.5,1.08,Sportsbet,49,289,12609295,441391985,1969477977,1969477976
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,0.5,1.02,15,Sportsbet,49,289,12609295,441391949,1969477945,1969477944
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12609295,441391951,1969477949,1969477948
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,3.5,2.35,1.55,Sportsbet,49,289,12609295,441391961,1969477969,1969477968
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,2.5,1.52,2.42,Sportsbet,49,289,12609295,441391959,1969477965,1969477964
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,4.5,4.25,1.2,Sportsbet,49,289,12609295,441391983,1969477973,1969477972
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,5.5,7.5,1.06,Sportsbet,49,289,12609295,441391985,1969477977,1969477976
 Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,6.5,12,1.02,Sportsbet,49,289,12609295,441391987,1969477981,1969477980
-Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,7.5,34,1.002,Sportsbet,49,289,12609295,441391913,1969477893,1969477892
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,0.5,1.01,18,Sportsbet,49,289,12627897,442013917,2149659428,2149659427
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,1.5,1.13,5.5,Sportsbet,49,289,12627897,442013924,2149659442,2149659441
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,3.5,2.11,1.67,Sportsbet,49,289,12627897,442013969,2149659466,2149659465
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,2.5,1.43,2.71,Sportsbet,49,289,12627897,442013932,2149659458,2149659457
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,4.5,3.7,1.25,Sportsbet,49,289,12627897,442013973,2149659493,2149659492
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,5.5,6,1.1,Sportsbet,49,289,12627897,442013977,2149658933,2149658932
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,6.5,11,1.02,Sportsbet,49,289,12627897,442013980,2149658939,2149658938
-West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,7.5,34,1.005,Sportsbet,49,289,12627897,442013987,2149658955,2149658954
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,0.5,1.01,20,Sportsbet,49,289,12627894,442013772,2149657722,2149657721
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,1.5,1.13,5.5,Sportsbet,49,289,12627894,442013774,2149657726,2149657725
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,3.5,2.14,1.65,Sportsbet,49,289,12627894,442013711,2149657746,2149657745
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,2.5,1.42,2.73,Sportsbet,49,289,12627894,442013709,2149657742,2149657741
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,4.5,3.7,1.25,Sportsbet,49,289,12627894,442013713,2149657750,2149657749
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,5.5,6.5,1.08,Sportsbet,49,289,12627894,442013715,2149657754,2149657753
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627894,442013717,2149657758,2149657757
-Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,7.5,34,1.004,Sportsbet,49,289,12627894,442013732,2149658163,2149658162
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,0.5,1.01,19.5,Sportsbet,49,289,12627898,442014276,2149660279,2149660278
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,1.5,1.13,5.4,Sportsbet,49,289,12627898,442014278,2149660283,2149660282
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,2.5,1.44,2.66,Sportsbet,49,289,12627898,442014231,2149660299,2149660298
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,3.5,2.21,1.61,Sportsbet,49,289,12627898,442014233,2149660303,2149660302
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,4.5,4,1.22,Sportsbet,49,289,12627898,442014235,2149660307,2149660306
+Wolverhampton Wanderers v Newcastle United,Wolverhampton Wanderers,Newcastle United,Match Goals,7.5,41,1.002,Sportsbet,49,289,12609295,441391913,1969477893,1969477892
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,0.5,1.01,17.75,Sportsbet,49,289,12627897,442013917,2149659428,2149659427
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,1.5,1.13,5.4,Sportsbet,49,289,12627897,442013924,2149659442,2149659441
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,3.5,2.18,1.63,Sportsbet,49,289,12627897,442013969,2149659466,2149659465
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,2.5,1.45,2.61,Sportsbet,49,289,12627897,442013932,2149659458,2149659457
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,4.5,3.96,1.22,Sportsbet,49,289,12627897,442013973,2149659493,2149659492
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,5.5,6.5,1.08,Sportsbet,49,289,12627897,442013977,2149658933,2149658932
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627897,442013980,2149658939,2149658938
+West Ham United v Chelsea,West Ham United,Chelsea,Match Goals,7.5,34,1.004,Sportsbet,49,289,12627897,442013987,2149658955,2149658954
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,0.5,1.01,16.75,Sportsbet,49,289,12627894,442013772,2149657722,2149657721
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12627894,442013774,2149657726,2149657725
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,3.5,2.37,1.54,Sportsbet,49,289,12627894,442013711,2149657746,2149657745
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,2.5,1.51,2.44,Sportsbet,49,289,12627894,442013709,2149657742,2149657741
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,4.5,4.25,1.2,Sportsbet,49,289,12627894,442013713,2149657750,2149657749
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,5.5,7.75,1.06,Sportsbet,49,289,12627894,442013715,2149657754,2149657753
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,6.5,13,1.01,Sportsbet,49,289,12627894,442013717,2149657758,2149657757
+Aston Villa v Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,Match Goals,7.5,41,1.002,Sportsbet,49,289,12627894,442013732,2149658163,2149658162
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,0.5,1.01,20.25,Sportsbet,49,289,12627898,442014276,2149660279,2149660278
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,1.5,1.12,5.7,Sportsbet,49,289,12627898,442014278,2149660283,2149660282
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,2.5,1.41,2.74,Sportsbet,49,289,12627898,442014231,2149660299,2149660298
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,3.5,2.13,1.67,Sportsbet,49,289,12627898,442014233,2149660303,2149660302
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,4.5,3.7,1.25,Sportsbet,49,289,12627898,442014235,2149660307,2149660306
 Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,5.5,6.5,1.08,Sportsbet,49,289,12627898,442014237,2149660311,2149660310
-Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627898,442014239,2149660315,2149660314
+Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,6.5,11,1.02,Sportsbet,49,289,12627898,442014239,2149660315,2149660314
 Tottenham Hotspur v Brentford,Tottenham Hotspur,Brentford,Match Goals,7.5,34,1.004,Sportsbet,49,289,12627898,442014193,2149660172,2149660171
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,0.5,1.01,19.75,Sportsbet,49,289,12627902,442014729,2149661980,2149661979
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,1.5,1.13,5.4,Sportsbet,49,289,12627902,442014731,2149661984,2149661983
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,3.5,2.23,1.61,Sportsbet,49,289,12627902,442014608,2149662004,2149662003
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,2.5,1.44,2.65,Sportsbet,49,289,12627902,442014606,2149662000,2149661999
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,4.5,4,1.22,Sportsbet,49,289,12627902,442014610,2149662008,2149662007
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,5.5,7,1.07,Sportsbet,49,289,12627902,442014612,2149662012,2149662011
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627902,442014614,2149662016,2149662015
-Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,7.5,34,1.002,Sportsbet,49,289,12627902,442014689,2149662381,2149662380
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,0.5,1.01,18.75,Sportsbet,49,289,12627903,442014886,2149662856,2149662855
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,1.5,1.12,5.7,Sportsbet,49,289,12627903,442014888,2149662860,2149662859
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,2.5,1.42,2.74,Sportsbet,49,289,12627903,442014756,2149662876,2149662875
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,3.5,2.11,1.67,Sportsbet,49,289,12627903,442014758,2149662880,2149662879
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,4.5,3.7,1.25,Sportsbet,49,289,12627903,442014760,2149662884,2149662883
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,5.5,6,1.1,Sportsbet,49,289,12627903,442014762,2149662888,2149662887
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,6.5,11,1.02,Sportsbet,49,289,12627903,442014764,2149662892,2149662891
-Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,7.5,21,1.005,Sportsbet,49,289,12627903,442014899,2149662798,2149662797
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,0.5,1.02,14.25,Sportsbet,49,289,12627905,442015273,2149664483,2149664482
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,1.5,1.17,4.65,Sportsbet,49,289,12627905,442015279,2149664497,2149664496
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,2.5,1.58,2.29,Sportsbet,49,289,12627905,442015234,2149664533,2149664532
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,3.5,2.52,1.48,Sportsbet,49,289,12627905,442015236,2149664137,2149664536
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,4.5,4.65,1.17,Sportsbet,49,289,12627905,442015238,2149664141,2149664140
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,5.5,8.5,1.05,Sportsbet,49,289,12627905,442015242,2149664149,2149664148
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,6.5,13,1.01,Sportsbet,49,289,12627905,442015188,2149664162,2149664161
-Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,7.5,41,1.002,Sportsbet,49,289,12627905,442015138,2149664814,2149664813
-Leicester City v Everton,Leicester City,Everton,Match Goals,0.5,1.02,12.5,Sportsbet,49,289,12627906,442015311,2149665041,2149665040
-Leicester City v Everton,Leicester City,Everton,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12627906,442015338,2149665057,2149665056
-Leicester City v Everton,Leicester City,Everton,Match Goals,3.5,2.75,1.41,Sportsbet,49,289,12627906,442015433,2149665408,2149665407
-Leicester City v Everton,Leicester City,Everton,Match Goals,2.5,1.67,2.12,Sportsbet,49,289,12627906,442015353,2149665398,2149665397
-Leicester City v Everton,Leicester City,Everton,Match Goals,4.5,5.2,1.14,Sportsbet,49,289,12627906,442015437,2149665559,2149665558
-Leicester City v Everton,Leicester City,Everton,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12627906,442015442,2149665176,2149665175
-Leicester City v Everton,Leicester City,Everton,Match Goals,6.5,15,1.01,Sportsbet,49,289,12627906,442015450,2149665194,2149665193
-Leicester City v Everton,Leicester City,Everton,Match Goals,7.5,67,1.002,Sportsbet,49,289,12627906,442015403,2149665145,2149665144
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,0.5,1.02,15.25,Sportsbet,49,289,12627908,442015739,2149666370,2149666369
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12627908,442015741,2149666374,2149666373
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,3.5,2.4,1.53,Sportsbet,49,289,12627908,442015691,2149666394,2149666393
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,2.5,1.54,2.37,Sportsbet,49,289,12627908,442015689,2149666390,2149666389
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,4.5,4.25,1.2,Sportsbet,49,289,12627908,442015693,2149666398,2149666397
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,5.5,7.75,1.06,Sportsbet,49,289,12627908,442015695,2149666402,2149666401
-Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627908,442015697,2149666406,2149666405
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,0.5,1.01,27,Sportsbet,49,289,12627902,442014729,2149661980,2149661979
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,1.5,1.08,6.5,Sportsbet,49,289,12627902,442014731,2149661984,2149661983
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,3.5,1.91,1.82,Sportsbet,49,289,12627902,442014608,2149662004,2149662003
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,2.5,1.33,3.18,Sportsbet,49,289,12627902,442014606,2149662000,2149661999
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,4.5,3.18,1.33,Sportsbet,49,289,12627902,442014610,2149662008,2149662007
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,5.5,5.4,1.13,Sportsbet,49,289,12627902,442014612,2149662012,2149662011
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,6.5,9.5,1.04,Sportsbet,49,289,12627902,442014614,2149662016,2149662015
+Liverpool v Bournemouth,Liverpool,Bournemouth,Match Goals,7.5,15,1.01,Sportsbet,49,289,12627902,442014689,2149662381,2149662380
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,0.5,1.02,16,Sportsbet,49,289,12627903,442014886,2149662856,2149662855
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,1.5,1.14,5.2,Sportsbet,49,289,12627903,442014888,2149662860,2149662859
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,2.5,1.5,2.47,Sportsbet,49,289,12627903,442014756,2149662876,2149662875
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,3.5,2.31,1.57,Sportsbet,49,289,12627903,442014758,2149662880,2149662879
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,4.5,4.2,1.2,Sportsbet,49,289,12627903,442014760,2149662884,2149662883
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,5.5,7.5,1.07,Sportsbet,49,289,12627903,442014762,2149662888,2149662887
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,6.5,12,1.02,Sportsbet,49,289,12627903,442014764,2149662892,2149662891
+Fulham v Newcastle United,Fulham,Newcastle United,Match Goals,7.5,34,1.002,Sportsbet,49,289,12627903,442014899,2149662798,2149662797
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,0.5,1.02,12.5,Sportsbet,49,289,12627905,442015273,2149664483,2149664482
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12627905,442015279,2149664497,2149664496
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,2.5,1.7,2.08,Sportsbet,49,289,12627905,442015234,2149664533,2149664532
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,3.5,2.86,1.39,Sportsbet,49,289,12627905,442015236,2149664137,2149664536
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,4.5,5.4,1.13,Sportsbet,49,289,12627905,442015238,2149664141,2149664140
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12627905,442015242,2149664149,2149664148
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,6.5,15,1.005,Sportsbet,49,289,12627905,442015188,2149664162,2149664161
+Southampton v Ipswich Town,Southampton,Ipswich Town,Match Goals,7.5,67,1.002,Sportsbet,49,289,12627905,442015138,2149664814,2149664813
+Leicester City v Everton,Leicester City,Everton,Match Goals,0.5,1.03,11,Sportsbet,49,289,12627906,442015311,2149665041,2149665040
+Leicester City v Everton,Leicester City,Everton,Match Goals,1.5,1.22,4,Sportsbet,49,289,12627906,442015338,2149665057,2149665056
+Leicester City v Everton,Leicester City,Everton,Match Goals,3.5,3.09,1.34,Sportsbet,49,289,12627906,442015433,2149665408,2149665407
+Leicester City v Everton,Leicester City,Everton,Match Goals,2.5,1.79,1.95,Sportsbet,49,289,12627906,442015353,2149665398,2149665397
+Leicester City v Everton,Leicester City,Everton,Match Goals,4.5,5.7,1.12,Sportsbet,49,289,12627906,442015437,2149665559,2149665558
+Leicester City v Everton,Leicester City,Everton,Match Goals,5.5,10,1.03,Sportsbet,49,289,12627906,442015442,2149665176,2149665175
+Leicester City v Everton,Leicester City,Everton,Match Goals,6.5,21,1.005,Sportsbet,49,289,12627906,442015450,2149665194,2149665193
+Leicester City v Everton,Leicester City,Everton,Match Goals,7.5,81,1.001,Sportsbet,49,289,12627906,442015403,2149665145,2149665144
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,0.5,1.02,13.75,Sportsbet,49,289,12627908,442015739,2149666370,2149666369
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,1.5,1.17,4.65,Sportsbet,49,289,12627908,442015741,2149666374,2149666373
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,3.5,2.53,1.48,Sportsbet,49,289,12627908,442015691,2149666394,2149666393
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,2.5,1.59,2.26,Sportsbet,49,289,12627908,442015689,2149666390,2149666389
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,4.5,4.65,1.17,Sportsbet,49,289,12627908,442015693,2149666398,2149666397
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,5.5,8.5,1.05,Sportsbet,49,289,12627908,442015695,2149666402,2149666401
+Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,6.5,13,1.01,Sportsbet,49,289,12627908,442015697,2149666406,2149666405
 Crystal Palace v Manchester United,Crystal Palace,Manchester United,Match Goals,7.5,41,1.002,Sportsbet,49,289,12627908,442015677,2149666306,2149666305
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,0.5,1.02,15,Sportsbet,49,289,12627901,442014510,2149661565,2149661564
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,1.5,1.17,4.65,Sportsbet,49,289,12627901,442014512,2149661569,2149661568
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,2.5,1.56,2.33,Sportsbet,49,289,12627901,442014480,2149661585,2149661584
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,3.5,2.53,1.48,Sportsbet,49,289,12627901,442014482,2149661589,2149661588
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,4.5,4.65,1.17,Sportsbet,49,289,12627901,442014484,2149661593,2149661592
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,5.5,8.5,1.05,Sportsbet,49,289,12627901,442014486,2149661597,2149661596
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,6.5,13,1.01,Sportsbet,49,289,12627901,442014488,2149661601,2149661600
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,7.5,51,1.002,Sportsbet,49,289,12627901,442014470,2149661107,2149661106
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,0.5,1.03,12,Sportsbet,49,289,12627904,442015061,2149663697,2149663696
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12627904,442015063,2149663701,2149663700
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,2.5,1.71,2.06,Sportsbet,49,289,12627904,442015031,2149663717,2149663716
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,3.5,2.88,1.38,Sportsbet,49,289,12627904,442015033,2149663721,2149663720
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,0.5,1.02,12.25,Sportsbet,49,289,12627901,442014510,2149661565,2149661564
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,1.5,1.2,4.25,Sportsbet,49,289,12627901,442014512,2149661569,2149661568
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,2.5,1.71,2.05,Sportsbet,49,289,12627901,442014480,2149661585,2149661584
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,3.5,2.92,1.37,Sportsbet,49,289,12627901,442014482,2149661589,2149661588
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,4.5,5.4,1.13,Sportsbet,49,289,12627901,442014484,2149661593,2149661592
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12627901,442014486,2149661597,2149661596
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,6.5,17,1.005,Sportsbet,49,289,12627901,442014488,2149661601,2149661600
+Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Match Goals,7.5,81,1.001,Sportsbet,49,289,12627901,442014470,2149661107,2149661106
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,0.5,1.03,11.7,Sportsbet,49,289,12627904,442015061,2149663697,2149663696
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,1.5,1.22,4,Sportsbet,49,289,12627904,442015063,2149663701,2149663700
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,2.5,1.75,2,Sportsbet,49,289,12627904,442015031,2149663717,2149663716
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,3.5,3,1.36,Sportsbet,49,289,12627904,442015033,2149663721,2149663720
 Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,4.5,5.4,1.13,Sportsbet,49,289,12627904,442015035,2149663725,2149663724
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,5.5,9.5,1.04,Sportsbet,49,289,12627904,442015037,2149663729,2149663728
-Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,6.5,15,1.005,Sportsbet,49,289,12627904,442015039,2149663733,2149663732
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,5.5,10,1.03,Sportsbet,49,289,12627904,442015037,2149663729,2149663728
+Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,6.5,17,1.005,Sportsbet,49,289,12627904,442015039,2149663733,2149663732
 Manchester City v Arsenal,Manchester City,Arsenal,Match Goals,7.5,81,1.001,Sportsbet,49,289,12627904,442015074,2149663393,2149663392
