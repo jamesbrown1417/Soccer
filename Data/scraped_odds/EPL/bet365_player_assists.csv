@@ -1,17 +1,23 @@
 match,player_name,line,over_price,under_price,market_name,agency,player_team
-Southampton v Manchester United,Amad Diallo,0.5,5.5,1.14,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Ben Brereton Díaz,0.5,13,1.04,Player Assists,Bet365,Southampton
-Southampton v Manchester United,Bruno Fernandes,0.5,3.4,1.3,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Cameron Archer,0.5,13,1.04,Player Assists,Bet365,Southampton
-Southampton v Manchester United,Christian Eriksen,0.5,5,1.16,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Diogo Dalot,0.5,8,1.083,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Flynn Downes,0.5,9,1.071,Player Assists,Bet365,Southampton
-Southampton v Manchester United,Joshua Zirkzee,0.5,6,1.12,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Kobbie Mainoo,0.5,9,1.071,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Kyle Walker-Peters,0.5,8,1.083,Player Assists,Bet365,Southampton
-Southampton v Manchester United,Marcus Rashford,0.5,5,1.16,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Noussair Mazraoui,0.5,9,1.071,Player Assists,Bet365,Manchester United
-Southampton v Manchester United,Yukinari Sugawara,0.5,6,1.12,Player Assists,Bet365,Southampton
+Tottenham Hotspur v Arsenal,Ben White,0.5,8,1.083,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Brennan Johnson,0.5,6,1.12,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Bukayo Saka,0.5,4.33,1.2,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Dejan Kulusevski,0.5,6,1.12,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Dominic Solanke,0.5,10,1.062,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Gabriel Jesus,0.5,5.5,1.14,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Gabriel Martinelli,0.5,5.5,1.14,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Heung-min Son,0.5,5.5,1.14,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,James Maddison,0.5,5,1.16,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Jurrien Timber,0.5,15,1.03,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Kai Havertz,0.5,6.5,1.11,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Leandro Trossard,0.5,6,1.12,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Pape Matar Sarr,0.5,15,1.03,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Pedro Porro,0.5,5.5,1.14,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Raheem Sterling,0.5,6,1.12,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Rodrigo Bentancur,0.5,8,1.083,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Thomas Partey,0.5,15,1.03,Player Assists,Bet365,Arsenal
+Tottenham Hotspur v Arsenal,Timo Werner,0.5,6.5,1.11,Player Assists,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Arsenal,Wilson Odobert,0.5,6.5,1.11,Player Assists,Bet365,Tottenham Hotspur
 Wolverhampton Wanderers v Newcastle United,Alexander Isak,0.5,5.5,1.14,Player Assists,Bet365,Newcastle United
 Wolverhampton Wanderers v Newcastle United,Anthony Gordon,0.5,4.5,1.18,Player Assists,Bet365,Newcastle United
 Wolverhampton Wanderers v Newcastle United,Bruno Guimarães,0.5,5.5,1.14,Player Assists,Bet365,Newcastle United
@@ -32,151 +38,3 @@ Wolverhampton Wanderers v Newcastle United,Sandro Tonali,0.5,6.5,1.11,Player Ass
 Wolverhampton Wanderers v Newcastle United,Sean Longstaff,0.5,8,1.083,Player Assists,Bet365,Newcastle United
 Wolverhampton Wanderers v Newcastle United,Tommy Doyle,0.5,6,1.12,Player Assists,Bet365,Wolverhampton Wanderers
 Wolverhampton Wanderers v Newcastle United,Valentino Livramento,0.5,10,1.062,Player Assists,Bet365,NA
-Brighton & Hove Albion v Ipswich Town,Carlos Baleba,0.5,9,1.071,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Chiedozie Ogbene,0.5,11,1.05,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Conor Chaplin,0.5,13,1.04,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Danny Welbeck,0.5,6.5,1.11,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Georginio Rutter,0.5,5,1.16,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,João Pedro,0.5,3.75,1.25,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Kalvin Phillips,0.5,11,1.05,Player Assists,Bet365,Manchester City
-Brighton & Hove Albion v Ipswich Town,Kalvin Phillips,0.5,11,1.05,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Kaoru Mitoma,0.5,3.5,1.28,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Leif Davis,0.5,7,1.1,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Liam Delap,0.5,13,1.04,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Omari Giraud-Hutchinson,0.5,10,1.062,Player Assists,Bet365,NA
-Brighton & Hove Albion v Ipswich Town,Pervis Estupiñán,0.5,4.33,1.2,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Sam Morsy,0.5,15,1.03,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Sammie Szmodics,0.5,17,1.025,Player Assists,Bet365,Ipswich Town
-Brighton & Hove Albion v Ipswich Town,Simon Adingra,0.5,5.5,1.14,Player Assists,Bet365,Brighton & Hove Albion
-Brighton & Hove Albion v Ipswich Town,Yankuba Minteh,0.5,3.75,1.25,Player Assists,Bet365,Brighton & Hove Albion
-Crystal Palace v Leicester City,Adam Wharton,0.5,5,1.16,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Bobby De Cordova-Reid,0.5,13,1.04,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Daichi Kamada,0.5,8,1.083,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Daniel Muñoz,0.5,6,1.12,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Eberechi Eze,0.5,3.25,1.33,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Facundo Buonanotte,0.5,13,1.04,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Harry Winks,0.5,13,1.04,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Ismaïla Sarr,0.5,6,1.12,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Issahaku Fatawu,0.5,6,1.12,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,James Justin,0.5,15,1.03,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Jamie Vardy,0.5,13,1.04,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Jean-Philippe Mateta,0.5,7,1.1,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Oliver Skipp,0.5,17,1.025,Player Assists,Bet365,Leicester City
-Crystal Palace v Leicester City,Onyinye Ndidi,0.5,10,1.062,Player Assists,Bet365,NA
-Crystal Palace v Leicester City,Tyrick Mitchell,0.5,6.5,1.11,Player Assists,Bet365,Crystal Palace
-Crystal Palace v Leicester City,Will Hughes,0.5,6,1.12,Player Assists,Bet365,Crystal Palace
-Fulham v West Ham United,Aaron Wan-Bissaka,0.5,10,1.062,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Adama Traoré,0.5,5.5,1.14,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Alex Iwobi,0.5,6.5,1.11,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Andreas Pereira,0.5,5,1.16,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Antonee Robinson,0.5,7,1.1,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Crysencio Summerville,0.5,6.5,1.11,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Emerson,0.5,11,1.05,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Emile Smith Rowe,0.5,6.5,1.11,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Harry Wilson,0.5,5.5,1.14,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Jarrod Bowen,0.5,5.5,1.14,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Kenny Tete,0.5,10,1.062,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Lucas Paquetá,0.5,5,1.16,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Michail Antonio,0.5,11,1.05,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Mohammed Kudus,0.5,5.5,1.14,Player Assists,Bet365,West Ham United
-Fulham v West Ham United,Rodrigo Muniz,0.5,10,1.062,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Tom Cairney,0.5,6.5,1.11,Player Assists,Bet365,Fulham
-Fulham v West Ham United,Tomas Soucek,0.5,13,1.04,Player Assists,Bet365,West Ham United
-Liverpool v Nottingham Forest,Alexis Mac Allister,0.5,5.5,1.14,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Andrew Robertson,0.5,4.33,1.2,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Anthony Elanga,0.5,8,1.083,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Callum Hudson-Odoi,0.5,13,1.04,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Chris Wood,0.5,17,1.025,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Diogo Jota,0.5,5,1.16,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Dominik Szoboszlai,0.5,4,1.22,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Elliot Anderson,0.5,11,1.05,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Ibrahim Sangaré,0.5,23,1.012,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Luis Díaz,0.5,4.33,1.2,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Mohamed Salah,0.5,2.75,1.4,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Morgan Gibbs-White,0.5,8,1.083,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Murillo,0.5,23,1.012,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Neco Williams,0.5,15,1.03,Player Assists,Bet365,Nottingham Forest
-Liverpool v Nottingham Forest,Ryan Gravenberch,0.5,6.5,1.11,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Trent Alexander-Arnold,0.5,3,1.36,Player Assists,Bet365,Liverpool
-Liverpool v Nottingham Forest,Virgil van Dijk,0.5,23,1.012,Player Assists,Bet365,Liverpool
-Manchester City v Brentford,Bernardo Silva,0.5,3.75,1.25,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Bryan Mbeumo,0.5,8,1.083,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Christian Nørgaard,0.5,23,1.012,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Erling Haaland,0.5,4,1.22,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Jérémy Doku,0.5,3.5,1.28,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Josko Gvardiol,0.5,8,1.083,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Kevin De Bruyne,0.5,2.2,1.61,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Kevin Schade,0.5,17,1.025,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Kristoffer Ajer,0.5,17,1.025,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Mads Roerslev,0.5,23,1.012,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Manuel Akanji,0.5,15,1.03,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Mateo Kovacic,0.5,6.5,1.11,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Mathias Jensen,0.5,10,1.062,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Rico Lewis,0.5,6.5,1.11,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Rodri,0.5,5,1.16,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Rúben Dias,0.5,17,1.025,Player Assists,Bet365,Manchester City
-Manchester City v Brentford,Vitaly Janelt,0.5,17,1.025,Player Assists,Bet365,Brentford
-Manchester City v Brentford,Yoane Wissa,0.5,17,1.025,Player Assists,Bet365,Brentford
-Aston Villa v Everton,Abdoulaye Doucouré,0.5,9,1.071,Player Assists,Bet365,Everton
-Aston Villa v Everton,Amadou Onana,0.5,9,1.071,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Dominic Calvert-Lewin,0.5,10,1.062,Player Assists,Bet365,Everton
-Aston Villa v Everton,Dwight McNeil,0.5,5.5,1.14,Player Assists,Bet365,Everton
-Aston Villa v Everton,Ezri Konsa,0.5,17,1.025,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Idrissa Gueye,0.5,17,1.025,Player Assists,Bet365,Everton
-Aston Villa v Everton,Iliman-Cheikh Ndiaye,0.5,6,1.12,Player Assists,Bet365,NA
-Aston Villa v Everton,Jack Harrison,0.5,6,1.12,Player Assists,Bet365,Everton
-Aston Villa v Everton,Jacob Ramsey,0.5,4.5,1.18,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,James Garner,0.5,6,1.12,Player Assists,Bet365,Everton
-Aston Villa v Everton,James Tarkowski,0.5,17,1.025,Player Assists,Bet365,Everton
-Aston Villa v Everton,Jesper Lindstrøm,0.5,6.5,1.11,Player Assists,Bet365,Everton
-Aston Villa v Everton,Jhon Durán,0.5,6,1.12,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,John McGinn,0.5,6,1.12,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Lamare Bogarde,0.5,8,1.083,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Lucas Digne,0.5,5.5,1.14,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Michael Keane,0.5,23,1.012,Player Assists,Bet365,Everton
-Aston Villa v Everton,Morgan Rogers,0.5,4.5,1.18,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Ollie Watkins,0.5,4,1.22,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Pau Torres,0.5,23,1.012,Player Assists,Bet365,Aston Villa
-Aston Villa v Everton,Timothy Iroegbunam,0.5,11,1.05,Player Assists,Bet365,NA
-Aston Villa v Everton,Vitaliy Mykolenko,0.5,15,1.03,Player Assists,Bet365,Everton
-Aston Villa v Everton,Youri Tielemans,0.5,4.5,1.18,Player Assists,Bet365,Aston Villa
-Bournemouth v Chelsea,Alex Scott,0.5,8,1.083,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Antoine Semenyo,0.5,7,1.1,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Christopher Nkunku,0.5,5,1.16,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Cole Palmer,0.5,3.5,1.28,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Dango Ouattara,0.5,6.5,1.11,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,David Brooks,0.5,7,1.1,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Enzo Fernández,0.5,6,1.12,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Evanilson,0.5,7,1.1,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Jadon Sancho,0.5,5,1.16,Player Assists,Bet365,Manchester United
-Bournemouth v Chelsea,João Félix,0.5,5.5,1.14,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Justin Kluivert,0.5,7,1.1,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Kiernan Dewsbury-Hall,0.5,5.5,1.14,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Lewis Cook,0.5,7,1.1,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Luis Sinisterra,0.5,5.5,1.14,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Marc Cucurella,0.5,7,1.1,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Marcus Tavernier,0.5,5.5,1.14,Player Assists,Bet365,Bournemouth
-Bournemouth v Chelsea,Mykhaylo Mudryk,0.5,5,1.16,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Nicolas Jackson,0.5,6,1.12,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Noni Madueke,0.5,5.5,1.14,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Pedro Neto,0.5,4.33,1.2,Player Assists,Bet365,Chelsea
-Bournemouth v Chelsea,Ryan Christie,0.5,6,1.12,Player Assists,Bet365,Bournemouth
-Tottenham Hotspur v Arsenal,Ben White,0.5,8,1.083,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Brennan Johnson,0.5,6,1.12,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Bukayo Saka,0.5,4.33,1.2,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Dejan Kulusevski,0.5,6,1.12,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Dominic Solanke,0.5,10,1.062,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Gabriel Jesus,0.5,5.5,1.14,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Gabriel Martinelli,0.5,5.5,1.14,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Heung-min Son,0.5,5.5,1.14,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,James Maddison,0.5,5,1.16,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Jurrien Timber,0.5,15,1.03,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Kai Havertz,0.5,6.5,1.11,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Leandro Trossard,0.5,6,1.12,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Pape Matar Sarr,0.5,15,1.03,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Pedro Porro,0.5,5.5,1.14,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Raheem Sterling,0.5,6,1.12,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Rodrigo Bentancur,0.5,8,1.083,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Thomas Partey,0.5,15,1.03,Player Assists,Bet365,Arsenal
-Tottenham Hotspur v Arsenal,Timo Werner,0.5,6.5,1.11,Player Assists,Bet365,Tottenham Hotspur
-Tottenham Hotspur v Arsenal,Wilson Odobert,0.5,6.5,1.11,Player Assists,Bet365,Tottenham Hotspur
