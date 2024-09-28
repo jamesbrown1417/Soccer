@@ -28,7 +28,7 @@ async def main():
                 await driver.get(url)
                 
                 # Wait for cm-MarketGroupWithIconsButton_Text to exist
-                await driver.find_element(By.XPATH, "//div[contains(@class, 'cm-MarketGroupWithIconsButton_Text ')]", timeout=100)
+                await driver.find_element(By.XPATH, "//div[contains(@class, 'cm-MarketGroupWithIconsButton_Text ')]", timeout=5)
                 
                 # Print URL
                 print(f"Getting URL {url} which is match {index}")

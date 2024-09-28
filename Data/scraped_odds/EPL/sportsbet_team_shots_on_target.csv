@@ -1,24 +1,101 @@
 match,home_team,away_team,market_name,team,line,over_price,agency,class_external_id,competition_external_id,event_external_id,market_id,player_id
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,2.5,1.33,Sportsbet,49,289,12627901,444861253,2161660555
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Brighton & Hove Albion,3.5,1.14,Sportsbet,49,289,12627901,444861261,2161660570
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,3.5,1.83,Sportsbet,49,289,12627901,444861261,2161660571
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Brighton & Hove Albion,4.5,1.4,Sportsbet,49,289,12627901,444861278,2161660524
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,4.5,3,Sportsbet,49,289,12627901,444861278,2161660525
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Brighton & Hove Albion,5.5,1.83,Sportsbet,49,289,12627901,444861287,2161660542
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,5.5,5,Sportsbet,49,289,12627901,444861287,2161660543
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Brighton & Hove Albion,6.5,2.7,Sportsbet,49,289,12627901,444861254,2161660556
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,6.5,9,Sportsbet,49,289,12627901,444861254,2161660557
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Brighton & Hove Albion,7.5,4,Sportsbet,49,289,12627901,444861259,2161660566
-Brighton & Hove Albion v Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,Team Shots On Target,Nottingham Forest,7.5,17,Sportsbet,49,289,12627901,444861259,2161660567
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,2.5,1.08,Sportsbet,49,289,12627904,445429526,2163997915
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,2.5,1.45,Sportsbet,49,289,12627904,445429526,2163997916
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,3.5,1.25,Sportsbet,49,289,12627904,445429494,2163997931
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,3.5,2.2,Sportsbet,49,289,12627904,445429494,2163997932
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,4.5,1.62,Sportsbet,49,289,12627904,445429512,2163997887
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,4.5,3.6,Sportsbet,49,289,12627904,445429512,2163997888
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,5.5,2.3,Sportsbet,49,289,12627904,445429520,2163997903
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,5.5,6,Sportsbet,49,289,12627904,445429520,2163997904
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,6.5,3.5,Sportsbet,49,289,12627904,445429487,2163997917
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,6.5,12,Sportsbet,49,289,12627904,445429487,2163997918
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Manchester City,7.5,5.5,Sportsbet,49,289,12627904,445429492,2163997927
-Manchester City v Arsenal,Manchester City,Arsenal,Team Shots On Target,Arsenal,7.5,26,Sportsbet,49,289,12627904,445429492,2163997928
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,2.5,1.11,Sportsbet,49,289,12697139,451266228,2188548606
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,2.5,1.12,Sportsbet,49,289,12697139,451266228,2188548607
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,3.5,1.33,Sportsbet,49,289,12697139,451266196,2188548622
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,3.5,1.36,Sportsbet,49,289,12697139,451266196,2188548623
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,4.5,1.83,Sportsbet,49,289,12697139,451266214,2188548578
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,4.5,1.91,Sportsbet,49,289,12697139,451266214,2188548579
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,5.5,2.75,Sportsbet,49,289,12697139,451266222,2188548594
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,5.5,2.88,Sportsbet,49,289,12697139,451266222,2188548595
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,6.5,4.2,Sportsbet,49,289,12697139,451266189,2188548608
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,6.5,4.5,Sportsbet,49,289,12697139,451266189,2188548609
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Nottingham Forest,7.5,6.5,Sportsbet,49,289,12697139,451266194,2188548618
+Nottingham Forest v Fulham,Nottingham Forest,Fulham,Team Shots On Target,Fulham,7.5,7.5,Sportsbet,49,289,12697139,451266194,2188548619
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,2.5,1.08,Sportsbet,49,289,12697142,452122722,2192370882
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,2.5,1.08,Sportsbet,49,289,12697142,452122722,2192370883
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,3.5,1.25,Sportsbet,49,289,12697142,452122730,2192370898
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,3.5,1.3,Sportsbet,49,289,12697142,452122730,2192370899
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,4.5,1.67,Sportsbet,49,289,12697142,452122747,2192370852
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,4.5,1.72,Sportsbet,49,289,12697142,452122747,2192370853
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,5.5,2.4,Sportsbet,49,289,12697142,452122756,2192370870
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,5.5,2.5,Sportsbet,49,289,12697142,452122756,2192370871
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,6.5,3.6,Sportsbet,49,289,12697142,452122723,2192370884
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,6.5,4,Sportsbet,49,289,12697142,452122723,2192370885
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Everton,7.5,5.5,Sportsbet,49,289,12697142,452122728,2192370894
+Everton v Crystal Palace,Everton,Crystal Palace,Team Shots On Target,Crystal Palace,7.5,6,Sportsbet,49,289,12697142,452122728,2192370895
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,2.5,1.14,Sportsbet,49,289,12697144,451352930,2188891485
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Chelsea,3.5,1.08,Sportsbet,49,289,12697144,451352895,2188891494
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,3.5,1.45,Sportsbet,49,289,12697144,451352895,2188891495
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Chelsea,4.5,1.22,Sportsbet,49,289,12697144,451352902,2188891508
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,4.5,2.1,Sportsbet,49,289,12697144,451352902,2188891509
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Chelsea,5.5,1.53,Sportsbet,49,289,12697144,451352904,2188891512
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,5.5,3.3,Sportsbet,49,289,12697144,451352904,2188891513
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Chelsea,6.5,2.1,Sportsbet,49,289,12697144,451352906,2188891516
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,6.5,5,Sportsbet,49,289,12697144,451352906,2188891517
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Chelsea,7.5,3,Sportsbet,49,289,12697144,451352908,2188891520
+Chelsea v Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,Team Shots On Target,Brighton & Hove Albion,7.5,9,Sportsbet,49,289,12697144,451352908,2188891521
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,2.5,1.62,Sportsbet,49,289,12697150,451208180,2188344576
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,3.5,2.63,Sportsbet,49,289,12697150,451208208,2188344592
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Arsenal,4.5,1.05,Sportsbet,49,289,12697150,451208166,2188344547
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,4.5,4.5,Sportsbet,49,289,12697150,451208166,2188344548
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Arsenal,5.5,1.14,Sportsbet,49,289,12697150,451208174,2188344563
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,5.5,8.5,Sportsbet,49,289,12697150,451208174,2188344564
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Arsenal,6.5,1.33,Sportsbet,49,289,12697150,451208201,2188344577
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,6.5,17,Sportsbet,49,289,12697150,451208201,2188344578
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Arsenal,7.5,1.62,Sportsbet,49,289,12697150,451208206,2188344587
+Arsenal v Leicester City,Arsenal,Leicester City,Team Shots On Target,Leicester City,7.5,36,Sportsbet,49,289,12697150,451208206,2188344588
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,2.5,1.05,Sportsbet,49,289,12697151,451327544,2188805530
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,2.5,1.08,Sportsbet,49,289,12697151,451327544,2188805531
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,3.5,1.2,Sportsbet,49,289,12697151,451327552,2188805546
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,3.5,1.28,Sportsbet,49,289,12697151,451327552,2188805547
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,4.5,1.5,Sportsbet,49,289,12697151,451327567,2188805494
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,4.5,1.67,Sportsbet,49,289,12697151,451327567,2188805495
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,5.5,2.1,Sportsbet,49,289,12697151,451327575,2188805510
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,5.5,2.5,Sportsbet,49,289,12697151,451327575,2188805511
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,6.5,3.1,Sportsbet,49,289,12697151,451327582,2188805524
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,6.5,3.75,Sportsbet,49,289,12697151,451327582,2188805525
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,Brentford,7.5,4.5,Sportsbet,49,289,12697151,451327548,2188805538
+Brentford v West Ham United,Brentford,West Ham United,Team Shots On Target,West Ham United,7.5,6,Sportsbet,49,289,12697151,451327548,2188805539
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,2.5,1.4,Sportsbet,49,289,12697140,451173262,2188216983
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,3.5,2,Sportsbet,49,289,12697140,451173290,2188216999
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,4.5,3.25,Sportsbet,49,289,12697140,451173248,2188216955
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Liverpool,4.5,1.07,Sportsbet,49,289,12697140,451173248,2188216956
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,5.5,5,Sportsbet,49,289,12697140,451173256,2188216971
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Liverpool,5.5,1.2,Sportsbet,49,289,12697140,451173256,2188216972
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,6.5,9,Sportsbet,49,289,12697140,451173283,2188216985
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Liverpool,6.5,1.45,Sportsbet,49,289,12697140,451173283,2188216986
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Wolverhampton Wanderers,7.5,18,Sportsbet,49,289,12697140,451173288,2188216995
+Wolverhampton Wanderers v Liverpool,Wolverhampton Wanderers,Liverpool,Team Shots On Target,Liverpool,7.5,1.83,Sportsbet,49,289,12697140,451173288,2188216996
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,2.5,1.33,Sportsbet,49,289,12697145,451189946,2188280601
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,2.5,1.06,Sportsbet,49,289,12697145,451189946,2188280602
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,3.5,1.91,Sportsbet,49,289,12697145,451189955,2188280619
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,3.5,1.22,Sportsbet,49,289,12697145,451189955,2188280620
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,4.5,3,Sportsbet,49,289,12697145,451189932,2188280573
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,4.5,1.57,Sportsbet,49,289,12697145,451189932,2188280574
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,5.5,4.5,Sportsbet,49,289,12697145,451189940,2188280589
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,5.5,2.25,Sportsbet,49,289,12697145,451189940,2188280590
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,6.5,8.5,Sportsbet,49,289,12697145,451189947,2188280603
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,6.5,3.4,Sportsbet,49,289,12697145,451189947,2188280604
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Ipswich Town,7.5,15,Sportsbet,49,289,12697145,451189953,2188280615
+Ipswich Town v Aston Villa,Ipswich Town,Aston Villa,Team Shots On Target,Aston Villa,7.5,5,Sportsbet,49,289,12697145,451189953,2188280616
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Manchester United,3.5,1.14,Sportsbet,49,289,12697143,451218525,2188379851
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Tottenham Hotspur,3.5,1.14,Sportsbet,49,289,12697143,451218525,2188379852
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Manchester United,4.5,1.36,Sportsbet,49,289,12697143,451218543,2188379805
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Tottenham Hotspur,4.5,1.4,Sportsbet,49,289,12697143,451218543,2188379806
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Manchester United,5.5,1.8,Sportsbet,49,289,12697143,451218552,2188379823
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Tottenham Hotspur,5.5,1.91,Sportsbet,49,289,12697143,451218552,2188379824
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Manchester United,6.5,2.5,Sportsbet,49,289,12697143,451218518,2188379837
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Tottenham Hotspur,6.5,2.8,Sportsbet,49,289,12697143,451218518,2188379838
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Manchester United,7.5,3.75,Sportsbet,49,289,12697143,451218523,2188379847
+Manchester United v Tottenham Hotspur,Manchester United,Tottenham Hotspur,Team Shots On Target,Tottenham Hotspur,7.5,4.2,Sportsbet,49,289,12697143,451218523,2188379848
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,2.5,1.3,Sportsbet,49,289,12697152,452955335,2196346203
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Bournemouth,3.5,1.12,Sportsbet,49,289,12697152,452955343,2196346218
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,3.5,1.83,Sportsbet,49,289,12697152,452955343,2196346219
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Bournemouth,4.5,1.36,Sportsbet,49,289,12697152,452955317,2196346166
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,4.5,2.88,Sportsbet,49,289,12697152,452955317,2196346167
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Bournemouth,5.5,1.8,Sportsbet,49,289,12697152,452955325,2196346182
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,5.5,4.5,Sportsbet,49,289,12697152,452955325,2196346183
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Bournemouth,6.5,2.5,Sportsbet,49,289,12697152,452955332,2196346196
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,6.5,8,Sportsbet,49,289,12697152,452955332,2196346197
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Bournemouth,7.5,3.75,Sportsbet,49,289,12697152,452955339,2196346210
+Bournemouth v Southampton,Bournemouth,Southampton,Team Shots On Target,Southampton,7.5,15,Sportsbet,49,289,12697152,452955339,2196346211

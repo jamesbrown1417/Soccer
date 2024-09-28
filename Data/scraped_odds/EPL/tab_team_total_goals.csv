@@ -1,97 +1,65 @@
 match,start_time,market_name,home_team,away_team,team,line,over_price,under_price,margin,agency
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,0.5,1.15,5,1.07,TAB
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,1.5,1.72,2.05,1.069,TAB
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,2.5,3.3,1.3,1.072,TAB
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Nottingham Forest,0.5,1.46,2.6,1.07,TAB
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Nottingham Forest,1.5,3.2,1.32,1.07,TAB
-Brighton & Hove Albion v Nottingham Forest,2024-09-22T13:00:00.000Z,Team Goals,Brighton & Hove Albion,Nottingham Forest,Nottingham Forest,2.5,8.5,1.05,1.07,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Arsenal,0.5,1.6,2.25,1.069,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Arsenal,1.5,4,1.22,1.07,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Arsenal,2.5,11,1.02,1.071,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Manchester City,0.5,1.2,4.2,1.071,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Manchester City,1.5,1.95,1.8,1.068,TAB
-Manchester City v Arsenal,2024-09-22T15:30:00.000Z,Team Goals,Manchester City,Arsenal,Manchester City,2.5,4,1.22,1.07,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,0.5,1.08,7,1.069,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,1.5,1.5,2.5,1.067,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,2.5,2.6,1.46,1.07,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,3.5,5.5,1.13,1.067,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,0.5,1.11,6,1.068,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,1.5,1.58,2.3,1.068,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,2.5,2.8,1.4,1.071,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,3.5,6,1.11,1.068,TAB
 Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Manchester City,4.5,11,1.02,1.071,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,0.5,1.36,3,1.069,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,1.5,2.7,1.44,1.065,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,2.5,7,1.08,1.069,TAB
-Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,3.5,17,0,Inf,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,0.5,1.4,2.8,1.071,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,1.5,2.9,1.38,1.069,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,2.5,7.5,1.07,1.068,TAB
+Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,3.5,21,0,Inf,TAB
 Newcastle United v Manchester City,2024-09-28T11:30:00.000Z,Team Goals,Newcastle United,Manchester City,Newcastle United,4.5,26,0,Inf,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,0.5,1.02,11,1.071,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,1.5,1.24,3.8,1.07,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,2.5,1.8,1.95,1.068,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,3.5,3.1,1.34,1.069,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,4.5,6,1.11,1.068,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,0.5,2.1,1.68,1.071,TAB
+Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,1.5,1.3,3.3,1.072,TAB
+Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,2.5,2.05,1.72,1.069,TAB
+Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Arsenal,3.5,4,1.22,1.07,TAB
+Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,0.5,2.05,1.72,1.069,TAB
 Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,1.5,6.5,1.09,1.071,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,2.5,26,0,Inf,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,3.5,26,0,Inf,TAB
-Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,4.5,26,0,Inf,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,0.5,1.22,4,1.07,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,1.5,2.1,1.68,1.071,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,2.5,4.5,1.18,1.07,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,3.5,11,1.02,1.071,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,4.5,26,0,Inf,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,0.5,1.3,3.3,1.072,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,1.5,2.5,1.5,1.067,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,2.5,6,1.11,1.068,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,3.5,15,1.01,1.057,TAB
-Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,4.5,26,0,Inf,TAB
-Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,0.5,1.36,3,1.069,TAB
-Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,1.5,2.7,1.44,1.065,TAB
-Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,2.5,7,1.08,1.069,TAB
+Arsenal v Leicester City,2024-09-28T14:00:00.000Z,Team Goals,Arsenal,Leicester City,Leicester City,2.5,21,0,Inf,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,0.5,1.16,4.8,1.07,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,1.5,1.8,1.95,1.068,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,Brentford,2.5,3.6,1.26,1.071,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,0.5,1.26,3.6,1.071,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,1.5,2.25,1.6,1.069,TAB
+Brentford v West Ham United,2024-09-28T14:00:00.000Z,Team Goals,Brentford,West Ham United,West Ham United,2.5,5,1.15,1.07,TAB
+Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,0.5,1.3,3.3,1.072,TAB
+Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,1.5,2.4,1.52,1.075,TAB
+Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Brighton & Hove Albion,2.5,6,1.11,1.068,TAB
 Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Chelsea,0.5,1.11,6,1.068,TAB
-Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Chelsea,1.5,1.58,2.3,1.068,TAB
-Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Chelsea,2.5,2.9,1.38,1.069,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,0.5,1.3,3.3,1.072,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,1.5,2.5,1.5,1.067,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,2.5,6,1.11,1.068,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,3.5,15,1.01,1.057,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,4.5,26,0,Inf,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,0.5,1.26,3.6,1.071,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,1.5,2.3,1.58,1.068,TAB
+Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Chelsea,1.5,1.55,2.35,1.071,TAB
+Chelsea v Brighton & Hove Albion,2024-09-28T14:00:00.000Z,Team Goals,Chelsea,Brighton & Hove Albion,Chelsea,2.5,2.8,1.4,1.071,TAB
+Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,0.5,1.28,3.5,1.067,TAB
+Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,1.5,2.35,1.55,1.071,TAB
+Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Crystal Palace,2.5,5.5,1.13,1.067,TAB
+Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,0.5,1.28,3.5,1.067,TAB
+Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,1.5,2.35,1.55,1.071,TAB
 Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,2.5,5.5,1.13,1.067,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,3.5,15,1.01,1.057,TAB
-Everton v Crystal Palace,2024-09-28T14:00:00.000Z,Team Goals,Everton,Crystal Palace,Everton,4.5,26,0,Inf,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,0.5,1.38,2.9,1.069,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,1.5,2.8,1.4,1.071,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,2.5,7,1.08,1.069,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,3.5,17,0,Inf,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,4.5,26,0,Inf,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,0.5,1.22,4,1.07,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,1.5,2.1,1.68,1.071,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,2.5,4.5,1.18,1.07,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,3.5,11,1.02,1.071,TAB
-Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,4.5,26,0,Inf,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,0.5,1.05,8.5,1.07,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,1.5,1.36,3,1.069,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,2.5,2.1,1.68,1.071,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,3.5,4,1.22,1.07,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,4.5,8,1.06,1.068,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,0.5,1.5,2.5,1.067,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,1.5,3.3,1.3,1.072,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,2.5,9,1.04,1.073,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,3.5,26,0,Inf,TAB
-Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,4.5,26,0,Inf,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,0.5,1.18,4.5,1.07,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,1.5,1.87,1.87,1.07,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,2.5,3.8,1.24,1.07,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,0.5,1.4,2.8,1.071,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,1.5,2.9,1.38,1.069,TAB
-Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,2.5,7.5,1.07,1.068,TAB
-Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,ManUtd,0.5,1.13,5.5,1.067,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,0.5,1.36,3,1.069,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,1.5,2.7,1.44,1.065,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Fulham,2.5,6.5,1.09,1.071,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,0.5,1.28,3.5,1.067,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,1.5,2.3,1.58,1.068,TAB
+Nottingham Forest v Fulham,2024-09-28T14:00:00.000Z,Team Goals,Nottingham Forest,Fulham,Nottingham Forest,2.5,5.5,1.13,1.067,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,1.5,1.3,3.3,1.072,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,2.5,1.95,1.8,1.068,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Liverpool,3.5,3.6,1.26,1.071,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,0.5,1.55,2.35,1.071,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,1.5,3.6,1.26,1.071,TAB
+Wolverhampton Wanderers v Liverpool,2024-09-28T16:30:00.000Z,Team Goals,Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,2.5,10,1.03,1.071,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,0.5,1.16,4.8,1.07,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,1.5,1.8,1.95,1.068,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Aston Villa,2.5,3.6,1.26,1.071,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,0.5,1.38,2.9,1.069,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,1.5,2.8,1.4,1.071,TAB
+Ipswich Town v Aston Villa,2024-09-29T13:00:00.000Z,Team Goals,Ipswich Town,Aston Villa,Ipswich Town,2.5,7,1.08,1.069,TAB
+Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,ManUtd,0.5,1.15,5,1.07,TAB
 Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,ManUtd,1.5,1.72,2.05,1.069,TAB
-Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,ManUtd,2.5,3.2,1.32,1.07,TAB
-Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,0.5,1.16,4.8,1.07,TAB
-Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,1.5,1.8,1.95,1.068,TAB
-Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,2.5,3.6,1.26,1.071,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,0.5,1.09,6.5,1.071,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,1.5,1.52,2.4,1.075,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,2.5,2.6,1.46,1.07,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,0.5,1.4,2.8,1.071,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,1.5,3,1.36,1.069,TAB
-Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,2.5,7.5,1.07,1.068,TAB
+Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,ManUtd,2.5,3.3,1.3,1.072,TAB
+Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,0.5,1.18,4.5,1.07,TAB
+Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,1.5,1.87,1.87,1.07,TAB
+Manchester United v Tottenham Hotspur,2024-09-29T15:30:00.000Z,Team Goals,Manchester United,Tottenham Hotspur,Tottenham Hotspur,2.5,3.8,1.24,1.07,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,1.5,1.46,2.6,1.07,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,2.5,2.5,1.5,1.067,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Bournemouth,3.5,5,1.15,1.07,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,0.5,1.38,2.9,1.069,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,1.5,2.8,1.4,1.071,TAB
+Bournemouth v Southampton,2024-09-30T19:00:00.000Z,Team Goals,Bournemouth,Southampton,Southampton,2.5,7,1.08,1.069,TAB
