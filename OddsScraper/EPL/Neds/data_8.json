@@ -1240,13 +1240,6 @@
             "sort_order": 20,
             "market_id": "0431b6f7-e004-445b-95a1-6749cfb54e5e"
         },
-        "44d50f69-fccc-48ef-a126-f984621b4b21": {
-            "id": "44d50f69-fccc-48ef-a126-f984621b4b21",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "69c7e2ed-6b16-4795-a9b3-d8bf7f6ca693"
-        },
         "44f50caf-259e-4f58-97d2-2b23c3cec97d": {
             "id": "44f50caf-259e-4f58-97d2-2b23c3cec97d",
             "name": "No Goal to be Scored",
@@ -1757,13 +1750,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "010ffddb-df13-4dcc-8a6e-0b8d287728b7"
-        },
-        "6577a194-f50f-48d4-8734-7331c2ed28cd": {
-            "id": "6577a194-f50f-48d4-8734-7331c2ed28cd",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "31d9a6fc-c666-4151-85d7-9622b55082ca"
         },
         "6678373d-d72c-4a42-9a46-38e26e92aafa": {
             "id": "6678373d-d72c-4a42-9a46-38e26e92aafa",
@@ -2463,13 +2449,6 @@
             "visible": true,
             "sort_order": 70,
             "market_id": "a8690f2c-9f11-4a06-bec9-68d0d5fb6f34"
-        },
-        "8e80e968-6bc2-433b-89de-f53cae8548f1": {
-            "id": "8e80e968-6bc2-433b-89de-f53cae8548f1",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "f3403ddd-ca23-4e31-8104-082626d71079"
         },
         "8f205a5c-908a-4a75-83f5-2fab6db509b9": {
             "id": "8f205a5c-908a-4a75-83f5-2fab6db509b9",
@@ -5929,7 +5908,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "6577a194-f50f-48d4-8734-7331c2ed28cd",
                 "08c6b72d-257b-4c57-a7cf-2a623b8aa6bf"
             ],
             "num_winners": 1
@@ -6566,7 +6544,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "44d50f69-fccc-48ef-a126-f984621b4b21",
                 "115386ce-0816-4b47-881f-ae36c6248cf2"
             ],
             "num_winners": 1
@@ -8570,7 +8547,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "8e80e968-6bc2-433b-89de-f53cae8548f1",
                 "306980e7-bf5d-4571-8a2d-20baa343f098"
             ],
             "num_winners": 1
@@ -9997,12 +9973,6 @@
                 "denominator": 10
             }
         },
-        "44d50f69-fccc-48ef-a126-f984621b4b21:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 3,
-                "denominator": 100
-            }
-        },
         "44f50caf-259e-4f58-97d2-2b23c3cec97d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 11,
@@ -10433,12 +10403,6 @@
             "odds": {
                 "numerator": 29,
                 "denominator": 20
-            }
-        },
-        "6577a194-f50f-48d4-8734-7331c2ed28cd:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
             }
         },
         "6678373d-d72c-4a42-9a46-38e26e92aafa:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -11027,12 +10991,6 @@
             "odds": {
                 "numerator": 17,
                 "denominator": 2
-            }
-        },
-        "8e80e968-6bc2-433b-89de-f53cae8548f1:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 2,
-                "denominator": 25
             }
         },
         "8f205a5c-908a-4a75-83f5-2fab6db509b9:940b8704-e497-4a76-b390-00918ff7d282:": {

@@ -323,13 +323,6 @@
             "sort_order": 370,
             "market_id": "d98b672f-cff9-44c7-b097-8a66177a7cf3"
         },
-        "16df319c-3c04-4acb-8a63-19149f19f312": {
-            "id": "16df319c-3c04-4acb-8a63-19149f19f312",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "a120cc80-a690-4fbb-ba47-926549069f4a"
-        },
         "16eed4c5-0133-4b20-b6ab-4a1d644a2591": {
             "id": "16eed4c5-0133-4b20-b6ab-4a1d644a2591",
             "name": "No",
@@ -2031,13 +2024,6 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "feb3bf60-658a-48fa-a538-ff5a8a8b743c"
-        },
-        "713fef80-4e97-4dd3-89c8-1e46e1026d5a": {
-            "id": "713fef80-4e97-4dd3-89c8-1e46e1026d5a",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "37321848-eb39-4bb2-a9c0-28b05e652268"
         },
         "714a371b-8a24-4290-9792-3f13c2a90ec9": {
             "id": "714a371b-8a24-4290-9792-3f13c2a90ec9",
@@ -4425,13 +4411,6 @@
             "sort_order": 30,
             "market_id": "ef366a09-93a3-4d39-b8df-c3f6630ac593"
         },
-        "faee0244-8b85-4129-aacd-a4f016fce78c": {
-            "id": "faee0244-8b85-4129-aacd-a4f016fce78c",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "720b006c-910c-471c-97ee-deb69ca6d674"
-        },
         "fb0e108a-85c2-439b-96b8-7d40698344b1": {
             "id": "fb0e108a-85c2-439b-96b8-7d40698344b1",
             "name": "Everton FC or Newcastle United and No",
@@ -5746,7 +5725,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "713fef80-4e97-4dd3-89c8-1e46e1026d5a",
                 "d1235b82-7255-4bb4-b088-f238170fc845"
             ],
             "num_winners": 1
@@ -6489,7 +6467,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "faee0244-8b85-4129-aacd-a4f016fce78c",
                 "df484e59-b3c2-4ec2-afe2-0bb9524de592"
             ],
             "num_winners": 1
@@ -7429,7 +7406,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "16df319c-3c04-4acb-8a63-19149f19f312",
                 "cfe1e735-424f-4217-b554-beef67b2d9a5"
             ],
             "num_winners": 1
@@ -9241,12 +9217,6 @@
                 "denominator": 1
             }
         },
-        "16df319c-3c04-4acb-8a63-19149f19f312:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 3,
-                "denominator": 100
-            }
-        },
         "16eed4c5-0133-4b20-b6ab-4a1d644a2591:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 1,
@@ -10685,12 +10655,6 @@
             "odds": {
                 "numerator": 13,
                 "denominator": 2
-            }
-        },
-        "713fef80-4e97-4dd3-89c8-1e46e1026d5a:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 2,
-                "denominator": 25
             }
         },
         "714a371b-8a24-4290-9792-3f13c2a90ec9:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12713,12 +12677,6 @@
             "odds": {
                 "numerator": 13,
                 "denominator": 5
-            }
-        },
-        "faee0244-8b85-4129-aacd-a4f016fce78c:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
             }
         },
         "fb0e108a-85c2-439b-96b8-7d40698344b1:940b8704-e497-4a76-b390-00918ff7d282:": {

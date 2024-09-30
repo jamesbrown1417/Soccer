@@ -890,13 +890,6 @@
             "sort_order": 30,
             "market_id": "a349fccd-ee43-4c03-9ca2-e611d90e0535"
         },
-        "2a954302-d543-4a57-997d-56227a1835cb": {
-            "id": "2a954302-d543-4a57-997d-56227a1835cb",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "09a7f360-8592-42bb-9c6b-52910f807d82"
-        },
         "2a996b72-7fd6-4180-9fa9-4b3756b22ef6": {
             "id": "2a996b72-7fd6-4180-9fa9-4b3756b22ef6",
             "name": "Wolverhampton Wanderers and Under 3.5 Goals",
@@ -2833,13 +2826,6 @@
             "sort_order": 60,
             "market_id": "2ddecf64-a1b2-40d8-9bc6-234ba4c071d2"
         },
-        "a56e81b9-4ec0-4c44-8948-d33e430d8e39": {
-            "id": "a56e81b9-4ec0-4c44-8948-d33e430d8e39",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "69540b4f-71a1-40f5-bbae-7c0456de9359"
-        },
         "a5d40f2d-b5c2-4f52-b44e-1d73f02cd93c": {
             "id": "a5d40f2d-b5c2-4f52-b44e-1d73f02cd93c",
             "name": "Brentford",
@@ -3937,13 +3923,6 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "3fc41990-501a-41d0-88b3-c0b5e4dbb64f"
-        },
-        "e45e0491-aa87-4b91-850a-9303a229400e": {
-            "id": "e45e0491-aa87-4b91-850a-9303a229400e",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "47724fa8-0f47-4ba1-a9f7-cc6a2be55eb6"
         },
         "e482e302-7663-44fa-8110-8bbadb3224bc": {
             "id": "e482e302-7663-44fa-8110-8bbadb3224bc",
@@ -5115,7 +5094,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "2a954302-d543-4a57-997d-56227a1835cb",
                 "f82d57bc-2905-4df6-9b75-3da384ee0297"
             ],
             "num_winners": 1
@@ -5891,7 +5869,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "e45e0491-aa87-4b91-850a-9303a229400e",
                 "8bf23083-efbd-41c8-8646-818575514a5d"
             ],
             "num_winners": 1
@@ -6396,7 +6373,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "a56e81b9-4ec0-4c44-8948-d33e430d8e39",
                 "7d95db2c-1fb6-41e6-aeaa-b78762d22aeb"
             ],
             "num_winners": 1
@@ -9601,12 +9577,6 @@
                 "denominator": 4
             }
         },
-        "2a954302-d543-4a57-997d-56227a1835cb:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
-            }
-        },
         "2a996b72-7fd6-4180-9fa9-4b3756b22ef6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 18,
@@ -11245,12 +11215,6 @@
                 "denominator": 1
             }
         },
-        "a56e81b9-4ec0-4c44-8948-d33e430d8e39:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
-            }
-        },
         "a5d40f2d-b5c2-4f52-b44e-1d73f02cd93c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 1,
@@ -12179,12 +12143,6 @@
             "odds": {
                 "numerator": 19,
                 "denominator": 5
-            }
-        },
-        "e45e0491-aa87-4b91-850a-9303a229400e:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 7,
-                "denominator": 100
             }
         },
         "e482e302-7663-44fa-8110-8bbadb3224bc:940b8704-e497-4a76-b390-00918ff7d282:": {
