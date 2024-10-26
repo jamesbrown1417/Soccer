@@ -1,14 +1,20 @@
 match,market_name,home_team,away_team,home_win,draw,away_win,margin,agency
-Southampton v Leicester City,Head To Head,Southampton,Leicester City,2.3,3.5,2.85,1.07,Neds
-Tottenham Hotspur v West Ham United,Head To Head,Tottenham Hotspur,West Ham United,1.52,4.5,5.4,1.07,Neds
-Nottingham Forest v Crystal Palace,Head To Head,Nottingham Forest,Crystal Palace,2.35,3.2,3,1.07,Neds
-Brighton & Hove Albion v Tottenham Hotspur,Head To Head,Brighton & Hove Albion,Tottenham Hotspur,2.75,3.75,2.3,1.07,Neds
-Newcastle United v Brighton & Hove Albion,Head To Head,Newcastle United,Brighton & Hove Albion,2.05,3.7,3.2,1.07,Neds
-Fulham v Aston Villa,Head To Head,Fulham,Aston Villa,2.45,3.5,2.7,1.06,Neds
-Aston Villa v Manchester United,Head To Head,Aston Villa,Manchester United,2.2,3.7,2.9,1.07,Neds
-Bournemouth v Arsenal,Head To Head,Bournemouth,Arsenal,5,4.2,1.6,1.06,Neds
-Wolverhampton Wanderers v Manchester City,Head To Head,Wolverhampton Wanderers,Manchester City,8.5,5.6,1.3,1.07,Neds
-Ipswich Town v Everton,Head To Head,Ipswich Town,Everton,2.35,3.35,2.85,1.07,Neds
-Liverpool v Chelsea,Head To Head,Liverpool,Chelsea,1.6,4.25,4.75,1.07,Neds
-Chelsea v Nottingham Forest,Head To Head,Chelsea,Nottingham Forest,1.48,4.5,6,1.06,Neds
-Manchester United v Brentford,Head To Head,Manchester United,Brentford,1.6,4.1,4.8,1.08,Neds
+Manchester United v Chelsea,Head To Head,Manchester United,Chelsea,2.45,3.6,2.6,1.07,Neds
+Bournemouth v Manchester City,Head To Head,Bournemouth,Manchester City,5.4,4.25,1.55,1.07,Neds
+Brighton & Hove Albion v Wolverhampton Wanderers,Head To Head,Brighton & Hove Albion,Wolverhampton Wanderers,1.6400000000000001,4,4.75,1.07,Neds
+Nottingham Forest v West Ham United,Head To Head,Nottingham Forest,West Ham United,2.15,3.5,3.1,1.07,Neds
+Manchester City v Southampton,Head To Head,Manchester City,Southampton,1.1,9.5,17,1.07,Neds
+Aston Villa v Bournemouth,Head To Head,Aston Villa,Bournemouth,1.85,3.75,3.8,1.07,Neds
+Liverpool v Brighton & Hove Albion,Head To Head,Liverpool,Brighton & Hove Albion,1.4,4.8,6.8,1.07,Neds
+Brentford v Ipswich Town,Head To Head,Brentford,Ipswich Town,1.55,4.25,5.2,1.07,Neds
+Crystal Palace v Tottenham Hotspur,Head To Head,Crystal Palace,Tottenham Hotspur,3.9,3.9,1.8,1.07,Neds
+Chelsea v Newcastle United,Head To Head,Chelsea,Newcastle United,1.73,3.9,4.1,1.08,Neds
+Wolverhampton Wanderers v Crystal Palace,Head To Head,Wolverhampton Wanderers,Crystal Palace,2.55,3.45,2.55,1.07,Neds
+Southampton v Everton,Head To Head,Southampton,Everton,2.45,3.5,2.7,1.06,Neds
+Everton v Fulham,Head To Head,Everton,Fulham,2.7,3.3,2.5,1.07,Neds
+Ipswich Town v Leicester City,Head To Head,Ipswich Town,Leicester City,2.15,3.6,3.1,1.07,Neds
+Fulham v Brentford,Head To Head,Fulham,Brentford,2.1,3.4,3.4,1.06,Neds
+Arsenal v Liverpool,Head To Head,Arsenal,Liverpool,2.45,3.25,2.8,1.07,Neds
+Tottenham Hotspur v Aston Villa,Head To Head,Tottenham Hotspur,Aston Villa,1.85,3.9,3.7,1.07,Neds
+West Ham United v Manchester United,Head To Head,West Ham United,Manchester United,2.85,3.7,2.25,1.07,Neds
+Newcastle United v Arsenal,Head To Head,Newcastle United,Arsenal,3.4,3.6,2,1.07,Neds
