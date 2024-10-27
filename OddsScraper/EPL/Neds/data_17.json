@@ -403,13 +403,6 @@
             "sort_order": 10,
             "market_id": "73908344-c2f6-4b40-88dc-dbd0f6cfb52d"
         },
-        "18ac1ce3-423c-492d-8ca3-494456616bd6": {
-            "id": "18ac1ce3-423c-492d-8ca3-494456616bd6",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "baecdcf8-338a-4bb5-a5c4-3f0e1382c28b"
-        },
         "18b05b33-16b4-4442-96e4-a0653ce85eb2": {
             "id": "18b05b33-16b4-4442-96e4-a0653ce85eb2",
             "name": "Under",
@@ -4184,13 +4177,6 @@
             "sort_order": 20,
             "market_id": "a698a505-94d4-4a7f-be17-6298010660b9"
         },
-        "eef1a99e-b72b-4958-8501-8eebcf3a58f5": {
-            "id": "eef1a99e-b72b-4958-8501-8eebcf3a58f5",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "d2108cb0-b311-44ac-90d8-1788317583f7"
-        },
         "ef28dfee-e5f4-4873-9896-892667e7284f": {
             "id": "ef28dfee-e5f4-4873-9896-892667e7284f",
             "name": "Ipswich Town 3-0",
@@ -4367,13 +4353,6 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "6592732c-d6b3-4a39-a663-bc236bbaab73"
-        },
-        "fb250ea3-a2fb-4743-ae9a-33f21d166db8": {
-            "id": "fb250ea3-a2fb-4743-ae9a-33f21d166db8",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "96ec0866-eb18-42e0-82ff-6c43377ee0c0"
         },
         "fb48af89-4344-4fa6-8e3b-8aa35a58b876": {
             "id": "fb48af89-4344-4fa6-8e3b-8aa35a58b876",
@@ -7328,7 +7307,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "fb250ea3-a2fb-4743-ae9a-33f21d166db8",
                 "536bd3c3-3606-46cf-b9a0-4de2a07987e1"
             ],
             "num_winners": 1
@@ -7870,7 +7848,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "18ac1ce3-423c-492d-8ca3-494456616bd6",
                 "ea399d4b-a21e-4967-9b56-04a6f399b1ce"
             ],
             "num_winners": 1
@@ -8215,7 +8192,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "eef1a99e-b72b-4958-8501-8eebcf3a58f5",
                 "6453a4a0-8606-467d-9a79-d6f6f02efa7e"
             ],
             "num_winners": 1
@@ -9231,12 +9207,6 @@
             "odds": {
                 "numerator": 19,
                 "denominator": 4
-            }
-        },
-        "18ac1ce3-423c-492d-8ca3-494456616bd6:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
             }
         },
         "18b05b33-16b4-4442-96e4-a0653ce85eb2:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -12437,12 +12407,6 @@
                 "denominator": 5
             }
         },
-        "eef1a99e-b72b-4958-8501-8eebcf3a58f5:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 7,
-                "denominator": 100
-            }
-        },
         "ef28dfee-e5f4-4873-9896-892667e7284f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 25,
@@ -12591,12 +12555,6 @@
             "odds": {
                 "numerator": 10,
                 "denominator": 1
-            }
-        },
-        "fb250ea3-a2fb-4743-ae9a-33f21d166db8:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
             }
         },
         "fb48af89-4344-4fa6-8e3b-8aa35a58b876:940b8704-e497-4a76-b390-00918ff7d282:": {

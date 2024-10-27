@@ -3025,13 +3025,6 @@
             "sort_order": 20,
             "market_id": "45a5c9c7-d140-4f6f-93ce-db8030d7e4fd"
         },
-        "b11b55a4-23b0-4690-8f1b-1a7dcf7c7ecd": {
-            "id": "b11b55a4-23b0-4690-8f1b-1a7dcf7c7ecd",
-            "name": "Under",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "57209bec-406f-462d-a478-b0fd836925a4"
-        },
         "b1393f09-24eb-4317-bd08-c6305fbe5ee7": {
             "id": "b1393f09-24eb-4317-bd08-c6305fbe5ee7",
             "name": "No Score",
@@ -6126,7 +6119,6 @@
             },
             "visible": true,
             "entrant_ids": [
-                "b11b55a4-23b0-4690-8f1b-1a7dcf7c7ecd",
                 "9acd349f-6258-471d-9c6b-cb49c5b5d05c"
             ],
             "num_winners": 1
@@ -11443,12 +11435,6 @@
             "odds": {
                 "numerator": 91,
                 "denominator": 100
-            }
-        },
-        "b11b55a4-23b0-4690-8f1b-1a7dcf7c7ecd:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 1,
-                "denominator": 50
             }
         },
         "b1393f09-24eb-4317-bd08-c6305fbe5ee7:940b8704-e497-4a76-b390-00918ff7d282:": {
