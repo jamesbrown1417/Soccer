@@ -1,48 +1,96 @@
 match,player_name,line,over_price,under_price,market_name,agency,player_team
-Chelsea v Newcastle United,Alexander Isak,0.5,2.37,1.53,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Anthony Gordon,1.5,2,1.72,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Bruno Guimarães,2.5,1.83,1.83,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Christopher Nkunku,0.5,1.57,2.25,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Cole Palmer,0.5,1.61,2.2,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Dan Burn,1.5,1.66,2.1,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Enzo Fernández,1.5,1.53,2.37,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Fabian Schär,1.5,2.62,1.44,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Harvey Barnes,0.5,1.83,1.83,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Jacob Murphy,1.5,2.5,1.5,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Jadon Sancho,0.5,1.9,1.8,Player Tackles,Bet365,Manchester United
-Chelsea v Newcastle United,Joelinton,2.5,1.83,1.83,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Levi Colwill,1.5,1.8,1.9,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Lewis Hall,2.5,2.1,1.66,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Malo Gusto,2.5,1.83,1.83,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Marc Cucurella,2.5,1.61,2.2,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Moisés Caicedo,3.5,2.2,1.61,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Nicolas Jackson,0.5,1.9,1.8,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Noni Madueke,1.5,2.62,1.44,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Pedro Neto,0.5,1.44,2.62,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Reece James,1.5,1.53,2.37,Player Tackles,Bet365,Chelsea
-Chelsea v Newcastle United,Sandro Tonali,1.5,2,1.72,Player Tackles,Bet365,Newcastle United
-Chelsea v Newcastle United,Valentino Livramento,1.5,1.66,2.1,Player Tackles,Bet365,NA
-Chelsea v Newcastle United,Wesley Fofana,1.5,1.8,1.9,Player Tackles,Bet365,Chelsea
-Arsenal v Liverpool,Alexis Mac Allister,2.5,1.72,2,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Andrew Robertson,1.5,1.9,1.8,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Ben White,1.5,1.83,1.83,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Bukayo Saka,1.5,1.66,2.1,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Cody Gakpo,1.5,2.37,1.53,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Curtis Jones,1.5,1.57,2.25,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Darwin Núñez,0.5,1.5,2.5,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Declan Rice,2.5,2.25,1.57,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Dominik Szoboszlai,0.5,1.66,2.1,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Gabriel Magalhães,1.5,2.5,1.5,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Gabriel Martinelli,0.5,1.44,2.62,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Ibrahima Konaté,1.5,2.1,1.66,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Joe Gomez,1.5,1.72,2,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Jurrien Timber,2.5,2.25,1.57,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Kai Havertz,1.5,2.37,1.53,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Leandro Trossard,1.5,2.5,1.5,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Luis Díaz,1.5,2.5,1.5,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Mohamed Salah,0.5,1.9,1.8,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Oleksandr Zinchenko,2.5,1.83,1.83,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Ryan Gravenberch,1.5,1.57,2.25,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Thomas Partey,2.5,2.25,1.57,Player Tackles,Bet365,Arsenal
-Arsenal v Liverpool,Trent Alexander-Arnold,1.5,1.53,2.37,Player Tackles,Bet365,Liverpool
-Arsenal v Liverpool,Virgil van Dijk,0.5,1.72,2,Player Tackles,Bet365,Liverpool
+Newcastle United v Arsenal,Ben White,1.5,2.1,1.66,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Bruno Guimarães,2.5,1.72,2,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Bukayo Saka,1.5,1.72,2,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Dan Burn,1.5,1.66,2.1,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Declan Rice,1.5,1.53,2.37,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Fabian Schär,0.5,1.5,2.5,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Joelinton,2.5,1.9,1.8,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Jurrien Timber,2.5,2.25,1.57,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Lewis Hall,2.5,1.61,2.2,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Mikel Merino,3.5,2.25,1.57,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Sandro Tonali,1.5,2.1,1.66,Player Tackles,Bet365,Newcastle United
+Newcastle United v Arsenal,Thomas Partey,3.5,2.25,1.57,Player Tackles,Bet365,Arsenal
+Newcastle United v Arsenal,Valentino Livramento,1.5,1.83,1.83,Player Tackles,Bet365,NA
+Newcastle United v Arsenal,William Saliba,1.5,1.83,1.83,Player Tackles,Bet365,Arsenal
+Fulham v Brentford,Adama Traoré,0.5,1.57,2.25,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Alex Iwobi,1.5,2.5,1.5,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Andreas Pereira,0.5,1.9,1.8,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Antonee Robinson,2.5,1.8,1.9,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Bryan Mbeumo,0.5,1.83,1.83,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Calvin Bassey,1.5,2.25,1.57,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Christian Nørgaard,2.5,2.25,1.57,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Emile Smith Rowe,1.5,2.37,1.53,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Ethan Pinnock,1.5,2.5,1.5,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Joachim Andersen,0.5,1.57,2.25,Player Tackles,Bet365,Crystal Palace
+Fulham v Brentford,Joachim Andersen,0.5,1.57,2.25,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Keane Lewis-Potter,0.5,1.53,2.37,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Kenny Tete,1.5,1.53,2.37,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Mads Roerslev,1.5,2.1,1.66,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Mikkel Damsgaard,2.5,2.37,1.53,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Nathan Collins,0.5,1.44,2.62,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Raúl Jiménez,0.5,1.53,2.37,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Sander Berge,1.5,1.72,2,Player Tackles,Bet365,Fulham
+Fulham v Brentford,Sepp van den Berg,1.5,2.25,1.57,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Vitaly Janelt,1.5,2.2,1.61,Player Tackles,Bet365,Brentford
+Fulham v Brentford,Yoane Wissa,0.5,1.83,1.83,Player Tackles,Bet365,Brentford
+Wolverhampton Wanderers v Crystal Palace,Adam Wharton,2.5,2.25,1.57,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Craig Dawson,1.5,2.5,1.5,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Daichi Kamada,2.5,2.37,1.53,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Daniel Muñoz,3.5,1.66,2.1,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Jeff Schlupp,1.5,1.8,1.9,Player Tackles,Bet365,NA
+Wolverhampton Wanderers v Crystal Palace,João Gomes,3.5,2.2,1.61,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Marc Guéhi,0.5,1.5,2.5,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Mario Lemina,2.5,1.61,2.2,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Matt Doherty,1.5,1.8,1.9,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Maxence Lacroix,1.5,1.72,2,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Nathaniel Clyne,1.5,1.61,2.2,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Nélson Semedo,2.5,2.1,1.66,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Neto Andre Trindade,2.5,2,1.72,Player Tackles,Bet365,NA
+Wolverhampton Wanderers v Crystal Palace,Rayan Ait Nouri,1.5,1.61,2.2,Player Tackles,Bet365,NA
+Wolverhampton Wanderers v Crystal Palace,Santiago Bueno,1.5,1.61,2.2,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Tommy Doyle,1.5,1.72,2,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Toti,1.5,2.1,1.66,Player Tackles,Bet365,Wolverhampton Wanderers
+Wolverhampton Wanderers v Crystal Palace,Trevoh Chalobah,1.5,1.57,2.25,Player Tackles,Bet365,Chelsea
+Wolverhampton Wanderers v Crystal Palace,Tyrick Mitchell,2.5,1.72,2,Player Tackles,Bet365,Crystal Palace
+Wolverhampton Wanderers v Crystal Palace,Will Hughes,2.5,1.66,2.1,Player Tackles,Bet365,Crystal Palace
+Tottenham Hotspur v Aston Villa,Amadou Onana,2.5,1.8,1.9,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Brennan Johnson,1.5,2,1.72,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Cristian Romero,2.5,1.8,1.9,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Dejan Kulusevski,1.5,1.8,1.9,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Destiny Udogie,2.5,1.8,1.9,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Diego Carlos,1.5,2.2,1.61,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Dominic Solanke,0.5,1.61,2.2,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Ezri Konsa,1.5,1.83,1.83,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Jacob Ramsey,1.5,2,1.72,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,James Maddison,1.5,2.37,1.53,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Jhon Durán,1.5,2.37,1.53,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,John McGinn,1.5,1.8,1.9,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Leon Bailey,0.5,1.9,1.8,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Lucas Digne,2.5,2.2,1.61,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Matty Cash,2.5,2.1,1.66,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Micky van de Ven,1.5,2,1.72,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Morgan Rogers,1.5,2.62,1.44,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Pau Torres,1.5,2.62,1.44,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Pedro Porro,2.5,1.83,1.83,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Richarlison,1.5,2.62,1.44,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Rodrigo Bentancur,1.5,1.72,2,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Timo Werner,0.5,1.8,1.9,Player Tackles,Bet365,Tottenham Hotspur
+Tottenham Hotspur v Aston Villa,Youri Tielemans,2.5,1.9,1.8,Player Tackles,Bet365,Aston Villa
+Tottenham Hotspur v Aston Villa,Yves Bissouma,2.5,1.72,2,Player Tackles,Bet365,Tottenham Hotspur
+Manchester United v Chelsea,Amad Diallo,1.5,2.1,1.66,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Bruno Fernandes,1.5,1.57,2.25,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Casemiro,3.5,2,1.72,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Christian Eriksen,1.5,2.37,1.53,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Cole Palmer,0.5,1.83,1.83,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Diogo Dalot,2.5,2.1,1.66,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Enzo Fernández,1.5,1.72,2,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Levi Colwill,1.5,2,1.72,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Lisandro Martínez,1.5,1.72,2,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Malo Gusto,2.5,2.2,1.61,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Marc Cucurella,2.5,1.9,1.8,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Matthijs de Ligt,1.5,2.5,1.5,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Moisés Caicedo,3.5,2.1,1.66,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Noussair Mazraoui,2.5,1.83,1.83,Player Tackles,Bet365,Manchester United
+Manchester United v Chelsea,Roméo Lavia,1.5,1.83,1.83,Player Tackles,Bet365,Chelsea
+Manchester United v Chelsea,Wesley Fofana,1.5,2.1,1.66,Player Tackles,Bet365,Chelsea
