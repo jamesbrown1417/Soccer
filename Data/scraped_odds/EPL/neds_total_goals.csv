@@ -1,17 +1,20 @@
 match,market_name,home_team,away_team,line,over_price,under_price,margin,agency
-Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,5.5,6.5,1.1,1.06,Neds
+Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,5.5,6,1.1,1.08,Neds
 Manchester United v Everton,Total Goals,Manchester United,Everton,6.5,15,1.01,1.06,Neds
 Manchester City v Tottenham Hotspur,Total Goals,Manchester City,Tottenham Hotspur,0.5,1.01,17,1.05,Neds
 Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,1.5,1.15,4.8,1.08,Neds
-Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,6.5,12,1.02,1.06,Neds
+Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,6.5,11,1.03,1.06,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,1.5,1.3,3.25,1.08,Neds
 Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,1.5,1.1400000000000001,5,1.08,Neds
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,3.5,2.45,1.5,1.07,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,2.5,1.62,2.2,1.07,Neds
 Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,0.5,1.02,13,1.06,Neds
 Fulham v Wolverhampton Wanderers,Total Goals,Fulham,Wolverhampton Wanderers,0.5,1.03,11,1.06,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,2.5,1.9100000000000001,1.8,1.08,Neds
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,6.5,15,1.02,1.05,Neds
-Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,3.5,2.15,1.62,1.08,Neds
+Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,3.5,2.15,1.65,1.07,Neds
 Liverpool v Manchester City,Total Goals,Liverpool,Manchester City,4.5,3.6,1.25,1.08,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,5.5,7.5,1.07,1.07,Neds
 Brighton & Hove Albion v Southampton,Total Goals,Brighton & Hove Albion,Southampton,3.5,2.3,1.5699999999999998,1.07,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,2.5,1.75,2,1.07,Neds
 Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,3.5,2.2,1.62,1.07,Neds
@@ -22,13 +25,22 @@ Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,6.5,19,NA,NA,N
 Ipswich Town v Manchester United,Total Goals,Ipswich Town,Manchester United,4.5,4,1.22,1.07,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,0.5,1.02,12,1.06,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,5.5,6,1.1,1.08,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,6.5,15,1.02,1.05,Neds
 Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,2.5,1.5,2.45,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,0.5,1.03,11,1.06,Neds
 Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,1.5,1.15,5,1.07,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,4.5,5,1.1400000000000001,1.08,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,4.5,4.4,1.18,1.07,Neds
 Fulham v Wolverhampton Wanderers,Total Goals,Fulham,Wolverhampton Wanderers,6.5,17,1.01,1.05,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,1.5,1.25,3.75,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,6.5,19,NA,NA,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,2.5,1.5699999999999998,2.3,1.07,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,4.5,5.25,1.1400000000000001,1.07,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,1.5,1.18,4.4,1.07,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,5.5,12,1.02,1.06,Neds
 Bournemouth v Brighton & Hove Albion,Total Goals,Bournemouth,Brighton & Hove Albion,6.5,13,1.02,1.06,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,4.5,4.2,1.2,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,4.5,5,1.1400000000000001,1.08,Neds
 Aston Villa v Crystal Palace,Total Goals,Aston Villa,Crystal Palace,2.5,1.73,2,1.08,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,1.5,1.25,3.6,1.08,Neds
 Bournemouth v Brighton & Hove Albion,Total Goals,Bournemouth,Brighton & Hove Albion,5.5,7.5,1.07,1.07,Neds
@@ -38,14 +50,17 @@ Southampton v Liverpool,Total Goals,Southampton,Liverpool,1.5,1.1400000000000001
 Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,2.5,1.48,2.5,1.08,Neds
 Manchester City v Tottenham Hotspur,Total Goals,Manchester City,Tottenham Hotspur,3.5,1.9100000000000001,1.8,1.08,Neds
 Bournemouth v Brighton & Hove Albion,Total Goals,Bournemouth,Brighton & Hove Albion,3.5,2.4,1.53,1.07,Neds
-Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,2.5,1.5,2.45,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,5.5,9.5,1.04,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,3.5,2.8,1.4,1.07,Neds
+Nottingham Forest v Ipswich Town,Total Goals,Nottingham Forest,Ipswich Town,2.5,1.73,2,1.08,Neds
+Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,2.5,1.48,2.5,1.08,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,3.5,2.5,1.48,1.08,Neds
 Ipswich Town v Manchester United,Total Goals,Ipswich Town,Manchester United,3.5,2.4,1.53,1.07,Neds
 Ipswich Town v Manchester United,Total Goals,Ipswich Town,Manchester United,2.5,1.5699999999999998,2.3,1.07,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,4.5,3.5,1.28,1.07,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,2.5,1.48,2.6,1.06,Neds
 Liverpool v Manchester City,Total Goals,Liverpool,Manchester City,5.5,6.5,1.1,1.06,Neds
-Manchester United v Everton,Total Goals,Manchester United,Everton,3.5,2.45,1.5,1.07,Neds
+Manchester United v Everton,Total Goals,Manchester United,Everton,3.5,2.6,1.48,1.06,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,3.5,2.15,1.65,1.07,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,1.5,1.2,4.2,1.07,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,5.5,9.5,1.04,1.07,Neds
@@ -57,6 +72,7 @@ Liverpool v Manchester City,Total Goals,Liverpool,Manchester City,2.5,1.48,2.5,1
 Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,0.5,1.02,15,1.05,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,6.5,19,NA,NA,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,0.5,1.04,10,1.06,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,0.5,1.02,13,1.06,Neds
 Chelsea v Aston Villa,Total Goals,Chelsea,Aston Villa,6.5,12,1.02,1.06,Neds
 Brighton & Hove Albion v Southampton,Total Goals,Brighton & Hove Albion,Southampton,5.5,7,1.08,1.07,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,6.5,11,1.03,1.06,Neds
@@ -64,20 +80,22 @@ Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,5.5,6.5,1.09,1.0
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,2.5,1.6,2.25,1.07,Neds
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,1.5,1.18,4.4,1.07,Neds
 Aston Villa v Crystal Palace,Total Goals,Aston Villa,Crystal Palace,4.5,5,1.1400000000000001,1.08,Neds
-Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,4.5,3.6,1.25,1.08,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,6.5,23,NA,NA,Neds
+Leicester City v Chelsea,Total Goals,Leicester City,Chelsea,4.5,3.5,1.25,1.09,Neds
 Bournemouth v Brighton & Hove Albion,Total Goals,Bournemouth,Brighton & Hove Albion,4.5,4,1.22,1.07,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,4.5,6,1.1,1.08,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,6.5,15,1.01,1.06,Neds
 West Ham United v Arsenal,Total Goals,West Ham United,Arsenal,5.5,8,1.06,1.07,Neds
 Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,6.5,12,1.02,1.06,Neds
 Manchester City v Tottenham Hotspur,Total Goals,Manchester City,Tottenham Hotspur,6.5,9,1.05,1.06,Neds
 Southampton v Liverpool,Total Goals,Southampton,Liverpool,0.5,1.01,15,1.06,Neds
 Fulham v Wolverhampton Wanderers,Total Goals,Fulham,Wolverhampton Wanderers,1.5,1.22,4,1.07,Neds
-Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,4.5,3.7,1.25,1.07,Neds
+Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,4.5,3.6,1.25,1.08,Neds
 Liverpool v Manchester City,Total Goals,Liverpool,Manchester City,3.5,2.15,1.62,1.08,Neds
 Bournemouth v Brighton & Hove Albion,Total Goals,Bournemouth,Brighton & Hove Albion,1.5,1.18,4.5,1.07,Neds
-Manchester United v Everton,Total Goals,Manchester United,Everton,4.5,4.2,1.2,1.07,Neds
+Manchester United v Everton,Total Goals,Manchester United,Everton,4.5,4.5,1.18,1.07,Neds
 Fulham v Wolverhampton Wanderers,Total Goals,Fulham,Wolverhampton Wanderers,2.5,1.67,2.1,1.07,Neds
-Manchester United v Everton,Total Goals,Manchester United,Everton,5.5,7.5,1.07,1.07,Neds
+Manchester United v Everton,Total Goals,Manchester United,Everton,5.5,8.5,1.06,1.06,Neds
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,5.5,7.5,1.07,1.07,Neds
 Newcastle United v West Ham United,Total Goals,Newcastle United,West Ham United,4.5,4.2,1.2,1.07,Neds
 Manchester City v Tottenham Hotspur,Total Goals,Manchester City,Tottenham Hotspur,4.5,3,1.35,1.07,Neds
@@ -93,7 +111,9 @@ Ipswich Town v Manchester United,Total Goals,Ipswich Town,Manchester United,5.5,
 Aston Villa v Crystal Palace,Total Goals,Aston Villa,Crystal Palace,6.5,19,NA,NA,Neds
 Brighton & Hove Albion v Southampton,Total Goals,Brighton & Hove Albion,Southampton,0.5,1.02,13,1.06,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,2.5,1.75,2,1.07,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,0.5,1.05,9,1.06,Neds
 Liverpool v Manchester City,Total Goals,Liverpool,Manchester City,0.5,1.02,13,1.06,Neds
+Wolverhampton Wanderers v Bournemouth,Total Goals,Wolverhampton Wanderers,Bournemouth,3.5,2.4,1.53,1.07,Neds
 Everton v Brentford,Total Goals,Everton,Brentford,3.5,2.8,1.4,1.07,Neds
 Brentford v Leicester City,Total Goals,Brentford,Leicester City,1.5,1.1400000000000001,5,1.08,Neds
 Fulham v Wolverhampton Wanderers,Total Goals,Fulham,Wolverhampton Wanderers,3.5,2.65,1.44,1.07,Neds
@@ -103,12 +123,13 @@ Brentford v Leicester City,Total Goals,Brentford,Leicester City,6.5,12,1.02,1.06
 Aston Villa v Crystal Palace,Total Goals,Aston Villa,Crystal Palace,0.5,1.04,11,1.05,Neds
 Aston Villa v Crystal Palace,Total Goals,Aston Villa,Crystal Palace,3.5,2.8,1.4,1.07,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,3.5,2.9,1.3599999999999999,1.08,Neds
-Manchester United v Everton,Total Goals,Manchester United,Everton,1.5,1.18,4.4,1.07,Neds
+Manchester United v Everton,Total Goals,Manchester United,Everton,1.5,1.2,4.2,1.07,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,5.5,10,1.04,1.06,Neds
 Brentford v Leicester City,Total Goals,Brentford,Leicester City,2.5,1.48,2.5,1.08,Neds
 Manchester City v Tottenham Hotspur,Total Goals,Manchester City,Tottenham Hotspur,2.5,1.3599999999999999,2.9,1.08,Neds
 Brentford v Leicester City,Total Goals,Brentford,Leicester City,5.5,6.5,1.1,1.06,Neds
-Manchester United v Everton,Total Goals,Manchester United,Everton,2.5,1.6,2.25,1.07,Neds
+Crystal Palace v Newcastle United,Total Goals,Crystal Palace,Newcastle United,3.5,3.25,1.3,1.08,Neds
+Manchester United v Everton,Total Goals,Manchester United,Everton,2.5,1.65,2.15,1.07,Neds
 Manchester United v Everton,Total Goals,Manchester United,Everton,0.5,1.02,12,1.06,Neds
 Tottenham Hotspur v Fulham,Total Goals,Tottenham Hotspur,Fulham,0.5,1.02,13,1.06,Neds
 Arsenal v Nottingham Forest,Total Goals,Arsenal,Nottingham Forest,0.5,1.04,10,1.06,Neds
