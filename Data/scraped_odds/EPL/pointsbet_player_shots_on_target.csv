@@ -1,527 +1,654 @@
 match,home_team,away_team,market_name,player_name,player_team,line,over_price,agency,opposition_team,EventKey,MarketKey,OutcomeKey
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Heung-min Son,Tottenham Hotspur,0.5,1.25,Pointsbet,Fulham,2010886,76271954,1
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Heung-min Son,Tottenham Hotspur,1.5,2.25,Pointsbet,Fulham,2010886,76271954,2
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Heung-min Son,Tottenham Hotspur,2.5,5,Pointsbet,Fulham,2010886,76271954,3
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Heung-min Son,Tottenham Hotspur,3.5,13,Pointsbet,Fulham,2010886,76271954,4
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Heung-min Son,Tottenham Hotspur,4.5,41,Pointsbet,Fulham,2010886,76271954,5
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Ben Davies,Tottenham Hotspur,0.5,4.75,Pointsbet,Fulham,2010886,76271954,7
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Ben Davies,Tottenham Hotspur,1.5,36,Pointsbet,Fulham,2010886,76271954,8
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timo Werner,Tottenham Hotspur,0.5,1.36,Pointsbet,Fulham,2010886,76271954,13
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timo Werner,Tottenham Hotspur,1.5,2.85,Pointsbet,Fulham,2010886,76271954,14
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timo Werner,Tottenham Hotspur,2.5,7.5,Pointsbet,Fulham,2010886,76271954,15
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timo Werner,Tottenham Hotspur,3.5,21,Pointsbet,Fulham,2010886,76271954,16
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timo Werner,Tottenham Hotspur,4.5,81,Pointsbet,Fulham,2010886,76271954,17
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,James Maddison,Tottenham Hotspur,0.5,1.59,Pointsbet,Fulham,2010886,76271954,19
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,James Maddison,Tottenham Hotspur,1.5,3.7,Pointsbet,Fulham,2010886,76271954,20
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,James Maddison,Tottenham Hotspur,2.5,11,Pointsbet,Fulham,2010886,76271954,21
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,James Maddison,Tottenham Hotspur,3.5,36,Pointsbet,Fulham,2010886,76271954,22
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,0.5,1.27,Pointsbet,Fulham,2010886,76271954,25
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,1.5,2.35,Pointsbet,Fulham,2010886,76271954,26
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,2.5,5.25,Pointsbet,Fulham,2010886,76271954,27
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,3.5,15,Pointsbet,Fulham,2010886,76271954,28
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,4.5,36,Pointsbet,Fulham,2010886,76271954,29
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Bentancur,Tottenham Hotspur,0.5,2.75,Pointsbet,Fulham,2010886,76271954,31
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Bentancur,Tottenham Hotspur,1.5,12,Pointsbet,Fulham,2010886,76271954,32
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Bentancur,Tottenham Hotspur,2.5,61,Pointsbet,Fulham,2010886,76271954,33
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Cristian Romero,Tottenham Hotspur,0.5,4.2,Pointsbet,Fulham,2010886,76271954,37
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Cristian Romero,Tottenham Hotspur,1.5,31,Pointsbet,Fulham,2010886,76271954,38
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Yves Bissouma,Tottenham Hotspur,0.5,3.7,Pointsbet,Fulham,2010886,76271954,43
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Yves Bissouma,Tottenham Hotspur,1.5,21,Pointsbet,Fulham,2010886,76271954,44
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Richarlison,Tottenham Hotspur,0.5,1.29,Pointsbet,Fulham,2010886,76271954,49
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Richarlison,Tottenham Hotspur,1.5,2.4,Pointsbet,Fulham,2010886,76271954,50
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Richarlison,Tottenham Hotspur,2.5,5.75,Pointsbet,Fulham,2010886,76271954,51
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Richarlison,Tottenham Hotspur,3.5,15,Pointsbet,Fulham,2010886,76271954,52
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Richarlison,Tottenham Hotspur,4.5,41,Pointsbet,Fulham,2010886,76271954,53
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pedro Porro,Tottenham Hotspur,0.5,2.5,Pointsbet,Fulham,2010886,76271954,55
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pedro Porro,Tottenham Hotspur,1.5,10,Pointsbet,Fulham,2010886,76271954,56
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pedro Porro,Tottenham Hotspur,2.5,51,Pointsbet,Fulham,2010886,76271954,57
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,0.5,1.65,Pointsbet,Fulham,2010886,76271954,61
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,1.5,4,Pointsbet,Fulham,2010886,76271954,62
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,2.5,12,Pointsbet,Fulham,2010886,76271954,63
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,3.5,41,Pointsbet,Fulham,2010886,76271954,64
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,0.5,2.6,Pointsbet,Fulham,2010886,76271954,67
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,1.5,11,Pointsbet,Fulham,2010886,76271954,68
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,2.5,51,Pointsbet,Fulham,2010886,76271954,69
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Djed Spence,Tottenham Hotspur,0.5,3.9,Pointsbet,Fulham,2010886,76271954,73
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Djed Spence,Tottenham Hotspur,1.5,23,Pointsbet,Fulham,2010886,76271954,74
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,0.5,1.36,Pointsbet,Fulham,2010886,76271954,79
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,1.5,2.75,Pointsbet,Fulham,2010886,76271954,80
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,2.5,7,Pointsbet,Fulham,2010886,76271954,81
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,3.5,20,Pointsbet,Fulham,2010886,76271954,82
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,4.5,61,Pointsbet,Fulham,2010886,76271954,83
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Radu Drăgușin,Tottenham Hotspur,0.5,4.5,Pointsbet,Fulham,2010886,76271954,85
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Radu Drăgușin,Tottenham Hotspur,1.5,31,Pointsbet,Fulham,2010886,76271954,86
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Micky van de Ven,Tottenham Hotspur,0.5,5.75,Pointsbet,Fulham,2010886,76271954,91
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Micky van de Ven,Tottenham Hotspur,1.5,51,Pointsbet,Fulham,2010886,76271954,92
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,0.5,2,Pointsbet,Fulham,2010886,76271954,97
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,1.5,6,Pointsbet,Fulham,2010886,76271954,98
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,2.5,23,Pointsbet,Fulham,2010886,76271954,99
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Destiny Udogie,Tottenham Hotspur,0.5,4.5,Pointsbet,Fulham,2010886,76271954,103
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Destiny Udogie,Tottenham Hotspur,1.5,31,Pointsbet,Fulham,2010886,76271954,104
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,0.5,1.4,Pointsbet,Fulham,2010886,76271954,109
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,1.5,2.9,Pointsbet,Fulham,2010886,76271954,110
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,2.5,7.5,Pointsbet,Fulham,2010886,76271954,111
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,3.5,21,Pointsbet,Fulham,2010886,76271954,112
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,4.5,91,Pointsbet,Fulham,2010886,76271954,113
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,0.5,2.1,Pointsbet,Fulham,2010886,76271954,115
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,1.5,7,Pointsbet,Fulham,2010886,76271954,116
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,2.5,29,Pointsbet,Fulham,2010886,76271954,117
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Moore,NA,0.5,1.59,Pointsbet,NA,2010886,76271954,121
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Moore,NA,1.5,3.6,Pointsbet,NA,2010886,76271954,122
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Moore,NA,2.5,11,Pointsbet,NA,2010886,76271954,123
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Moore,NA,3.5,36,Pointsbet,NA,2010886,76271954,124
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Andre Gray,NA,0.5,5,Pointsbet,NA,2010886,76271954,127
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Andre Gray,NA,1.5,36,Pointsbet,NA,2010886,76271954,128
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Raúl Jiménez,Fulham,0.5,1.44,Pointsbet,Tottenham Hotspur,2010886,76271954,133
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Raúl Jiménez,Fulham,1.5,3.1,Pointsbet,Tottenham Hotspur,2010886,76271954,134
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Raúl Jiménez,Fulham,2.5,8.5,Pointsbet,Tottenham Hotspur,2010886,76271954,135
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Raúl Jiménez,Fulham,3.5,26,Pointsbet,Tottenham Hotspur,2010886,76271954,136
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Raúl Jiménez,Fulham,4.5,81,Pointsbet,Tottenham Hotspur,2010886,76271954,137
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timothy Castagne,Fulham,0.5,7,Pointsbet,Tottenham Hotspur,2010886,76271954,139
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Timothy Castagne,Fulham,1.5,71,Pointsbet,Tottenham Hotspur,2010886,76271954,140
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Tom Cairney,Fulham,0.5,3.3,Pointsbet,Tottenham Hotspur,2010886,76271954,145
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Tom Cairney,Fulham,1.5,19,Pointsbet,Tottenham Hotspur,2010886,76271954,146
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Kenny Tete,Fulham,0.5,5.25,Pointsbet,Tottenham Hotspur,2010886,76271954,151
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Kenny Tete,Fulham,1.5,41,Pointsbet,Tottenham Hotspur,2010886,76271954,152
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harrison Reed,Fulham,0.5,4.75,Pointsbet,Tottenham Hotspur,2010886,76271954,157
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harrison Reed,Fulham,1.5,31,Pointsbet,Tottenham Hotspur,2010886,76271954,158
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Alex Iwobi,Fulham,0.5,2.25,Pointsbet,Tottenham Hotspur,2010886,76271954,163
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Alex Iwobi,Fulham,1.5,7.5,Pointsbet,Tottenham Hotspur,2010886,76271954,164
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Alex Iwobi,Fulham,2.5,31,Pointsbet,Tottenham Hotspur,2010886,76271954,165
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harry Wilson,Fulham,0.5,1.83,Pointsbet,Tottenham Hotspur,2010886,76271954,169
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harry Wilson,Fulham,1.5,5.25,Pointsbet,Tottenham Hotspur,2010886,76271954,170
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harry Wilson,Fulham,2.5,19,Pointsbet,Tottenham Hotspur,2010886,76271954,171
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Harry Wilson,Fulham,3.5,91,Pointsbet,Tottenham Hotspur,2010886,76271954,172
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Adama Traoré,Fulham,0.5,1.95,Pointsbet,Tottenham Hotspur,2010886,76271954,175
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Adama Traoré,Fulham,1.5,6.5,Pointsbet,Tottenham Hotspur,2010886,76271954,176
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Adama Traoré,Fulham,2.5,23,Pointsbet,Tottenham Hotspur,2010886,76271954,177
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Saša Lukić,Fulham,0.5,4.4,Pointsbet,Tottenham Hotspur,2010886,76271954,181
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Saša Lukić,Fulham,1.5,31,Pointsbet,Tottenham Hotspur,2010886,76271954,182
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Joachim Andersen,Crystal Palace,0.5,5,Pointsbet,Tottenham Hotspur,2010886,76271954,187
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Joachim Andersen,Fulham,0.5,5,Pointsbet,Tottenham Hotspur,2010886,76271954,187
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Joachim Andersen,Crystal Palace,1.5,36,Pointsbet,Tottenham Hotspur,2010886,76271954,188
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Joachim Andersen,Fulham,1.5,36,Pointsbet,Tottenham Hotspur,2010886,76271954,188
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Andreas Pereira,Fulham,0.5,2.1,Pointsbet,Tottenham Hotspur,2010886,76271954,193
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Andreas Pereira,Fulham,1.5,7,Pointsbet,Tottenham Hotspur,2010886,76271954,194
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Andreas Pereira,Fulham,2.5,29,Pointsbet,Tottenham Hotspur,2010886,76271954,195
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Sander Berge,Fulham,0.5,4,Pointsbet,Tottenham Hotspur,2010886,76271954,199
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Sander Berge,Fulham,1.5,26,Pointsbet,Tottenham Hotspur,2010886,76271954,200
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Antonee Robinson,Fulham,0.5,8,Pointsbet,Tottenham Hotspur,2010886,76271954,205
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Antonee Robinson,Fulham,1.5,101,Pointsbet,Tottenham Hotspur,2010886,76271954,206
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Issa Diop,Fulham,0.5,7,Pointsbet,Tottenham Hotspur,2010886,76271954,211
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Issa Diop,Fulham,1.5,81,Pointsbet,Tottenham Hotspur,2010886,76271954,212
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Ryan Sessegnon,Fulham,0.5,3.1,Pointsbet,Tottenham Hotspur,2010886,76271954,217
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Ryan Sessegnon,Fulham,1.5,17,Pointsbet,Tottenham Hotspur,2010886,76271954,218
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Emile Smith Rowe,Fulham,0.5,1.95,Pointsbet,Tottenham Hotspur,2010886,76271954,223
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Emile Smith Rowe,Fulham,1.5,6,Pointsbet,Tottenham Hotspur,2010886,76271954,224
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Emile Smith Rowe,Fulham,2.5,23,Pointsbet,Tottenham Hotspur,2010886,76271954,225
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Arsenal,0.5,1.83,Pointsbet,Tottenham Hotspur,2010886,76271954,229
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Fulham,0.5,1.83,Pointsbet,Tottenham Hotspur,2010886,76271954,229
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Arsenal,1.5,5,Pointsbet,Tottenham Hotspur,2010886,76271954,230
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Fulham,1.5,5,Pointsbet,Tottenham Hotspur,2010886,76271954,230
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Arsenal,2.5,17,Pointsbet,Tottenham Hotspur,2010886,76271954,231
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Fulham,2.5,17,Pointsbet,Tottenham Hotspur,2010886,76271954,231
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Arsenal,3.5,61,Pointsbet,Tottenham Hotspur,2010886,76271954,232
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Reiss Nelson,Fulham,3.5,61,Pointsbet,Tottenham Hotspur,2010886,76271954,232
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Jorge Cuenca,Fulham,0.5,4.5,Pointsbet,Tottenham Hotspur,2010886,76271954,235
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Jorge Cuenca,Fulham,1.5,31,Pointsbet,Tottenham Hotspur,2010886,76271954,236
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Calvin Bassey,Fulham,0.5,8.5,Pointsbet,Tottenham Hotspur,2010886,76271954,241
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Carlos Vinícius,Fulham,0.5,1.59,Pointsbet,Tottenham Hotspur,2010886,76271954,247
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Carlos Vinícius,Fulham,1.5,3.9,Pointsbet,Tottenham Hotspur,2010886,76271954,248
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Carlos Vinícius,Fulham,2.5,12,Pointsbet,Tottenham Hotspur,2010886,76271954,249
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Carlos Vinícius,Fulham,3.5,41,Pointsbet,Tottenham Hotspur,2010886,76271954,250
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Muniz,Fulham,0.5,1.33,Pointsbet,Tottenham Hotspur,2010886,76271954,253
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Muniz,Fulham,1.5,2.7,Pointsbet,Tottenham Hotspur,2010886,76271954,254
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Muniz,Fulham,2.5,6.5,Pointsbet,Tottenham Hotspur,2010886,76271954,255
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Muniz,Fulham,3.5,19,Pointsbet,Tottenham Hotspur,2010886,76271954,256
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,Rodrigo Muniz,Fulham,4.5,61,Pointsbet,Tottenham Hotspur,2010886,76271954,257
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Godo,NA,0.5,1.95,Pointsbet,NA,2010886,76271954,259
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Godo,NA,1.5,6,Pointsbet,NA,2010886,76271954,260
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots on Target,M. Godo,NA,2.5,23,Pointsbet,NA,2010886,76271954,261
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jonny Evans,Manchester United,0.5,6.5,Pointsbet,Everton,2010885,76273337,1
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jonny Evans,Manchester United,1.5,61,Pointsbet,Everton,2010885,76273337,2
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Christian Eriksen,Manchester United,0.5,2.25,Pointsbet,Everton,2010885,76273337,7
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Christian Eriksen,Manchester United,1.5,7.5,Pointsbet,Everton,2010885,76273337,8
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Christian Eriksen,Manchester United,2.5,29,Pointsbet,Everton,2010885,76273337,9
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Luke Shaw,Manchester United,0.5,6,Pointsbet,Everton,2010885,76273337,13
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Luke Shaw,Manchester United,1.5,51,Pointsbet,Everton,2010885,76273337,14
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Casemiro,Manchester United,0.5,2.3,Pointsbet,Everton,2010885,76273337,19
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Casemiro,Manchester United,1.5,9.5,Pointsbet,Everton,2010885,76273337,20
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Casemiro,Manchester United,2.5,36,Pointsbet,Everton,2010885,76273337,21
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Bruno Fernandes,Manchester United,0.5,1.48,Pointsbet,Everton,2010885,76273337,25
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Bruno Fernandes,Manchester United,1.5,3.4,Pointsbet,Everton,2010885,76273337,26
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Bruno Fernandes,Manchester United,2.5,9.5,Pointsbet,Everton,2010885,76273337,27
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Bruno Fernandes,Manchester United,3.5,31,Pointsbet,Everton,2010885,76273337,28
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Harry Maguire,Manchester United,0.5,3.25,Pointsbet,Everton,2010885,76273337,31
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Harry Maguire,Manchester United,1.5,16,Pointsbet,Everton,2010885,76273337,32
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Victor Lindelöf,Manchester United,0.5,9,Pointsbet,Everton,2010885,76273337,37
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Marcus Rashford,Manchester United,0.5,1.33,Pointsbet,Everton,2010885,76273337,43
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Marcus Rashford,Manchester United,1.5,2.7,Pointsbet,Everton,2010885,76273337,44
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Marcus Rashford,Manchester United,2.5,6.5,Pointsbet,Everton,2010885,76273337,45
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Marcus Rashford,Manchester United,3.5,19,Pointsbet,Everton,2010885,76273337,46
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Marcus Rashford,Manchester United,4.5,61,Pointsbet,Everton,2010885,76273337,47
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Matthijs de Ligt,Manchester United,0.5,4.2,Pointsbet,Everton,2010885,76273337,49
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Matthijs de Ligt,Manchester United,1.5,26,Pointsbet,Everton,2010885,76273337,50
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mason Mount,Manchester United,0.5,1.74,Pointsbet,Everton,2010885,76273337,55
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mason Mount,Manchester United,1.5,4.75,Pointsbet,Everton,2010885,76273337,56
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mason Mount,Manchester United,2.5,17,Pointsbet,Everton,2010885,76273337,57
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mason Mount,Manchester United,3.5,81,Pointsbet,Everton,2010885,76273337,58
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Noussair Mazraoui,Manchester United,0.5,4.5,Pointsbet,Everton,2010885,76273337,61
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Noussair Mazraoui,Manchester United,1.5,36,Pointsbet,Everton,2010885,76273337,62
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Lisandro Martínez,Manchester United,0.5,5.75,Pointsbet,Everton,2010885,76273337,67
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Lisandro Martínez,Manchester United,1.5,41,Pointsbet,Everton,2010885,76273337,68
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,T. Malacia,NA,0.5,7,Pointsbet,NA,2010885,76273337,73
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,T. Malacia,NA,1.5,61,Pointsbet,NA,2010885,76273337,74
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Diogo Dalot,Manchester United,0.5,4.5,Pointsbet,Everton,2010885,76273337,79
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Diogo Dalot,Manchester United,1.5,29,Pointsbet,Everton,2010885,76273337,80
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joshua Zirkzee,Manchester United,0.5,1.33,Pointsbet,Everton,2010885,76273337,85
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joshua Zirkzee,Manchester United,1.5,2.75,Pointsbet,Everton,2010885,76273337,86
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joshua Zirkzee,Manchester United,2.5,6.5,Pointsbet,Everton,2010885,76273337,87
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joshua Zirkzee,Manchester United,3.5,20,Pointsbet,Everton,2010885,76273337,88
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joshua Zirkzee,Manchester United,4.5,61,Pointsbet,Everton,2010885,76273337,89
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Antony,Manchester United,0.5,1.4,Pointsbet,Everton,2010885,76273337,91
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Antony,Manchester United,1.5,2.9,Pointsbet,Everton,2010885,76273337,92
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Antony,Manchester United,2.5,7.5,Pointsbet,Everton,2010885,76273337,93
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Antony,Manchester United,3.5,23,Pointsbet,Everton,2010885,76273337,94
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Antony,Manchester United,4.5,91,Pointsbet,Everton,2010885,76273337,95
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Alejandro Garnacho,Manchester United,0.5,1.31,Pointsbet,Everton,2010885,76273337,97
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Alejandro Garnacho,Manchester United,1.5,2.5,Pointsbet,Everton,2010885,76273337,98
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Alejandro Garnacho,Manchester United,2.5,6,Pointsbet,Everton,2010885,76273337,99
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Alejandro Garnacho,Manchester United,3.5,17,Pointsbet,Everton,2010885,76273337,100
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Alejandro Garnacho,Manchester United,4.5,51,Pointsbet,Everton,2010885,76273337,101
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,M. Ugarte,NA,0.5,5.25,Pointsbet,NA,2010885,76273337,103
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,M. Ugarte,NA,1.5,36,Pointsbet,NA,2010885,76273337,104
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Diallo,NA,0.5,1.67,Pointsbet,NA,2010885,76273337,109
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Diallo,NA,1.5,4,Pointsbet,NA,2010885,76273337,110
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Diallo,NA,2.5,13,Pointsbet,NA,2010885,76273337,111
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Diallo,NA,3.5,51,Pointsbet,NA,2010885,76273337,112
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Rasmus Højlund,Manchester United,0.5,1.4,Pointsbet,Everton,2010885,76273337,115
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Rasmus Højlund,Manchester United,1.5,3.1,Pointsbet,Everton,2010885,76273337,116
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Rasmus Højlund,Manchester United,2.5,9,Pointsbet,Everton,2010885,76273337,117
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Rasmus Højlund,Manchester United,3.5,29,Pointsbet,Everton,2010885,76273337,118
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Leny Yoro,Manchester United,0.5,5.25,Pointsbet,Everton,2010885,76273337,121
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Leny Yoro,Manchester United,1.5,51,Pointsbet,Everton,2010885,76273337,122
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Kobbie Mainoo,Manchester United,0.5,3.9,Pointsbet,Everton,2010885,76273337,127
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Kobbie Mainoo,Manchester United,1.5,21,Pointsbet,Everton,2010885,76273337,128
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Ashley Young,Everton,0.5,6.5,Pointsbet,Manchester United,2010885,76273337,139
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Ashley Young,Everton,1.5,61,Pointsbet,Manchester United,2010885,76273337,140
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Séamus Coleman,Everton,0.5,7.5,Pointsbet,Manchester United,2010885,76273337,145
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Séamus Coleman,Everton,1.5,81,Pointsbet,Manchester United,2010885,76273337,146
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Idrissa Gueye,Everton,0.5,4.4,Pointsbet,Manchester United,2010885,76273337,151
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Idrissa Gueye,Everton,1.5,31,Pointsbet,Manchester United,2010885,76273337,152
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Abdoulaye Doucouré,Everton,0.5,2.75,Pointsbet,Manchester United,2010885,76273337,157
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Abdoulaye Doucouré,Everton,1.5,12,Pointsbet,Manchester United,2010885,76273337,158
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Abdoulaye Doucouré,Everton,2.5,61,Pointsbet,Manchester United,2010885,76273337,159
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dele Alli,NA,0.5,2.9,Pointsbet,NA,2010885,76273337,163
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dele Alli,NA,1.5,12,Pointsbet,NA,2010885,76273337,164
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dele Alli,NA,2.5,71,Pointsbet,NA,2010885,76273337,165
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,James Tarkowski,Everton,0.5,6,Pointsbet,Manchester United,2010885,76273337,169
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,James Tarkowski,Everton,1.5,61,Pointsbet,Manchester United,2010885,76273337,170
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Michael Keane,Everton,0.5,5,Pointsbet,Manchester United,2010885,76273337,175
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Michael Keane,Everton,1.5,41,Pointsbet,Manchester United,2010885,76273337,176
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dominic Calvert-Lewin,Everton,0.5,1.59,Pointsbet,Manchester United,2010885,76273337,181
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dominic Calvert-Lewin,Everton,1.5,3.7,Pointsbet,Manchester United,2010885,76273337,182
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dominic Calvert-Lewin,Everton,2.5,11,Pointsbet,Manchester United,2010885,76273337,183
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dominic Calvert-Lewin,Everton,3.5,36,Pointsbet,Manchester United,2010885,76273337,184
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jack Harrison,Everton,0.5,2.5,Pointsbet,Manchester United,2010885,76273337,187
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jack Harrison,Everton,1.5,10,Pointsbet,Manchester United,2010885,76273337,188
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jack Harrison,Everton,2.5,51,Pointsbet,Manchester United,2010885,76273337,189
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mangala,NA,0.5,5.25,Pointsbet,NA,2010885,76273337,193
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Mangala,NA,1.5,41,Pointsbet,NA,2010885,76273337,194
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Vitaliy Mykolenko,Everton,0.5,7,Pointsbet,Manchester United,2010885,76273337,199
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Vitaliy Mykolenko,Everton,1.5,61,Pointsbet,Manchester United,2010885,76273337,200
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,James Garner,Everton,0.5,3.6,Pointsbet,Manchester United,2010885,76273337,205
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,James Garner,Everton,1.5,21,Pointsbet,Manchester United,2010885,76273337,206
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Broja,NA,0.5,1.83,Pointsbet,NA,2010885,76273337,211
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Broja,NA,1.5,6,Pointsbet,NA,2010885,76273337,212
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,A. Broja,NA,2.5,20,Pointsbet,NA,2010885,76273337,213
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dwight McNeil,Everton,0.5,2.35,Pointsbet,Manchester United,2010885,76273337,217
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dwight McNeil,Everton,1.5,9,Pointsbet,Manchester United,2010885,76273337,218
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Dwight McNeil,Everton,2.5,51,Pointsbet,Manchester United,2010885,76273337,219
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jesper Lindstrøm,Everton,0.5,2.2,Pointsbet,Manchester United,2010885,76273337,223
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jesper Lindstrøm,Everton,1.5,7.5,Pointsbet,Manchester United,2010885,76273337,224
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jesper Lindstrøm,Everton,2.5,36,Pointsbet,Manchester United,2010885,76273337,225
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Beto,Everton,0.5,1.71,Pointsbet,Manchester United,2010885,76273337,229
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Beto,Everton,1.5,4.5,Pointsbet,Manchester United,2010885,76273337,230
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Beto,Everton,2.5,15,Pointsbet,Manchester United,2010885,76273337,231
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Beto,Everton,3.5,61,Pointsbet,Manchester United,2010885,76273337,232
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,N. Patterson,NA,0.5,7.5,Pointsbet,NA,2010885,76273337,235
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,N. Patterson,NA,1.5,91,Pointsbet,NA,2010885,76273337,236
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jarrad Branthwaite,Everton,0.5,8,Pointsbet,Manchester United,2010885,76273337,241
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Jarrad Branthwaite,Everton,1.5,91,Pointsbet,Manchester United,2010885,76273337,242
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joe O'Brien,NA,0.5,5.75,Pointsbet,NA,2010885,76273337,247
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Joe O'Brien,NA,1.5,51,Pointsbet,NA,2010885,76273337,248
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Chermiti,Everton,0.5,1.87,Pointsbet,Manchester United,2010885,76273337,253
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Chermiti,Everton,1.5,5.75,Pointsbet,Manchester United,2010885,76273337,254
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Chermiti,Everton,2.5,23,Pointsbet,Manchester United,2010885,76273337,255
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Iliman Ndiaye,Everton,0.5,2.4,Pointsbet,Manchester United,2010885,76273337,259
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Iliman Ndiaye,Everton,1.5,9,Pointsbet,Manchester United,2010885,76273337,260
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Iliman Ndiaye,Everton,2.5,36,Pointsbet,Manchester United,2010885,76273337,261
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Tim Iroegbunam,Everton,0.5,3.7,Pointsbet,Manchester United,2010885,76273337,265
-Manchester United v Everton,Manchester United,Everton,Player Shots on Target,Tim Iroegbunam,Everton,1.5,21,Pointsbet,Manchester United,2010885,76273337,266
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Christopher Nkunku,Chelsea,0.5,1.27,Pointsbet,Aston Villa,2010884,76279943,1
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Christopher Nkunku,Chelsea,1.5,2.3,Pointsbet,Aston Villa,2010884,76279943,2
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Christopher Nkunku,Chelsea,2.5,5.25,Pointsbet,Aston Villa,2010884,76279943,3
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Christopher Nkunku,Chelsea,3.5,15,Pointsbet,Aston Villa,2010884,76279943,4
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Christopher Nkunku,Chelsea,4.5,41,Pointsbet,Aston Villa,2010884,76279943,5
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Axel Disasi,Chelsea,0.5,4.5,Pointsbet,Aston Villa,2010884,76279943,7
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Axel Disasi,Chelsea,1.5,29,Pointsbet,Aston Villa,2010884,76279943,8
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Chilwell,NA,0.5,3.25,Pointsbet,NA,2010884,76279943,13
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Chilwell,NA,1.5,17,Pointsbet,NA,2010884,76279943,14
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Tosin Adarabioyo,Chelsea,0.5,4.4,Pointsbet,Aston Villa,2010884,76279943,19
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Tosin Adarabioyo,Chelsea,1.5,29,Pointsbet,Aston Villa,2010884,76279943,20
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Reece James,Chelsea,0.5,2.7,Pointsbet,Aston Villa,2010884,76279943,25
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Reece James,Chelsea,1.5,11,Pointsbet,Aston Villa,2010884,76279943,26
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Reece James,Chelsea,2.5,61,Pointsbet,Aston Villa,2010884,76279943,27
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,0.5,2,Pointsbet,Aston Villa,2010884,76279943,31
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,1.5,7,Pointsbet,Aston Villa,2010884,76279943,32
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,2.5,29,Pointsbet,Aston Villa,2010884,76279943,33
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jadon Sancho,Manchester United,0.5,2.3,Pointsbet,Chelsea,2010884,76279943,37
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jadon Sancho,Manchester United,1.5,9.5,Pointsbet,Chelsea,2010884,76279943,38
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jadon Sancho,Manchester United,2.5,41,Pointsbet,Chelsea,2010884,76279943,39
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,João Félix,Chelsea,0.5,1.33,Pointsbet,Aston Villa,2010884,76279943,43
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,João Félix,Chelsea,1.5,2.75,Pointsbet,Aston Villa,2010884,76279943,44
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,João Félix,Chelsea,2.5,7,Pointsbet,Aston Villa,2010884,76279943,45
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,João Félix,Chelsea,3.5,21,Pointsbet,Aston Villa,2010884,76279943,46
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,João Félix,Chelsea,4.5,81,Pointsbet,Aston Villa,2010884,76279943,47
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Cucurella,Chelsea,0.5,9,Pointsbet,Aston Villa,2010884,76279943,49
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Pedro Neto,Chelsea,0.5,1.71,Pointsbet,Aston Villa,2010884,76279943,55
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Pedro Neto,Chelsea,1.5,4.5,Pointsbet,Aston Villa,2010884,76279943,56
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Pedro Neto,Chelsea,2.5,15,Pointsbet,Aston Villa,2010884,76279943,57
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Pedro Neto,Chelsea,3.5,71,Pointsbet,Aston Villa,2010884,76279943,58
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Benoît Badiashile,Chelsea,0.5,4.5,Pointsbet,Aston Villa,2010884,76279943,61
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Benoît Badiashile,Chelsea,1.5,36,Pointsbet,Aston Villa,2010884,76279943,62
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Noni Madueke,Chelsea,0.5,1.4,Pointsbet,Aston Villa,2010884,76279943,67
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Noni Madueke,Chelsea,1.5,3,Pointsbet,Aston Villa,2010884,76279943,68
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Noni Madueke,Chelsea,2.5,9,Pointsbet,Aston Villa,2010884,76279943,69
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Noni Madueke,Chelsea,3.5,23,Pointsbet,Aston Villa,2010884,76279943,70
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mykhailo Mudryk,NA,0.5,1.74,Pointsbet,NA,2010884,76279943,73
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mykhailo Mudryk,NA,1.5,4.5,Pointsbet,NA,2010884,76279943,74
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mykhailo Mudryk,NA,2.5,16,Pointsbet,NA,2010884,76279943,75
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mykhailo Mudryk,NA,3.5,71,Pointsbet,NA,2010884,76279943,76
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Cole Palmer,Chelsea,0.5,1.24,Pointsbet,Aston Villa,2010884,76279943,79
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Cole Palmer,Chelsea,1.5,2.2,Pointsbet,Aston Villa,2010884,76279943,80
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Cole Palmer,Chelsea,2.5,4.75,Pointsbet,Aston Villa,2010884,76279943,81
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Cole Palmer,Chelsea,3.5,12,Pointsbet,Aston Villa,2010884,76279943,82
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Cole Palmer,Chelsea,4.5,41,Pointsbet,Aston Villa,2010884,76279943,83
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Enzo Fernández,Chelsea,0.5,2.3,Pointsbet,Aston Villa,2010884,76279943,85
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Enzo Fernández,Chelsea,1.5,8.5,Pointsbet,Aston Villa,2010884,76279943,86
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Enzo Fernández,Chelsea,2.5,41,Pointsbet,Aston Villa,2010884,76279943,87
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Moisés Caicedo,Chelsea,0.5,4.75,Pointsbet,Aston Villa,2010884,76279943,91
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Moisés Caicedo,Chelsea,1.5,41,Pointsbet,Aston Villa,2010884,76279943,92
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Wesley Fofana,Chelsea,0.5,6.5,Pointsbet,Aston Villa,2010884,76279943,97
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Wesley Fofana,Chelsea,1.5,61,Pointsbet,Aston Villa,2010884,76279943,98
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Levi Colwill,Chelsea,0.5,5.75,Pointsbet,Aston Villa,2010884,76279943,103
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Levi Colwill,Chelsea,1.5,51,Pointsbet,Aston Villa,2010884,76279943,104
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Malo Gusto,Chelsea,0.5,4.2,Pointsbet,Aston Villa,2010884,76279943,109
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Malo Gusto,Chelsea,1.5,29,Pointsbet,Aston Villa,2010884,76279943,110
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,C. Casadei,NA,0.5,2.35,Pointsbet,NA,2010884,76279943,115
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,C. Casadei,NA,1.5,9,Pointsbet,NA,2010884,76279943,116
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,C. Casadei,NA,2.5,41,Pointsbet,NA,2010884,76279943,117
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Nicolas Jackson,Chelsea,0.5,1.36,Pointsbet,Aston Villa,2010884,76279943,121
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Nicolas Jackson,Chelsea,1.5,2.75,Pointsbet,Aston Villa,2010884,76279943,122
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Nicolas Jackson,Chelsea,2.5,7,Pointsbet,Aston Villa,2010884,76279943,123
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Nicolas Jackson,Chelsea,3.5,23,Pointsbet,Aston Villa,2010884,76279943,124
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Nicolas Jackson,Chelsea,4.5,91,Pointsbet,Aston Villa,2010884,76279943,125
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Carney Chukwuemeka,Chelsea,0.5,2.2,Pointsbet,Aston Villa,2010884,76279943,127
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Carney Chukwuemeka,Chelsea,1.5,7.5,Pointsbet,Aston Villa,2010884,76279943,128
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Carney Chukwuemeka,Chelsea,2.5,36,Pointsbet,Aston Villa,2010884,76279943,129
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Roméo Lavia,Chelsea,0.5,4.75,Pointsbet,Aston Villa,2010884,76279943,133
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Roméo Lavia,Chelsea,1.5,36,Pointsbet,Aston Villa,2010884,76279943,134
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Renato Veiga,Chelsea,0.5,3.6,Pointsbet,Aston Villa,2010884,76279943,139
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Renato Veiga,Chelsea,1.5,20,Pointsbet,Aston Villa,2010884,76279943,140
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Guiu,Chelsea,0.5,1.29,Pointsbet,Aston Villa,2010884,76279943,145
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Guiu,Chelsea,1.5,2.4,Pointsbet,Aston Villa,2010884,76279943,146
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Guiu,Chelsea,2.5,5.75,Pointsbet,Aston Villa,2010884,76279943,147
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Guiu,Chelsea,3.5,16,Pointsbet,Aston Villa,2010884,76279943,148
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Marc Guiu,Chelsea,4.5,51,Pointsbet,Aston Villa,2010884,76279943,149
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,O. Kellyman,NA,0.5,1.63,Pointsbet,NA,2010884,76279943,151
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,O. Kellyman,NA,1.5,3.9,Pointsbet,NA,2010884,76279943,152
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,O. Kellyman,NA,2.5,12,Pointsbet,NA,2010884,76279943,153
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,O. Kellyman,NA,3.5,36,Pointsbet,NA,2010884,76279943,154
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Lucas Digne,Aston Villa,0.5,6.5,Pointsbet,Chelsea,2010884,76279943,157
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Lucas Digne,Aston Villa,1.5,81,Pointsbet,Chelsea,2010884,76279943,158
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ross Barkley,Aston Villa,0.5,2.3,Pointsbet,Chelsea,2010884,76279943,163
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ross Barkley,Aston Villa,1.5,7.5,Pointsbet,Chelsea,2010884,76279943,164
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ross Barkley,Aston Villa,2.5,36,Pointsbet,Chelsea,2010884,76279943,165
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Youri Tielemans,Aston Villa,0.5,3.25,Pointsbet,Chelsea,2010884,76279943,169
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Youri Tielemans,Aston Villa,1.5,16,Pointsbet,Chelsea,2010884,76279943,170
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Youri Tielemans,Aston Villa,2.5,91,Pointsbet,Chelsea,2010884,76279943,171
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,John McGinn,Aston Villa,0.5,2.7,Pointsbet,Chelsea,2010884,76279943,175
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,John McGinn,Aston Villa,1.5,12,Pointsbet,Chelsea,2010884,76279943,176
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,John McGinn,Aston Villa,2.5,61,Pointsbet,Chelsea,2010884,76279943,177
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kortney Hause,Aston Villa,0.5,6,Pointsbet,Chelsea,2010884,76279943,181
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kortney Hause,Aston Villa,1.5,51,Pointsbet,Chelsea,2010884,76279943,182
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mings,NA,0.5,7.5,Pointsbet,NA,2010884,76279943,187
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Mings,NA,1.5,91,Pointsbet,NA,2010884,76279943,188
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Diego Carlos,Aston Villa,0.5,6,Pointsbet,Chelsea,2010884,76279943,193
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Diego Carlos,Aston Villa,1.5,61,Pointsbet,Chelsea,2010884,76279943,194
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ollie Watkins,Aston Villa,0.5,1.5,Pointsbet,Chelsea,2010884,76279943,199
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ollie Watkins,Aston Villa,1.5,3.4,Pointsbet,Chelsea,2010884,76279943,200
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ollie Watkins,Aston Villa,2.5,9.5,Pointsbet,Chelsea,2010884,76279943,201
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ollie Watkins,Aston Villa,3.5,29,Pointsbet,Chelsea,2010884,76279943,202
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Emiliano Buendía,Aston Villa,0.5,2.1,Pointsbet,Chelsea,2010884,76279943,205
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Emiliano Buendía,Aston Villa,1.5,7,Pointsbet,Chelsea,2010884,76279943,206
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Emiliano Buendía,Aston Villa,2.5,29,Pointsbet,Chelsea,2010884,76279943,207
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Leon Bailey,Aston Villa,0.5,1.9,Pointsbet,Chelsea,2010884,76279943,211
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Leon Bailey,Aston Villa,1.5,6,Pointsbet,Chelsea,2010884,76279943,212
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Leon Bailey,Aston Villa,2.5,23,Pointsbet,Chelsea,2010884,76279943,213
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ezri Konsa,Aston Villa,0.5,7.5,Pointsbet,Chelsea,2010884,76279943,217
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ezri Konsa,Aston Villa,1.5,81,Pointsbet,Chelsea,2010884,76279943,218
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Matty Cash,Aston Villa,0.5,4.2,Pointsbet,Chelsea,2010884,76279943,223
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Matty Cash,Aston Villa,1.5,26,Pointsbet,Chelsea,2010884,76279943,224
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,B. Kamara,NA,0.5,7.5,Pointsbet,NA,2010884,76279943,229
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,B. Kamara,NA,1.5,71,Pointsbet,NA,2010884,76279943,230
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Pau Torres,Aston Villa,0.5,9.5,Pointsbet,Chelsea,2010884,76279943,235
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Morgan Rogers,Aston Villa,0.5,1.95,Pointsbet,Chelsea,2010884,76279943,241
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Morgan Rogers,Aston Villa,1.5,6,Pointsbet,Chelsea,2010884,76279943,242
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Morgan Rogers,Aston Villa,2.5,23,Pointsbet,Chelsea,2010884,76279943,243
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jacob Ramsey,Aston Villa,0.5,2.4,Pointsbet,Chelsea,2010884,76279943,247
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jacob Ramsey,Aston Villa,1.5,9.5,Pointsbet,Chelsea,2010884,76279943,248
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jacob Ramsey,Aston Villa,2.5,51,Pointsbet,Chelsea,2010884,76279943,249
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Amadou Onana,Aston Villa,0.5,3.4,Pointsbet,Chelsea,2010884,76279943,253
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Amadou Onana,Aston Villa,1.5,19,Pointsbet,Chelsea,2010884,76279943,254
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ian Maatsen,Aston Villa,0.5,5,Pointsbet,Chelsea,2010884,76279943,259
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Ian Maatsen,Aston Villa,1.5,36,Pointsbet,Chelsea,2010884,76279943,260
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jhon Durán,Aston Villa,0.5,1.36,Pointsbet,Chelsea,2010884,76279943,265
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jhon Durán,Aston Villa,1.5,2.75,Pointsbet,Chelsea,2010884,76279943,266
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jhon Durán,Aston Villa,2.5,7,Pointsbet,Chelsea,2010884,76279943,267
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jhon Durán,Aston Villa,3.5,20,Pointsbet,Chelsea,2010884,76279943,268
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jhon Durán,Aston Villa,4.5,61,Pointsbet,Chelsea,2010884,76279943,269
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jaden Philogene,Aston Villa,0.5,1.71,Pointsbet,Chelsea,2010884,76279943,271
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jaden Philogene,Aston Villa,1.5,4.4,Pointsbet,Chelsea,2010884,76279943,272
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jaden Philogene,Aston Villa,2.5,15,Pointsbet,Chelsea,2010884,76279943,273
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Jaden Philogene,Aston Villa,3.5,51,Pointsbet,Chelsea,2010884,76279943,274
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,S. Swinkels,NA,0.5,7,Pointsbet,NA,2010884,76279943,277
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,S. Swinkels,NA,1.5,61,Pointsbet,NA,2010884,76279943,278
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Lamare Bogarde,Aston Villa,0.5,7.5,Pointsbet,Chelsea,2010884,76279943,283
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Lamare Bogarde,Aston Villa,1.5,91,Pointsbet,Chelsea,2010884,76279943,284
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kosta Nedeljkovic,Aston Villa,0.5,7,Pointsbet,Chelsea,2010884,76279943,289
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots on Target,Kosta Nedeljkovic,Aston Villa,1.5,71,Pointsbet,Chelsea,2010884,76279943,290
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mohamed Salah,Liverpool,0.5,1.33,Pointsbet,Manchester City,2010976,76271019,1
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mohamed Salah,Liverpool,1.5,2.55,Pointsbet,Manchester City,2010976,76271019,2
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mohamed Salah,Liverpool,2.5,6.5,Pointsbet,Manchester City,2010976,76271019,3
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mohamed Salah,Liverpool,3.5,20,Pointsbet,Manchester City,2010976,76271019,4
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mohamed Salah,Liverpool,4.5,61,Pointsbet,Manchester City,2010976,76271019,5
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Virgil van Dijk,Liverpool,0.5,4,Pointsbet,Manchester City,2010976,76271019,7
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Virgil van Dijk,Liverpool,1.5,23,Pointsbet,Manchester City,2010976,76271019,8
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Andrew Robertson,Liverpool,0.5,5.75,Pointsbet,Manchester City,2010976,76271019,13
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Andrew Robertson,Liverpool,1.5,61,Pointsbet,Manchester City,2010976,76271019,14
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Joe Gomez,Liverpool,0.5,5.75,Pointsbet,Manchester City,2010976,76271019,19
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Joe Gomez,Liverpool,1.5,51,Pointsbet,Manchester City,2010976,76271019,20
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Diogo Jota,Liverpool,0.5,1.56,Pointsbet,Manchester City,2010976,76271019,25
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Diogo Jota,Liverpool,1.5,3.6,Pointsbet,Manchester City,2010976,76271019,26
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Diogo Jota,Liverpool,2.5,10.5,Pointsbet,Manchester City,2010976,76271019,27
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Diogo Jota,Liverpool,3.5,36,Pointsbet,Manchester City,2010976,76271019,28
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Konstantinos Tsimikas,Liverpool,0.5,5.75,Pointsbet,Manchester City,2010976,76271019,31
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Konstantinos Tsimikas,Liverpool,1.5,51,Pointsbet,Manchester City,2010976,76271019,32
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Trent Alexander-Arnold,Liverpool,0.5,3.4,Pointsbet,Manchester City,2010976,76271019,37
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Trent Alexander-Arnold,Liverpool,1.5,19,Pointsbet,Manchester City,2010976,76271019,38
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Wataru Endo,Liverpool,0.5,4.4,Pointsbet,Manchester City,2010976,76271019,43
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Wataru Endo,Liverpool,1.5,29,Pointsbet,Manchester City,2010976,76271019,44
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Chiesa,NA,0.5,1.42,Pointsbet,NA,2010976,76271019,49
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Chiesa,NA,1.5,3.1,Pointsbet,NA,2010976,76271019,50
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Chiesa,NA,2.5,8.5,Pointsbet,NA,2010976,76271019,51
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Chiesa,NA,3.5,26,Pointsbet,NA,2010976,76271019,52
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Chiesa,NA,4.5,91,Pointsbet,NA,2010976,76271019,53
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ibrahima Konaté,Liverpool,0.5,6,Pointsbet,Manchester City,2010976,76271019,55
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ibrahima Konaté,Liverpool,1.5,61,Pointsbet,Manchester City,2010976,76271019,56
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Cody Gakpo,Liverpool,0.5,1.63,Pointsbet,Manchester City,2010976,76271019,61
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Cody Gakpo,Liverpool,1.5,4,Pointsbet,Manchester City,2010976,76271019,62
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Cody Gakpo,Liverpool,2.5,12,Pointsbet,Manchester City,2010976,76271019,63
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Cody Gakpo,Liverpool,3.5,51,Pointsbet,Manchester City,2010976,76271019,64
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Dominik Szoboszlai,Liverpool,0.5,1.9,Pointsbet,Manchester City,2010976,76271019,67
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Dominik Szoboszlai,Liverpool,1.5,6.5,Pointsbet,Manchester City,2010976,76271019,68
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Dominik Szoboszlai,Liverpool,2.5,23,Pointsbet,Manchester City,2010976,76271019,69
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Alexis Mac Allister,Liverpool,0.5,3.1,Pointsbet,Manchester City,2010976,76271019,73
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Alexis Mac Allister,Liverpool,1.5,16,Pointsbet,Manchester City,2010976,76271019,74
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Alexis Mac Allister,Liverpool,2.5,101,Pointsbet,Manchester City,2010976,76271019,75
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Luis Díaz,Liverpool,0.5,1.65,Pointsbet,Manchester City,2010976,76271019,79
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Luis Díaz,Liverpool,1.5,4.2,Pointsbet,Manchester City,2010976,76271019,80
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Luis Díaz,Liverpool,2.5,13,Pointsbet,Manchester City,2010976,76271019,81
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Luis Díaz,Liverpool,3.5,41,Pointsbet,Manchester City,2010976,76271019,82
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Curtis Jones,Liverpool,0.5,2.4,Pointsbet,Manchester City,2010976,76271019,85
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Curtis Jones,Liverpool,1.5,9,Pointsbet,Manchester City,2010976,76271019,86
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Curtis Jones,Liverpool,2.5,41,Pointsbet,Manchester City,2010976,76271019,87
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ryan Gravenberch,Liverpool,0.5,3.3,Pointsbet,Manchester City,2010976,76271019,91
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ryan Gravenberch,Liverpool,1.5,19,Pointsbet,Manchester City,2010976,76271019,92
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Darwin Núñez,Liverpool,0.5,1.29,Pointsbet,Manchester City,2010976,76271019,97
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Darwin Núñez,Liverpool,1.5,2.35,Pointsbet,Manchester City,2010976,76271019,98
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Darwin Núñez,Liverpool,2.5,5.25,Pointsbet,Manchester City,2010976,76271019,99
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Darwin Núñez,Liverpool,3.5,13,Pointsbet,Manchester City,2010976,76271019,100
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Darwin Núñez,Liverpool,4.5,36,Pointsbet,Manchester City,2010976,76271019,101
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Harvey Elliott,Liverpool,0.5,1.83,Pointsbet,Manchester City,2010976,76271019,103
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Harvey Elliott,Liverpool,1.5,5.25,Pointsbet,Manchester City,2010976,76271019,104
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Harvey Elliott,Liverpool,2.5,21,Pointsbet,Manchester City,2010976,76271019,105
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Harvey Elliott,Liverpool,3.5,91,Pointsbet,Manchester City,2010976,76271019,106
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jarell Quansah,Liverpool,0.5,7.5,Pointsbet,Manchester City,2010976,76271019,115
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Conor Bradley,Liverpool,0.5,3.7,Pointsbet,Manchester City,2010976,76271019,121
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Conor Bradley,Liverpool,1.5,23,Pointsbet,Manchester City,2010976,76271019,122
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Tyler Morton,NA,0.5,4.4,Pointsbet,NA,2010976,76271019,127
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Tyler Morton,NA,1.5,29,Pointsbet,NA,2010976,76271019,128
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kyle Walker,Manchester City,0.5,7.5,Pointsbet,Liverpool,2010976,76271019,133
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kyle Walker,Manchester City,1.5,81,Pointsbet,Liverpool,2010976,76271019,134
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,0.5,2.35,Pointsbet,Liverpool,2010976,76271019,139
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,1.5,9.5,Pointsbet,Liverpool,2010976,76271019,140
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,2.5,41,Pointsbet,Liverpool,2010976,76271019,141
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mateo Kovacic,Manchester City,0.5,3.6,Pointsbet,Liverpool,2010976,76271019,145
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Mateo Kovacic,Manchester City,1.5,20,Pointsbet,Liverpool,2010976,76271019,146
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,0.5,1.48,Pointsbet,Liverpool,2010976,76271019,151
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,1.5,3.3,Pointsbet,Liverpool,2010976,76271019,152
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,2.5,9.5,Pointsbet,Liverpool,2010976,76271019,153
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,3.5,29,Pointsbet,Liverpool,2010976,76271019,154
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Nathan Aké,Manchester City,0.5,5.25,Pointsbet,Liverpool,2010976,76271019,157
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Nathan Aké,Manchester City,1.5,41,Pointsbet,Liverpool,2010976,76271019,158
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,John Stones,Manchester City,0.5,5.75,Pointsbet,Liverpool,2010976,76271019,163
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,John Stones,Manchester City,1.5,41,Pointsbet,Liverpool,2010976,76271019,164
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,0.5,2.4,Pointsbet,Liverpool,2010976,76271019,169
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,1.5,10,Pointsbet,Liverpool,2010976,76271019,170
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,2.5,51,Pointsbet,Liverpool,2010976,76271019,171
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,0.5,2.5,Pointsbet,Liverpool,2010976,76271019,175
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,1.5,10,Pointsbet,Liverpool,2010976,76271019,176
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,2.5,51,Pointsbet,Liverpool,2010976,76271019,177
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Manuel Akanji,Manchester City,0.5,6.5,Pointsbet,Liverpool,2010976,76271019,181
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Manuel Akanji,Manchester City,1.5,61,Pointsbet,Liverpool,2010976,76271019,182
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rodri,Manchester City,0.5,3.25,Pointsbet,Liverpool,2010976,76271019,187
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rodri,Manchester City,1.5,16,Pointsbet,Liverpool,2010976,76271019,188
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rúben Dias,Manchester City,0.5,5.75,Pointsbet,Liverpool,2010976,76271019,193
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rúben Dias,Manchester City,1.5,51,Pointsbet,Liverpool,2010976,76271019,194
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,0.5,1.27,Pointsbet,Liverpool,2010976,76271019,199
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,1.5,2.25,Pointsbet,Liverpool,2010976,76271019,200
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,2.5,4.75,Pointsbet,Liverpool,2010976,76271019,201
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,3.5,12,Pointsbet,Liverpool,2010976,76271019,202
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,4.5,36,Pointsbet,Liverpool,2010976,76271019,203
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Phil Foden,Manchester City,0.5,1.53,Pointsbet,Liverpool,2010976,76271019,205
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Phil Foden,Manchester City,1.5,3.4,Pointsbet,Liverpool,2010976,76271019,206
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Phil Foden,Manchester City,2.5,10,Pointsbet,Liverpool,2010976,76271019,207
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Phil Foden,Manchester City,3.5,29,Pointsbet,Liverpool,2010976,76271019,208
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,0.5,2.2,Pointsbet,Liverpool,2010976,76271019,211
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,1.5,7.5,Pointsbet,Liverpool,2010976,76271019,212
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,2.5,36,Pointsbet,Liverpool,2010976,76271019,213
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ben Knight,NA,0.5,1.53,Pointsbet,NA,2010976,76271019,217
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ben Knight,NA,1.5,3.4,Pointsbet,NA,2010976,76271019,218
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ben Knight,NA,2.5,10.5,Pointsbet,NA,2010976,76271019,219
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Ben Knight,NA,3.5,36,Pointsbet,NA,2010976,76271019,220
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,0.5,1.9,Pointsbet,Liverpool,2010976,76271019,223
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,1.5,6,Pointsbet,Liverpool,2010976,76271019,224
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,2.5,21,Pointsbet,Liverpool,2010976,76271019,225
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,3.5,81,Pointsbet,Liverpool,2010976,76271019,226
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Josh Wilson-Esbrand,Manchester City,0.5,4,Pointsbet,Liverpool,2010976,76271019,229
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Josh Wilson-Esbrand,Manchester City,1.5,26,Pointsbet,Liverpool,2010976,76271019,230
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Josko Gvardiol,Manchester City,0.5,4.2,Pointsbet,Liverpool,2010976,76271019,235
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Josko Gvardiol,Manchester City,1.5,29,Pointsbet,Liverpool,2010976,76271019,236
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,0.5,2.5,Pointsbet,Liverpool,2010976,76271019,241
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,1.5,10,Pointsbet,Liverpool,2010976,76271019,242
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,2.5,51,Pointsbet,Liverpool,2010976,76271019,243
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,James McAtee,Manchester City,0.5,1.83,Pointsbet,Liverpool,2010976,76271019,247
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,James McAtee,Manchester City,1.5,5.75,Pointsbet,Liverpool,2010976,76271019,248
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,James McAtee,Manchester City,2.5,19,Pointsbet,Liverpool,2010976,76271019,249
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,James McAtee,Manchester City,3.5,81,Pointsbet,Liverpool,2010976,76271019,250
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Savinho,Manchester City,0.5,1.9,Pointsbet,Liverpool,2010976,76271019,253
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Savinho,Manchester City,1.5,6,Pointsbet,Liverpool,2010976,76271019,254
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Savinho,Manchester City,2.5,21,Pointsbet,Liverpool,2010976,76271019,255
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rico Lewis,Manchester City,0.5,4.75,Pointsbet,Liverpool,2010976,76271019,259
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Rico Lewis,Manchester City,1.5,36,Pointsbet,Liverpool,2010976,76271019,260
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,0.5,2.85,Pointsbet,Liverpool,2010976,76271019,265
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,1.5,12,Pointsbet,Liverpool,2010976,76271019,266
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,2.5,81,Pointsbet,Liverpool,2010976,76271019,267
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lucas Digne,Aston Villa,0.5,4.75,Pointsbet,Southampton,2017059,76637339,1
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lucas Digne,Aston Villa,1.5,36,Pointsbet,Southampton,2017059,76637339,2
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Barkley,Aston Villa,0.5,1.69,Pointsbet,Southampton,2017059,76637339,7
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Barkley,Aston Villa,1.5,4.4,Pointsbet,Southampton,2017059,76637339,8
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Barkley,Aston Villa,2.5,13,Pointsbet,Southampton,2017059,76637339,9
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Barkley,Aston Villa,3.5,61,Pointsbet,Southampton,2017059,76637339,10
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Youri Tielemans,Aston Villa,0.5,2.25,Pointsbet,Southampton,2017059,76637339,13
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Youri Tielemans,Aston Villa,1.5,8.5,Pointsbet,Southampton,2017059,76637339,14
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Youri Tielemans,Aston Villa,2.5,36,Pointsbet,Southampton,2017059,76637339,15
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,John McGinn,Aston Villa,0.5,1.95,Pointsbet,Southampton,2017059,76637339,19
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,John McGinn,Aston Villa,1.5,6.5,Pointsbet,Southampton,2017059,76637339,20
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,John McGinn,Aston Villa,2.5,23,Pointsbet,Southampton,2017059,76637339,21
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kortney Hause,Aston Villa,0.5,4,Pointsbet,Southampton,2017059,76637339,25
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kortney Hause,Aston Villa,1.5,26,Pointsbet,Southampton,2017059,76637339,26
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Mings,NA,0.5,4.75,Pointsbet,NA,2017059,76637339,31
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Mings,NA,1.5,36,Pointsbet,NA,2017059,76637339,32
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Diego Carlos,Aston Villa,0.5,4.4,Pointsbet,Southampton,2017059,76637339,37
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Diego Carlos,Aston Villa,1.5,29,Pointsbet,Southampton,2017059,76637339,38
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,0.5,1.16,Pointsbet,Southampton,2017059,76637339,43
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,1.5,1.8,Pointsbet,Southampton,2017059,76637339,44
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,2.5,3.6,Pointsbet,Southampton,2017059,76637339,45
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,3.5,8.5,Pointsbet,Southampton,2017059,76637339,46
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,4.5,21,Pointsbet,Southampton,2017059,76637339,47
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ollie Watkins,Aston Villa,5.5,61,Pointsbet,Southampton,2017059,76637339,48
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Emiliano Buendía,Aston Villa,0.5,1.56,Pointsbet,Southampton,2017059,76637339,49
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Emiliano Buendía,Aston Villa,1.5,3.7,Pointsbet,Southampton,2017059,76637339,50
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Emiliano Buendía,Aston Villa,2.5,11,Pointsbet,Southampton,2017059,76637339,51
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Emiliano Buendía,Aston Villa,3.5,36,Pointsbet,Southampton,2017059,76637339,52
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Leon Bailey,Aston Villa,0.5,1.44,Pointsbet,Southampton,2017059,76637339,55
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Leon Bailey,Aston Villa,1.5,3.1,Pointsbet,Southampton,2017059,76637339,56
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Leon Bailey,Aston Villa,2.5,9,Pointsbet,Southampton,2017059,76637339,57
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Leon Bailey,Aston Villa,3.5,29,Pointsbet,Southampton,2017059,76637339,58
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ezri Konsa,Aston Villa,0.5,4.75,Pointsbet,Southampton,2017059,76637339,61
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ezri Konsa,Aston Villa,1.5,36,Pointsbet,Southampton,2017059,76637339,62
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Matty Cash,Aston Villa,0.5,2.85,Pointsbet,Southampton,2017059,76637339,67
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Matty Cash,Aston Villa,1.5,12,Pointsbet,Southampton,2017059,76637339,68
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Matty Cash,Aston Villa,2.5,71,Pointsbet,Southampton,2017059,76637339,69
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,B. Kamara,NA,0.5,4.75,Pointsbet,NA,2017059,76637339,73
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,B. Kamara,NA,1.5,31,Pointsbet,NA,2017059,76637339,74
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Pau Torres,Aston Villa,0.5,6,Pointsbet,Southampton,2017059,76637339,79
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Pau Torres,Aston Villa,1.5,61,Pointsbet,Southampton,2017059,76637339,80
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Morgan Rogers,Aston Villa,0.5,1.4,Pointsbet,Southampton,2017059,76637339,85
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Morgan Rogers,Aston Villa,1.5,3,Pointsbet,Southampton,2017059,76637339,86
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Morgan Rogers,Aston Villa,2.5,7.5,Pointsbet,Southampton,2017059,76637339,87
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Morgan Rogers,Aston Villa,3.5,26,Pointsbet,Southampton,2017059,76637339,88
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Morgan Rogers,Aston Villa,4.5,91,Pointsbet,Southampton,2017059,76637339,89
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jacob Ramsey,Aston Villa,0.5,1.74,Pointsbet,Southampton,2017059,76637339,91
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jacob Ramsey,Aston Villa,1.5,4.75,Pointsbet,Southampton,2017059,76637339,92
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jacob Ramsey,Aston Villa,2.5,16,Pointsbet,Southampton,2017059,76637339,93
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jacob Ramsey,Aston Villa,3.5,61,Pointsbet,Southampton,2017059,76637339,94
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Amadou Onana,Aston Villa,0.5,2.35,Pointsbet,Southampton,2017059,76637339,97
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Amadou Onana,Aston Villa,1.5,9.5,Pointsbet,Southampton,2017059,76637339,98
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Amadou Onana,Aston Villa,2.5,36,Pointsbet,Southampton,2017059,76637339,99
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ian Maatsen,Aston Villa,0.5,3.3,Pointsbet,Southampton,2017059,76637339,103
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ian Maatsen,Aston Villa,1.5,17,Pointsbet,Southampton,2017059,76637339,104
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,0.5,1.13,Pointsbet,Southampton,2017059,76637339,109
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,1.5,1.67,Pointsbet,Southampton,2017059,76637339,110
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,2.5,3,Pointsbet,Southampton,2017059,76637339,111
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,3.5,6.5,Pointsbet,Southampton,2017059,76637339,112
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,4.5,16,Pointsbet,Southampton,2017059,76637339,113
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jhon Durán,Aston Villa,5.5,41,Pointsbet,Southampton,2017059,76637339,114
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jaden Philogene,Aston Villa,0.5,1.29,Pointsbet,Southampton,2017059,76637339,115
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jaden Philogene,Aston Villa,1.5,2.5,Pointsbet,Southampton,2017059,76637339,116
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jaden Philogene,Aston Villa,2.5,5.75,Pointsbet,Southampton,2017059,76637339,117
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jaden Philogene,Aston Villa,3.5,16,Pointsbet,Southampton,2017059,76637339,118
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jaden Philogene,Aston Villa,4.5,61,Pointsbet,Southampton,2017059,76637339,119
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,S. Swinkels,NA,0.5,4.75,Pointsbet,NA,2017059,76637339,121
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,S. Swinkels,NA,1.5,36,Pointsbet,NA,2017059,76637339,122
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lamare Bogarde,Aston Villa,0.5,5,Pointsbet,Southampton,2017059,76637339,127
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lamare Bogarde,Aston Villa,1.5,41,Pointsbet,Southampton,2017059,76637339,128
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kosta Nedeljkovic,Aston Villa,0.5,4.5,Pointsbet,Southampton,2017059,76637339,133
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kosta Nedeljkovic,Aston Villa,1.5,36,Pointsbet,Southampton,2017059,76637339,134
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Lallana,Southampton,0.5,3.4,Pointsbet,Aston Villa,2017059,76637339,139
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Lallana,Southampton,1.5,19,Pointsbet,Aston Villa,2017059,76637339,140
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jack Stephens,Southampton,0.5,12,Pointsbet,Aston Villa,2017059,76637339,145
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Paul Onuachu,Southampton,0.5,1.83,Pointsbet,Aston Villa,2017059,76637339,151
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Paul Onuachu,Southampton,1.5,5,Pointsbet,Aston Villa,2017059,76637339,152
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Paul Onuachu,Southampton,2.5,20,Pointsbet,Aston Villa,2017059,76637339,153
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Paul Onuachu,Southampton,3.5,91,Pointsbet,Aston Villa,2017059,76637339,154
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Charlie Taylor,Southampton,0.5,11,Pointsbet,Aston Villa,2017059,76637339,157
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Fraser,NA,0.5,2.3,Pointsbet,NA,2017059,76637339,163
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Fraser,NA,1.5,8.5,Pointsbet,NA,2017059,76637339,164
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Fraser,NA,2.5,36,Pointsbet,NA,2017059,76637339,165
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Jan Bednarek,Southampton,0.5,9,Pointsbet,Aston Villa,2017059,76637339,169
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Maxwel Cornet,Southampton,0.5,2.25,Pointsbet,Aston Villa,2017059,76637339,175
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Maxwel Cornet,Southampton,1.5,7.5,Pointsbet,Aston Villa,2017059,76637339,176
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Maxwel Cornet,Southampton,2.5,36,Pointsbet,Aston Villa,2017059,76637339,177
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Armstrong,Southampton,0.5,1.69,Pointsbet,Aston Villa,2017059,76637339,181
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Armstrong,Southampton,1.5,4.2,Pointsbet,Aston Villa,2017059,76637339,182
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Armstrong,Southampton,2.5,13,Pointsbet,Aston Villa,2017059,76637339,183
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Adam Armstrong,Southampton,3.5,41,Pointsbet,Aston Villa,2017059,76637339,184
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,James Bree,Southampton,0.5,7,Pointsbet,Aston Villa,2017059,76637339,193
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,James Bree,Southampton,1.5,61,Pointsbet,Aston Villa,2017059,76637339,194
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Joe Aribo,Southampton,0.5,3.9,Pointsbet,Aston Villa,2017059,76637339,199
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Joe Aribo,Southampton,1.5,21,Pointsbet,Aston Villa,2017059,76637339,200
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kyle Walker-Peters,Southampton,0.5,4.75,Pointsbet,Aston Villa,2017059,76637339,205
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kyle Walker-Peters,Southampton,1.5,36,Pointsbet,Aston Villa,2017059,76637339,206
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Will Smallbone,Southampton,0.5,3.6,Pointsbet,Aston Villa,2017059,76637339,211
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Will Smallbone,Southampton,1.5,20,Pointsbet,Aston Villa,2017059,76637339,212
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ryan Manning,Southampton,0.5,4.75,Pointsbet,Aston Villa,2017059,76637339,217
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ryan Manning,Southampton,1.5,36,Pointsbet,Aston Villa,2017059,76637339,218
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ben Brereton Díaz,Southampton,0.5,1.71,Pointsbet,Aston Villa,2017059,76637339,223
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ben Brereton Díaz,Southampton,1.5,4.4,Pointsbet,Aston Villa,2017059,76637339,224
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ben Brereton Díaz,Southampton,2.5,13,Pointsbet,Aston Villa,2017059,76637339,225
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ben Brereton Díaz,Southampton,3.5,51,Pointsbet,Aston Villa,2017059,76637339,226
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Flynn Downes,Southampton,0.5,7.5,Pointsbet,Aston Villa,2017059,76637339,229
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Flynn Downes,Southampton,1.5,91,Pointsbet,Aston Villa,2017059,76637339,230
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Stewart,Southampton,0.5,1.59,Pointsbet,Aston Villa,2017059,76637339,235
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Stewart,Southampton,1.5,3.7,Pointsbet,Aston Villa,2017059,76637339,236
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Stewart,Southampton,2.5,11,Pointsbet,Aston Villa,2017059,76637339,237
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ross Stewart,Southampton,3.5,36,Pointsbet,Aston Villa,2017059,76637339,238
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Yukinari Sugawara,Southampton,0.5,5,Pointsbet,Aston Villa,2017059,76637339,241
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Yukinari Sugawara,Southampton,1.5,36,Pointsbet,Aston Villa,2017059,76637339,242
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Nathan Wood,Southampton,0.5,10.5,Pointsbet,Aston Villa,2017059,76637339,247
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Taylor Harwood-Bellis,Southampton,0.5,6.5,Pointsbet,Aston Villa,2017059,76637339,253
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Taylor Harwood-Bellis,Southampton,1.5,61,Pointsbet,Aston Villa,2017059,76637339,254
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Cameron Archer,Southampton,0.5,1.83,Pointsbet,Aston Villa,2017059,76637339,259
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Cameron Archer,Southampton,1.5,5.25,Pointsbet,Aston Villa,2017059,76637339,260
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Cameron Archer,Southampton,2.5,20,Pointsbet,Aston Villa,2017059,76637339,261
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Cameron Archer,Southampton,3.5,81,Pointsbet,Aston Villa,2017059,76637339,262
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Armel Bella-Kotchap,Southampton,0.5,7,Pointsbet,Aston Villa,2017059,76637339,265
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Armel Bella-Kotchap,Southampton,1.5,71,Pointsbet,Aston Villa,2017059,76637339,266
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lesley Ugochukwu,Southampton,0.5,8,Pointsbet,Aston Villa,2017059,76637339,271
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Lesley Ugochukwu,Southampton,1.5,91,Pointsbet,Aston Villa,2017059,76637339,272
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kamaldeen Sulemana,Southampton,0.5,2.25,Pointsbet,Aston Villa,2017059,76637339,277
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kamaldeen Sulemana,Southampton,1.5,8.5,Pointsbet,Aston Villa,2017059,76637339,278
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Kamaldeen Sulemana,Southampton,2.5,36,Pointsbet,Aston Villa,2017059,76637339,279
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Ronnie Edwards,Southampton,0.5,17,Pointsbet,Aston Villa,2017059,76637339,283
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Mateus Fernandes,Southampton,0.5,3.25,Pointsbet,Aston Villa,2017059,76637339,289
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Mateus Fernandes,Southampton,1.5,16,Pointsbet,Aston Villa,2017059,76637339,290
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots on Target,Juan Larios,Southampton,0.5,11,Pointsbet,Aston Villa,2017059,76637339,295
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Christian Nørgaard,Brentford,0.5,2.9,Pointsbet,Newcastle United,2017060,76637516,1
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Christian Nørgaard,Brentford,1.5,13,Pointsbet,Newcastle United,2017060,76637516,2
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Christian Nørgaard,Brentford,2.5,81,Pointsbet,Newcastle United,2017060,76637516,3
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ben Mee,Brentford,0.5,4.5,Pointsbet,Newcastle United,2017060,76637516,7
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ben Mee,Brentford,1.5,31,Pointsbet,Newcastle United,2017060,76637516,8
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kristoffer Ajer,Brentford,0.5,6,Pointsbet,Newcastle United,2017060,76637516,13
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kristoffer Ajer,Brentford,1.5,51,Pointsbet,Newcastle United,2017060,76637516,14
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,R. Henry,NA,0.5,4.5,Pointsbet,NA,2017060,76637516,19
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,R. Henry,NA,1.5,36,Pointsbet,NA,2017060,76637516,20
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mathias Jensen,Brentford,0.5,3.6,Pointsbet,Newcastle United,2017060,76637516,25
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mathias Jensen,Brentford,1.5,20,Pointsbet,Newcastle United,2017060,76637516,26
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yoane Wissa,Brentford,0.5,1.48,Pointsbet,Newcastle United,2017060,76637516,31
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yoane Wissa,Brentford,1.5,3.25,Pointsbet,Newcastle United,2017060,76637516,32
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yoane Wissa,Brentford,2.5,9.5,Pointsbet,Newcastle United,2017060,76637516,33
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yoane Wissa,Brentford,3.5,31,Pointsbet,Newcastle United,2017060,76637516,34
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Vitaly Janelt,Brentford,0.5,3.7,Pointsbet,Newcastle United,2017060,76637516,37
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Vitaly Janelt,Brentford,1.5,21,Pointsbet,Newcastle United,2017060,76637516,38
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mads Roerslev,Brentford,0.5,6,Pointsbet,Newcastle United,2017060,76637516,43
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mads Roerslev,Brentford,1.5,61,Pointsbet,Newcastle United,2017060,76637516,44
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ethan Pinnock,Brentford,0.5,4.5,Pointsbet,Newcastle United,2017060,76637516,49
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ethan Pinnock,Brentford,1.5,31,Pointsbet,Newcastle United,2017060,76637516,50
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mikkel Damsgaard,Brentford,0.5,2.6,Pointsbet,Newcastle United,2017060,76637516,55
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mikkel Damsgaard,Brentford,1.5,10.5,Pointsbet,Newcastle United,2017060,76637516,56
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Mikkel Damsgaard,Brentford,2.5,51,Pointsbet,Newcastle United,2017060,76637516,57
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bryan Mbeumo,Brentford,0.5,1.44,Pointsbet,Newcastle United,2017060,76637516,61
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bryan Mbeumo,Brentford,1.5,3.1,Pointsbet,Newcastle United,2017060,76637516,62
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bryan Mbeumo,Brentford,2.5,8.5,Pointsbet,Newcastle United,2017060,76637516,63
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bryan Mbeumo,Brentford,3.5,23,Pointsbet,Newcastle United,2017060,76637516,64
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,P. Maghoma,NA,0.5,2.25,Pointsbet,NA,2017060,76637516,67
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,P. Maghoma,NA,1.5,7.5,Pointsbet,NA,2017060,76637516,68
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,P. Maghoma,NA,2.5,36,Pointsbet,NA,2017060,76637516,69
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Sepp van den Berg,Brentford,0.5,4.75,Pointsbet,Newcastle United,2017060,76637516,73
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Sepp van den Berg,Brentford,1.5,36,Pointsbet,Newcastle United,2017060,76637516,74
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Nathan Collins,Brentford,0.5,5.25,Pointsbet,Newcastle United,2017060,76637516,79
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Nathan Collins,Brentford,1.5,41,Pointsbet,Newcastle United,2017060,76637516,80
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Fábio Carvalho,Brentford,0.5,1.59,Pointsbet,Newcastle United,2017060,76637516,85
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Fábio Carvalho,Brentford,1.5,3.7,Pointsbet,Newcastle United,2017060,76637516,86
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Fábio Carvalho,Brentford,2.5,10.5,Pointsbet,Newcastle United,2017060,76637516,87
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Fábio Carvalho,Brentford,3.5,36,Pointsbet,Newcastle United,2017060,76637516,88
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Keane Lewis-Potter,Brentford,0.5,1.69,Pointsbet,Newcastle United,2017060,76637516,91
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Keane Lewis-Potter,Brentford,1.5,4.4,Pointsbet,Newcastle United,2017060,76637516,92
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Keane Lewis-Potter,Brentford,2.5,13,Pointsbet,Newcastle United,2017060,76637516,93
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Keane Lewis-Potter,Brentford,3.5,41,Pointsbet,Newcastle United,2017060,76637516,94
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Thiago Alcântara,NA,0.5,1.5,Pointsbet,NA,2017060,76637516,97
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Thiago Alcântara,NA,1.5,3.3,Pointsbet,NA,2017060,76637516,98
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Thiago Alcântara,NA,2.5,9.5,Pointsbet,NA,2017060,76637516,99
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Thiago Alcântara,NA,3.5,31,Pointsbet,NA,2017060,76637516,100
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yegor Yarmolyuk,Brentford,0.5,2.75,Pointsbet,Newcastle United,2017060,76637516,103
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yegor Yarmolyuk,Brentford,1.5,12,Pointsbet,Newcastle United,2017060,76637516,104
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Yegor Yarmolyuk,Brentford,2.5,71,Pointsbet,Newcastle United,2017060,76637516,105
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kevin Schade,Brentford,0.5,1.71,Pointsbet,Newcastle United,2017060,76637516,109
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kevin Schade,Brentford,1.5,4.4,Pointsbet,Newcastle United,2017060,76637516,110
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kevin Schade,Brentford,2.5,17,Pointsbet,Newcastle United,2017060,76637516,111
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kevin Schade,Brentford,3.5,61,Pointsbet,Newcastle United,2017060,76637516,112
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ryan Trevitt,Brentford,0.5,2.9,Pointsbet,Newcastle United,2017060,76637516,115
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ryan Trevitt,Brentford,1.5,13,Pointsbet,Newcastle United,2017060,76637516,116
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Ryan Trevitt,Brentford,2.5,91,Pointsbet,Newcastle United,2017060,76637516,117
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Emil Krafth,Newcastle United,0.5,7.5,Pointsbet,Brentford,2017060,76637516,127
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Emil Krafth,Newcastle United,1.5,71,Pointsbet,Brentford,2017060,76637516,128
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Schär,NA,0.5,3.6,Pointsbet,NA,2017060,76637516,133
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Schär,NA,1.5,23,Pointsbet,NA,2017060,76637516,134
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Miguel Almirón,Newcastle United,0.5,1.87,Pointsbet,Brentford,2017060,76637516,139
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Miguel Almirón,Newcastle United,1.5,5.75,Pointsbet,Brentford,2017060,76637516,140
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Miguel Almirón,Newcastle United,2.5,23,Pointsbet,Brentford,2017060,76637516,141
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Callum Wilson,Newcastle United,0.5,1.36,Pointsbet,Brentford,2017060,76637516,145
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Callum Wilson,Newcastle United,1.5,3,Pointsbet,Brentford,2017060,76637516,146
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Callum Wilson,Newcastle United,2.5,8,Pointsbet,Brentford,2017060,76637516,147
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Callum Wilson,Newcastle United,3.5,26,Pointsbet,Brentford,2017060,76637516,148
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Callum Wilson,Newcastle United,4.5,91,Pointsbet,Brentford,2017060,76637516,149
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Dan Burn,Newcastle United,0.5,5,Pointsbet,Brentford,2017060,76637516,151
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Dan Burn,Newcastle United,1.5,36,Pointsbet,Brentford,2017060,76637516,152
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Kieran Trippier,Newcastle United,0.5,7.5,Pointsbet,Brentford,2017060,76637516,157
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Hayden,NA,0.5,4.75,Pointsbet,NA,2017060,76637516,163
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Hayden,NA,1.5,36,Pointsbet,NA,2017060,76637516,164
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Matt Targett,Newcastle United,0.5,7.5,Pointsbet,Brentford,2017060,76637516,169
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Matt Targett,Newcastle United,1.5,81,Pointsbet,Brentford,2017060,76637516,170
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Jacob Murphy,Newcastle United,0.5,1.9,Pointsbet,Brentford,2017060,76637516,175
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Jacob Murphy,Newcastle United,1.5,6,Pointsbet,Brentford,2017060,76637516,176
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Jacob Murphy,Newcastle United,2.5,23,Pointsbet,Brentford,2017060,76637516,177
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joelinton,Newcastle United,0.5,2.15,Pointsbet,Brentford,2017060,76637516,181
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joelinton,Newcastle United,1.5,7.5,Pointsbet,Brentford,2017060,76637516,182
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joelinton,Newcastle United,2.5,36,Pointsbet,Brentford,2017060,76637516,183
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Alexander Isak,Newcastle United,0.5,1.33,Pointsbet,Brentford,2017060,76637516,187
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Alexander Isak,Newcastle United,1.5,2.5,Pointsbet,Brentford,2017060,76637516,188
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Alexander Isak,Newcastle United,2.5,6,Pointsbet,Brentford,2017060,76637516,189
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Alexander Isak,Newcastle United,3.5,17,Pointsbet,Brentford,2017060,76637516,190
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Alexander Isak,Newcastle United,4.5,61,Pointsbet,Brentford,2017060,76637516,191
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Harvey Barnes,Newcastle United,0.5,1.42,Pointsbet,Brentford,2017060,76637516,193
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Harvey Barnes,Newcastle United,1.5,3.1,Pointsbet,Brentford,2017060,76637516,194
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Harvey Barnes,Newcastle United,2.5,8.5,Pointsbet,Brentford,2017060,76637516,195
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Harvey Barnes,Newcastle United,3.5,26,Pointsbet,Brentford,2017060,76637516,196
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Harvey Barnes,Newcastle United,4.5,91,Pointsbet,Brentford,2017060,76637516,197
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Lloyd Kelly,Newcastle United,0.5,8.5,Pointsbet,Brentford,2017060,76637516,199
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Sean Longstaff,Newcastle United,0.5,2.85,Pointsbet,Brentford,2017060,76637516,205
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Sean Longstaff,Newcastle United,1.5,13,Pointsbet,Brentford,2017060,76637516,206
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Sean Longstaff,Newcastle United,2.5,91,Pointsbet,Brentford,2017060,76637516,207
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joe Willock,Newcastle United,0.5,2.25,Pointsbet,Brentford,2017060,76637516,211
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joe Willock,Newcastle United,1.5,8.5,Pointsbet,Brentford,2017060,76637516,212
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Joe Willock,Newcastle United,2.5,36,Pointsbet,Brentford,2017060,76637516,213
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bruno Guimarães,Newcastle United,0.5,3,Pointsbet,Brentford,2017060,76637516,217
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bruno Guimarães,Newcastle United,1.5,13,Pointsbet,Brentford,2017060,76637516,218
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Bruno Guimarães,Newcastle United,2.5,81,Pointsbet,Brentford,2017060,76637516,219
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Anthony Gordon,Newcastle United,0.5,1.63,Pointsbet,Brentford,2017060,76637516,223
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Anthony Gordon,Newcastle United,1.5,3.9,Pointsbet,Brentford,2017060,76637516,224
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Anthony Gordon,Newcastle United,2.5,12,Pointsbet,Brentford,2017060,76637516,225
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Anthony Gordon,Newcastle United,3.5,41,Pointsbet,Brentford,2017060,76637516,226
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,S. Tonali,NA,0.5,3,Pointsbet,NA,2017060,76637516,229
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,S. Tonali,NA,1.5,16,Pointsbet,NA,2017060,76637516,230
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,S. Tonali,NA,2.5,91,Pointsbet,NA,2017060,76637516,231
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Valentino Livramento,NA,0.5,8,Pointsbet,NA,2017060,76637516,235
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Lewis Hall,Newcastle United,0.5,3.9,Pointsbet,Brentford,2017060,76637516,241
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,Lewis Hall,Newcastle United,1.5,26,Pointsbet,Brentford,2017060,76637516,242
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,William Osula,Newcastle United,0.5,1.36,Pointsbet,Brentford,2017060,76637516,247
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,William Osula,Newcastle United,1.5,2.75,Pointsbet,Brentford,2017060,76637516,248
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,William Osula,Newcastle United,2.5,7,Pointsbet,Brentford,2017060,76637516,249
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,William Osula,Newcastle United,3.5,20,Pointsbet,Brentford,2017060,76637516,250
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,William Osula,Newcastle United,4.5,61,Pointsbet,Brentford,2017060,76637516,251
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,L. Miley,NA,0.5,3.3,Pointsbet,NA,2017060,76637516,253
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,L. Miley,NA,1.5,19,Pointsbet,NA,2017060,76637516,254
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,S. Botman,NA,0.5,4.75,Pointsbet,NA,2017060,76637516,259
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots on Target,S. Botman,NA,1.5,36,Pointsbet,NA,2017060,76637516,260
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nathaniel Clyne,Crystal Palace,0.5,11,Pointsbet,Manchester City,2017061,76637865,1
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jeffrey Schlupp,Crystal Palace,0.5,2.35,Pointsbet,Manchester City,2017061,76637865,7
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jeffrey Schlupp,Crystal Palace,1.5,9.5,Pointsbet,Manchester City,2017061,76637865,8
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jeffrey Schlupp,Crystal Palace,2.5,51,Pointsbet,Manchester City,2017061,76637865,9
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Will Hughes,Crystal Palace,0.5,5.25,Pointsbet,Manchester City,2017061,76637865,13
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Will Hughes,Crystal Palace,1.5,41,Pointsbet,Manchester City,2017061,76637865,14
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Joel Ward,Crystal Palace,0.5,9.5,Pointsbet,Manchester City,2017061,76637865,19
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rob Holding,Crystal Palace,0.5,7,Pointsbet,Manchester City,2017061,76637865,25
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rob Holding,Crystal Palace,1.5,91,Pointsbet,Manchester City,2017061,76637865,26
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jefferson Lerma,Crystal Palace,0.5,3.7,Pointsbet,Manchester City,2017061,76637865,31
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jefferson Lerma,Crystal Palace,1.5,21,Pointsbet,Manchester City,2017061,76637865,32
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jean-Philippe Mateta,Crystal Palace,0.5,1.77,Pointsbet,Manchester City,2017061,76637865,37
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jean-Philippe Mateta,Crystal Palace,1.5,5,Pointsbet,Manchester City,2017061,76637865,38
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jean-Philippe Mateta,Crystal Palace,2.5,19,Pointsbet,Manchester City,2017061,76637865,39
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jean-Philippe Mateta,Crystal Palace,3.5,81,Pointsbet,Manchester City,2017061,76637865,40
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ismaïla Sarr,Crystal Palace,0.5,1.95,Pointsbet,Manchester City,2017061,76637865,43
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ismaïla Sarr,Crystal Palace,1.5,6,Pointsbet,Manchester City,2017061,76637865,44
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ismaïla Sarr,Crystal Palace,2.5,26,Pointsbet,Manchester City,2017061,76637865,45
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Trevoh Chalobah,Chelsea,0.5,7,Pointsbet,Crystal Palace,2017061,76637865,49
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Trevoh Chalobah,Chelsea,1.5,81,Pointsbet,Crystal Palace,2017061,76637865,50
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eberechi Eze,Crystal Palace,0.5,1.56,Pointsbet,Manchester City,2017061,76637865,55
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eberechi Eze,Crystal Palace,1.5,3.7,Pointsbet,Manchester City,2017061,76637865,56
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eberechi Eze,Crystal Palace,2.5,11,Pointsbet,Manchester City,2017061,76637865,57
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eberechi Eze,Crystal Palace,3.5,36,Pointsbet,Manchester City,2017061,76637865,58
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Arsenal,0.5,1.67,Pointsbet,Crystal Palace,2017061,76637865,61
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Crystal Palace,0.5,1.67,Pointsbet,Manchester City,2017061,76637865,61
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Arsenal,1.5,4.2,Pointsbet,Crystal Palace,2017061,76637865,62
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Crystal Palace,1.5,4.2,Pointsbet,Manchester City,2017061,76637865,62
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Arsenal,2.5,12,Pointsbet,Crystal Palace,2017061,76637865,63
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Crystal Palace,2.5,12,Pointsbet,Manchester City,2017061,76637865,63
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Arsenal,3.5,51,Pointsbet,Crystal Palace,2017061,76637865,64
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Eddie Nketiah,Crystal Palace,3.5,51,Pointsbet,Manchester City,2017061,76637865,64
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Daniel Muñoz,Crystal Palace,0.5,4.75,Pointsbet,Manchester City,2017061,76637865,67
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Daniel Muñoz,Crystal Palace,1.5,36,Pointsbet,Manchester City,2017061,76637865,68
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Daichi Kamada,Crystal Palace,0.5,2.75,Pointsbet,Manchester City,2017061,76637865,73
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Daichi Kamada,Crystal Palace,1.5,12,Pointsbet,Manchester City,2017061,76637865,74
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Daichi Kamada,Crystal Palace,2.5,81,Pointsbet,Manchester City,2017061,76637865,75
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Cheick Doucouré,Crystal Palace,0.5,4,Pointsbet,Manchester City,2017061,76637865,79
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Cheick Doucouré,Crystal Palace,1.5,23,Pointsbet,Manchester City,2017061,76637865,80
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,M. Lacroix,NA,0.5,7,Pointsbet,NA,2017061,76637865,85
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,M. Lacroix,NA,1.5,91,Pointsbet,NA,2017061,76637865,86
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Chris Richards,Crystal Palace,0.5,7.5,Pointsbet,Manchester City,2017061,76637865,91
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Chris Richards,Crystal Palace,1.5,91,Pointsbet,Manchester City,2017061,76637865,92
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Marc Guéhi,Crystal Palace,0.5,9.5,Pointsbet,Manchester City,2017061,76637865,97
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Tyrick Mitchell,Crystal Palace,0.5,7,Pointsbet,Manchester City,2017061,76637865,103
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Tyrick Mitchell,Crystal Palace,1.5,91,Pointsbet,Manchester City,2017061,76637865,104
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Chadi Riad,Crystal Palace,0.5,8.5,Pointsbet,Manchester City,2017061,76637865,109
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus França,Crystal Palace,0.5,1.95,Pointsbet,Manchester City,2017061,76637865,115
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus França,Crystal Palace,1.5,6,Pointsbet,Manchester City,2017061,76637865,116
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus França,Crystal Palace,2.5,26,Pointsbet,Manchester City,2017061,76637865,117
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Adam Wharton,Crystal Palace,0.5,4.2,Pointsbet,Manchester City,2017061,76637865,121
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Adam Wharton,Crystal Palace,1.5,26,Pointsbet,Manchester City,2017061,76637865,122
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kyle Walker,Manchester City,0.5,6.5,Pointsbet,Crystal Palace,2017061,76637865,127
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kyle Walker,Manchester City,1.5,81,Pointsbet,Crystal Palace,2017061,76637865,128
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,0.5,2.1,Pointsbet,Crystal Palace,2017061,76637865,133
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,1.5,7,Pointsbet,Crystal Palace,2017061,76637865,134
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,İlkay Gündoğan,Manchester City,2.5,29,Pointsbet,Crystal Palace,2017061,76637865,135
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Mateo Kovacic,Manchester City,0.5,3.1,Pointsbet,Crystal Palace,2017061,76637865,139
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Mateo Kovacic,Manchester City,1.5,16,Pointsbet,Crystal Palace,2017061,76637865,140
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,0.5,1.4,Pointsbet,Crystal Palace,2017061,76637865,145
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,1.5,2.9,Pointsbet,Crystal Palace,2017061,76637865,146
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,2.5,7.5,Pointsbet,Crystal Palace,2017061,76637865,147
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,3.5,23,Pointsbet,Crystal Palace,2017061,76637865,148
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Kevin De Bruyne,Manchester City,4.5,91,Pointsbet,Crystal Palace,2017061,76637865,149
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nathan Aké,Manchester City,0.5,4.75,Pointsbet,Crystal Palace,2017061,76637865,151
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nathan Aké,Manchester City,1.5,31,Pointsbet,Crystal Palace,2017061,76637865,152
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,John Stones,Manchester City,0.5,5,Pointsbet,Crystal Palace,2017061,76637865,157
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,John Stones,Manchester City,1.5,51,Pointsbet,Crystal Palace,2017061,76637865,158
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,0.5,2.15,Pointsbet,Crystal Palace,2017061,76637865,163
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,1.5,7.5,Pointsbet,Crystal Palace,2017061,76637865,164
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jack Grealish,Manchester City,2.5,36,Pointsbet,Crystal Palace,2017061,76637865,165
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,0.5,2.25,Pointsbet,Crystal Palace,2017061,76637865,169
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,1.5,8.5,Pointsbet,Crystal Palace,2017061,76637865,170
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Bernardo Silva,Manchester City,2.5,36,Pointsbet,Crystal Palace,2017061,76637865,171
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Manuel Akanji,Manchester City,0.5,6,Pointsbet,Crystal Palace,2017061,76637865,175
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Manuel Akanji,Manchester City,1.5,61,Pointsbet,Crystal Palace,2017061,76637865,176
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rodri,Manchester City,0.5,3,Pointsbet,Crystal Palace,2017061,76637865,181
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rodri,Manchester City,1.5,13,Pointsbet,Crystal Palace,2017061,76637865,182
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rodri,Manchester City,2.5,81,Pointsbet,Crystal Palace,2017061,76637865,183
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rúben Dias,Manchester City,0.5,5,Pointsbet,Crystal Palace,2017061,76637865,187
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rúben Dias,Manchester City,1.5,36,Pointsbet,Crystal Palace,2017061,76637865,188
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,0.5,1.13,Pointsbet,Crystal Palace,2017061,76637865,193
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,1.5,1.69,Pointsbet,Crystal Palace,2017061,76637865,194
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,2.5,3.1,Pointsbet,Crystal Palace,2017061,76637865,195
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,3.5,6.5,Pointsbet,Crystal Palace,2017061,76637865,196
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,4.5,16,Pointsbet,Crystal Palace,2017061,76637865,197
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Erling Haaland,Manchester City,5.5,36,Pointsbet,Crystal Palace,2017061,76637865,198
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Phil Foden,Manchester City,0.5,1.4,Pointsbet,Crystal Palace,2017061,76637865,199
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Phil Foden,Manchester City,1.5,3,Pointsbet,Crystal Palace,2017061,76637865,200
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Phil Foden,Manchester City,2.5,8,Pointsbet,Crystal Palace,2017061,76637865,201
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Phil Foden,Manchester City,3.5,23,Pointsbet,Crystal Palace,2017061,76637865,202
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Phil Foden,Manchester City,4.5,81,Pointsbet,Crystal Palace,2017061,76637865,203
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,0.5,2.1,Pointsbet,Crystal Palace,2017061,76637865,205
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,1.5,7,Pointsbet,Crystal Palace,2017061,76637865,206
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Matheus Nunes,Manchester City,2.5,29,Pointsbet,Crystal Palace,2017061,76637865,207
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ben Knight,NA,0.5,1.4,Pointsbet,NA,2017061,76637865,211
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ben Knight,NA,1.5,2.9,Pointsbet,NA,2017061,76637865,212
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ben Knight,NA,2.5,7.5,Pointsbet,NA,2017061,76637865,213
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ben Knight,NA,3.5,26,Pointsbet,NA,2017061,76637865,214
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Ben Knight,NA,4.5,81,Pointsbet,NA,2017061,76637865,215
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,0.5,1.77,Pointsbet,Crystal Palace,2017061,76637865,217
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,1.5,4.75,Pointsbet,Crystal Palace,2017061,76637865,218
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,2.5,16,Pointsbet,Crystal Palace,2017061,76637865,219
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Jérémy Doku,Manchester City,3.5,61,Pointsbet,Crystal Palace,2017061,76637865,220
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Josh Wilson-Esbrand,Manchester City,0.5,3.7,Pointsbet,Crystal Palace,2017061,76637865,223
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Josh Wilson-Esbrand,Manchester City,1.5,21,Pointsbet,Crystal Palace,2017061,76637865,224
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Josko Gvardiol,Manchester City,0.5,2.85,Pointsbet,Crystal Palace,2017061,76637865,229
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Josko Gvardiol,Manchester City,1.5,12,Pointsbet,Crystal Palace,2017061,76637865,230
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Josko Gvardiol,Manchester City,2.5,81,Pointsbet,Crystal Palace,2017061,76637865,231
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,0.5,2.25,Pointsbet,Crystal Palace,2017061,76637865,235
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,1.5,8,Pointsbet,Crystal Palace,2017061,76637865,236
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Oscar Bobb,Manchester City,2.5,36,Pointsbet,Crystal Palace,2017061,76637865,237
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,James McAtee,Manchester City,0.5,1.74,Pointsbet,Crystal Palace,2017061,76637865,241
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,James McAtee,Manchester City,1.5,4.5,Pointsbet,Crystal Palace,2017061,76637865,242
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,James McAtee,Manchester City,2.5,15,Pointsbet,Crystal Palace,2017061,76637865,243
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,James McAtee,Manchester City,3.5,61,Pointsbet,Crystal Palace,2017061,76637865,244
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Savinho,Manchester City,0.5,1.8,Pointsbet,Crystal Palace,2017061,76637865,247
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Savinho,Manchester City,1.5,4.75,Pointsbet,Crystal Palace,2017061,76637865,248
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Savinho,Manchester City,2.5,19,Pointsbet,Crystal Palace,2017061,76637865,249
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Savinho,Manchester City,3.5,71,Pointsbet,Crystal Palace,2017061,76637865,250
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rico Lewis,Manchester City,0.5,4.4,Pointsbet,Crystal Palace,2017061,76637865,253
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Rico Lewis,Manchester City,1.5,29,Pointsbet,Crystal Palace,2017061,76637865,254
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,0.5,2.55,Pointsbet,Crystal Palace,2017061,76637865,259
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,1.5,11,Pointsbet,Crystal Palace,2017061,76637865,260
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots on Target,Nico O'Reilly,Manchester City,2.5,61,Pointsbet,Crystal Palace,2017061,76637865,261
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Jonny Evans,Manchester United,0.5,7,Pointsbet,Nottingham Forest,2017196,76643099,1
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Jonny Evans,Manchester United,1.5,81,Pointsbet,Nottingham Forest,2017196,76643099,2
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Christian Eriksen,Manchester United,0.5,2.3,Pointsbet,Nottingham Forest,2017196,76643099,7
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Christian Eriksen,Manchester United,1.5,8,Pointsbet,Nottingham Forest,2017196,76643099,8
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Christian Eriksen,Manchester United,2.5,36,Pointsbet,Nottingham Forest,2017196,76643099,9
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Luke Shaw,Manchester United,0.5,7,Pointsbet,Nottingham Forest,2017196,76643099,13
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Luke Shaw,Manchester United,1.5,71,Pointsbet,Nottingham Forest,2017196,76643099,14
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Casemiro,Manchester United,0.5,2.55,Pointsbet,Nottingham Forest,2017196,76643099,19
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Casemiro,Manchester United,1.5,10.5,Pointsbet,Nottingham Forest,2017196,76643099,20
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Casemiro,Manchester United,2.5,51,Pointsbet,Nottingham Forest,2017196,76643099,21
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Bruno Fernandes,Manchester United,0.5,1.53,Pointsbet,Nottingham Forest,2017196,76643099,25
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Bruno Fernandes,Manchester United,1.5,3.6,Pointsbet,Nottingham Forest,2017196,76643099,26
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Bruno Fernandes,Manchester United,2.5,11,Pointsbet,Nottingham Forest,2017196,76643099,27
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Bruno Fernandes,Manchester United,3.5,36,Pointsbet,Nottingham Forest,2017196,76643099,28
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Harry Maguire,Manchester United,0.5,3.6,Pointsbet,Nottingham Forest,2017196,76643099,31
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Harry Maguire,Manchester United,1.5,20,Pointsbet,Nottingham Forest,2017196,76643099,32
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Victor Lindelöf,Manchester United,0.5,10.5,Pointsbet,Nottingham Forest,2017196,76643099,37
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Marcus Rashford,Manchester United,0.5,1.4,Pointsbet,Nottingham Forest,2017196,76643099,43
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Marcus Rashford,Manchester United,1.5,3,Pointsbet,Nottingham Forest,2017196,76643099,44
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Marcus Rashford,Manchester United,2.5,8,Pointsbet,Nottingham Forest,2017196,76643099,45
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Marcus Rashford,Manchester United,3.5,26,Pointsbet,Nottingham Forest,2017196,76643099,46
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Marcus Rashford,Manchester United,4.5,91,Pointsbet,Nottingham Forest,2017196,76643099,47
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Matthijs de Ligt,Manchester United,0.5,4.5,Pointsbet,Nottingham Forest,2017196,76643099,49
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Matthijs de Ligt,Manchester United,1.5,29,Pointsbet,Nottingham Forest,2017196,76643099,50
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Mason Mount,Manchester United,0.5,1.9,Pointsbet,Nottingham Forest,2017196,76643099,55
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Mason Mount,Manchester United,1.5,6,Pointsbet,Nottingham Forest,2017196,76643099,56
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Mason Mount,Manchester United,2.5,23,Pointsbet,Nottingham Forest,2017196,76643099,57
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Noussair Mazraoui,Manchester United,0.5,4.75,Pointsbet,Nottingham Forest,2017196,76643099,61
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Noussair Mazraoui,Manchester United,1.5,36,Pointsbet,Nottingham Forest,2017196,76643099,62
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Lisandro Martínez,Manchester United,0.5,6.5,Pointsbet,Nottingham Forest,2017196,76643099,67
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Lisandro Martínez,Manchester United,1.5,51,Pointsbet,Nottingham Forest,2017196,76643099,68
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,T. Malacia,NA,0.5,7.5,Pointsbet,NA,2017196,76643099,73
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,T. Malacia,NA,1.5,91,Pointsbet,NA,2017196,76643099,74
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Diogo Dalot,Manchester United,0.5,4.75,Pointsbet,Nottingham Forest,2017196,76643099,79
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Diogo Dalot,Manchester United,1.5,36,Pointsbet,Nottingham Forest,2017196,76643099,80
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Joshua Zirkzee,Manchester United,0.5,1.36,Pointsbet,Nottingham Forest,2017196,76643099,85
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Joshua Zirkzee,Manchester United,1.5,2.9,Pointsbet,Nottingham Forest,2017196,76643099,86
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Joshua Zirkzee,Manchester United,2.5,7.5,Pointsbet,Nottingham Forest,2017196,76643099,87
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Joshua Zirkzee,Manchester United,3.5,23,Pointsbet,Nottingham Forest,2017196,76643099,88
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Joshua Zirkzee,Manchester United,4.5,91,Pointsbet,Nottingham Forest,2017196,76643099,89
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Antony,Manchester United,0.5,1.48,Pointsbet,Nottingham Forest,2017196,76643099,91
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Antony,Manchester United,1.5,3.3,Pointsbet,Nottingham Forest,2017196,76643099,92
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Antony,Manchester United,2.5,9,Pointsbet,Nottingham Forest,2017196,76643099,93
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Antony,Manchester United,3.5,29,Pointsbet,Nottingham Forest,2017196,76643099,94
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Antony,Manchester United,4.5,91,Pointsbet,Nottingham Forest,2017196,76643099,95
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Alejandro Garnacho,Manchester United,0.5,1.36,Pointsbet,Nottingham Forest,2017196,76643099,97
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Alejandro Garnacho,Manchester United,1.5,2.85,Pointsbet,Nottingham Forest,2017196,76643099,98
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Alejandro Garnacho,Manchester United,2.5,7,Pointsbet,Nottingham Forest,2017196,76643099,99
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Alejandro Garnacho,Manchester United,3.5,23,Pointsbet,Nottingham Forest,2017196,76643099,100
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Alejandro Garnacho,Manchester United,4.5,81,Pointsbet,Nottingham Forest,2017196,76643099,101
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,M. Ugarte,NA,0.5,5.75,Pointsbet,NA,2017196,76643099,103
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,M. Ugarte,NA,1.5,51,Pointsbet,NA,2017196,76643099,104
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,A. Diallo,NA,0.5,1.8,Pointsbet,NA,2017196,76643099,109
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,A. Diallo,NA,1.5,5.25,Pointsbet,NA,2017196,76643099,110
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,A. Diallo,NA,2.5,20,Pointsbet,NA,2017196,76643099,111
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,A. Diallo,NA,3.5,91,Pointsbet,NA,2017196,76643099,112
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Rasmus Højlund,Manchester United,0.5,1.56,Pointsbet,Nottingham Forest,2017196,76643099,115
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Rasmus Højlund,Manchester United,1.5,3.7,Pointsbet,Nottingham Forest,2017196,76643099,116
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Rasmus Højlund,Manchester United,2.5,12,Pointsbet,Nottingham Forest,2017196,76643099,117
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Rasmus Højlund,Manchester United,3.5,41,Pointsbet,Nottingham Forest,2017196,76643099,118
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Leny Yoro,Manchester United,0.5,6.5,Pointsbet,Nottingham Forest,2017196,76643099,121
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Leny Yoro,Manchester United,1.5,61,Pointsbet,Nottingham Forest,2017196,76643099,122
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Kobbie Mainoo,Manchester United,0.5,4.2,Pointsbet,Nottingham Forest,2017196,76643099,127
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Kobbie Mainoo,Manchester United,1.5,29,Pointsbet,Nottingham Forest,2017196,76643099,128
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Chris Wood,Nottingham Forest,0.5,1.74,Pointsbet,Manchester United,2017196,76643099,139
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Chris Wood,Nottingham Forest,1.5,4.5,Pointsbet,Manchester United,2017196,76643099,140
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Chris Wood,Nottingham Forest,2.5,16,Pointsbet,Manchester United,2017196,76643099,141
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Chris Wood,Nottingham Forest,3.5,71,Pointsbet,Manchester United,2017196,76643099,142
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,B. Marshall,NA,0.5,2.55,Pointsbet,NA,2017196,76643099,145
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,B. Marshall,NA,1.5,10.5,Pointsbet,NA,2017196,76643099,146
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,B. Marshall,NA,2.5,51,Pointsbet,NA,2017196,76643099,147
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Willy Boly,Nottingham Forest,0.5,5.75,Pointsbet,Manchester United,2017196,76643099,151
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Willy Boly,Nottingham Forest,1.5,61,Pointsbet,Manchester United,2017196,76643099,152
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,West Ham United,0.5,2.6,Pointsbet,Manchester United,2017196,76643099,157
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,Nottingham Forest,0.5,2.6,Pointsbet,Manchester United,2017196,76643099,157
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,West Ham United,1.5,10.5,Pointsbet,Manchester United,2017196,76643099,158
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,Nottingham Forest,1.5,10.5,Pointsbet,Manchester United,2017196,76643099,158
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,West Ham United,2.5,61,Pointsbet,Manchester United,2017196,76643099,159
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,James Ward-Prowse,Nottingham Forest,2.5,61,Pointsbet,Manchester United,2017196,76643099,159
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Álex Moreno,Nottingham Forest,0.5,5,Pointsbet,Manchester United,2017196,76643099,163
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Álex Moreno,Nottingham Forest,1.5,36,Pointsbet,Manchester United,2017196,76643099,164
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Harry Toffolo,Nottingham Forest,0.5,6,Pointsbet,Manchester United,2017196,76643099,169
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Harry Toffolo,Nottingham Forest,1.5,61,Pointsbet,Manchester United,2017196,76643099,170
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ola Aina,Nottingham Forest,0.5,6.5,Pointsbet,Manchester United,2017196,76643099,175
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ola Aina,Nottingham Forest,1.5,61,Pointsbet,Manchester United,2017196,76643099,176
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Taiwo Awoniyi,Nottingham Forest,0.5,1.59,Pointsbet,Manchester United,2017196,76643099,181
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Taiwo Awoniyi,Nottingham Forest,1.5,3.7,Pointsbet,Manchester United,2017196,76643099,182
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Taiwo Awoniyi,Nottingham Forest,2.5,11,Pointsbet,Manchester United,2017196,76643099,183
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Taiwo Awoniyi,Nottingham Forest,3.5,36,Pointsbet,Manchester United,2017196,76643099,184
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Emmanuel Dennis,Nottingham Forest,0.5,1.71,Pointsbet,Manchester United,2017196,76643099,187
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Emmanuel Dennis,Nottingham Forest,1.5,4.5,Pointsbet,Manchester United,2017196,76643099,188
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Emmanuel Dennis,Nottingham Forest,2.5,13,Pointsbet,Manchester United,2017196,76643099,189
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Emmanuel Dennis,Nottingham Forest,3.5,51,Pointsbet,Manchester United,2017196,76643099,190
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ibrahim Sangaré,Nottingham Forest,0.5,4.5,Pointsbet,Manchester United,2017196,76643099,193
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ibrahim Sangaré,Nottingham Forest,1.5,36,Pointsbet,Manchester United,2017196,76643099,194
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Morgan Gibbs-White,Nottingham Forest,0.5,1.95,Pointsbet,Manchester United,2017196,76643099,199
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Morgan Gibbs-White,Nottingham Forest,1.5,6,Pointsbet,Manchester United,2017196,76643099,200
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Morgan Gibbs-White,Nottingham Forest,2.5,26,Pointsbet,Manchester United,2017196,76643099,201
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ryan Yates,Nottingham Forest,0.5,2.9,Pointsbet,Manchester United,2017196,76643099,205
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ryan Yates,Nottingham Forest,1.5,13,Pointsbet,Manchester United,2017196,76643099,206
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ryan Yates,Nottingham Forest,2.5,91,Pointsbet,Manchester United,2017196,76643099,207
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Nicolás Domínguez,Nottingham Forest,0.5,2.7,Pointsbet,Manchester United,2017196,76643099,211
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Nicolás Domínguez,Nottingham Forest,1.5,11,Pointsbet,Manchester United,2017196,76643099,212
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Nicolás Domínguez,Nottingham Forest,2.5,61,Pointsbet,Manchester United,2017196,76643099,213
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Nikola Milenković,Nottingham Forest,0.5,6,Pointsbet,Manchester United,2017196,76643099,217
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Nikola Milenković,Nottingham Forest,1.5,61,Pointsbet,Manchester United,2017196,76643099,218
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Callum Hudson-Odoi,Nottingham Forest,0.5,2.2,Pointsbet,Manchester United,2017196,76643099,223
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Callum Hudson-Odoi,Nottingham Forest,1.5,8,Pointsbet,Manchester United,2017196,76643099,224
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Callum Hudson-Odoi,Nottingham Forest,2.5,36,Pointsbet,Manchester United,2017196,76643099,225
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Neco Williams,Nottingham Forest,0.5,3.25,Pointsbet,Manchester United,2017196,76643099,229
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Neco Williams,Nottingham Forest,1.5,16,Pointsbet,Manchester United,2017196,76643099,230
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Neco Williams,Nottingham Forest,2.5,91,Pointsbet,Manchester United,2017196,76643099,231
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Anthony Elanga,Nottingham Forest,0.5,2.1,Pointsbet,Manchester United,2017196,76643099,235
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Anthony Elanga,Nottingham Forest,1.5,7,Pointsbet,Manchester United,2017196,76643099,236
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Anthony Elanga,Nottingham Forest,2.5,31,Pointsbet,Manchester United,2017196,76643099,237
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Andrew Omobamidele,Nottingham Forest,0.5,12,Pointsbet,Manchester United,2017196,76643099,241
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Felipe Rodrigues,NA,0.5,7.5,Pointsbet,NA,2017196,76643099,253
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Felipe Rodrigues,NA,1.5,91,Pointsbet,NA,2017196,76643099,254
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,João Pedro,Brighton & Hove Albion,0.5,1.9,Pointsbet,Manchester United,2017196,76643099,259
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,João Pedro,Brighton & Hove Albion,1.5,5.75,Pointsbet,Manchester United,2017196,76643099,260
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,João Pedro,Brighton & Hove Albion,2.5,21,Pointsbet,Manchester United,2017196,76643099,261
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ramón Sosa,Nottingham Forest,0.5,2,Pointsbet,Manchester United,2017196,76643099,265
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ramón Sosa,Nottingham Forest,1.5,6,Pointsbet,Manchester United,2017196,76643099,266
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Ramón Sosa,Nottingham Forest,2.5,26,Pointsbet,Manchester United,2017196,76643099,267
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Danilo,Nottingham Forest,0.5,3.6,Pointsbet,Manchester United,2017196,76643099,271
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Danilo,Nottingham Forest,1.5,20,Pointsbet,Manchester United,2017196,76643099,272
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Elliot Anderson,Nottingham Forest,0.5,2.75,Pointsbet,Manchester United,2017196,76643099,277
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Elliot Anderson,Nottingham Forest,1.5,12,Pointsbet,Manchester United,2017196,76643099,278
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Elliot Anderson,Nottingham Forest,2.5,61,Pointsbet,Manchester United,2017196,76643099,279
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots on Target,Murillo,Nottingham Forest,0.5,8.5,Pointsbet,Manchester United,2017196,76643099,283
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Heung-min Son,Tottenham Hotspur,0.5,1.4,Pointsbet,Chelsea,2018041,76685368,1
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Heung-min Son,Tottenham Hotspur,1.5,2.9,Pointsbet,Chelsea,2018041,76685368,2
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Heung-min Son,Tottenham Hotspur,2.5,7.5,Pointsbet,Chelsea,2018041,76685368,3
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Heung-min Son,Tottenham Hotspur,3.5,23,Pointsbet,Chelsea,2018041,76685368,4
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Heung-min Son,Tottenham Hotspur,4.5,81,Pointsbet,Chelsea,2018041,76685368,5
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Ben Davies,Tottenham Hotspur,0.5,5.25,Pointsbet,Chelsea,2018041,76685368,7
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Ben Davies,Tottenham Hotspur,1.5,51,Pointsbet,Chelsea,2018041,76685368,8
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Timo Werner,Tottenham Hotspur,0.5,1.59,Pointsbet,Chelsea,2018041,76685368,13
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Timo Werner,Tottenham Hotspur,1.5,3.9,Pointsbet,Chelsea,2018041,76685368,14
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Timo Werner,Tottenham Hotspur,2.5,11,Pointsbet,Chelsea,2018041,76685368,15
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Timo Werner,Tottenham Hotspur,3.5,36,Pointsbet,Chelsea,2018041,76685368,16
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,James Maddison,Tottenham Hotspur,0.5,1.74,Pointsbet,Chelsea,2018041,76685368,19
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,James Maddison,Tottenham Hotspur,1.5,4.5,Pointsbet,Chelsea,2018041,76685368,20
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,James Maddison,Tottenham Hotspur,2.5,16,Pointsbet,Chelsea,2018041,76685368,21
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,James Maddison,Tottenham Hotspur,3.5,61,Pointsbet,Chelsea,2018041,76685368,22
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,0.5,1.4,Pointsbet,Chelsea,2018041,76685368,25
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,1.5,2.9,Pointsbet,Chelsea,2018041,76685368,26
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,2.5,8,Pointsbet,Chelsea,2018041,76685368,27
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,3.5,23,Pointsbet,Chelsea,2018041,76685368,28
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dominic Solanke,Tottenham Hotspur,4.5,91,Pointsbet,Chelsea,2018041,76685368,29
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Rodrigo Bentancur,Tottenham Hotspur,0.5,3.1,Pointsbet,Chelsea,2018041,76685368,31
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Rodrigo Bentancur,Tottenham Hotspur,1.5,16,Pointsbet,Chelsea,2018041,76685368,32
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cristian Romero,Tottenham Hotspur,0.5,4.5,Pointsbet,Chelsea,2018041,76685368,37
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cristian Romero,Tottenham Hotspur,1.5,36,Pointsbet,Chelsea,2018041,76685368,38
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Yves Bissouma,Tottenham Hotspur,0.5,4.2,Pointsbet,Chelsea,2018041,76685368,43
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Yves Bissouma,Tottenham Hotspur,1.5,26,Pointsbet,Chelsea,2018041,76685368,44
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Richarlison,Tottenham Hotspur,0.5,1.42,Pointsbet,Chelsea,2018041,76685368,49
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Richarlison,Tottenham Hotspur,1.5,3,Pointsbet,Chelsea,2018041,76685368,50
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Richarlison,Tottenham Hotspur,2.5,8,Pointsbet,Chelsea,2018041,76685368,51
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Richarlison,Tottenham Hotspur,3.5,26,Pointsbet,Chelsea,2018041,76685368,52
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Richarlison,Tottenham Hotspur,4.5,91,Pointsbet,Chelsea,2018041,76685368,53
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Porro,Tottenham Hotspur,0.5,2.85,Pointsbet,Chelsea,2018041,76685368,55
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Porro,Tottenham Hotspur,1.5,12,Pointsbet,Chelsea,2018041,76685368,56
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Porro,Tottenham Hotspur,2.5,61,Pointsbet,Chelsea,2018041,76685368,57
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,0.5,1.83,Pointsbet,Chelsea,2018041,76685368,61
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,1.5,5.25,Pointsbet,Chelsea,2018041,76685368,62
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,2.5,19,Pointsbet,Chelsea,2018041,76685368,63
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Dejan Kulusevski,Tottenham Hotspur,3.5,71,Pointsbet,Chelsea,2018041,76685368,64
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,0.5,3.1,Pointsbet,Chelsea,2018041,76685368,67
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,1.5,16,Pointsbet,Chelsea,2018041,76685368,68
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Sergio Reguilón,Tottenham Hotspur,2.5,81,Pointsbet,Chelsea,2018041,76685368,69
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Djed Spence,Tottenham Hotspur,0.5,4.2,Pointsbet,Chelsea,2018041,76685368,73
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Djed Spence,Tottenham Hotspur,1.5,29,Pointsbet,Chelsea,2018041,76685368,74
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,0.5,1.56,Pointsbet,Chelsea,2018041,76685368,79
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,1.5,3.6,Pointsbet,Chelsea,2018041,76685368,80
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,2.5,10.5,Pointsbet,Chelsea,2018041,76685368,81
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Brennan Johnson,Tottenham Hotspur,3.5,36,Pointsbet,Chelsea,2018041,76685368,82
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Radu Drăgușin,Tottenham Hotspur,0.5,5.25,Pointsbet,Chelsea,2018041,76685368,85
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Radu Drăgușin,Tottenham Hotspur,1.5,41,Pointsbet,Chelsea,2018041,76685368,86
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Micky van de Ven,Tottenham Hotspur,0.5,7,Pointsbet,Chelsea,2018041,76685368,91
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Micky van de Ven,Tottenham Hotspur,1.5,71,Pointsbet,Chelsea,2018041,76685368,92
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,0.5,2.25,Pointsbet,Chelsea,2018041,76685368,97
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,1.5,7.5,Pointsbet,Chelsea,2018041,76685368,98
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pape Matar Sarr,Tottenham Hotspur,2.5,31,Pointsbet,Chelsea,2018041,76685368,99
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Destiny Udogie,Tottenham Hotspur,0.5,5.25,Pointsbet,Chelsea,2018041,76685368,103
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Destiny Udogie,Tottenham Hotspur,1.5,51,Pointsbet,Chelsea,2018041,76685368,104
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,0.5,1.59,Pointsbet,Chelsea,2018041,76685368,109
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,1.5,3.7,Pointsbet,Chelsea,2018041,76685368,110
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,2.5,11,Pointsbet,Chelsea,2018041,76685368,111
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wilson Odobert,Tottenham Hotspur,3.5,36,Pointsbet,Chelsea,2018041,76685368,112
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,0.5,2.3,Pointsbet,Chelsea,2018041,76685368,115
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,1.5,9,Pointsbet,Chelsea,2018041,76685368,116
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Lucas Bergvall,Tottenham Hotspur,2.5,41,Pointsbet,Chelsea,2018041,76685368,117
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,M. Moore,NA,0.5,1.77,Pointsbet,NA,2018041,76685368,121
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,M. Moore,NA,1.5,4.75,Pointsbet,NA,2018041,76685368,122
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,M. Moore,NA,2.5,16,Pointsbet,NA,2018041,76685368,123
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,M. Moore,NA,3.5,61,Pointsbet,NA,2018041,76685368,124
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Andre Gray,NA,0.5,6.5,Pointsbet,NA,2018041,76685368,127
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Andre Gray,NA,1.5,61,Pointsbet,NA,2018041,76685368,128
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Christopher Nkunku,Chelsea,0.5,1.36,Pointsbet,Tottenham Hotspur,2018041,76685368,133
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Christopher Nkunku,Chelsea,1.5,2.75,Pointsbet,Tottenham Hotspur,2018041,76685368,134
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Christopher Nkunku,Chelsea,2.5,7,Pointsbet,Tottenham Hotspur,2018041,76685368,135
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Christopher Nkunku,Chelsea,3.5,20,Pointsbet,Tottenham Hotspur,2018041,76685368,136
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Christopher Nkunku,Chelsea,4.5,71,Pointsbet,Tottenham Hotspur,2018041,76685368,137
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Axel Disasi,Chelsea,0.5,5,Pointsbet,Tottenham Hotspur,2018041,76685368,139
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Axel Disasi,Chelsea,1.5,36,Pointsbet,Tottenham Hotspur,2018041,76685368,140
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Chilwell,NA,0.5,3.6,Pointsbet,NA,2018041,76685368,145
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Chilwell,NA,1.5,20,Pointsbet,NA,2018041,76685368,146
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Tosin Adarabioyo,Chelsea,0.5,4.75,Pointsbet,Tottenham Hotspur,2018041,76685368,151
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Tosin Adarabioyo,Chelsea,1.5,36,Pointsbet,Tottenham Hotspur,2018041,76685368,152
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Reece James,Chelsea,0.5,2.9,Pointsbet,Tottenham Hotspur,2018041,76685368,157
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Reece James,Chelsea,1.5,13,Pointsbet,Tottenham Hotspur,2018041,76685368,158
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,0.5,2.2,Pointsbet,Tottenham Hotspur,2018041,76685368,163
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,1.5,7.5,Pointsbet,Tottenham Hotspur,2018041,76685368,164
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Kiernan Dewsbury-Hall,Chelsea,2.5,36,Pointsbet,Tottenham Hotspur,2018041,76685368,165
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Jadon Sancho,Manchester United,0.5,2.35,Pointsbet,Tottenham Hotspur,2018041,76685368,169
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Jadon Sancho,Manchester United,1.5,9,Pointsbet,Tottenham Hotspur,2018041,76685368,170
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Jadon Sancho,Manchester United,2.5,41,Pointsbet,Tottenham Hotspur,2018041,76685368,171
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,João Félix,Chelsea,0.5,1.42,Pointsbet,Tottenham Hotspur,2018041,76685368,175
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,João Félix,Chelsea,1.5,3,Pointsbet,Tottenham Hotspur,2018041,76685368,176
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,João Félix,Chelsea,2.5,8.5,Pointsbet,Tottenham Hotspur,2018041,76685368,177
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,João Félix,Chelsea,3.5,29,Pointsbet,Tottenham Hotspur,2018041,76685368,178
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,João Félix,Chelsea,4.5,91,Pointsbet,Tottenham Hotspur,2018041,76685368,179
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Cucurella,Chelsea,0.5,10,Pointsbet,Tottenham Hotspur,2018041,76685368,181
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Neto,Chelsea,0.5,1.83,Pointsbet,Tottenham Hotspur,2018041,76685368,187
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Neto,Chelsea,1.5,5,Pointsbet,Tottenham Hotspur,2018041,76685368,188
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Neto,Chelsea,2.5,20,Pointsbet,Tottenham Hotspur,2018041,76685368,189
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Pedro Neto,Chelsea,3.5,91,Pointsbet,Tottenham Hotspur,2018041,76685368,190
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Benoît Badiashile,Chelsea,0.5,5,Pointsbet,Tottenham Hotspur,2018041,76685368,193
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Benoît Badiashile,Chelsea,1.5,36,Pointsbet,Tottenham Hotspur,2018041,76685368,194
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Noni Madueke,Chelsea,0.5,1.5,Pointsbet,Tottenham Hotspur,2018041,76685368,199
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Noni Madueke,Chelsea,1.5,3.4,Pointsbet,Tottenham Hotspur,2018041,76685368,200
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Noni Madueke,Chelsea,2.5,10,Pointsbet,Tottenham Hotspur,2018041,76685368,201
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Noni Madueke,Chelsea,3.5,36,Pointsbet,Tottenham Hotspur,2018041,76685368,202
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Mykhailo Mudryk,NA,0.5,1.87,Pointsbet,NA,2018041,76685368,205
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Mykhailo Mudryk,NA,1.5,5.25,Pointsbet,NA,2018041,76685368,206
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Mykhailo Mudryk,NA,2.5,21,Pointsbet,NA,2018041,76685368,207
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cole Palmer,Chelsea,0.5,1.29,Pointsbet,Tottenham Hotspur,2018041,76685368,211
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cole Palmer,Chelsea,1.5,2.4,Pointsbet,Tottenham Hotspur,2018041,76685368,212
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cole Palmer,Chelsea,2.5,5.75,Pointsbet,Tottenham Hotspur,2018041,76685368,213
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cole Palmer,Chelsea,3.5,16,Pointsbet,Tottenham Hotspur,2018041,76685368,214
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Cole Palmer,Chelsea,4.5,51,Pointsbet,Tottenham Hotspur,2018041,76685368,215
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Enzo Fernández,Chelsea,0.5,2.6,Pointsbet,Tottenham Hotspur,2018041,76685368,217
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Enzo Fernández,Chelsea,1.5,10.5,Pointsbet,Tottenham Hotspur,2018041,76685368,218
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Enzo Fernández,Chelsea,2.5,61,Pointsbet,Tottenham Hotspur,2018041,76685368,219
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Moisés Caicedo,Chelsea,0.5,5.25,Pointsbet,Tottenham Hotspur,2018041,76685368,223
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Moisés Caicedo,Chelsea,1.5,51,Pointsbet,Tottenham Hotspur,2018041,76685368,224
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wesley Fofana,Chelsea,0.5,6.5,Pointsbet,Tottenham Hotspur,2018041,76685368,229
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Wesley Fofana,Chelsea,1.5,61,Pointsbet,Tottenham Hotspur,2018041,76685368,230
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Levi Colwill,Chelsea,0.5,6,Pointsbet,Tottenham Hotspur,2018041,76685368,235
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Levi Colwill,Chelsea,1.5,61,Pointsbet,Tottenham Hotspur,2018041,76685368,236
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Malo Gusto,Chelsea,0.5,5.75,Pointsbet,Tottenham Hotspur,2018041,76685368,241
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Malo Gusto,Chelsea,1.5,51,Pointsbet,Tottenham Hotspur,2018041,76685368,242
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,C. Casadei,NA,0.5,2.55,Pointsbet,NA,2018041,76685368,247
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,C. Casadei,NA,1.5,10.5,Pointsbet,NA,2018041,76685368,248
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,C. Casadei,NA,2.5,61,Pointsbet,NA,2018041,76685368,249
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Nicolas Jackson,Chelsea,0.5,1.44,Pointsbet,Tottenham Hotspur,2018041,76685368,253
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Nicolas Jackson,Chelsea,1.5,3.1,Pointsbet,Tottenham Hotspur,2018041,76685368,254
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Nicolas Jackson,Chelsea,2.5,9,Pointsbet,Tottenham Hotspur,2018041,76685368,255
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Nicolas Jackson,Chelsea,3.5,29,Pointsbet,Tottenham Hotspur,2018041,76685368,256
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Carney Chukwuemeka,Chelsea,0.5,2.3,Pointsbet,Tottenham Hotspur,2018041,76685368,259
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Carney Chukwuemeka,Chelsea,1.5,8.5,Pointsbet,Tottenham Hotspur,2018041,76685368,260
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Carney Chukwuemeka,Chelsea,2.5,41,Pointsbet,Tottenham Hotspur,2018041,76685368,261
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Roméo Lavia,Chelsea,0.5,5.25,Pointsbet,Tottenham Hotspur,2018041,76685368,265
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Roméo Lavia,Chelsea,1.5,51,Pointsbet,Tottenham Hotspur,2018041,76685368,266
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Renato Veiga,Chelsea,0.5,4,Pointsbet,Tottenham Hotspur,2018041,76685368,271
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Renato Veiga,Chelsea,1.5,26,Pointsbet,Tottenham Hotspur,2018041,76685368,272
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Guiu,Chelsea,0.5,1.33,Pointsbet,Tottenham Hotspur,2018041,76685368,277
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Guiu,Chelsea,1.5,2.55,Pointsbet,Tottenham Hotspur,2018041,76685368,278
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Guiu,Chelsea,2.5,6.5,Pointsbet,Tottenham Hotspur,2018041,76685368,279
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Guiu,Chelsea,3.5,19,Pointsbet,Tottenham Hotspur,2018041,76685368,280
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,Marc Guiu,Chelsea,4.5,61,Pointsbet,Tottenham Hotspur,2018041,76685368,281
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,O. Kellyman,NA,0.5,1.69,Pointsbet,NA,2018041,76685368,283
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,O. Kellyman,NA,1.5,4.4,Pointsbet,NA,2018041,76685368,284
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,O. Kellyman,NA,2.5,15,Pointsbet,NA,2018041,76685368,285
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots on Target,O. Kellyman,NA,3.5,61,Pointsbet,NA,2018041,76685368,286

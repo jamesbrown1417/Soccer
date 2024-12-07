@@ -1,328 +1,733 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,agency
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Curtis Jones,Liverpool,Manchester City,0.5,1.32,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Luis Díaz,Liverpool,Manchester City,0.5,1.04,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Alexis Mac Allister,Liverpool,Manchester City,0.5,1.32,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Dominik Szoboszlai,Liverpool,Manchester City,0.5,1.2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Conor Bradley,Liverpool,Manchester City,0.5,1.5,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Konstantinos Tsimikas,Liverpool,Manchester City,0.5,1.6800000000000002,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Liverpool,0.5,1.15,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Diogo Jota,Liverpool,Manchester City,0.5,1.02,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Matheus Nunes,Manchester City,Liverpool,0.5,1.22,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jarell Quansah,Liverpool,Manchester City,0.5,1.7,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Liverpool,0.5,1.07,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Virgil Van Dijk,NA,NA,0.5,1.6,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Josko Gvardiol,Manchester City,Liverpool,0.5,1.42,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Manuel Akanji,Manchester City,Liverpool,0.5,1.7,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Rico Lewis,Manchester City,Liverpool,0.5,1.5,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Federico Chiesa,Liverpool,Manchester City,0.5,1.01,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ryan Gravenberch,Liverpool,Manchester City,0.5,1.3599999999999999,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jacob Wright,NA,NA,0.5,1.4,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Phil Foden,Manchester City,Liverpool,0.5,1.04,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Joseph Gomez,NA,NA,0.5,1.65,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Harvey Elliott,Liverpool,Manchester City,0.5,1.19,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Cody Gakpo,Liverpool,Manchester City,0.5,1.06,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,James McAtee,Manchester City,Liverpool,0.5,1.19,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ranel Young,NA,NA,0.5,1.08,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jérémy Doku,Manchester City,Liverpool,0.5,1.17,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Wataru Endo,Liverpool,Manchester City,0.5,1.3599999999999999,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Tyler Morton,NA,NA,0.5,1.42,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ilkay Gündogan,NA,NA,0.5,1.26,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Mohamed Salah,Liverpool,Manchester City,0.5,1.01,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Savio Moreira,NA,NA,0.5,1.16,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jack Grealish,Manchester City,Liverpool,0.5,1.16,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Trent Alexander-Arnold,Liverpool,Manchester City,0.5,1.3599999999999999,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Bernardo Silva,Manchester City,Liverpool,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Joshua Zirkzee,Manchester United,Everton,4.5,2.35,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Amad Diallo,Manchester United,Everton,4.5,3.1,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Mason Mount,Manchester United,Everton,4.5,4.5,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Marcus Rashford,Manchester United,Everton,4.5,3.1,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Ethan Wheatley,NA,NA,4.5,2.35,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dominic Calvert-Lewin,Everton,Manchester United,4.5,4.5,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Antony,Manchester United,Everton,4.5,3.9,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Rasmus Hojlund,NA,NA,4.5,3.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Bruno Fernandes,Manchester United,Everton,4.5,2.4,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Alejandro Garnacho,Manchester United,Everton,4.5,2.4,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Casemiro,Manchester United,Everton,2.5,3.25,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Rasmus Hojlund,NA,NA,2.5,1.48,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Mason Mount,Manchester United,Everton,2.5,1.78,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Alejandro Garnacho,Manchester United,Everton,2.5,1.26,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Beto,Everton,Manchester United,2.5,2.3,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Ethan Wheatley,NA,NA,2.5,1.3,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jesper Lindstrøm,Everton,Manchester United,2.5,3.3,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Antony,Manchester United,Everton,2.5,1.67,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Joshua Zirkzee,Manchester United,Everton,2.5,1.3,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Amad Diallo,Manchester United,Everton,2.5,1.48,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Armando Broja,Everton,Manchester United,2.5,3.25,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Bruno Fernandes,Manchester United,Everton,2.5,1.28,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dominic Calvert-Lewin,Everton,Manchester United,2.5,1.8199999999999998,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Marcus Rashford,Manchester United,Everton,2.5,1.48,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dejan Kulusevski,Tottenham Hotspur,Fulham,0.5,1.07,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Destiny Udogie,Tottenham Hotspur,Fulham,0.5,1.6,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pape Matar Sarr,Tottenham Hotspur,Fulham,0.5,1.15,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Rodrigo Muniz,Fulham,Tottenham Hotspur,0.5,1.01,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Yves Bissouma,Tottenham Hotspur,Fulham,0.5,1.26,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Lucas Bergvall,Tottenham Hotspur,Fulham,0.5,1.08,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Adama Traoré,Fulham,Tottenham Hotspur,0.5,1.2,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Arsenal,Tottenham Hotspur,0.5,1.16,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Fulham,Tottenham Hotspur,0.5,1.16,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Sander Berge,Fulham,Tottenham Hotspur,0.5,1.46,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Tom Cairney,Fulham,Tottenham Hotspur,0.5,1.32,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Joachim Andersen,Crystal Palace,Tottenham Hotspur,0.5,1.73,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Joachim Andersen,Fulham,Tottenham Hotspur,0.5,1.73,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Kenny Tete,Fulham,Tottenham Hotspur,0.5,1.7,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,James Maddison,Tottenham Hotspur,Fulham,0.5,1.01,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Archie Gray,Tottenham Hotspur,Fulham,0.5,1.3599999999999999,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Brennan Johnson,Tottenham Hotspur,Fulham,0.5,1.01,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Harry Wilson,Fulham,Tottenham Hotspur,0.5,1.17,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Djed Spence,Tottenham Hotspur,Fulham,0.5,1.42,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Cristian Romero,Tottenham Hotspur,Fulham,0.5,1.72,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Saša Lukić,Fulham,Tottenham Hotspur,0.5,1.42,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Jorge Cuenca,Fulham,Tottenham Hotspur,0.5,1.6,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Raúl Jiménez,Fulham,Tottenham Hotspur,0.5,1.02,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Alexander Iwobi,NA,NA,0.5,1.16,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pedro Porro,Tottenham Hotspur,Fulham,0.5,1.07,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Ryan Sessegnon,Fulham,Tottenham Hotspur,0.5,1.35,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Andreas Pereira,Fulham,Tottenham Hotspur,0.5,1.15,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Emile Smith Rowe,Fulham,Tottenham Hotspur,0.5,1.2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Savio Moreira,NA,NA,2.5,3.3,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Phil Foden,Manchester City,Liverpool,2.5,2.3,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Erling Haaland,Manchester City,Liverpool,2.5,1.48,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Cody Gakpo,Liverpool,Manchester City,2.5,2.45,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Mohamed Salah,Liverpool,Manchester City,2.5,1.67,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Federico Chiesa,Liverpool,Manchester City,2.5,1.8199999999999998,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Liverpool,2.5,2.6,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jérémy Doku,Manchester City,Liverpool,2.5,3.3,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Liverpool,2.5,3.2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Darwin Núñez,Liverpool,Manchester City,2.5,1.5,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Diogo Jota,Liverpool,Manchester City,2.5,2.1,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ranel Young,NA,NA,2.5,2.65,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Luis Díaz,Liverpool,Manchester City,2.5,2.35,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Timo Werner,Tottenham Hotspur,Fulham,2.5,1.46,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,James Maddison,Tottenham Hotspur,Fulham,2.5,1.8199999999999998,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Heung-min Son,Tottenham Hotspur,Fulham,2.5,1.5,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dejan Kulusevski,Tottenham Hotspur,Fulham,2.5,2.5,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Harry Wilson,Fulham,Tottenham Hotspur,2.5,3.25,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pape Matar Sarr,Tottenham Hotspur,Fulham,2.5,3.25,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Lucas Bergvall,Tottenham Hotspur,Fulham,2.5,2.6,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dominic Solanke,Tottenham Hotspur,Fulham,2.5,1.48,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Arsenal,Tottenham Hotspur,2.5,3.3,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Fulham,Tottenham Hotspur,2.5,3.3,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pedro Porro,Tottenham Hotspur,Fulham,2.5,2.6,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Raúl Jiménez,Fulham,Tottenham Hotspur,2.5,2.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Brennan Johnson,Tottenham Hotspur,Fulham,2.5,1.62,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Rodrigo Muniz,Fulham,Tottenham Hotspur,2.5,2,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Reece James,Chelsea,Aston Villa,0.5,1.2,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Amadou Onana,Aston Villa,Chelsea,0.5,1.35,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Enzo Fernández,Chelsea,Aston Villa,0.5,1.2,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,Chelsea,0.5,1.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Levi Colwill,Chelsea,Aston Villa,0.5,1.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Renato Veiga,Chelsea,Aston Villa,0.5,1.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Tosin Adarabioyo,Chelsea,Aston Villa,0.5,1.48,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Leon Bailey,Aston Villa,Chelsea,0.5,1.19,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Pedro Neto,Chelsea,Aston Villa,0.5,1.01,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Benoît Badiashile,Chelsea,Aston Villa,0.5,1.42,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Roméo Lavia,Chelsea,Aston Villa,0.5,1.42,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,Chelsea,0.5,1.02,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jhon Durán,Aston Villa,Chelsea,0.5,1.01,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Malo Gusto,Chelsea,Aston Villa,0.5,1.42,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,John McGinn,Aston Villa,Chelsea,0.5,1.3599999999999999,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Matthew Cash,NA,NA,0.5,1.5699999999999998,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Mykhaylo Mudryk,Chelsea,Aston Villa,0.5,1.02,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Moisés Caicedo,Chelsea,Aston Villa,0.5,1.52,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Carney Chukwuemeka,Chelsea,Aston Villa,0.5,1.17,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Emiliano Buendía,Aston Villa,Chelsea,0.5,1.1400000000000001,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Kiernan Dewsbury-Hall,Chelsea,Aston Villa,0.5,1.08,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,Chelsea,0.5,1.58,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jaden Philogene,Aston Villa,Chelsea,0.5,1.08,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Noni Madueke,Chelsea,Aston Villa,0.5,1.01,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Wesley Fofana,Chelsea,Aston Villa,0.5,1.5,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,Chelsea,0.5,1.58,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jadon Sancho,Manchester United,Chelsea,0.5,1.07,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,Chelsea,0.5,1.16,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Axel Disasi,Chelsea,Aston Villa,0.5,1.42,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Marc Cucurella,Chelsea,Aston Villa,0.5,1.67,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ross Barkley,Aston Villa,Chelsea,0.5,1.3,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cesare Casadei,Chelsea,Aston Villa,0.5,1.17,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Lucas Digne,Aston Villa,Chelsea,0.5,1.7,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Alexis Mac Allister,Liverpool,Manchester City,1.5,2.45,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Harvey Elliott,Liverpool,Manchester City,1.5,1.98,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Curtis Jones,Liverpool,Manchester City,1.5,2.45,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ilkay Gündogan,NA,NA,1.5,2.3,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,James McAtee,Manchester City,Liverpool,1.5,2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Luis Díaz,Liverpool,Manchester City,1.5,1.5,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Dominik Szoboszlai,Liverpool,Manchester City,1.5,2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Phil Foden,Manchester City,Liverpool,1.5,1.48,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Matheus Nunes,Manchester City,Liverpool,1.5,2.1,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jack Grealish,Manchester City,Liverpool,1.5,1.9,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Jérémy Doku,Manchester City,Liverpool,1.5,1.9100000000000001,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Erling Haaland,Manchester City,Liverpool,1.5,1.1400000000000001,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Savio Moreira,NA,NA,1.5,1.9,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Liverpool,1.5,1.58,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Liverpool,1.5,1.85,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Federico Chiesa,Liverpool,Manchester City,1.5,1.28,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Diogo Jota,Liverpool,Manchester City,1.5,1.4,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Cody Gakpo,Liverpool,Manchester City,1.5,1.55,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Mohamed Salah,Liverpool,Manchester City,1.5,1.22,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Darwin Núñez,Liverpool,Manchester City,1.5,1.1400000000000001,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Ranel Young,NA,NA,1.5,1.62,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Rasmus Hojlund,NA,NA,1.5,1.1400000000000001,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Casemiro,Manchester United,Everton,1.5,1.83,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Joshua Zirkzee,Manchester United,Everton,1.5,1.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jesper Lindstrøm,Everton,Manchester United,1.5,1.88,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Diogo Dalot,Manchester United,Everton,1.5,2.25,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Armando Broja,Everton,Manchester United,1.5,1.73,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Iliman Ndiaye,Everton,Manchester United,1.5,1.88,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Toby Collyer,Manchester United,Everton,1.5,2.25,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Christian Eriksen,Manchester United,Everton,1.5,2.02,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Kobbie Mainoo,Manchester United,Everton,1.5,2.25,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Ethan Wheatley,NA,NA,1.5,1.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dwight McNeil,Everton,Manchester United,1.5,2.1,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Amad Diallo,Manchester United,Everton,1.5,1.13,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dominic Calvert-Lewin,Everton,Manchester United,1.5,1.28,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Antony,Manchester United,Everton,1.5,1.22,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Beto,Everton,Manchester United,1.5,1.5,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Alejandro Garnacho,Manchester United,Everton,1.5,1.04,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jack Harrison,Everton,Manchester United,1.5,2.45,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Mason Mount,Manchester United,Everton,1.5,1.26,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Bruno Fernandes,Manchester United,Everton,1.5,1.04,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Marcus Rashford,Manchester United,Everton,1.5,1.13,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Noni Madueke,Chelsea,Aston Villa,3.5,2.75,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Christopher Nkunku,Chelsea,Aston Villa,3.5,1.7,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cole Palmer,Chelsea,Aston Villa,3.5,1.6800000000000002,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Pedro Neto,Chelsea,Aston Villa,3.5,2.45,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Marc Guiu,Chelsea,Aston Villa,3.5,2.05,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,Chelsea,3.5,3.35,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Nicolas Jackson,Chelsea,Aston Villa,3.5,2.1,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,João Félix,Chelsea,Aston Villa,3.5,2.1,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Mykhaylo Mudryk,Chelsea,Aston Villa,3.5,3.35,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jhon Durán,Aston Villa,Chelsea,3.5,3.2,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Luis Díaz,Liverpool,Manchester City,3.5,3.9,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Darwin Núñez,Liverpool,Manchester City,3.5,2.1,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Diogo Jota,Liverpool,Manchester City,3.5,3.35,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Mohamed Salah,Liverpool,Manchester City,3.5,2.45,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Erling Haaland,Manchester City,Liverpool,3.5,2.1,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Phil Foden,Manchester City,Liverpool,3.5,3.9,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Federico Chiesa,Liverpool,Manchester City,3.5,2.8,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Amad Diallo,Manchester United,Everton,3.5,2.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Marcus Rashford,Manchester United,Everton,3.5,2.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Antony,Manchester United,Everton,3.5,2.45,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Ethan Wheatley,NA,NA,3.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Bruno Fernandes,Manchester United,Everton,3.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Joshua Zirkzee,Manchester United,Everton,3.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dominic Calvert-Lewin,Everton,Manchester United,3.5,2.75,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Rasmus Hojlund,NA,NA,3.5,2.05,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Alejandro Garnacho,Manchester United,Everton,3.5,1.6800000000000002,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Mason Mount,Manchester United,Everton,3.5,2.75,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Beto,Everton,Manchester United,3.5,3.8,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Erling Haaland,Manchester City,Liverpool,4.5,3.1,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Darwin Núñez,Liverpool,Manchester City,4.5,3.15,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Mohamed Salah,Liverpool,Manchester City,4.5,3.8,Neds
-Liverpool v Manchester City,Liverpool,Manchester City,Player Shots,Federico Chiesa,Liverpool,Manchester City,4.5,4.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Christopher Nkunku,Chelsea,Aston Villa,1.5,1.04,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cole Palmer,Chelsea,Aston Villa,1.5,1.04,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cesare Casadei,Chelsea,Aston Villa,1.5,1.9,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Marc Guiu,Chelsea,Aston Villa,1.5,1.1400000000000001,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Nicolas Jackson,Chelsea,Aston Villa,1.5,1.13,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Reece James,Chelsea,Aston Villa,1.5,2,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Kiernan Dewsbury-Hall,Chelsea,Aston Villa,1.5,1.58,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jaden Philogene,Aston Villa,Chelsea,1.5,1.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,João Félix,Chelsea,Aston Villa,1.5,1.1400000000000001,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Enzo Fernández,Chelsea,Aston Villa,1.5,2.02,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Leon Bailey,Aston Villa,Chelsea,1.5,1.98,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ross Barkley,Aston Villa,Chelsea,1.5,2.45,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Mykhaylo Mudryk,Chelsea,Aston Villa,1.5,1.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,Chelsea,1.5,1.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jhon Durán,Aston Villa,Chelsea,1.5,1.3599999999999999,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jadon Sancho,Manchester United,Chelsea,1.5,1.58,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,Chelsea,1.5,1.9,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Noni Madueke,Chelsea,Aston Villa,1.5,1.28,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Emiliano Buendía,Aston Villa,Chelsea,1.5,1.83,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Pedro Neto,Chelsea,Aston Villa,1.5,1.22,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Carney Chukwuemeka,Chelsea,Aston Villa,1.5,1.92,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Pedro Neto,Chelsea,Aston Villa,2.5,1.67,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cesare Casadei,Chelsea,Aston Villa,2.5,3.3,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Kiernan Dewsbury-Hall,Chelsea,Aston Villa,2.5,2.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Nicolas Jackson,Chelsea,Aston Villa,2.5,1.48,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,João Félix,Chelsea,Aston Villa,2.5,1.5,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Emiliano Buendía,Aston Villa,Chelsea,2.5,3.2,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jaden Philogene,Aston Villa,Chelsea,2.5,2.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Marc Guiu,Chelsea,Aston Villa,2.5,1.48,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cole Palmer,Chelsea,Aston Villa,2.5,1.28,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Noni Madueke,Chelsea,Aston Villa,2.5,1.83,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Christopher Nkunku,Chelsea,Aston Villa,2.5,1.3,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,Chelsea,2.5,2.1,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jadon Sancho,Manchester United,Chelsea,2.5,2.6,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Jhon Durán,Aston Villa,Chelsea,2.5,2.02,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Mykhaylo Mudryk,Chelsea,Aston Villa,2.5,2.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Brennan Johnson,Tottenham Hotspur,Fulham,3.5,2.35,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Timo Werner,Tottenham Hotspur,Fulham,3.5,2.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Heung-min Son,Tottenham Hotspur,Fulham,3.5,2.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Raúl Jiménez,Fulham,Tottenham Hotspur,3.5,3.35,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dominic Solanke,Tottenham Hotspur,Fulham,3.5,2.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Rodrigo Muniz,Fulham,Tottenham Hotspur,3.5,3.2,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,James Maddison,Tottenham Hotspur,Fulham,3.5,2.8,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Noni Madueke,Chelsea,Aston Villa,4.5,4.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,João Félix,Chelsea,Aston Villa,4.5,3.15,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Nicolas Jackson,Chelsea,Aston Villa,4.5,3.15,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Pedro Neto,Chelsea,Aston Villa,4.5,3.9,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Marc Guiu,Chelsea,Aston Villa,4.5,3.15,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Christopher Nkunku,Chelsea,Aston Villa,4.5,2.4,Neds
-Chelsea v Aston Villa,Chelsea,Aston Villa,Player Shots,Cole Palmer,Chelsea,Aston Villa,4.5,2.4,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Timo Werner,Tottenham Hotspur,Fulham,1.5,1.13,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Emile Smith Rowe,Fulham,Tottenham Hotspur,1.5,2,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dominic Solanke,Tottenham Hotspur,Fulham,1.5,1.1400000000000001,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Tom Cairney,Fulham,Tottenham Hotspur,1.5,2.45,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,James Maddison,Tottenham Hotspur,Fulham,1.5,1.26,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Lucas Bergvall,Tottenham Hotspur,Fulham,1.5,1.62,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Yves Bissouma,Tottenham Hotspur,Fulham,1.5,2.25,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Alexander Iwobi,NA,NA,1.5,1.88,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pape Matar Sarr,Tottenham Hotspur,Fulham,1.5,1.85,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Arsenal,Tottenham Hotspur,1.5,1.88,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Reiss Nelson,Fulham,Tottenham Hotspur,1.5,1.88,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Heung-min Son,Tottenham Hotspur,Fulham,1.5,1.1400000000000001,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Pedro Porro,Tottenham Hotspur,Fulham,1.5,1.58,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Raúl Jiménez,Fulham,Tottenham Hotspur,1.5,1.4,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Rodrigo Muniz,Fulham,Tottenham Hotspur,1.5,1.3599999999999999,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Andreas Pereira,Fulham,Tottenham Hotspur,1.5,1.87,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dejan Kulusevski,Tottenham Hotspur,Fulham,1.5,1.5699999999999998,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Harry Wilson,Fulham,Tottenham Hotspur,1.5,1.88,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Adama Traoré,Fulham,Tottenham Hotspur,1.5,1.98,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Brennan Johnson,Tottenham Hotspur,Fulham,1.5,1.2,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Armando Broja,Everton,Manchester United,0.5,1.12,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jonny Evans,Manchester United,Everton,0.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Christian Eriksen,Manchester United,Everton,0.5,1.2,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Diogo Dalot,Manchester United,Everton,0.5,1.26,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Manuel Ugarte,Manchester United,Everton,0.5,1.48,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Kobbie Mainoo,Manchester United,Everton,0.5,1.24,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Vitaliy Mykolenko,Everton,Manchester United,0.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Mason Mount,Manchester United,Everton,0.5,1.01,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Orel Mangala,Everton,Manchester United,0.5,1.5,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Beto,Everton,Manchester United,0.5,1.04,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Idrissa Gueye,Everton,Manchester United,0.5,1.6800000000000002,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Harrison Armstrong,Everton,Manchester United,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Noussair Mazraoui,Manchester United,Everton,0.5,1.35,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Harry Maguire,Manchester United,Everton,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jesper Lindstrøm,Everton,Manchester United,0.5,1.16,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Toby Collyer,Manchester United,Everton,0.5,1.26,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Harry Amass,NA,NA,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Iliman Ndiaye,Everton,Manchester United,0.5,1.16,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dwight McNeil,Everton,Manchester United,0.5,1.24,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Michael Keane,Everton,Manchester United,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Jack Harrison,Everton,Manchester United,0.5,1.3,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Matthijs De Ligt,NA,NA,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Dominic Calvert-Lewin,Everton,Manchester United,0.5,1.01,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Antony,Manchester United,Everton,0.5,1.01,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Leny Yoro,Manchester United,Everton,0.5,1.58,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Luke Shaw,Manchester United,Everton,0.5,1.7,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Ashley Young,Everton,Manchester United,0.5,1.5,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,James Tarkowski,Everton,Manchester United,0.5,1.58,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Lisandro Martínez,Manchester United,Everton,0.5,1.6800000000000002,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Casemiro,Manchester United,Everton,0.5,1.1400000000000001,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Abdoulaye Doucouré,Everton,Manchester United,0.5,1.38,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Callum Bates,NA,NA,0.5,1.42,Neds
-Manchester United v Everton,Manchester United,Everton,Player Shots,Tyrell Malacia,Manchester United,Everton,0.5,1.3599999999999999,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Timo Werner,Tottenham Hotspur,Fulham,4.5,3.1,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Heung-min Son,Tottenham Hotspur,Fulham,4.5,3.05,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,James Maddison,Tottenham Hotspur,Fulham,4.5,4.5,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Brennan Johnson,Tottenham Hotspur,Fulham,4.5,3.7,Neds
-Tottenham Hotspur v Fulham,Tottenham Hotspur,Fulham,Player Shots,Dominic Solanke,Tottenham Hotspur,Fulham,4.5,3.1,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Bukayo Saka,Arsenal,Fulham,3.5,2.45,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kai Havertz,Arsenal,Fulham,3.5,2.45,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Martinelli,Arsenal,Fulham,3.5,3.35,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raúl Jiménez,Fulham,Arsenal,3.5,3.6,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raheem Sterling,Arsenal,Fulham,3.5,3.2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Ethan Nwaneri,Arsenal,Fulham,3.5,3.2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Rodrigo Muniz,Fulham,Arsenal,3.5,3.4,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Leandro Trossard,Arsenal,Fulham,3.5,2.5,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Jesus,Arsenal,Fulham,3.5,2.35,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Sean Longstaff,Newcastle United,Brentford,0.5,1.22,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Fábio Carvalho,Brentford,Newcastle United,0.5,1.08,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Alex Murphy,Newcastle United,Brentford,0.5,1.6800000000000002,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Miguel Almirón,Newcastle United,Brentford,0.5,1.01,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Mikkel Damsgaard,Brentford,Newcastle United,0.5,1.3,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bryan Mbeumo,Brentford,Newcastle United,0.5,1.01,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Joe Willock,Newcastle United,Brentford,0.5,1.08,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Dan Burn,Newcastle United,Brentford,0.5,1.4,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Sandro Tonali,Newcastle United,Brentford,0.5,1.44,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Joelinton,Newcastle United,Brentford,0.5,1.17,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Vitaly Janelt,Brentford,Newcastle United,0.5,1.42,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Yoane Wissa,Brentford,Newcastle United,0.5,1.01,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bruno Guimarães,Newcastle United,Brentford,0.5,1.26,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Sepp Van den Berg,NA,NA,0.5,1.72,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Jayden Meghoma,Brentford,Newcastle United,0.5,1.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Lewis Hall,Newcastle United,Brentford,0.5,1.22,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Anthony Gordon,Newcastle United,Brentford,0.5,1.01,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Jacob Murphy,Newcastle United,Brentford,0.5,1.08,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Mathias Jensen,Brentford,Newcastle United,0.5,1.3599999999999999,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Fabian Schär,Newcastle United,Brentford,0.5,1.22,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Harvey Barnes,Newcastle United,Brentford,0.5,1.01,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Ryan Trevitt,Brentford,Newcastle United,0.5,1.26,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Lloyd Kelly,Newcastle United,Brentford,0.5,1.6800000000000002,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Christian Nørgaard,Brentford,Newcastle United,0.5,1.3599999999999999,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Kevin Schade,Brentford,Newcastle United,0.5,1.08,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Tino Livramento,Newcastle United,Brentford,0.5,1.6800000000000002,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Mads Roerslev,Brentford,Newcastle United,0.5,1.6800000000000002,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Ben Mee,Brentford,Newcastle United,0.5,1.4,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Lewis Miley,Newcastle United,Brentford,0.5,1.22,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Keane Lewis-Potter,Brentford,Newcastle United,0.5,1.2,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Crysencio Summerville,West Ham United,Wolverhampton Wanderers,4.5,4.5,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mohammed Kudus,West Ham United,Wolverhampton Wanderers,4.5,4.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jarrod Bowen,West Ham United,Wolverhampton Wanderers,4.5,3.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Danny Ings,West Ham United,Wolverhampton Wanderers,4.5,4.4,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Niclas Füllkrug,West Ham United,Wolverhampton Wanderers,4.5,4.5,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matheus Cunha,Wolverhampton Wanderers,West Ham United,4.5,4.5,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Rasmus Hojlund,NA,NA,4.5,4.25,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Amad Diallo,Manchester United,Nottingham Forest,4.5,4.5,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Alejandro Garnacho,Manchester United,Nottingham Forest,4.5,3.15,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Bruno Fernandes,Manchester United,Nottingham Forest,4.5,3.6,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ethan Wheatley,NA,NA,4.5,3.1,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Marcus Rashford,Manchester United,Nottingham Forest,4.5,4.4,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Joshua Zirkzee,Manchester United,Nottingham Forest,4.5,2.4,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Antoine Semenyo,Bournemouth,Ipswich Town,4.5,3.2,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Conor Chaplin,Ipswich Town,Bournemouth,4.5,4.5,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Sammie Szmodics,Ipswich Town,Bournemouth,4.5,4.5,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ali Al-Hamadi,Ipswich Town,Bournemouth,4.5,4.5,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Enes Unal,NA,NA,4.5,3.15,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,David Brooks,Bournemouth,Ipswich Town,4.5,3.9,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Evanilson,Bournemouth,Ipswich Town,4.5,3.9,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Casemiro,Manchester United,Nottingham Forest,1.5,2,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ethan Wheatley,NA,NA,1.5,1.13,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Antony,Manchester United,Nottingham Forest,1.5,1.44,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,Manchester United,1.5,1.48,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Bruno Fernandes,Manchester United,Nottingham Forest,1.5,1.2,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,Manchester United,1.5,1.62,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Christian Eriksen,Manchester United,Nottingham Forest,1.5,2.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Elliot Anderson,Nottingham Forest,Manchester United,1.5,2.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Jota Silva,Nottingham Forest,Manchester United,1.5,1.55,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Marcus Rashford,Manchester United,Nottingham Forest,1.5,1.28,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ramón Sosa,Nottingham Forest,Manchester United,1.5,2.25,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Amad Diallo,Manchester United,Nottingham Forest,1.5,1.28,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Rasmus Hojlund,NA,NA,1.5,1.28,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Eric da Silva,NA,NA,1.5,2.45,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Mason Mount,Manchester United,Nottingham Forest,1.5,1.5,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Joshua Zirkzee,Manchester United,Nottingham Forest,1.5,1.05,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Anthony Elanga,Nottingham Forest,Manchester United,1.5,2.1,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Alejandro Garnacho,Manchester United,Nottingham Forest,1.5,1.13,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,Manchester United,1.5,1.83,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,Manchester United,1.5,1.9,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Jesus,Arsenal,Fulham,1.5,1.2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Martin Ødegaard,Arsenal,Fulham,1.5,1.62,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Harry Wilson,Fulham,Arsenal,1.5,2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raúl Jiménez,Fulham,Arsenal,1.5,1.44,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Declan Rice,Arsenal,Fulham,1.5,2.1,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Ethan Nwaneri,Arsenal,Fulham,1.5,1.3599999999999999,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Rodrigo Muniz,Fulham,Arsenal,1.5,1.4,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Bukayo Saka,Arsenal,Fulham,1.5,1.22,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Leandro Trossard,Arsenal,Fulham,1.5,1.22,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Alexander Iwobi,NA,NA,1.5,1.98,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Andreas Pereira,Fulham,Arsenal,1.5,1.98,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Martinelli,Arsenal,Fulham,1.5,1.4,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Adama Traoré,Fulham,Arsenal,1.5,2.15,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kai Havertz,Arsenal,Fulham,1.5,1.22,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Mikel Merino,Arsenal,Fulham,1.5,2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raheem Sterling,Arsenal,Fulham,1.5,1.3599999999999999,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Emile Smith Rowe,Fulham,Arsenal,1.5,1.9,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Pablo Sarabia,Wolverhampton Wanderers,West Ham United,3.5,3.9,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Danny Ings,West Ham United,Wolverhampton Wanderers,3.5,2.75,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Michail Antonio,West Ham United,Wolverhampton Wanderers,3.5,3.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Crysencio Summerville,West Ham United,Wolverhampton Wanderers,3.5,2.75,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mohammed Kudus,West Ham United,Wolverhampton Wanderers,3.5,2.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jarrod Bowen,West Ham United,Wolverhampton Wanderers,3.5,2.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Niclas Füllkrug,West Ham United,Wolverhampton Wanderers,3.5,2.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matheus Cunha,Wolverhampton Wanderers,West Ham United,3.5,2.75,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jørgen Strand Larsen,Wolverhampton Wanderers,West Ham United,3.5,3.6,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Maxwel Cornet,Southampton,Aston Villa,2.5,2.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jhon Durán,Aston Villa,Southampton,2.5,1.28,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Leon Bailey,Aston Villa,Southampton,2.5,2.05,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jaden Philogene,Aston Villa,Southampton,2.5,1.46,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Tyler Dibling,Southampton,Aston Villa,2.5,3.25,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Cameron Archer,Southampton,Aston Villa,2.5,2.45,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Adam Armstrong,Southampton,Aston Villa,2.5,2.2,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Brereton Díaz,Southampton,Aston Villa,2.5,2.1,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Stewart,Southampton,Aston Villa,2.5,2.2,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Paul Onuachu,Southampton,Aston Villa,2.5,2.02,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Barkley,Aston Villa,Southampton,2.5,2.6,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Emiliano Buendía,Aston Villa,Southampton,2.5,1.67,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,John McGinn,Aston Villa,Southampton,2.5,3.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Morgan Rogers,Aston Villa,Southampton,2.5,1.8199999999999998,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ollie Watkins,Aston Villa,Southampton,2.5,1.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Bruno Fernandes,Manchester United,Nottingham Forest,3.5,2.35,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Amad Diallo,Manchester United,Nottingham Forest,3.5,2.75,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Joshua Zirkzee,Manchester United,Nottingham Forest,3.5,1.7,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Antony,Manchester United,Nottingham Forest,3.5,3.6,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Mason Mount,Manchester United,Nottingham Forest,3.5,3.9,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Alejandro Garnacho,Manchester United,Nottingham Forest,3.5,2.05,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,Manchester United,3.5,3.8,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Marcus Rashford,Manchester United,Nottingham Forest,3.5,2.8,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Rasmus Hojlund,NA,NA,3.5,2.7,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ethan Wheatley,NA,NA,3.5,2.1,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Ethan Nwaneri,Arsenal,Fulham,2.5,2.02,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Jesus,Arsenal,Fulham,2.5,1.62,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Bukayo Saka,Arsenal,Fulham,2.5,1.67,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raúl Jiménez,Fulham,Arsenal,2.5,2.2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Rodrigo Muniz,Fulham,Arsenal,2.5,2.1,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raheem Sterling,Arsenal,Fulham,2.5,2.02,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Emile Smith Rowe,Fulham,Arsenal,2.5,3.3,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Martin Ødegaard,Arsenal,Fulham,2.5,2.6,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Leandro Trossard,Arsenal,Fulham,2.5,1.6800000000000002,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kai Havertz,Arsenal,Fulham,2.5,1.67,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Martinelli,Arsenal,Fulham,2.5,2.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Lucas Paquetá,West Ham United,Wolverhampton Wanderers,2.5,3.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jarrod Bowen,West Ham United,Wolverhampton Wanderers,2.5,1.48,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Hwang Hee-chan,NA,NA,2.5,2.55,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jørgen Strand Larsen,Wolverhampton Wanderers,West Ham United,2.5,2.2,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Niclas Füllkrug,West Ham United,Wolverhampton Wanderers,2.5,1.8199999999999998,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mohammed Kudus,West Ham United,Wolverhampton Wanderers,2.5,1.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Pablo Sarabia,Wolverhampton Wanderers,West Ham United,2.5,2.3,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Andy Irving,West Ham United,Wolverhampton Wanderers,2.5,2.65,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Crysencio Summerville,West Ham United,Wolverhampton Wanderers,2.5,1.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Tomas Soucek,West Ham United,Wolverhampton Wanderers,2.5,2.55,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matheus Cunha,Wolverhampton Wanderers,West Ham United,2.5,1.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Gonçalo Guedes,Wolverhampton Wanderers,West Ham United,2.5,2.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Luis Guilherme,West Ham United,Wolverhampton Wanderers,2.5,3.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Danny Ings,West Ham United,Wolverhampton Wanderers,2.5,1.8,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Michail Antonio,West Ham United,Wolverhampton Wanderers,2.5,1.98,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Patson Daka,Leicester City,Brighton & Hove Albion,3.5,3.15,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Julio Enciso,Brighton & Hove Albion,Leicester City,3.5,1.6800000000000002,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jamie Vardy,Leicester City,Brighton & Hove Albion,3.5,3.6,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Danny Welbeck,Brighton & Hove Albion,Leicester City,3.5,1.6800000000000002,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yankuba Minteh,Brighton & Hove Albion,Leicester City,3.5,2.1,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Simon Adingra,Brighton & Hove Albion,Leicester City,3.5,3.15,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,João Pedro,Brighton & Hove Albion,Leicester City,3.5,1.7,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Georginio Rutter,Brighton & Hove Albion,Leicester City,3.5,2.1,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Evan Ferguson,Brighton & Hove Albion,Leicester City,3.5,2.1,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Sammie Szmodics,Ipswich Town,Bournemouth,2.5,1.83,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Liam Delap,Ipswich Town,Bournemouth,2.5,2.05,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Dango Ouattara,Bournemouth,Ipswich Town,2.5,3.15,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Conor Chaplin,Ipswich Town,Bournemouth,2.5,1.78,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Justin Kluivert,Bournemouth,Ipswich Town,2.5,2.2,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Philip Billing,Bournemouth,Ipswich Town,2.5,2.65,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Omari Hutchinson,Ipswich Town,Bournemouth,2.5,2.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,David Brooks,Bournemouth,Ipswich Town,2.5,1.65,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Marcus Tavernier,Bournemouth,Ipswich Town,2.5,1.98,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Antoine Semenyo,Bournemouth,Ipswich Town,2.5,1.48,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Evanilson,Bournemouth,Ipswich Town,2.5,1.6800000000000002,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jack Clarke,Ipswich Town,Bournemouth,2.5,2.45,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Nathan Broadhead,Ipswich Town,Bournemouth,2.5,3.3,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ali Al-Hamadi,Ipswich Town,Bournemouth,2.5,1.8,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Enes Unal,NA,NA,2.5,1.48,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Christopher Nkunku,Chelsea,Tottenham Hotspur,2.5,1.48,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Heung-min Son,Tottenham Hotspur,Chelsea,2.5,1.8,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dominic Solanke,Tottenham Hotspur,Chelsea,2.5,1.8,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Timo Werner,Tottenham Hotspur,Chelsea,2.5,1.8,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Nicolas Jackson,Chelsea,Tottenham Hotspur,2.5,1.8199999999999998,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Marc Guiu,Chelsea,Tottenham Hotspur,2.5,1.6800000000000002,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cole Palmer,Chelsea,Tottenham Hotspur,2.5,1.28,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,João Félix,Chelsea,Tottenham Hotspur,2.5,1.8,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Jadon Sancho,Manchester United,Tottenham Hotspur,2.5,3.25,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Neto,Chelsea,Tottenham Hotspur,2.5,2.1,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Mykhaylo Mudryk,Chelsea,Tottenham Hotspur,2.5,2.6,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Lucas Bergvall,Tottenham Hotspur,Chelsea,2.5,3.25,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,James Maddison,Tottenham Hotspur,Chelsea,2.5,2.55,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Noni Madueke,Chelsea,Tottenham Hotspur,2.5,2.3,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Brennan Johnson,Tottenham Hotspur,Chelsea,2.5,2.1,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Emiliano Buendía,Aston Villa,Southampton,4.5,4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jhon Durán,Aston Villa,Southampton,4.5,2.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ollie Watkins,Aston Villa,Southampton,4.5,2.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Morgan Rogers,Aston Villa,Southampton,4.5,4.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jaden Philogene,Aston Villa,Southampton,4.5,3.2,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Crystal Palace,2.5,2.35,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Crystal Palace,2.5,2.1,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,James McAtee,Manchester City,Crystal Palace,2.5,2.55,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Savio Moreira,NA,NA,2.5,2.3,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Matheus Nunes,Manchester City,Crystal Palace,2.5,3.15,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jack Grealish,Manchester City,Crystal Palace,2.5,2.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Erling Haaland,Manchester City,Crystal Palace,2.5,1.3,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Ilkay Gündogan,NA,NA,2.5,3.3,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jérémy Doku,Manchester City,Crystal Palace,2.5,2.3,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Asher Agbinone,NA,NA,2.5,3.2,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Phil Foden,Manchester City,Crystal Palace,2.5,1.6800000000000002,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Arsenal,Crystal Palace,2.5,2.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Crystal Palace,Manchester City,2.5,2.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eberechi Eze,Crystal Palace,Manchester City,2.5,1.98,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jean-Philippe Mateta,Crystal Palace,Manchester City,2.5,3.2,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cole Palmer,Chelsea,Tottenham Hotspur,3.5,1.7,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Timo Werner,Tottenham Hotspur,Chelsea,3.5,2.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,João Félix,Chelsea,Tottenham Hotspur,3.5,2.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dominic Solanke,Tottenham Hotspur,Chelsea,3.5,2.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Noni Madueke,Chelsea,Tottenham Hotspur,3.5,3.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Neto,Chelsea,Tottenham Hotspur,3.5,3.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Marc Guiu,Chelsea,Tottenham Hotspur,3.5,2.45,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Nicolas Jackson,Chelsea,Tottenham Hotspur,3.5,2.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Heung-min Son,Tottenham Hotspur,Chelsea,3.5,2.75,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Brennan Johnson,Tottenham Hotspur,Chelsea,3.5,3.35,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Christopher Nkunku,Chelsea,Tottenham Hotspur,3.5,2.1,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Niclas Füllkrug,West Ham United,Wolverhampton Wanderers,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Rodrigo Gomes,Wolverhampton Wanderers,West Ham United,0.5,1.26,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Craig Dawson,Wolverhampton Wanderers,West Ham United,0.5,1.5699999999999998,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Danny Ings,West Ham United,Wolverhampton Wanderers,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Gonçalo Guedes,Wolverhampton Wanderers,West Ham United,0.5,1.08,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mohammed Kudus,West Ham United,Wolverhampton Wanderers,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Tommy Doyle,Wolverhampton Wanderers,West Ham United,0.5,1.2,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Crysencio Summerville,West Ham United,Wolverhampton Wanderers,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Tomas Soucek,West Ham United,Wolverhampton Wanderers,0.5,1.07,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Luis Guilherme,West Ham United,Wolverhampton Wanderers,0.5,1.13,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Pablo Sarabia,Wolverhampton Wanderers,West Ham United,0.5,1.04,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Konstantinos Mavropanos,West Ham United,Wolverhampton Wanderers,0.5,1.5,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Edson Álvarez,West Ham United,Wolverhampton Wanderers,0.5,1.3599999999999999,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Luke Cundle,Wolverhampton Wanderers,West Ham United,0.5,1.73,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Michail Antonio,West Ham United,Wolverhampton Wanderers,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mario Lemina,Wolverhampton Wanderers,West Ham United,0.5,1.26,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Andy Irving,West Ham United,Wolverhampton Wanderers,0.5,1.08,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Hwang Hee-chan,NA,NA,0.5,1.08,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Rayan Aït-Nouri,Wolverhampton Wanderers,West Ham United,0.5,1.26,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matheus Cunha,Wolverhampton Wanderers,West Ham United,0.5,1.01,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Emerson,West Ham United,Wolverhampton Wanderers,0.5,1.42,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Carlos Soler,West Ham United,Wolverhampton Wanderers,0.5,1.26,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Lucas Paquetá,West Ham United,Wolverhampton Wanderers,0.5,1.13,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,João Gomes,Wolverhampton Wanderers,West Ham United,0.5,1.5,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Aaron Cresswell,West Ham United,Wolverhampton Wanderers,0.5,1.58,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,West Ham United,0.5,1.35,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jørgen Strand Larsen,Wolverhampton Wanderers,West Ham United,0.5,1.03,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Guido Rodríguez,West Ham United,Wolverhampton Wanderers,0.5,1.3599999999999999,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Max Kilman,West Ham United,Wolverhampton Wanderers,0.5,1.5699999999999998,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Erling Haaland,Manchester City,Crystal Palace,4.5,2.4,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Phil Foden,Manchester City,Crystal Palace,4.5,3.8,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kaoru Mitoma,Brighton & Hove Albion,Leicester City,0.5,1.07,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Simon Adingra,Brighton & Hove Albion,Leicester City,0.5,1.01,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Joël Veltman,Brighton & Hove Albion,Leicester City,0.5,1.72,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jack Hinshelwood,Brighton & Hove Albion,Leicester City,0.5,1.22,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Mats Wieffer,Brighton & Hove Albion,Leicester City,0.5,1.32,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Adam Webster,Brighton & Hove Albion,Leicester City,0.5,1.58,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Wilfred Ndidi,Leicester City,Brighton & Hove Albion,0.5,1.32,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Carlos Baleba,Brighton & Hove Albion,Leicester City,0.5,1.1400000000000001,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jan Paul Van Hecke,NA,NA,0.5,1.48,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Crystal Palace,Leicester City,0.5,1.07,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Leicester City,Brighton & Hove Albion,0.5,1.07,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jakub Moder,Brighton & Hove Albion,Leicester City,0.5,1.07,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Pervis Estupiñán,Brighton & Hove Albion,Leicester City,0.5,1.3599999999999999,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Brajan Gruda,Brighton & Hove Albion,Leicester City,0.5,1.08,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kasey McAteer,Leicester City,Brighton & Hove Albion,0.5,1.17,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Ferdi Kadioglu,NA,NA,0.5,1.22,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jordan Ayew,Crystal Palace,Leicester City,0.5,1.26,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jordan Ayew,Leicester City,Brighton & Hove Albion,0.5,1.26,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jamie Vardy,Leicester City,Brighton & Hove Albion,0.5,1.03,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Bobby De Cordova-Reid,Leicester City,Brighton & Hove Albion,0.5,1.24,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Patson Daka,Leicester City,Brighton & Hove Albion,0.5,1.01,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Tariq Lamptey,Brighton & Hove Albion,Leicester City,0.5,1.35,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yasin Ayari,Brighton & Hove Albion,Leicester City,0.5,1.07,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Stephy Mavididi,Leicester City,Brighton & Hove Albion,0.5,1.16,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Lewis Dunk,Brighton & Hove Albion,Leicester City,0.5,1.32,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Harvey Barnes,Newcastle United,Brentford,2.5,1.8,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Jacob Murphy,Newcastle United,Brentford,2.5,2.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Anthony Gordon,Newcastle United,Brentford,2.5,1.8,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bryan Mbeumo,Brentford,Newcastle United,2.5,1.8,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Fábio Carvalho,Brentford,Newcastle United,2.5,2.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Alexander Isak,Newcastle United,Brentford,2.5,1.5,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Miguel Almirón,Newcastle United,Brentford,2.5,1.8,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Callum Wilson,Newcastle United,Brentford,2.5,1.28,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Joe Willock,Newcastle United,Brentford,2.5,2.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,William Osula,Newcastle United,Brentford,2.5,1.48,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Kevin Schade,Brentford,Newcastle United,2.5,2.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Yoane Wissa,Brentford,Newcastle United,2.5,1.8,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Noussair Mazraoui,Manchester United,Nottingham Forest,0.5,1.48,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ramón Sosa,Nottingham Forest,Manchester United,0.5,1.26,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Nicolás Domínguez,Nottingham Forest,Manchester United,0.5,1.38,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,Manchester United,0.5,1.05,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,Manchester United,0.5,1.15,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Amad Diallo,Manchester United,Nottingham Forest,0.5,1.01,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Harry Toffolo,Nottingham Forest,Manchester United,0.5,1.73,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Leny Yoro,Manchester United,Nottingham Forest,0.5,1.6800000000000002,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,Manchester United,0.5,1.7,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Jota Silva,Nottingham Forest,Manchester United,0.5,1.06,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,James Ward-Prowse,West Ham United,Manchester United,0.5,1.38,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,James Ward-Prowse,Nottingham Forest,Manchester United,0.5,1.38,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Christian Eriksen,Manchester United,Nottingham Forest,0.5,1.26,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Diogo Dalot,Manchester United,Nottingham Forest,0.5,1.3599999999999999,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,Manchester United,0.5,1.08,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Kobbie Mainoo,Manchester United,Nottingham Forest,0.5,1.3599999999999999,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Matthijs De Ligt,NA,NA,0.5,1.6,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Willy Boly,Nottingham Forest,Manchester United,0.5,1.58,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Anthony Elanga,Nottingham Forest,Manchester United,0.5,1.24,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Tyrell Malacia,Manchester United,Nottingham Forest,0.5,1.5,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,Manchester United,0.5,1.3599999999999999,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Harry Maguire,Manchester United,Nottingham Forest,0.5,1.5,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Toby Collyer,Manchester United,Nottingham Forest,0.5,1.35,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,Manchester United,0.5,1.62,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Bruno Fernandes,Manchester United,Nottingham Forest,0.5,1.01,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Antony,Manchester United,Nottingham Forest,0.5,1.03,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Casemiro,Manchester United,Nottingham Forest,0.5,1.19,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Mason Mount,Manchester United,Nottingham Forest,0.5,1.04,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Manuel Ugarte,Manchester United,Nottingham Forest,0.5,1.7,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Eric da Silva,NA,NA,0.5,1.32,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,Manchester United,0.5,1.7,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Rasmus Hojlund,NA,NA,0.5,1.01,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Marcus Rashford,Manchester United,Nottingham Forest,0.5,1.01,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Elliot Anderson,Nottingham Forest,Manchester United,0.5,1.26,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,Manchester United,0.5,1.16,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jamie Vardy,Leicester City,Brighton & Hove Albion,2.5,2.2,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kaoru Mitoma,Brighton & Hove Albion,Leicester City,2.5,2.5,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yankuba Minteh,Brighton & Hove Albion,Leicester City,2.5,1.48,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kasey McAteer,Leicester City,Brighton & Hove Albion,2.5,3.3,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Danny Welbeck,Brighton & Hove Albion,Leicester City,2.5,1.28,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jakub Moder,Brighton & Hove Albion,Leicester City,2.5,2.45,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Crystal Palace,Leicester City,2.5,2.5,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Leicester City,Brighton & Hove Albion,2.5,2.5,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Simon Adingra,Brighton & Hove Albion,Leicester City,2.5,2,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Brajan Gruda,Brighton & Hove Albion,Leicester City,2.5,2.55,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yasin Ayari,Brighton & Hove Albion,Leicester City,2.5,2.55,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Patson Daka,Leicester City,Brighton & Hove Albion,2.5,2.02,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Carlos Baleba,Brighton & Hove Albion,Leicester City,2.5,3.2,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Georginio Rutter,Brighton & Hove Albion,Leicester City,2.5,1.48,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,João Pedro,Brighton & Hove Albion,Leicester City,2.5,1.28,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Julio Enciso,Brighton & Hove Albion,Leicester City,2.5,1.28,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Evan Ferguson,Brighton & Hove Albion,Leicester City,2.5,1.5,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Daniel Muñoz,Crystal Palace,Manchester City,0.5,1.72,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Manuel Akanji,Manchester City,Crystal Palace,0.5,1.5,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Will Hughes,Crystal Palace,Manchester City,0.5,1.5,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Crystal Palace,0.5,1.04,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Justin Devenny,NA,NA,0.5,1.32,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Nathan Aké,Manchester City,Crystal Palace,0.5,1.7,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Ilkay Gündogan,NA,NA,0.5,1.17,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Crystal Palace,0.5,1.02,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,James McAtee,Manchester City,Crystal Palace,0.5,1.08,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Rico Lewis,Manchester City,Crystal Palace,0.5,1.3599999999999999,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Kyle Walker,Manchester City,Crystal Palace,0.5,1.7,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Phil Foden,Manchester City,Crystal Palace,0.5,1.01,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eberechi Eze,Crystal Palace,Manchester City,0.5,1.01,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Bernardo Silva,Manchester City,Crystal Palace,0.5,1.32,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jérémy Doku,Manchester City,Crystal Palace,0.5,1.05,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Caleb Kporha,NA,NA,0.5,1.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Daichi Kamada,Crystal Palace,Manchester City,0.5,1.32,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,John Stones,Manchester City,Crystal Palace,0.5,1.72,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jack Grealish,Manchester City,Crystal Palace,0.5,1.08,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Matheus Nunes,Manchester City,Crystal Palace,0.5,1.15,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Savio Moreira,NA,NA,0.5,1.04,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Asher Agbinone,NA,NA,0.5,1.17,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Josko Gvardiol,Manchester City,Crystal Palace,0.5,1.32,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jean-Philippe Mateta,Crystal Palace,Manchester City,0.5,1.17,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jahmai Simpson-Pusey,NA,NA,0.5,1.7,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Ismaïla Sarr,Crystal Palace,Manchester City,0.5,1.26,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jeffrey Schlupp,Crystal Palace,Manchester City,0.5,1.46,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jefferson Lerma,Crystal Palace,Manchester City,0.5,1.42,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Arsenal,Crystal Palace,0.5,1.08,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Crystal Palace,Manchester City,0.5,1.08,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Rúben Dias,Manchester City,Crystal Palace,0.5,1.58,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jacob Wright,NA,NA,0.5,1.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Leon Bailey,Aston Villa,Southampton,0.5,1.01,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Lamare Bogarde,Aston Villa,Southampton,0.5,1.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Brereton Díaz,Southampton,Aston Villa,0.5,1.02,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Tyler Dibling,Southampton,Aston Villa,0.5,1.17,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Matthew Cash,NA,NA,0.5,1.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Joe Aribo,Southampton,Aston Villa,0.5,1.73,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Morgan Rogers,Aston Villa,Southampton,0.5,1.01,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Emiliano Buendía,Aston Villa,Southampton,0.5,1.01,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Lesley Ugochukwu,Southampton,Aston Villa,0.5,1.58,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Barkley,Aston Villa,Southampton,0.5,1.08,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Amadou Onana,Aston Villa,Southampton,0.5,1.18,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,John McGinn,Aston Villa,Southampton,0.5,1.16,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Samuel Amo-Ameyaw,Southampton,Aston Villa,0.5,1.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Stewart,Southampton,Aston Villa,0.5,1.03,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Mateus Fernandes,Southampton,Aston Villa,0.5,1.6400000000000001,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Kosta Nedeljkovic,Aston Villa,Southampton,0.5,1.58,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Pau Torres,Aston Villa,Southampton,0.5,1.58,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ryan Manning,Southampton,Aston Villa,0.5,1.6800000000000002,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Maxwel Cornet,Southampton,Aston Villa,0.5,1.05,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Sil Swinkels,NA,NA,0.5,1.6800000000000002,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Lucas Digne,Aston Villa,Southampton,0.5,1.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Tyrone Mings,Aston Villa,Southampton,0.5,1.7,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Youri Tielemans,Aston Villa,Southampton,0.5,1.28,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Boubacar Kamara,Aston Villa,Southampton,0.5,1.72,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Yukinari Sugawara,Southampton,Aston Villa,0.5,1.48,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ryan Fraser,Southampton,Aston Villa,0.5,1.38,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Paul Onuachu,Southampton,Aston Villa,0.5,1.01,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Cameron Archer,Southampton,Aston Villa,0.5,1.06,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Adam Armstrong,Southampton,Aston Villa,0.5,1.03,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Diego Carlos,Aston Villa,Southampton,0.5,1.48,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Broggio,NA,NA,0.5,1.19,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ian Maatsen,Aston Villa,Southampton,0.5,1.3,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Malo Gusto,Chelsea,Tottenham Hotspur,0.5,1.5699999999999998,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Reece James,Chelsea,Tottenham Hotspur,0.5,1.26,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Destiny Udogie,Tottenham Hotspur,Chelsea,0.5,1.72,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Heung-min Son,Tottenham Hotspur,Chelsea,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pape Matar Sarr,Tottenham Hotspur,Chelsea,0.5,1.24,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Benoît Badiashile,Chelsea,Tottenham Hotspur,0.5,1.6,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Wesley Fofana,Chelsea,Tottenham Hotspur,0.5,1.6,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Timo Werner,Tottenham Hotspur,Chelsea,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Porro,Tottenham Hotspur,Chelsea,0.5,1.18,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Axel Disasi,Chelsea,Tottenham Hotspur,0.5,1.5,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,James Maddison,Tottenham Hotspur,Chelsea,0.5,1.07,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Yves Bissouma,Tottenham Hotspur,Chelsea,0.5,1.35,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Levi Colwill,Chelsea,Tottenham Hotspur,0.5,1.46,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Enzo Fernández,Chelsea,Tottenham Hotspur,0.5,1.26,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Tosin Adarabioyo,Chelsea,Tottenham Hotspur,0.5,1.7,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Noni Madueke,Chelsea,Tottenham Hotspur,0.5,1.04,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Lucas Bergvall,Tottenham Hotspur,Chelsea,0.5,1.16,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cesare Casadei,Chelsea,Tottenham Hotspur,0.5,1.22,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Kiernan Dewsbury-Hall,Chelsea,Tottenham Hotspur,0.5,1.19,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Archie Gray,Tottenham Hotspur,Chelsea,0.5,1.52,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dominic Solanke,Tottenham Hotspur,Chelsea,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Mykhaylo Mudryk,Chelsea,Tottenham Hotspur,0.5,1.08,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dejan Kulusevski,Tottenham Hotspur,Chelsea,0.5,1.2,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Nicolas Jackson,Chelsea,Tottenham Hotspur,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Neto,Chelsea,Tottenham Hotspur,0.5,1.02,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Renato Veiga,Chelsea,Tottenham Hotspur,0.5,1.58,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,João Félix,Chelsea,Tottenham Hotspur,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Djed Spence,Tottenham Hotspur,Chelsea,0.5,1.58,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Roméo Lavia,Chelsea,Tottenham Hotspur,0.5,1.6,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Brennan Johnson,Tottenham Hotspur,Chelsea,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Marc Guiu,Chelsea,Tottenham Hotspur,0.5,1.01,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Carney Chukwuemeka,Chelsea,Tottenham Hotspur,0.5,1.22,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Moisés Caicedo,Chelsea,Tottenham Hotspur,0.5,1.58,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Sergio Reguilon,NA,NA,0.5,1.24,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Jadon Sancho,Manchester United,Tottenham Hotspur,0.5,1.16,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Leandro Trossard,Arsenal,Fulham,4.5,3.9,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Bukayo Saka,Arsenal,Fulham,4.5,3.9,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kai Havertz,Arsenal,Fulham,4.5,3.9,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Jesus,Arsenal,Fulham,4.5,3.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ali Al-Hamadi,Ipswich Town,Bournemouth,3.5,2.75,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Sammie Szmodics,Ipswich Town,Bournemouth,3.5,2.8,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Marcus Tavernier,Bournemouth,Ipswich Town,3.5,3.2,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Liam Delap,Ipswich Town,Bournemouth,3.5,3.35,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,David Brooks,Bournemouth,Ipswich Town,3.5,2.45,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Enes Unal,NA,NA,3.5,2.1,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Justin Kluivert,Bournemouth,Ipswich Town,3.5,3.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Conor Chaplin,Ipswich Town,Bournemouth,3.5,2.75,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Antoine Semenyo,Bournemouth,Ipswich Town,3.5,2.1,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Evanilson,Bournemouth,Ipswich Town,3.5,2.5,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,William Osula,Newcastle United,Brentford,4.5,3.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Harvey Barnes,Newcastle United,Brentford,4.5,4.4,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bryan Mbeumo,Brentford,Newcastle United,4.5,4.2,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Anthony Gordon,Newcastle United,Brentford,4.5,4.5,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Alexander Isak,Newcastle United,Brentford,4.5,3.05,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Miguel Almirón,Newcastle United,Brentford,4.5,4.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Callum Wilson,Newcastle United,Brentford,4.5,2.35,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Yoane Wissa,Brentford,Newcastle United,4.5,4.4,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Savio Moreira,NA,NA,3.5,3.8,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Crystal Palace,3.5,3.35,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Phil Foden,Manchester City,Crystal Palace,3.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Erling Haaland,Manchester City,Crystal Palace,3.5,1.72,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jérémy Doku,Manchester City,Crystal Palace,3.5,3.9,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Crystal Palace,3.5,3.9,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eberechi Eze,Crystal Palace,Manchester City,3.5,3.15,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Anthony Gordon,Newcastle United,Brentford,3.5,2.75,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bryan Mbeumo,Brentford,Newcastle United,3.5,2.7,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Alexander Isak,Newcastle United,Brentford,3.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Harvey Barnes,Newcastle United,Brentford,3.5,2.75,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Callum Wilson,Newcastle United,Brentford,3.5,1.7,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,William Osula,Newcastle United,Brentford,3.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Yoane Wissa,Brentford,Newcastle United,3.5,2.75,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Miguel Almirón,Newcastle United,Brentford,3.5,2.75,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Antoine Semenyo,Bournemouth,Ipswich Town,1.5,1.13,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Dango Ouattara,Bournemouth,Ipswich Town,1.5,1.7,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Wes Burns,Ipswich Town,Bournemouth,1.5,2.15,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Nathan Broadhead,Ipswich Town,Bournemouth,1.5,1.87,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Enes Unal,NA,NA,1.5,1.13,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Omari Hutchinson,Ipswich Town,Bournemouth,1.5,1.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jack Clarke,Ipswich Town,Bournemouth,1.5,1.53,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,David Brooks,Bournemouth,Ipswich Town,1.5,1.2,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Conor Chaplin,Ipswich Town,Bournemouth,1.5,1.26,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Marcus Tavernier,Bournemouth,Ipswich Town,1.5,1.35,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Sammie Szmodics,Ipswich Town,Bournemouth,1.5,1.28,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Evanilson,Bournemouth,Ipswich Town,1.5,1.2,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Justin Kluivert,Bournemouth,Ipswich Town,1.5,1.44,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ali Al-Hamadi,Ipswich Town,Bournemouth,1.5,1.28,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jack Taylor,Ipswich Town,Bournemouth,1.5,2.25,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Philip Billing,Bournemouth,Ipswich Town,1.5,1.62,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Liam Delap,Ipswich Town,Bournemouth,1.5,1.4,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ryan Christie,Bournemouth,Ipswich Town,1.5,2.25,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Heung-min Son,Tottenham Hotspur,Chelsea,4.5,4.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,João Félix,Chelsea,Tottenham Hotspur,4.5,4.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Christopher Nkunku,Chelsea,Tottenham Hotspur,4.5,3.15,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Timo Werner,Tottenham Hotspur,Chelsea,4.5,4.5,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Marc Guiu,Chelsea,Tottenham Hotspur,4.5,3.8,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cole Palmer,Chelsea,Tottenham Hotspur,4.5,2.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Nicolas Jackson,Chelsea,Tottenham Hotspur,4.5,4.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dominic Solanke,Tottenham Hotspur,Chelsea,4.5,4.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Adam Armstrong,Southampton,Aston Villa,3.5,3.6,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Leon Bailey,Aston Villa,Southampton,3.5,3.35,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ollie Watkins,Aston Villa,Southampton,3.5,1.7,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Stewart,Southampton,Aston Villa,3.5,3.7,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Paul Onuachu,Southampton,Aston Villa,3.5,3.1,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jhon Durán,Aston Villa,Southampton,3.5,1.6800000000000002,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jaden Philogene,Aston Villa,Southampton,3.5,2.1,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Maxwel Cornet,Southampton,Aston Villa,3.5,3.9,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Brereton Díaz,Southampton,Aston Villa,3.5,3.3,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Morgan Rogers,Aston Villa,Southampton,3.5,2.75,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Emiliano Buendía,Aston Villa,Southampton,3.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Phil Foden,Manchester City,Crystal Palace,1.5,1.22,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Bernardo Silva,Manchester City,Crystal Palace,1.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eberechi Eze,Crystal Palace,Manchester City,1.5,1.3599999999999999,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jack Grealish,Manchester City,Crystal Palace,1.5,1.62,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Erling Haaland,Manchester City,Crystal Palace,1.5,1.05,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Nico O'Reilly,Manchester City,Crystal Palace,1.5,1.5,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jacob Wright,NA,NA,1.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Daichi Kamada,Crystal Palace,Manchester City,1.5,2.4,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Kevin De Bruyne,Manchester City,Crystal Palace,1.5,1.38,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,James McAtee,Manchester City,Crystal Palace,1.5,1.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jérémy Doku,Manchester City,Crystal Palace,1.5,1.5,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Savio Moreira,NA,NA,1.5,1.48,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Ismaïla Sarr,Crystal Palace,Manchester City,1.5,2.25,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Justin Devenny,NA,NA,1.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Asher Agbinone,NA,NA,1.5,1.88,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Arsenal,Crystal Palace,1.5,1.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Eddie Nketiah,Crystal Palace,Manchester City,1.5,1.6,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Jean-Philippe Mateta,Crystal Palace,Manchester City,1.5,1.88,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Ilkay Gündogan,NA,NA,1.5,1.88,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Josko Gvardiol,Manchester City,Crystal Palace,1.5,2.45,Neds
+Crystal Palace v Manchester City,Crystal Palace,Manchester City,Player Shots,Matheus Nunes,Manchester City,Crystal Palace,1.5,1.83,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Morgan Rogers,Aston Villa,Southampton,1.5,1.28,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jaden Philogene,Aston Villa,Southampton,1.5,1.13,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Cameron Archer,Southampton,Aston Villa,1.5,1.55,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Leon Bailey,Aston Villa,Southampton,1.5,1.38,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Jhon Durán,Aston Villa,Southampton,1.5,1.04,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Lamare Bogarde,Aston Villa,Southampton,1.5,2.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Broggio,NA,NA,1.5,2.02,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,John McGinn,Aston Villa,Southampton,1.5,1.87,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Youri Tielemans,Aston Villa,Southampton,1.5,2.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Tyler Dibling,Southampton,Aston Villa,1.5,1.9,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Stewart,Southampton,Aston Villa,1.5,1.45,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Adam Armstrong,Southampton,Aston Villa,1.5,1.44,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ross Barkley,Aston Villa,Southampton,1.5,1.6,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Paul Onuachu,Southampton,Aston Villa,1.5,1.3599999999999999,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Amadou Onana,Aston Villa,Southampton,1.5,1.98,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Samuel Amo-Ameyaw,Southampton,Aston Villa,1.5,2.45,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ollie Watkins,Aston Villa,Southampton,1.5,1.05,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Matthew Cash,NA,NA,1.5,2.45,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ben Brereton Díaz,Southampton,Aston Villa,1.5,1.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Emiliano Buendía,Aston Villa,Southampton,1.5,1.22,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Ian Maatsen,Aston Villa,Southampton,1.5,2.4,Neds
+Aston Villa v Southampton,Aston Villa,Southampton,Player Shots,Maxwel Cornet,Southampton,Aston Villa,1.5,1.48,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Conor Chaplin,Ipswich Town,Bournemouth,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Omari Hutchinson,Ipswich Town,Bournemouth,0.5,1.08,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Kalvin Phillips,Manchester City,Ipswich Town,0.5,1.4,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Kalvin Phillips,Ipswich Town,Bournemouth,0.5,1.4,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Evanilson,Bournemouth,Ipswich Town,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ali Al-Hamadi,Ipswich Town,Bournemouth,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Harry Clarke,Ipswich Town,Bournemouth,0.5,1.6800000000000002,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Marcos Senesi,Bournemouth,Ipswich Town,0.5,1.7,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Liam Delap,Ipswich Town,Bournemouth,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Wes Burns,Ipswich Town,Bournemouth,0.5,1.24,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ben Johnson,Ipswich Town,Bournemouth,0.5,1.3599999999999999,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Dara O'Shea,Ipswich Town,Bournemouth,0.5,1.72,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Philip Billing,Bournemouth,Ipswich Town,0.5,1.08,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Leif Davis,Ipswich Town,Bournemouth,0.5,1.7,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Dean Huijsen,Bournemouth,Ipswich Town,0.5,1.8,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jens Cajuste,Ipswich Town,Bournemouth,0.5,1.4,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Tyler Adams,Bournemouth,Ipswich Town,0.5,1.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Marcus Tavernier,Bournemouth,Ipswich Town,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Justin Kluivert,Bournemouth,Ipswich Town,0.5,1.02,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,David Brooks,Bournemouth,Ipswich Town,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Dango Ouattara,Bournemouth,Ipswich Town,0.5,1.11,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jack Clarke,Ipswich Town,Bournemouth,0.5,1.05,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Sammie Szmodics,Ipswich Town,Bournemouth,0.5,1.01,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Ryan Christie,Bournemouth,Ipswich Town,0.5,1.26,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Nathan Broadhead,Ipswich Town,Bournemouth,0.5,1.16,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Milos Kerkez,Bournemouth,Ipswich Town,0.5,1.62,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Jack Taylor,Ipswich Town,Bournemouth,0.5,1.26,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,Massimo Luongo,Ipswich Town,Bournemouth,0.5,1.6,Neds
+Ipswich Town v Bournemouth,Ipswich Town,Bournemouth,Player Shots,James Hill,Bournemouth,Ipswich Town,0.5,1.58,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Jota Silva,Nottingham Forest,Manchester United,2.5,2.45,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Joshua Zirkzee,Manchester United,Nottingham Forest,2.5,1.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Bruno Fernandes,Manchester United,Nottingham Forest,2.5,1.62,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Rasmus Hojlund,NA,NA,2.5,1.8,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Ethan Wheatley,NA,NA,2.5,1.48,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Marcus Rashford,Manchester United,Nottingham Forest,2.5,1.83,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,Manchester United,2.5,3.2,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Antony,Manchester United,Nottingham Forest,2.5,2.2,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,Manchester United,2.5,2.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Mason Mount,Manchester United,Nottingham Forest,2.5,2.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,Manchester United,2.5,2.6,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,Manchester United,2.5,3.3,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Alejandro Garnacho,Manchester United,Nottingham Forest,2.5,1.48,Neds
+Manchester United v Nottingham Forest,Manchester United,Nottingham Forest,Player Shots,Amad Diallo,Manchester United,Nottingham Forest,2.5,1.83,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Heung-min Son,Tottenham Hotspur,Chelsea,1.5,1.28,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Mykhaylo Mudryk,Chelsea,Tottenham Hotspur,1.5,1.6,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Enzo Fernández,Chelsea,Tottenham Hotspur,1.5,2.25,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,João Félix,Chelsea,Tottenham Hotspur,1.5,1.28,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dominic Solanke,Tottenham Hotspur,Chelsea,1.5,1.26,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Kiernan Dewsbury-Hall,Chelsea,Tottenham Hotspur,1.5,1.98,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Nicolas Jackson,Chelsea,Tottenham Hotspur,1.5,1.28,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Lucas Bergvall,Tottenham Hotspur,Chelsea,1.5,1.88,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cole Palmer,Chelsea,Tottenham Hotspur,1.5,1.04,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Porro,Tottenham Hotspur,Chelsea,1.5,1.98,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,James Maddison,Tottenham Hotspur,Chelsea,1.5,1.5699999999999998,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pape Matar Sarr,Tottenham Hotspur,Chelsea,1.5,2.15,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Pedro Neto,Chelsea,Tottenham Hotspur,1.5,1.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Marc Guiu,Chelsea,Tottenham Hotspur,1.5,1.22,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Christopher Nkunku,Chelsea,Tottenham Hotspur,1.5,1.13,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Jadon Sancho,Manchester United,Tottenham Hotspur,1.5,1.87,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Carney Chukwuemeka,Chelsea,Tottenham Hotspur,1.5,2.15,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Cesare Casadei,Chelsea,Tottenham Hotspur,1.5,2.1,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Noni Madueke,Chelsea,Tottenham Hotspur,1.5,1.48,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Brennan Johnson,Tottenham Hotspur,Chelsea,1.5,1.4,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Sergio Reguilon,NA,NA,1.5,2.1,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Reece James,Chelsea,Tottenham Hotspur,1.5,2.25,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Timo Werner,Tottenham Hotspur,Chelsea,1.5,1.26,Neds
+Tottenham Hotspur v Chelsea,Tottenham Hotspur,Chelsea,Player Shots,Dejan Kulusevski,Tottenham Hotspur,Chelsea,1.5,1.98,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Julio Enciso,Brighton & Hove Albion,Leicester City,4.5,2.4,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Georginio Rutter,Brighton & Hove Albion,Leicester City,4.5,3.15,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Evan Ferguson,Brighton & Hove Albion,Leicester City,4.5,3.1,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,João Pedro,Brighton & Hove Albion,Leicester City,4.5,2.4,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Danny Welbeck,Brighton & Hove Albion,Leicester City,4.5,2.4,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yankuba Minteh,Brighton & Hove Albion,Leicester City,4.5,3.15,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Lewis Hall,Newcastle United,Brentford,1.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,William Osula,Newcastle United,Brentford,1.5,1.13,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Mikkel Damsgaard,Brentford,Newcastle United,1.5,2.45,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Keane Lewis-Potter,Brentford,Newcastle United,1.5,2,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Fábio Carvalho,Brentford,Newcastle United,1.5,1.62,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bruno Guimarães,Newcastle United,Brentford,1.5,2.3,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Miguel Almirón,Newcastle United,Brentford,1.5,1.26,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Callum Wilson,Newcastle United,Brentford,1.5,1.05,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Sean Longstaff,Newcastle United,Brentford,1.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Anthony Gordon,Newcastle United,Brentford,1.5,1.28,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Fabian Schär,Newcastle United,Brentford,1.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Yoane Wissa,Brentford,Newcastle United,1.5,1.28,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Lewis Miley,Newcastle United,Brentford,1.5,2.1,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Kevin Schade,Brentford,Newcastle United,1.5,1.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Ryan Trevitt,Brentford,Newcastle United,1.5,2.35,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Alexander Isak,Newcastle United,Brentford,1.5,1.1400000000000001,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Joelinton,Newcastle United,Brentford,1.5,1.9,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Harvey Barnes,Newcastle United,Brentford,1.5,1.26,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Joe Willock,Newcastle United,Brentford,1.5,1.62,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Jacob Murphy,Newcastle United,Brentford,1.5,1.6,Neds
+Brentford v Newcastle United,Brentford,Newcastle United,Player Shots,Bryan Mbeumo,Brentford,Newcastle United,1.5,1.28,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Danny Ings,West Ham United,Wolverhampton Wanderers,1.5,1.26,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Pablo Sarabia,Wolverhampton Wanderers,West Ham United,1.5,1.48,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mario Lemina,Wolverhampton Wanderers,West Ham United,1.5,2.25,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Michail Antonio,West Ham United,Wolverhampton Wanderers,1.5,1.35,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Hwang Hee-chan,NA,NA,1.5,1.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Tomas Soucek,West Ham United,Wolverhampton Wanderers,1.5,1.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jarrod Bowen,West Ham United,Wolverhampton Wanderers,1.5,1.1400000000000001,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Crysencio Summerville,West Ham United,Wolverhampton Wanderers,1.5,1.28,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Matheus Cunha,Wolverhampton Wanderers,West Ham United,1.5,1.28,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Jørgen Strand Larsen,Wolverhampton Wanderers,West Ham United,1.5,1.44,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Rayan Aït-Nouri,Wolverhampton Wanderers,West Ham United,1.5,2.3,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Niclas Füllkrug,West Ham United,Wolverhampton Wanderers,1.5,1.28,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Mohammed Kudus,West Ham United,Wolverhampton Wanderers,1.5,1.28,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Carlos Soler,West Ham United,Wolverhampton Wanderers,1.5,2.3,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Gonçalo Guedes,Wolverhampton Wanderers,West Ham United,1.5,1.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Rodrigo Gomes,Wolverhampton Wanderers,West Ham United,1.5,2.3,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Andy Irving,West Ham United,Wolverhampton Wanderers,1.5,1.6,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Lucas Paquetá,West Ham United,Wolverhampton Wanderers,1.5,1.78,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Luis Guilherme,West Ham United,Wolverhampton Wanderers,1.5,1.78,Neds
+West Ham United v Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,Player Shots,Tommy Doyle,Wolverhampton Wanderers,West Ham United,1.5,2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Ryan Sessegnon,Fulham,Arsenal,0.5,1.35,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Jorginho,Arsenal,Fulham,0.5,1.5,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Ethan Nwaneri,Arsenal,Fulham,0.5,1.01,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kieran Tierney,Arsenal,Fulham,0.5,1.42,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Mikel Merino,Arsenal,Fulham,0.5,1.2,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Riccardo Calafiori,Arsenal,Fulham,0.5,1.3599999999999999,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Jorge Cuenca,Fulham,Arsenal,0.5,1.58,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Magalhães,Arsenal,Fulham,0.5,1.52,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Oleksandr Zinchenko,Arsenal,Fulham,0.5,1.3599999999999999,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Jakub Kiwior,Arsenal,Fulham,0.5,1.72,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Martin Ødegaard,Arsenal,Fulham,0.5,1.08,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raheem Sterling,Arsenal,Fulham,0.5,1.01,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Raúl Jiménez,Fulham,Arsenal,0.5,1.03,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Adama Traoré,Fulham,Arsenal,0.5,1.22,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Martinelli,Arsenal,Fulham,0.5,1.02,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Jurrien Timber,Arsenal,Fulham,0.5,1.5,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Thomas Partey,Arsenal,Fulham,0.5,1.42,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Rodrigo Muniz,Fulham,Arsenal,0.5,1.02,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Andreas Pereira,Fulham,Arsenal,0.5,1.19,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Alexander Iwobi,NA,NA,0.5,1.19,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kenny Tete,Fulham,Arsenal,0.5,1.58,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Bukayo Saka,Arsenal,Fulham,0.5,1.01,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Declan Rice,Arsenal,Fulham,0.5,1.22,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Harry Wilson,Fulham,Arsenal,0.5,1.19,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Kai Havertz,Arsenal,Fulham,0.5,1.01,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Saša Lukić,Fulham,Arsenal,0.5,1.4,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Sander Berge,Fulham,Arsenal,0.5,1.44,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Gabriel Jesus,Arsenal,Fulham,0.5,1.01,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Emile Smith Rowe,Fulham,Arsenal,0.5,1.16,Neds
+Fulham v Arsenal,Fulham,Arsenal,Player Shots,Leandro Trossard,Arsenal,Fulham,0.5,1.01,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jamie Vardy,Leicester City,Brighton & Hove Albion,1.5,1.44,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Bobby De Cordova-Reid,Leicester City,Brighton & Hove Albion,1.5,2.15,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Wilfred Ndidi,Leicester City,Brighton & Hove Albion,1.5,2.45,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Crystal Palace,Leicester City,1.5,1.58,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Odsonne Edouard,Leicester City,Brighton & Hove Albion,1.5,1.58,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yasin Ayari,Brighton & Hove Albion,Leicester City,1.5,1.5699999999999998,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jack Hinshelwood,Brighton & Hove Albion,Leicester City,1.5,2.15,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,João Pedro,Brighton & Hove Albion,Leicester City,1.5,1.04,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Georginio Rutter,Brighton & Hove Albion,Leicester City,1.5,1.13,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Brajan Gruda,Brighton & Hove Albion,Leicester City,1.5,1.6,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Stephy Mavididi,Leicester City,Brighton & Hove Albion,1.5,1.88,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Julio Enciso,Brighton & Hove Albion,Leicester City,1.5,1.05,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Lewis Dunk,Brighton & Hove Albion,Leicester City,1.5,2.45,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Mats Wieffer,Brighton & Hove Albion,Leicester City,1.5,2.45,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Yankuba Minteh,Brighton & Hove Albion,Leicester City,1.5,1.13,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Danny Welbeck,Brighton & Hove Albion,Leicester City,1.5,1.04,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jakub Moder,Brighton & Hove Albion,Leicester City,1.5,1.55,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jordan Ayew,Crystal Palace,Leicester City,1.5,2.25,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Jordan Ayew,Leicester City,Brighton & Hove Albion,1.5,2.25,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kaoru Mitoma,Brighton & Hove Albion,Leicester City,1.5,1.58,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Carlos Baleba,Brighton & Hove Albion,Leicester City,1.5,1.83,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Simon Adingra,Brighton & Hove Albion,Leicester City,1.5,1.3599999999999999,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Ferdi Kadioglu,NA,NA,1.5,2.1,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Kasey McAteer,Leicester City,Brighton & Hove Albion,1.5,1.9,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Evan Ferguson,Brighton & Hove Albion,Leicester City,1.5,1.1400000000000001,Neds
+Leicester City v Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,Player Shots,Patson Daka,Leicester City,Brighton & Hove Albion,1.5,1.3599999999999999,Neds
