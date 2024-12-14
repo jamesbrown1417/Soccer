@@ -1,33 +1,41 @@
 match,market_name,home_team,away_team,team,line,over_price,under_price,margin,agency
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,1.5,1.33,3.1,1.07,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,1.5,3.9,1.22,1.08,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Arsenal,1.5,1.62,2.2,1.07,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,2.5,2,1.73,1.08,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Fulham,2.5,10,1.04,1.06,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Fulham,1.5,3.75,1.25,1.07,Neds
-Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,1.5,1.4,2.75,1.08,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,3.5,29,NA,NA,Neds
-Tottenham Hotspur v Chelsea,Total Goals,Tottenham Hotspur,Chelsea, Chelsea,2.5,2.7,1.44,1.06,Neds
-Tottenham Hotspur v Chelsea,Total Goals,Tottenham Hotspur,Chelsea, Chelsea,0.5,1.11,6,1.07,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,2.5,11,1.03,1.06,Neds
-Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,2.5,2.25,1.6,1.07,Neds
-Tottenham Hotspur v Chelsea,Total Goals,Tottenham Hotspur,Chelsea, Chelsea,3.5,5.25,1.13,1.08,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,0.5,1.06,8.5,1.06,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,3.5,23,NA,NA,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Fulham,0.5,1.5699999999999998,2.25,1.08,Neds
-Tottenham Hotspur v Chelsea,Total Goals,Tottenham Hotspur,Chelsea, Chelsea,1.5,1.5699999999999998,2.3,1.07,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,1.5,1.25,3.5,1.09,Neds
+Crystal Palace v Arsenal,Total Goals,Crystal Palace,Arsenal, Arsenal,1.5,1.65,2.1,1.08,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,1.5,3.7,1.25,1.07,Neds
+Brentford v Nottingham Forest,Total Goals,Brentford,Nottingham Forest, Brentford,0.5,1.2,4.2,1.07,Neds
+Fulham v Southampton,Total Goals,Fulham,Southampton, Fulham,0.5,1.1,6.5,1.06,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,2.5,1.83,1.9100000000000001,1.07,Neds
+Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,1.5,1.3599999999999999,2.88,1.08,Neds
+Everton v Chelsea,Total Goals,Everton,Chelsea, Chelsea,3.5,5.25,1.1400000000000001,1.07,Neds
+Brentford v Nottingham Forest,Total Goals,Brentford,Nottingham Forest, Brentford,1.5,1.95,1.8,1.07,Neds
+Fulham v Southampton,Total Goals,Fulham,Southampton, Fulham,1.5,1.5,2.45,1.07,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,3.5,26,NA,NA,Neds
+Tottenham Hotspur v Liverpool,Total Goals,Tottenham Hotspur,Liverpool, Liverpool,1.5,1.4,2.7,1.08,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,2.5,10,1.04,1.06,Neds
+Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,2.5,2.15,1.65,1.07,Neds
+Fulham v Southampton,Total Goals,Fulham,Southampton, Fulham,3.5,4.8,1.15,1.08,Neds
+Crystal Palace v Arsenal,Total Goals,Crystal Palace,Arsenal, Arsenal,3.5,6,1.11,1.07,Neds
+Brentford v Nottingham Forest,Total Goals,Brentford,Nottingham Forest, Brentford,3.5,8.5,1.06,1.06,Neds
+Tottenham Hotspur v Liverpool,Total Goals,Tottenham Hotspur,Liverpool, Liverpool,2.5,2.25,1.6,1.07,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,0.5,1.05,9.5,1.06,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,4.5,5.5,1.13,1.07,Neds
+Crystal Palace v Arsenal,Total Goals,Crystal Palace,Arsenal, Arsenal,0.5,1.13,5.25,1.08,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,3.5,21,NA,NA,Neds
+Crystal Palace v Arsenal,Total Goals,Crystal Palace,Arsenal, Arsenal,2.5,3,1.3599999999999999,1.07,Neds
 Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,2.5,8.5,1.06,1.06,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,2.5,2.05,1.7,1.08,Neds
-Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,0.5,1.07,7.5,1.07,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,3.5,3.6,1.25,1.08,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Arsenal,2.5,2.8,1.4,1.07,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Fulham,3.5,26,NA,NA,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,0.5,1.6,2.2,1.08,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,1.5,3.25,1.3,1.08,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Arsenal,0.5,1.13,5.5,1.07,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,3.5,3.5,1.29,1.06,Neds
-Fulham v Arsenal,Total Goals,Fulham,Arsenal, Arsenal,3.5,5.75,1.13,1.06,Neds
-Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,3.5,4,1.2,1.08,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,0.5,1.06,8.5,1.06,Neds
-Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,0.5,1.48,2.5,1.08,Neds
-Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,1.5,1.35,3,1.07,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,2.5,1.9100000000000001,1.83,1.07,Neds
+Tottenham Hotspur v Liverpool,Total Goals,Tottenham Hotspur,Liverpool, Liverpool,3.5,4,1.2,1.08,Neds
+Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,0.5,1.06,8,1.07,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,3.5,3.2,1.3,1.08,Neds
+Everton v Chelsea,Total Goals,Everton,Chelsea, Chelsea,1.5,1.55,2.3,1.08,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Fulham,0.5,1.55,2.3,1.08,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,1.5,3.2,1.33,1.06,Neds
+Everton v Chelsea,Total Goals,Everton,Chelsea, Chelsea,0.5,1.11,6,1.07,Neds
+Everton v Chelsea,Total Goals,Everton,Chelsea, Chelsea,2.5,2.63,1.44,1.07,Neds
+Brentford v Nottingham Forest,Total Goals,Brentford,Nottingham Forest, Brentford,2.5,3.8,1.22,1.08,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Chelsea,3.5,3,1.35,1.07,Neds
+Fulham v Southampton,Total Goals,Fulham,Southampton, Fulham,2.5,2.5,1.48,1.08,Neds
+Arsenal v Everton,Total Goals,Arsenal,Everton, Arsenal,3.5,3.8,1.22,1.08,Neds
+Tottenham Hotspur v Liverpool,Total Goals,Tottenham Hotspur,Liverpool, Liverpool,4.5,8,1.06,1.07,Neds
+Chelsea v Brentford,Total Goals,Chelsea,Brentford, Brentford,0.5,1.48,2.6,1.06,Neds
+Liverpool v Fulham,Total Goals,Liverpool,Fulham, Liverpool,1.5,1.3,3.3,1.07,Neds
