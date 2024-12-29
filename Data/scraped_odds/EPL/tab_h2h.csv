@@ -1,16 +1,21 @@
 match,start_time,market_name,home_team,home_win,draw,away_team,away_win,margin,agency
-Everton v Chelsea,2024-12-22T14:00:00.000Z,Head To Head,Everton,4.5,4,Chelsea,1.65,1.078,TAB
-Fulham v Southampton,2024-12-22T14:00:00.000Z,Head To Head,Fulham,1.4,4.75,Southampton,6.5,1.079,TAB
-Leicester City v Wolverhampton Wanderers,2024-12-22T14:00:00.000Z,Head To Head,Leicester City,2.8,3.25,Wolverhampton Wanderers,2.5,1.065,TAB
-Manchester United v Bournemouth,2024-12-22T14:00:00.000Z,Head To Head,Manchester United,1.85,3.7,Bournemouth,3.9,1.067,TAB
-Tottenham Hotspur v Liverpool,2024-12-22T16:30:00.000Z,Head To Head,Tottenham Hotspur,4.25,4.25,Liverpool,1.68,1.066,TAB
-Manchester City v Everton,2024-12-26T12:30:00.000Z,Head To Head,Manchester City,1.3,5.5,Everton,8.5,1.069,TAB
-Bournemouth v Crystal Palace,2024-12-26T15:00:00.000Z,Head To Head,Bournemouth,2.05,3.5,Crystal Palace,3.4,1.068,TAB
-Chelsea v Fulham,2024-12-26T15:00:00.000Z,Head To Head,Chelsea,1.45,5,Fulham,5.5,1.071,TAB
-Newcastle United v Aston Villa,2024-12-26T15:00:00.000Z,Head To Head,Newcastle United,1.85,3.8,Aston Villa,3.8,1.067,TAB
-Nottingham Forest v Tottenham Hotspur,2024-12-26T15:00:00.000Z,Head To Head,Nottingham Forest,2.5,3.6,Tottenham Hotspur,2.5,1.078,TAB
-Southampton v West Ham United,2024-12-26T15:00:00.000Z,Head To Head,Southampton,3.2,3.5,West Ham United,2.1,1.074,TAB
-Wolverhampton Wanderers v Manchester United,2024-12-26T17:30:00.000Z,Head To Head,Wolverhampton Wanderers,4.5,3.9,Manchester United,1.7,1.067,TAB
-Liverpool v Leicester City,2024-12-26T20:00:00.000Z,Head To Head,Liverpool,1.1,9,Leicester City,17,1.079,TAB
-Brighton & Hove Albion v Brentford,2024-12-27T19:30:00.000Z,Head To Head,Brighton & Hove Albion,1.7,4.25,Brentford,4.25,1.059,TAB
-Arsenal v Ipswich Town,2024-12-27T20:15:00.000Z,Head To Head,Arsenal,1.14,7.5,Ipswich Town,15,1.077,TAB
+Leicester City v Manchester City,2024-12-29T14:30:00.000Z,Head To Head,Leicester City,9,6,Manchester City,1.28,1.059,TAB
+Crystal Palace v Southampton,2024-12-29T15:00:00.000Z,Head To Head,Crystal Palace,1.55,4.25,Southampton,5.5,1.062,TAB
+Everton v Nottingham Forest,2024-12-29T15:00:00.000Z,Head To Head,Everton,2.8,3,Nottingham Forest,2.6,1.075,TAB
+Fulham v Bournemouth,2024-12-29T15:00:00.000Z,Head To Head,Fulham,2.4,3.4,Bournemouth,2.8,1.068,TAB
+Tottenham Hotspur v Wolverhampton Wanderers,2024-12-29T15:00:00.000Z,Head To Head,Tottenham Hotspur,1.68,4.25,Wolverhampton Wanderers,4.25,1.066,TAB
+West Ham United v Liverpool,2024-12-29T17:15:00.000Z,Head To Head,West Ham United,7,6,Liverpool,1.32,1.067,TAB
+Aston Villa v Brighton & Hove Albion,2024-12-30T19:45:00.000Z,Head To Head,Aston Villa,1.95,3.7,Brighton & Hove Albion,3.5,1.069,TAB
+Ipswich Town v Chelsea,2024-12-30T19:45:00.000Z,Head To Head,Ipswich Town,7.5,5,Chelsea,1.35,1.074,TAB
+Manchester United v Newcastle United,2024-12-30T20:00:00.000Z,Head To Head,Manchester United,2.6,3.5,Newcastle United,2.5,1.07,TAB
+Brentford v Arsenal,2025-01-01T17:30:00.000Z,Head To Head,Brentford,6.5,4.5,Arsenal,1.42,1.08,TAB
+Tottenham Hotspur v Newcastle United,2025-01-04T12:30:00.000Z,Head To Head,Tottenham Hotspur,2.6,3.7,Newcastle United,2.4,1.072,TAB
+Aston Villa v Leicester City,2025-01-04T15:00:00.000Z,Head To Head,Aston Villa,1.28,6,Leicester City,8.5,1.066,TAB
+Bournemouth v Everton,2025-01-04T15:00:00.000Z,Head To Head,Bournemouth,1.75,3.7,Everton,4.25,1.077,TAB
+Crystal Palace v Chelsea,2025-01-04T15:00:00.000Z,Head To Head,Crystal Palace,3.8,3.8,Chelsea,1.8,1.082,TAB
+Manchester City v West Ham United,2025-01-04T15:00:00.000Z,Head To Head,Manchester City,1.3,5.5,West Ham United,8,1.076,TAB
+Southampton v Brentford,2025-01-04T15:00:00.000Z,Head To Head,Southampton,2.6,3.4,Brentford,2.5,1.079,TAB
+Brighton & Hove Albion v Arsenal,2025-01-04T17:30:00.000Z,Head To Head,Brighton & Hove Albion,4.5,3.8,Arsenal,1.7,1.074,TAB
+Fulham v Ipswich Town,2025-01-05T14:00:00.000Z,Head To Head,Fulham,1.45,4.5,Ipswich Town,6.5,1.066,TAB
+Liverpool v Manchester United,2025-01-05T16:30:00.000Z,Head To Head,Liverpool,1.28,5.5,Manchester United,9,1.074,TAB
+Wolverhampton Wanderers v Nottingham Forest,2025-01-06T20:00:00.000Z,Head To Head,Wolverhampton Wanderers,2.8,3.4,Nottingham Forest,2.4,1.068,TAB
