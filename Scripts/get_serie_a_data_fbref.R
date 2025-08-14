@@ -92,7 +92,7 @@ get_team_stats <- function(season) {
 
 # Get team stats for the last 5 seasons
 serie_a_team_stats <-
-    future_map(2020:2024, get_team_stats, .progress = TRUE) |>
+    future_map(2021:2025, get_team_stats, .progress = TRUE) |>
     bind_rows()
 
 #===============================================================================
@@ -170,7 +170,7 @@ get_player_stats <- function(season) {
 
 # Get player stats for the last 5 seasons
 serie_a_player_stats <-
-    future_map(2020:2024, get_player_stats, .progress = TRUE) |>
+    future_map(2021:2025, get_player_stats, .progress = TRUE) |>
     bind_rows()
 
 #===============================================================================

@@ -18,7 +18,7 @@ source("Scripts/fix_team_names.R")
 #===============================================================================
 
 # Get all current EPL team urls
-epl_team_urls <- tm_league_team_urls("England", start_year = 2024)
+epl_team_urls <- tm_league_team_urls("England", start_year = 2025)
 
 # Create a function that takes the URL and gets player name and player team
 get_team_players <- function(url) {

@@ -411,7 +411,7 @@ ui <- page_navbar(
                         label = "Select Season:",
                         choices = unique_seasons,
                         multiple = TRUE,
-                        selected = c("2023/2024", "2024/2025")
+                        selected = c("2024/2025", "2025/2026")
                     ),
                     selectInput(
                         inputId = "stat_input_a",
@@ -490,7 +490,7 @@ ui <- page_navbar(
                         label = "Select Season:",
                         choices = unique_seasons,
                         multiple = TRUE,
-                        selected = c("2023/2024", "2024/2025")
+                        selected = c("2024/2025", "2025/2026")
                     ),
                     selectInput(
                         inputId = "stat_input_c",
