@@ -17,6 +17,11 @@ source("Scripts/fix_team_names.r")
 # Get Fix Player Names Function
 source("Scripts/fix_player_names.r")
 
+# Get sportsbet html
+sportsbet_html <-
+    sportsbet_url |> 
+    read_html_live()
+
 #===============================================================================
 # Use rvest to get main market information-------------------------------------#
 #===============================================================================
@@ -24,8 +29,7 @@ source("Scripts/fix_player_names.r")
 main_markets_function <- function() {
     # Get data from main market page
     matches <-
-        sportsbet_url |>
-        read_html() |>
+        sportsbet_html |> 
         html_nodes(".White_fqa53j6")
     
     # Function to get team names
@@ -74,8 +78,8 @@ main_markets_function <- function() {
     # Map functions to each match and combine together
     all_main_market_data <-
         bind_cols(
-            map(matches, get_team_names) |> bind_rows(),
-            map(matches, get_odds) |> bind_rows(),
+            map(matches, get_team_names) |> bind_rows() |> filter(!is.na(home_team)),
+            map(matches, get_odds) |> bind_rows() |> filter(!is.na(home_win)),
             map(matches, get_start_time) |> bind_rows()
         )
     
@@ -128,11 +132,9 @@ player_props_function <- function() {
         tibble(home_team, away_team)
     }
     
-    
     # Get match links
     match_links <-
-        sportsbet_url |>
-        read_html() |>
+        sportsbet_html |> 
         html_nodes(".link_ft4u1lp") |>
         html_attr("href")
     
@@ -144,13 +146,13 @@ player_props_function <- function() {
     
     # Get data from main market page
     matches <-
-        sportsbet_url |>
-        read_html() |>
+        sportsbet_html |> 
         html_nodes(".White_fqa53j6")
     
     # Get team names that correspond to each match link
     team_names <-
         map_dfr(matches, get_team_names) |>
+        filter(!is.na(home_team)) |> 
         bind_cols("match_id" = match_ids) |> 
     mutate(home_team = fix_team_names(home_team)) |>
     mutate(away_team = fix_team_names(away_team))
@@ -168,6 +170,11 @@ player_props_function <- function() {
     # Shot Market Links
     shot_links <- glue(
         "https://www.sportsbet.com.au/apigw/sportsbook-sports/Sportsbook/Sports/Events/{match_ids}/MarketGroupings/638/Markets"
+    )
+    
+    # Shot On Target Links
+    shot_on_target_links <- glue(
+        "https://www.sportsbet.com.au/apigw/sportsbook-sports/Sportsbook/Sports/Events/{match_ids}/MarketGroupings/976/Markets"
     )
     
     # Goal Scorer Markets
@@ -205,9 +212,11 @@ player_props_function <- function() {
         # Make request and get response
         sb_response <-
             request(url) |>
+            req_user_agent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36") |> 
+            req_headers("Referer" = "https://www.sportsbet.com.au") |>
             req_perform() |>
             resp_body_json()
-        
+            
         # Empty vectors to append to
         class_external_id = c()
         competition_external_id = c()
@@ -248,6 +257,8 @@ player_props_function <- function() {
         # Make request and get response
         sb_response <-
             request(url) |>
+            req_user_agent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36") |> 
+            req_headers("Referer" = "https://www.sportsbet.com.au") |>
             req_perform() |>
             resp_body_json()
         
@@ -437,9 +448,48 @@ player_props_function <- function() {
             player_id
         )
     
+    #===========================================================================
+    # Shot On Target Markets
+    #===========================================================================
+    
+    # Map function to shots urls
+    shots_on_target_data <-
+        map(shot_on_target_links, safe_read_prop_url)
+    
+    # Get just result part from output
+    shots_on_target_data <-
+        shots_on_target_data |>
+        map("result") |>
+        map_df(bind_rows)
+    
+    # If nrow 0 create tibble with 0 rows
+    if (nrow(shots_on_target_data) == 0) {
+        shots_on_target_data <-
+            tibble(match = NA,
+                   prop_market_name = NA,
+                   selection_name_prop = NA,
+                   prop_market_price = NA,
+                   market_id = NA,
+                   player_id = NA,
+                   class_external_id = NA,
+                   competition_external_id = NA,
+                   event_external_id = NA,
+                   url = NA)
+    }
+    
+    # Add market name
+    shots_on_target_data <-
+        shots_on_target_data |>
+        mutate(url = str_extract(as.character(url), "[0-9]{6,8}")) |>
+        rename(match_id = url) |>
+        mutate(match_id = as.numeric(match_id)) |>
+        left_join(team_names, by = "match_id") |>
+        mutate(match = paste(home_team, "v", away_team)) |>
+        left_join(player_prop_metadata)
+    
     # Get player shots on target alternate lines--------------------------------
     player_shots_on_target_alternate <-
-        shots_data |>
+        shots_on_target_data |>
         filter(str_detect(prop_market_name, "^Player To Have [0-9] Or More Shots On Target$")) |>
         mutate(line = str_extract(prop_market_name, "\\d{1,2}")) |>
         mutate(line = as.numeric(line) - 0.5) |>
@@ -469,7 +519,7 @@ player_props_function <- function() {
     
     # Get team shots on target alternate lines----------------------------------
     team_shots_on_target_alternate <-
-        shots_data |>
+        shots_on_target_data |>
         filter(str_detect(prop_market_name, "^Team To Have [0-9]{1,2} Or More Shots On Target$")) |>
         mutate(line = str_extract(prop_market_name, "\\d{1,2}")) |>
         mutate(line = as.numeric(line) - 0.5) |>
@@ -822,6 +872,35 @@ player_props_function <- function() {
             player_id
         )
     
+    # Get Player Assists Lines--------------------------------------------------
+    player_assists_lines <-
+        player_goal_data |>
+        filter(str_detect(prop_market_name, "^Anytime Assist$")) |>
+        rename(player_name = selection_name_prop) |>
+        mutate(player_name = fix_player_names(player_name)) |>
+        rename(price = prop_market_price) |>
+        left_join(epl_squads) |> 
+        mutate(opposition_team = if_else(player_team == home_team, away_team, home_team)) |>
+        relocate(match, .before = player_name) |>
+        mutate(line = 0.5) |>
+        transmute(
+            match,
+            home_team,
+            away_team,
+            market_name = "Player Assists",
+            player_name,
+            player_team,
+            opposition_team,
+            line,
+            over_price = price,
+            agency = "Sportsbet",
+            class_external_id,
+            competition_external_id,
+            event_external_id,
+            market_id,
+            player_id
+        )
+    
     #===========================================================================
     # Write all to CSV
     #===========================================================================
@@ -849,6 +928,9 @@ player_props_function <- function() {
     
     # Player Goals
     write_csv(player_goalscorer_lines, "Data/scraped_odds/EPL/sportsbet_player_goals.csv")
+    
+    # Player Assists
+    write_csv(player_assists_lines, "Data/scraped_odds/EPL/sportsbet_player_assists.csv")
 }
 
 # Run Functions

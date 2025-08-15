@@ -25,6 +25,9 @@ Rscript OddsScraper/EPL/Bet365/get-bet365-player-tackles.R
 Rscript OddsScraper/EPL/Neds/get_neds_match_urls_EPL.R
 /Users/jamesbrown/.pyenv/versions/3.12.5/bin/python3 OddsScraper/EPL/Neds/get_match_json_EPL.py
 
+# Get TAB JSON
+/Users/jamesbrown/.pyenv/versions/3.12.5/bin/python3 OddsScraper/EPL/TAB/get-tab-response.py
+
 # Execute R script for getting arbs
 Rscript OddsScraper/EPL/master_processing_script_EPL.R
 
