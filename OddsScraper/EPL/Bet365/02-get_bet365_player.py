@@ -44,6 +44,18 @@ async def main():
                 except:
                     print('No Multi Scorers button was found')
                     pass
+                
+                # If there is a button that says Tackles, click it
+                try:
+                    tackles_button = await driver.find_element(By.XPATH, "//div[contains(@class, 'cm-MarketGroupWithIconsButton_Text ') and text()='Tackles']")
+                    await driver.execute_script("arguments[0].scrollIntoView(true);", tackles_button)
+                    await driver.execute_script("window.scrollBy(0, -150)")
+                    await tackles_button.click()
+                    print('Clicked Tackles')
+                    await driver.sleep(1)
+                except:
+                    print('No Tackles')
+                    pass
          
                 # Get all elements with class 'msl-ShowMore_Link ' that has text 'Show more'
                 button_elements = await driver.find_elements(By.XPATH, "//div[contains(@class, 'msl-ShowMore_Link ') and contains(text(), 'Show more')]")

@@ -31,7 +31,7 @@ get_player_tackles <- function(scraped_file) {
         html_text()
     
     #=============================================================================
-    # Player Tackles Over / Under
+    # Player Tackles
     #=============================================================================
     
     # Get index for node with text "Player Tackles Over/Under"

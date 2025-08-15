@@ -31,10 +31,10 @@ get_player_assists <- function(scraped_file) {
         html_text()
     
     #=============================================================================
-    # Player Assists Over / Under
+    # Player Assists
     #=============================================================================
     
-    # Get index for node with text "Player Assists Over/Under"
+    # Get index for node with text "Player Assists"
     assists_over_under_index <- which(market_names == "Player Assists")
     
     # Get Player Names from node

@@ -15,7 +15,7 @@ rm OddsScraper/EPL/Bet365/HTML/*.txt
 /Users/jamesbrown/.pyenv/versions/3.12.5/bin/python3 OddsScraper/EPL/Bet365/02-get_bet365_player.py
 
 # Execute R scripts for bet365 player data
-Rscript OddsScraper/EPL/Bet365/get-bet365-player-assists.R
+# Rscript OddsScraper/EPL/Bet365/get-bet365-player-assists.R
 Rscript OddsScraper/EPL/Bet365/get-bet365-player-shots.R
 Rscript OddsScraper/EPL/Bet365/get-bet365-player-shots-on-target.R
 Rscript OddsScraper/EPL/Bet365/get-bet365-player-tackles.R
