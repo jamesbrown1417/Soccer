@@ -45,10 +45,7 @@ epl_results <-
     )
 
 # Get match summary stats
-epl_match_summary_stats_all <- load_fb_advanced_match_stats(
-    country = "ENG",
-    gender = "M",
-    tier = "1st",
+epl_match_summary_stats_all <- load_fb_big5_advanced_season_stats(
     season_end_year = season,
     stat_type = "summary",
     team_or_player = "team"
@@ -130,10 +127,7 @@ get_player_stats <- function(season) {
     
     # Get player summary stats
     epl_player_summary_stats <-
-        load_fb_advanced_match_stats(
-            country = "ENG",
-            gender = "M",
-            tier = "1st",
+        load_fb_big5_advanced_season_stats(
             season_end_year = season,
             stat_type = "summary",
             team_or_player = "player"
