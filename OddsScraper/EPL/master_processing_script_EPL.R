@@ -85,7 +85,8 @@ player_goals_data <-
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
     select(-start_time) |> 
-    select(match:agency)
+    select(match, home_team, away_team, market_name, player_name, line, over_price, under_price, agency)
+  
 
 # Write out
 write_rds(player_goals_data, "Data/processed_odds/player_goals_data.rds")
@@ -203,7 +204,7 @@ player_tackles_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
-    select(match:agency) |> 
+    select(match, home_team, away_team, player_name, line, over_price, under_price, agency) |> 
     mutate(market_name = "Player Tackles")
 
 # Write out
@@ -226,7 +227,7 @@ player_assists_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
-    select(match:agency) |> 
+    select(match, home_team, away_team, player_name, line, over_price, under_price, agency) |>
     mutate(market_name = "Player Assists")
 
 # Write out

@@ -827,7 +827,7 @@
             "name": "Issa Diop",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 160,
+            "sort_order": 150,
             "market_id": "7fb50fd3-2d69-43c8-a308-9c7504a15960"
         },
         "114004ac-55e1-428e-858f-6a285fb23b9b": {
@@ -1386,7 +1386,7 @@
             "name": "Adama Traore",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 150,
+            "sort_order": 180,
             "market_id": "7fb50fd3-2d69-43c8-a308-9c7504a15960"
         },
         "1db1fa63-20ac-4a10-84ee-612823d25f50": {
@@ -1612,7 +1612,7 @@
             "name": "Sander Berge",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 170,
+            "sort_order": 160,
             "market_id": "7fb50fd3-2d69-43c8-a308-9c7504a15960"
         },
         "210687e1-905d-46a0-ae0b-65a1b1802051": {
@@ -11383,7 +11383,7 @@
             "name": "Sam Amissah",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 180,
+            "sort_order": 170,
             "market_id": "7fb50fd3-2d69-43c8-a308-9c7504a15960"
         },
         "f9480e7d-d021-4c41-8f36-9db1d4df8302": {
@@ -15607,10 +15607,10 @@
                 "6f769a5c-7f56-4f1f-a3bb-9399b5311c11",
                 "2f66a929-8c81-421f-ab35-03898add8c9b",
                 "dec839d9-5643-4469-b774-5c1865c3bbe5",
-                "1d8a4df8-d9eb-4443-8222-c3d54af6605c",
                 "111a1ee3-668d-43cc-bb6e-3f8f30ebb534",
                 "20e1d947-29e6-4ff0-8b3c-3a44b1016fb3",
                 "f93dae7d-3d76-4112-b39e-5ec87e02ccce",
+                "1d8a4df8-d9eb-4443-8222-c3d54af6605c",
                 "ffaa6ed5-1118-4c09-b9c3-2c08492e7abb",
                 "5596b015-2d11-4a12-98c1-0d8a05ffc979",
                 "0df3ed63-2e92-42d0-9cf8-0baddf2bbeaf",
@@ -19756,8 +19756,8 @@
         },
         "1d8a4df8-d9eb-4443-8222-c3d54af6605c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 10
+                "numerator": 12,
+                "denominator": 5
             }
         },
         "1db1fa63-20ac-4a10-84ee-612823d25f50:940b8704-e497-4a76-b390-00918ff7d282:": {
