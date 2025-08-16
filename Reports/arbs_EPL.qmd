@@ -388,7 +388,131 @@ player_assists_wide <-
 ```
 
 ```{r}
+#===============================================================================
+# Create outlier analysis function
+#===============================================================================
+
+calculate_outliers <- function(data, price_col, grouping_vars) {
+  data |>
+    group_by(across(all_of(grouping_vars))) |>
+    filter(n() >= 2) |>  # Need at least 2 agencies for comparison
+    mutate(probability = 1 / .data[[price_col]]) |>
+    filter(n() >= 2) |>  # Ensure we have multiple agencies
+    summarise(
+      num_agencies = n(),
+      best_odds = max(.data[[price_col]]),
+      best_agency = agency[which.max(.data[[price_col]])],
+      best_prob = 1 / best_odds,
+      second_best_odds = sort(.data[[price_col]], decreasing = TRUE)[2],
+      second_best_agency = agency[.data[[price_col]] == second_best_odds][1],
+      second_best_prob = 1 / second_best_odds,
+      prob_difference = second_best_prob - best_prob,  # Higher probability minus lower probability
+      .groups = "drop"
+    ) |>
+    filter(prob_difference > 0) |>
+    arrange(desc(prob_difference)) |>
+    mutate(prob_difference = round(prob_difference, 4))
+}
+
+#===============================================================================
+# Calculate outliers for each market type
+#===============================================================================
+
+# Head to head outliers
+h2h_home_outliers <- calculate_outliers(
+  head_to_head_data, "home_win", 
+  c("match", "competition", "market_name")
+) |> mutate(market_type = "Home Win", outcome = "home_win")
+
+h2h_draw_outliers <- calculate_outliers(
+  head_to_head_data, "draw", 
+  c("match", "competition", "market_name")
+) |> mutate(market_type = "Draw", outcome = "draw")
+
+h2h_away_outliers <- calculate_outliers(
+  head_to_head_data, "away_win", 
+  c("match", "competition", "market_name")
+) |> mutate(market_type = "Away Win", outcome = "away_win")
+
+# Total goals outliers
+total_goals_over_outliers <- calculate_outliers(
+  total_goals_data, "over_price", 
+  c("match", "competition", "market_name", "line")
+) |> mutate(market_type = "Total Goals Over", outcome = paste("Over", line))
+
+total_goals_under_outliers <- calculate_outliers(
+  total_goals_data, "under_price", 
+  c("match", "competition", "market_name", "line")
+) |> mutate(market_type = "Total Goals Under", outcome = paste("Under", line))
+
+# BTTS outliers
+btts_yes_outliers <- calculate_outliers(
+  btts_data, "yes_price", 
+  c("match", "competition", "market_name")
+) |> mutate(market_type = "BTTS Yes", outcome = "yes")
+
+btts_no_outliers <- calculate_outliers(
+  btts_data, "no_price", 
+  c("match", "competition", "market_name")
+) |> mutate(market_type = "BTTS No", outcome = "no")
+
+# Player goals outliers
+player_goals_over_outliers <- calculate_outliers(
+  player_goals_data, "over_price", 
+  c("match", "competition", "market_name", "line", "player_name")
+) |> mutate(market_type = "Player Goals Over", outcome = paste(player_name, "Over", line))
+
+# Team goals outliers
+team_goals_over_outliers <- calculate_outliers(
+  team_goals_data, "over_price", 
+  c("match", "competition", "market_name", "line", "team")
+) |> mutate(market_type = "Team Goals Over", outcome = paste(team, "Over", line))
+
+team_goals_under_outliers <- calculate_outliers(
+  team_goals_data, "under_price", 
+  c("match", "competition", "market_name", "line", "team")
+) |> mutate(market_type = "Team Goals Under", outcome = paste(team, "Under", line))
+
+# Player shots outliers
+player_shots_over_outliers <- calculate_outliers(
+  player_shots_data, "over_price", 
+  c("match", "competition", "market_name", "line", "player_name")
+) |> mutate(market_type = "Player Shots Over", outcome = paste(player_name, "Over", line))
+
+# Player shots on target outliers
+player_shots_on_target_over_outliers <- calculate_outliers(
+  player_shots_on_target_data, "over_price", 
+  c("match", "competition", "market_name", "line", "player_name")
+) |> mutate(market_type = "Player SOT Over", outcome = paste(player_name, "Over", line))
+
+# Player tackles outliers
+player_tackles_over_outliers <- calculate_outliers(
+  player_tackles_data, "over_price", 
+  c("match", "competition", "market_name", "line", "player_name")
+) |> mutate(market_type = "Player Tackles Over", outcome = paste(player_name, "Over", line))
+
+# Player assists outliers
+player_assists_over_outliers <- calculate_outliers(
+  player_assists_data, "over_price", 
+  c("match", "competition", "market_name", "line", "player_name")
+) |> mutate(market_type = "Player Assists Over", outcome = paste(player_name, "Over", line))
+
+# Combine only player prop outliers
+all_outliers <- bind_rows(
+  player_goals_over_outliers,
+  player_shots_over_outliers, 
+  player_shots_on_target_over_outliers,
+  player_tackles_over_outliers, 
+  player_assists_over_outliers
+) |>
+  select(match, market_type, outcome, num_agencies, best_odds, best_agency, 
+         second_best_odds, second_best_agency, prob_difference) |>
+  arrange(desc(prob_difference))
+
+#===============================================================================
 # Get all arbs
+#===============================================================================
+
 all_arbs <-
     player_assists_wide |>
     bind_rows(player_tackles_wide) |>
@@ -398,6 +522,67 @@ all_arbs <-
     arrange(margin) |> 
     mutate(margin = 100*(1 - margin)) |>
     mutate(margin = round(margin, 3))
+```
 
-all_arbs
+```{r}
+#| column: page
+
+# Create tabbed interface
+navset_card_tab(
+  nav_panel("Arbitrage Opportunities",
+    card(
+      card_header("Current Arbitrage Opportunities"),
+      card_body(
+        if(nrow(all_arbs) > 0) {
+          DT::datatable(
+            all_arbs,
+            options = list(
+              pageLength = 20,
+              scrollX = TRUE,
+              dom = 'Bfrtip'
+            ),
+            rownames = FALSE
+          )
+        } else {
+          p("No arbitrage opportunities found at this time.")
+        }
+      )
+    )
+  ),
+  
+  nav_panel("Odds Outliers",
+    card(
+      card_header("Odds Outliers - Biggest Probability Differences"),
+      card_body(
+        if(nrow(all_outliers) > 0) {
+          DT::datatable(
+            all_outliers |>
+              rename(
+                Match = match,
+                `Market Type` = market_type,
+                Outcome = outcome,
+                `Agencies` = num_agencies,
+                `Best Odds` = best_odds,
+                `Best Agency` = best_agency,
+                `Second Best Odds` = second_best_odds,
+                `Second Best Agency` = second_best_agency,
+                `Probability Difference` = prob_difference
+              ),
+            options = list(
+              pageLength = 25,
+              scrollX = TRUE,
+              dom = 'Bfrtip',
+              order = list(list(8, 'desc'))  # Sort by probability difference descending
+            ),
+            rownames = FALSE
+          ) |>
+            DT::formatRound(c('Best Odds', 'Second Best Odds'), 2) |>
+            DT::formatRound('Probability Difference', 4)
+        } else {
+          p("No significant odds outliers found.")
+        }
+      )
+    )
+  )
+)
 ```
