@@ -31,61 +31,91 @@ get_player_tackles <- function(scraped_file) {
         html_text()
     
     #=============================================================================
-    # Player Tackles
+    # Alternate Player Tackles
     #=============================================================================
     
-    # Get index for node with text "Player Tackles Over/Under"
-    tackles_over_under_index <- which(market_names == "Player Tackles")
+    # Get index for node with text "Player Tackles"
+    alternate_tackles_index <- which(market_names == "Player Tackles")
     
     # Get Player Names from node
-    tackles_players <-
-        bet365_player_markets[[tackles_over_under_index]] |>
+    alternate_tackles_players <-
+        bet365_player_markets[[alternate_tackles_index]] |>
         html_elements(".srb-ParticipantLabelWithTeam_Name") |>
         html_text()
     
     # # Get Player Teams from node
-    # tackles_teams <-
-    #     bet365_player_markets[[tackles_over_under_index]] |>
+    # alternate_tackles_teams <-
+    #     bet365_player_markets[[alternate_tackles_index]] |>
     #     html_elements(".srb-ParticipantLabelWithTeam_Team") |>
     #     html_text()
-    
-    # Get Over Node Index
-    tackles_cols <-
-        bet365_player_markets[[tackles_over_under_index]] |>
+    # 
+    # Get Tackles Node Indexes for 0.5 to 3.5
+    alternate_tackles_cols <-
+        bet365_player_markets[[alternate_tackles_index]] |>
         html_elements(".gl-Market_General")
     
-    tackles_over_index <- which(str_detect(tackles_cols |> html_text(), "Over"))
+    alternate_tackles_05_index <- which(str_detect(alternate_tackles_cols |> html_node(".srb-HScrollPlaceHeader ") |> html_text(), "0\\.5"))
+    alternate_tackles_15_index <- which(str_detect(alternate_tackles_cols |> html_node(".srb-HScrollPlaceHeader ") |> html_text(), "1\\.5"))
+    alternate_tackles_25_index <- which(str_detect(alternate_tackles_cols |> html_node(".srb-HScrollPlaceHeader ") |> html_text(), "2\\.5"))
+    alternate_tackles_35_index <- which(str_detect(alternate_tackles_cols |> html_node(".srb-HScrollPlaceHeader ") |> html_text(), "3\\.5"))
     
-    # Get Over Lines
-    tackles_over_lines <-
-        tackles_cols[[tackles_over_index]] |>
-        html_elements(".gl-ParticipantCenteredStacked_Handicap") |>
+    # Get Odds for each tackles range
+    alternate_tackles_05_odds <-
+        alternate_tackles_cols[[alternate_tackles_05_index]] |>
+        html_elements(".gl-ParticipantOddsOnly_Odds") |>
         html_text()
     
-    # Get Over Odds
-    tackles_over_odds <-
-        tackles_cols[[tackles_over_index]] |>
-        html_elements(".gl-ParticipantCenteredStacked_Odds") |>
+    alternate_tackles_15_odds <-
+        alternate_tackles_cols[[alternate_tackles_15_index]] |>
+        html_elements(".gl-ParticipantOddsOnly_Odds") |>
         html_text()
     
-    # Get Under Node Index
-    tackles_under_index <- which(str_detect(tackles_cols |> html_text(), "Under"))
-    
-    # Get Under Odds
-    tackles_under_odds <-
-        tackles_cols[[tackles_under_index]] |>
-        html_elements(".gl-ParticipantCenteredStacked_Odds") |>
+    alternate_tackles_25_odds <-
+        alternate_tackles_cols[[alternate_tackles_25_index]] |>
+        html_elements(".gl-ParticipantOddsOnly_Odds") |>
         html_text()
     
-    # Create Player Tackles Table
-    player_tackles <-
-        tibble(player = tackles_players,
-               # team = tackles_teams,
-               line = as.numeric(tackles_over_lines),
-               over_price = as.numeric(tackles_over_odds),
-               under_price = as.numeric(tackles_under_odds)) |>
-        mutate(market_name = "Player Tackles Over/Under") |>
+    alternate_tackles_35_odds <-
+        alternate_tackles_cols[[alternate_tackles_35_index]] |>
+        html_elements(".gl-ParticipantOddsOnly_Odds") |>
+        html_text()
+    
+    # Create Alternate Player Tackles Tables
+    alternate_tackles_05 <-
+        tibble(player = alternate_tackles_players,
+               # team = alternate_tackles_teams,
+               line = 0.5,
+               over_price = as.numeric(alternate_tackles_05_odds)) |>
+        mutate(market_name = "Alternate Player Tackles") |>
         mutate(agency = "Bet365")
+    
+    alternate_tackles_15 <-
+        tibble(player = alternate_tackles_players,
+               # team = alternate_tackles_teams,
+               line = 1.5,
+               over_price = as.numeric(alternate_tackles_15_odds)) |>
+        mutate(market_name = "Alternate Player Tackles") |>
+        mutate(agency = "Bet365")
+    
+    alternate_tackles_25 <-
+        tibble(player = alternate_tackles_players,
+               # team = alternate_tackles_teams,
+               line = 2.5,
+               over_price = as.numeric(alternate_tackles_25_odds)) |>
+        mutate(market_name = "Alternate Player Tackles") |>
+        mutate(agency = "Bet365")
+    
+    alternate_tackles_35 <-
+        tibble(player = alternate_tackles_players,
+               # team = alternate_tackles_teams,
+               line = 3.5,
+               over_price = as.numeric(alternate_tackles_35_odds)) |>
+        mutate(market_name = "Alternate Player Tackles") |>
+        mutate(agency = "Bet365")
+    
+    # Combine
+    alternate_player_tackles <-
+        bind_rows(alternate_tackles_05, alternate_tackles_15, alternate_tackles_25, alternate_tackles_35)
     
     #=============================================================================
     # Combine Lines and milestones
@@ -105,7 +135,7 @@ get_player_tackles <- function(scraped_file) {
     
     # Combine all tables
     player_tackles_all <-
-        bind_rows(player_tackles) |> 
+        bind_rows(alternate_player_tackles) |> 
         arrange(player, line, over_price) |> 
         mutate(market_name = "Player Tackles") |> 
         mutate(match = match_name) |> 

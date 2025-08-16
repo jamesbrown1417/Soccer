@@ -47,7 +47,7 @@ async def main():
                 
                 # If there is a button that says Tackles, click it
                 try:
-                    tackles_button = await driver.find_element(By.XPATH, "//div[contains(@class, 'cm-MarketGroupWithIconsButton_Text ') and text()='Tackles']")
+                    tackles_button = await driver.find_element(By.XPATH, "//div[contains(@class, 'cm-MarketGroupWithIconsButton_Text ') and text()='Player Tackles']")
                     await driver.execute_script("arguments[0].scrollIntoView(true);", tackles_button)
                     await driver.execute_script("window.scrollBy(0, -150)")
                     await tackles_button.click()

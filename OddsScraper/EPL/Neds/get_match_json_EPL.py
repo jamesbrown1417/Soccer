@@ -6,13 +6,13 @@ import os
 
 async def main():
     # Load URLs from the CSV file
-    match_urls = pd.read_csv("OddsScraper\\EPL\\Neds\\neds_epl_match_urls.csv")
+    match_urls = pd.read_csv("OddsScraper/EPL/Neds/neds_epl_match_urls.csv")
     if "url" not in match_urls.columns:
         raise ValueError("CSV file must contain 'url' column")
     urls = match_urls["url"].tolist()
 
     # Ensure the directory exists
-    output_dir = "OddsScraper\\EPL\\Neds\\"
+    output_dir = "OddsScraper/EPL/Neds/"
     os.makedirs(output_dir, exist_ok=True)
 
     async with async_playwright() as p:
