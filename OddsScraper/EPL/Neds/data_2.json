@@ -3611,7 +3611,7 @@
             "name": "Iliman Ndiaye",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "cbc95e5b-d18f-46b1-9620-2c70c3c629e0"
         },
         "54ac6bbf-88eb-4ecf-b1ca-121dcbcb790c": {
@@ -5121,7 +5121,7 @@
             "name": "Dominic Calvert-Lewin",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 490,
             "market_id": "cbc95e5b-d18f-46b1-9620-2c70c3c629e0"
         },
         "79291c68-6e18-4833-8ab9-f80ca19c451f": {
@@ -6752,7 +6752,7 @@
             "name": "Seamus Coleman",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 490,
+            "sort_order": 480,
             "market_id": "cbc95e5b-d18f-46b1-9620-2c70c3c629e0"
         },
         "9946015e-3c76-433e-bf39-6894b1f23b63": {
@@ -16786,9 +16786,9 @@
                 "5a05a076-e062-4b6f-9cbf-fc6435707184",
                 "7612d2cb-3fcd-430d-ab2a-fe089e179f67",
                 "62eeaee0-ed27-42f5-8fa6-443cbcd16dcf",
-                "78e848d8-c699-4dac-a307-87f9f4ac91a1",
                 "5426a619-1a28-45d7-b030-630a53c9dd81",
                 "992445f5-afba-4ec4-bad8-5fd64e93da28",
+                "78e848d8-c699-4dac-a307-87f9f4ac91a1",
                 "72f54edb-d006-4fbc-8514-9fdc0f100fb3",
                 "0cdf91cc-f8d9-4a19-9b24-85093e5137c4",
                 "f6aec511-ddea-4722-82e5-5ff1dd16cf95",
@@ -22067,8 +22067,8 @@
         },
         "78e848d8-c699-4dac-a307-87f9f4ac91a1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 1
+                "numerator": 17,
+                "denominator": 4
             }
         },
         "79291c68-6e18-4833-8ab9-f80ca19c451f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -26003,8 +26003,8 @@
         },
         "e30a0ffd-3743-4552-b657-d4963a88b031:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 5
+                "numerator": 333,
+                "denominator": 100
             }
         },
         "e31c0d90-5ec2-41a1-a927-70acaeaf5875:940b8704-e497-4a76-b390-00918ff7d282:": {

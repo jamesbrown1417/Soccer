@@ -3314,7 +3314,7 @@
             "name": "Malo Gusto",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 450,
+            "sort_order": 460,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "47894dba-8672-4da2-af39-8f925ccc985d": {
@@ -7926,7 +7926,7 @@
             "name": "Nathaniel Clyne",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 560,
+            "sort_order": 570,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "b157c4c9-6ca4-4e76-9fd5-571d6e72da2a": {
@@ -8347,7 +8347,7 @@
             "name": "Axel Disasi",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 610,
+            "sort_order": 640,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "b9bf963d-041a-4b18-8284-68179842bdf4": {
@@ -9555,7 +9555,7 @@
             "name": "Joao Pedro",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 630,
+            "sort_order": 620,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "d66a3eb3-58b5-4ab5-9814-15363b1ce99f": {
@@ -10052,7 +10052,7 @@
             "name": "Pedro Neto",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 450,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "e34e6f9b-6d3d-48ca-ba7c-6dab8559604c": {
@@ -10278,7 +10278,7 @@
             "name": "Joshua Kofi Acheampong",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 570,
+            "sort_order": 560,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "e7240b6b-2c4b-47fb-a16a-e7d71c8902a4": {
@@ -10580,7 +10580,7 @@
             "name": "Ben Chilwell",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 640,
+            "sort_order": 630,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "ee1bddb1-4f98-437b-85ff-8f95430140c5": {
@@ -10886,7 +10886,7 @@
             "name": "Tyrique George",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 620,
+            "sort_order": 610,
             "market_id": "f9471af7-7d8b-416b-ae99-7e0eae82ba8f"
         },
         "f6062cec-af14-4bfa-8540-d054bbca5111": {
@@ -18003,8 +18003,8 @@
                 "e399081d-8fc7-418b-97cd-23bff3b6cebc",
                 "b72dcc02-8078-4b61-960c-f3654f5845ab",
                 "89e3cdf8-ae23-4df0-a021-b6242a45161d",
-                "475dec22-6771-463b-84c0-3c02cd21a816",
                 "e345fafd-237a-473e-b6f1-0618e0c06900",
+                "475dec22-6771-463b-84c0-3c02cd21a816",
                 "7115bc9b-dcea-40a2-a87c-86b91427da41",
                 "0b0ed2ab-f48b-4c1d-b264-f8e45de7a7fb",
                 "0d75c021-a20f-42f3-bb9d-3b75d1ff97db",
@@ -18013,15 +18013,15 @@
                 "f8796fa6-6233-47fc-8b9c-17f1c9985e46",
                 "2e879116-a881-41fe-acce-67733799c329",
                 "10486c70-3d88-4c08-90b1-7215e771328f",
-                "b14a6d19-b0af-4224-a3fa-f5dbb36264f3",
                 "e6fd33a0-e6f0-4f11-9ad7-e91b381edec0",
+                "b14a6d19-b0af-4224-a3fa-f5dbb36264f3",
                 "9392a86a-b274-4578-a61c-15d716e36187",
                 "90d40cf2-3446-4f64-81e3-ba3c436240b4",
                 "c1ba928f-f9c0-4de3-8966-0ec90cc6cab7",
-                "b9b470f4-8961-4693-9f94-aa5ab0b9268b",
                 "f5f8c31a-b55e-49bb-b90b-f5355e625dc2",
                 "d62857d0-20b3-4ca7-8f6b-f48cb4a74988",
                 "edf10eca-0f87-4d97-95e6-c31f58053088",
+                "b9b470f4-8961-4693-9f94-aa5ab0b9268b",
                 "0082877f-ac56-4b21-ae4b-2aa93fa77bab",
                 "50f9fcd5-31e7-4d08-a83e-8e58a3b6afc5",
                 "78adc28b-ad53-45b0-ac10-4123946e6d39",
@@ -23363,8 +23363,8 @@
         },
         "89e3cdf8-ae23-4df0-a021-b6242a45161d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 10
             }
         },
         "8a00e013-3e2f-4452-90da-8ab8e028e8fd:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -25223,8 +25223,8 @@
         },
         "b9b470f4-8961-4693-9f94-aa5ab0b9268b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 5
+                "numerator": 4,
+                "denominator": 1
             }
         },
         "b9bf963d-041a-4b18-8284-68179842bdf4:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -26609,8 +26609,8 @@
         },
         "e345fafd-237a-473e-b6f1-0618e0c06900:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 10
             }
         },
         "e34e6f9b-6d3d-48ca-ba7c-6dab8559604c:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -26789,8 +26789,8 @@
         },
         "e6fd33a0-e6f0-4f11-9ad7-e91b381edec0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 5
+                "numerator": 333,
+                "denominator": 100
             }
         },
         "e7240b6b-2c4b-47fb-a16a-e7d71c8902a4:940b8704-e497-4a76-b390-00918ff7d282:": {
