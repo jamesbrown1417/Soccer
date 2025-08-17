@@ -509,6 +509,11 @@ all_outliers <- bind_rows(
          second_best_odds, second_best_agency, prob_difference) |>
   arrange(desc(prob_difference))
 
+# Create bet365 reference outliers (where Bet365 is second best)
+bet365_outliers <- all_outliers |>
+  filter(second_best_agency == "Bet365") |>
+  arrange(desc(prob_difference))
+
 #===============================================================================
 # Get all arbs
 #===============================================================================
@@ -524,65 +529,88 @@ all_arbs <-
     mutate(margin = round(margin, 3))
 ```
 
-```{r}
-#| column: page
+::: {.panel-tabset}
 
-# Create tabbed interface
-navset_card_tab(
-  nav_panel("Arbitrage Opportunities",
-    card(
-      card_header("Current Arbitrage Opportunities"),
-      card_body(
-        if(nrow(all_arbs) > 0) {
-          DT::datatable(
-            all_arbs,
-            options = list(
-              pageLength = 20,
-              scrollX = TRUE,
-              dom = 'Bfrtip'
-            ),
-            rownames = FALSE
-          )
-        } else {
-          p("No arbitrage opportunities found at this time.")
-        }
-      )
-    )
-  ),
-  
-  nav_panel("Odds Outliers",
-    card(
-      card_header("Odds Outliers - Biggest Probability Differences"),
-      card_body(
-        if(nrow(all_outliers) > 0) {
-          DT::datatable(
-            all_outliers |>
-              rename(
-                Match = match,
-                `Market Type` = market_type,
-                Outcome = outcome,
-                `Agencies` = num_agencies,
-                `Best Odds` = best_odds,
-                `Best Agency` = best_agency,
-                `Second Best Odds` = second_best_odds,
-                `Second Best Agency` = second_best_agency,
-                `Probability Difference` = prob_difference
-              ),
-            options = list(
-              pageLength = 25,
-              scrollX = TRUE,
-              dom = 'Bfrtip',
-              order = list(list(8, 'desc'))  # Sort by probability difference descending
-            ),
-            rownames = FALSE
-          ) |>
-            DT::formatRound(c('Best Odds', 'Second Best Odds'), 2) |>
-            DT::formatRound('Probability Difference', 4)
-        } else {
-          p("No significant odds outliers found.")
-        }
-      )
-    )
+## Arbitrage Opportunities
+
+```{r}
+if(nrow(all_arbs) > 0) {
+  DT::datatable(
+    all_arbs,
+    options = list(
+      pageLength = 20,
+      scrollX = TRUE,
+      dom = 'Bfrtip'
+    ),
+    rownames = FALSE
   )
-)
+} else {
+  cat("No arbitrage opportunities found at this time.")
+}
 ```
+
+## Odds Outliers
+
+```{r}
+if(nrow(all_outliers) > 0) {
+  DT::datatable(
+    all_outliers |>
+      rename(
+        Match = match,
+        `Market Type` = market_type,
+        Outcome = outcome,
+        `Agencies` = num_agencies,
+        `Best Odds` = best_odds,
+        `Best Agency` = best_agency,
+        `Second Best Odds` = second_best_odds,
+        `Second Best Agency` = second_best_agency,
+        `Probability Difference` = prob_difference
+      ),
+    options = list(
+      pageLength = 25,
+      scrollX = TRUE,
+      dom = 'Bfrtip',
+      order = list(list(8, 'desc'))  # Sort by probability difference descending
+    ),
+    rownames = FALSE
+  ) |>
+    DT::formatRound(c('Best Odds', 'Second Best Odds'), 2) |>
+    DT::formatRound('Probability Difference', 4)
+} else {
+  cat("No significant odds outliers found.")
+}
+```
+
+## Bet365 Reference
+
+```{r}
+if(nrow(bet365_outliers) > 0) {
+  DT::datatable(
+    bet365_outliers |>
+      rename(
+        Match = match,
+        `Market Type` = market_type,
+        Outcome = outcome,
+        `Agencies` = num_agencies,
+        `Best Odds` = best_odds,
+        `Best Agency` = best_agency,
+        `Second Best Odds` = second_best_odds,
+        `Second Best Agency` = second_best_agency,
+        `Probability Difference` = prob_difference
+      ),
+    options = list(
+      pageLength = 25,
+      scrollX = TRUE,
+      dom = 'Bfrtip',
+      order = list(list(8, 'desc'))  # Sort by probability difference descending
+    ),
+    rownames = FALSE
+  ) |>
+    DT::formatRound(c('Best Odds', 'Second Best Odds'), 2) |>
+    DT::formatRound('Probability Difference', 4)
+} else {
+  cat("No markets where Bet365 is the second best price.")
+}
+```
+
+:::
