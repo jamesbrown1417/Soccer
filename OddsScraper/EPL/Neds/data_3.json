@@ -7415,7 +7415,7 @@
             "name": "Anton Stach",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 230,
+            "sort_order": 220,
             "market_id": "cbc95e5b-d18f-46b1-9620-2c70c3c629e0"
         },
         "a85f2bf4-9655-47cd-97e7-0ce43762fe05": {
@@ -10473,7 +10473,7 @@
             "name": "Thierno Barry",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 220,
+            "sort_order": 230,
             "market_id": "cbc95e5b-d18f-46b1-9620-2c70c3c629e0"
         },
         "f0800e54-66cf-4382-8b2b-165656e0fb7e": {
@@ -16761,8 +16761,8 @@
                 "de4f5064-3143-4be0-8ba6-9df14ea55762",
                 "3438d1c1-8cea-4f93-92f9-9a8a546af8ce",
                 "0b872bb7-879e-43d4-a2ff-a1175c0e465b",
-                "f057a56c-7c7d-4c50-a527-eea9be09b431",
                 "a83dd101-572d-49bb-a02c-f1527f41b65c",
+                "f057a56c-7c7d-4c50-a527-eea9be09b431",
                 "1b5a6ffb-ec76-48a8-98d5-81794b8e1c28",
                 "626ffe0a-35b1-41cd-b85e-c494ba6fc1c4",
                 "9cebb231-5d71-41ce-b65a-63c6f9c2563a",
@@ -26411,8 +26411,8 @@
         },
         "f057a56c-7c7d-4c50-a527-eea9be09b431:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 11,
+                "denominator": 4
             }
         },
         "f0800e54-66cf-4382-8b2b-165656e0fb7e:940b8704-e497-4a76-b390-00918ff7d282:": {
