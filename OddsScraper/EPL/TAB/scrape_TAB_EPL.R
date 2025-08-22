@@ -5,9 +5,6 @@ library(httr2)
 library(httr)
 library(jsonlite)
 
-# URL to get responses
-tab_url = "https://api.beta.tab.com.au/v1/tab-info-service/sports/Soccer/competitions/English%20Premier%20League?jurisdiction=SA"
-
 # Get Squads
 epl_squads <- read_rds("Data/epl_squads.rds")
 

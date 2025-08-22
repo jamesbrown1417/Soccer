@@ -1,12 +1,17 @@
 match,market_name,home_team,home_win,draw,away_team,away_win,margin,agency
-Arsenal v Leeds United,Head To Head,Arsenal,1.25,5.5,Leeds United,10,1.082,Dabble
-Bournemouth v Wolverhampton Wanderers,Head To Head,Bournemouth,1.8,3.5,Wolverhampton Wanderers,4,1.091,Dabble
-Brentford v Aston Villa,Head To Head,Brentford,3.1,3.5,Aston Villa,2.08,1.089,Dabble
-Burnley v Sunderland,Head To Head,Burnley,2.35,3,Sunderland,3,1.092,Dabble
-Crystal Palace v Nottingham Forest,Head To Head,Crystal Palace,2.1,3.2,Nottingham Forest,3.3,1.092,Dabble
-Everton v Brighton & Hove Albion,Head To Head,Everton,2.65,3.25,Brighton & Hove Albion,2.45,1.093,Dabble
-Fulham v Manchester United,Head To Head,Fulham,2.85,3.4,Manchester United,2.25,1.089,Dabble
-Leeds United v Everton,Head To Head,Leeds United,2.25,3.25,Everton,3.1,1.075,Dabble
-Manchester City v Tottenham Hotspur,Head To Head,Manchester City,1.4,4.75,Tottenham Hotspur,6,1.091,Dabble
-Newcastle United v Liverpool,Head To Head,Newcastle United,3.3,3.6,Liverpool,1.95,1.094,Dabble
-West Ham United v Chelsea,Head To Head,West Ham United,4.25,4,Chelsea,1.66,1.088,Dabble
+Arsenal v Leeds United,Head To Head,Arsenal,1.26,6,Leeds United,10,1.06,Dabble
+Bournemouth v Wolverhampton Wanderers,Head To Head,Bournemouth,1.8,3.75,Wolverhampton Wanderers,4,1.072,Dabble
+Brentford v Aston Villa,Head To Head,Brentford,3.2,3.5,Aston Villa,2.15,1.063,Dabble
+Burnley v Sunderland,Head To Head,Burnley,2.25,3.1,Sunderland,3.3,1.07,Dabble
+Chelsea v Fulham,Head To Head,Chelsea,1.53,4,Fulham,5.25,1.094,Dabble
+Crystal Palace v Nottingham Forest,Head To Head,Crystal Palace,2.35,3.2,Nottingham Forest,3.1,1.061,Dabble
+Everton v Brighton & Hove Albion,Head To Head,Everton,3,3.3,Brighton & Hove Albion,2.3,1.071,Dabble
+Fulham v Manchester United,Head To Head,Fulham,3.1,3.5,Manchester United,2.2,1.063,Dabble
+Leeds United v Newcastle United,Head To Head,Leeds United,3.1,3.5,Newcastle United,2.08,1.089,Dabble
+Manchester City v Tottenham Hotspur,Head To Head,Manchester City,1.48,4.5,Tottenham Hotspur,5.5,1.08,Dabble
+Manchester United v Burnley,Head To Head,Manchester United,1.3,5,Burnley,8.5,1.087,Dabble
+Newcastle United v Liverpool,Head To Head,Newcastle United,3.25,3.75,Liverpool,1.98,1.079,Dabble
+Sunderland v Brentford,Head To Head,Sunderland,2.45,3.3,Brentford,2.65,1.089,Dabble
+Tottenham Hotspur v Bournemouth,Head To Head,Tottenham Hotspur,1.85,3.85,Bournemouth,3.5,1.086,Dabble
+West Ham United v Chelsea,Head To Head,West Ham United,4.5,3.85,Chelsea,1.7,1.07,Dabble
+Wolverhampton Wanderers v Everton,Head To Head,Wolverhampton Wanderers,2.4,3.2,Everton,2.75,1.093,Dabble
