@@ -2189,6 +2189,14 @@
             "sort_order": 170,
             "market_id": "063e0c23-0136-4b08-9fee-690335dde49f"
         },
+        "334578d5-015a-480e-903e-cdc1fcb45f7c": {
+            "id": "334578d5-015a-480e-903e-cdc1fcb45f7c",
+            "name": "Hannibal Mejbri",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "12e1d17b-2ff2-4596-84a2-0d0fc926d887"
+        },
         "336515b0-5c63-4c82-b60e-bef1a688c5ef": {
             "id": "336515b0-5c63-4c82-b60e-bef1a688c5ef",
             "name": "Simon Adingra (Sunderland AFC)",
@@ -2757,7 +2765,7 @@
             "name": "Chris Rigg",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "12e1d17b-2ff2-4596-84a2-0d0fc926d887"
         },
         "3f2b8df3-963e-49ee-ad00-286253339c1c": {
@@ -5401,7 +5409,7 @@
             "name": "Noah Sadiki",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 440,
+            "sort_order": 430,
             "market_id": "12e1d17b-2ff2-4596-84a2-0d0fc926d887"
         },
         "771c36fc-db8a-427e-9bab-e33b1495f7a1": {
@@ -7443,7 +7451,7 @@
             "name": "Lucas Pires",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 480,
             "market_id": "12e1d17b-2ff2-4596-84a2-0d0fc926d887"
         },
         "a559152d-cc8d-4836-8b00-a110d7649831": {
@@ -11554,7 +11562,7 @@
             "name": "Josh Laurent",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 430,
+            "sort_order": 440,
             "market_id": "12e1d17b-2ff2-4596-84a2-0d0fc926d887"
         },
         "fae9a195-e138-453d-b4b2-be6995397470": {
@@ -13131,6 +13139,7 @@
             "comments": "Applies to Normal Time & Injury Time Only. Extra-Time & Penalty Shoot-Outs do not count",
             "visible": true,
             "entrant_ids": [
+                "334578d5-015a-480e-903e-cdc1fcb45f7c",
                 "c84e9b95-1e29-436d-a16a-d4aa09e7ed66",
                 "fc574632-e920-47c2-a83b-e68d97a02637",
                 "409d18f8-9387-44bb-9c87-9e2149ccc612",
@@ -13138,12 +13147,12 @@
                 "cfc74475-b024-4ef7-bca3-f7c5a23c14ba",
                 "62e3d0d0-7749-4325-b3e2-6ed4840b5900",
                 "4f142274-9aa7-4333-990a-192d9339e21c",
-                "faa172e3-584a-4b78-9a4e-76d1182baa64",
                 "76fcc60f-8993-44c2-818a-1afe0eda4b81",
+                "faa172e3-584a-4b78-9a4e-76d1182baa64",
                 "56f4970d-aed1-425b-b3d7-42e0e50ed749",
                 "8f36b333-d10c-499a-aa3d-d59294a9943a",
-                "a4b0d230-e315-4103-8ae7-584f90ad6f58",
                 "3f1d9620-a2a8-4079-a962-d6360b4f3fd0",
+                "a4b0d230-e315-4103-8ae7-584f90ad6f58",
                 "48012706-9030-491d-b363-752a126696d7",
                 "4f9657e0-8676-450e-8564-e71fb7a087eb",
                 "496991b7-1127-4806-9030-1f1ad87a09c6",
@@ -20335,6 +20344,12 @@
                 "denominator": 1
             }
         },
+        "334578d5-015a-480e-903e-cdc1fcb45f7c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 8,
+                "denominator": 5
+            }
+        },
         "336515b0-5c63-4c82-b60e-bef1a688c5ef:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 11,
@@ -22119,8 +22134,8 @@
         },
         "62e3d0d0-7749-4325-b3e2-6ed4840b5900:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 4
+                "numerator": 14,
+                "denominator": 5
             }
         },
         "63071761-22c6-4235-8046-d936dc747432:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -24585,8 +24600,8 @@
         },
         "a4b0d230-e315-4103-8ae7-584f90ad6f58:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 16,
+                "denominator": 5
             }
         },
         "a559152d-cc8d-4836-8b00-a110d7649831:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -27891,8 +27906,8 @@
         },
         "faa172e3-584a-4b78-9a4e-76d1182baa64:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 10
+                "numerator": 3,
+                "denominator": 1
             }
         },
         "fae9a195-e138-453d-b4b2-be6995397470:940b8704-e497-4a76-b390-00918ff7d282:": {
