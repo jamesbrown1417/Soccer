@@ -1052,7 +1052,7 @@
             "name": "Douglas Luiz",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 300,
+            "sort_order": 320,
             "market_id": "e7d0454d-6132-4a58-9f41-6e10ef547545"
         },
         "1a937fd2-8f7f-4fd2-96a1-ef3e7950f703": {
@@ -11399,7 +11399,7 @@
             "name": "Will Hughes",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 320,
+            "sort_order": 300,
             "market_id": "e7d0454d-6132-4a58-9f41-6e10ef547545"
         },
         "ff0edf97-1c66-4326-b123-a44fc3870ea2": {
@@ -17404,9 +17404,9 @@
                 "5c9955e1-ffe0-452a-9283-52f5bd59e332",
                 "e9311fb1-8c89-466a-90ee-37cc2160be4c",
                 "b89c1ae3-9c12-4a3c-ae2b-174083c2e180",
-                "1a6be258-060d-434e-9769-2d89615f9d3a",
-                "3023128d-6eb4-4e5f-a746-889895a78fad",
                 "ff0c1866-e791-4aef-8ba5-b7be326a4030",
+                "3023128d-6eb4-4e5f-a746-889895a78fad",
+                "1a6be258-060d-434e-9769-2d89615f9d3a",
                 "6c4f955f-bdae-4b19-97dd-a11cf78173be",
                 "a24b6a64-7323-4c5b-89d2-1368d471c525",
                 "d26da145-5371-48bc-9573-4326a4f795f0",
@@ -19058,8 +19058,8 @@
         },
         "1a6be258-060d-434e-9769-2d89615f9d3a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 163,
-                "denominator": 100
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "1a937fd2-8f7f-4fd2-96a1-ef3e7950f703:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -27428,8 +27428,8 @@
         },
         "ff0c1866-e791-4aef-8ba5-b7be326a4030:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 7,
-                "denominator": 4
+                "numerator": 17,
+                "denominator": 10
             }
         },
         "ff0edf97-1c66-4326-b123-a44fc3870ea2:940b8704-e497-4a76-b390-00918ff7d282:": {

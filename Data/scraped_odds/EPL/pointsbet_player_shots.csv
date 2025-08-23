@@ -1,611 +1,435 @@
 match,home_team,away_team,market_name,player_name,player_team,line,over_price,agency,opposition_team,EventKey,MarketKey,OutcomeKey
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,0.5,1.63,Pointsbet,Tottenham Hotspur,2383616,94122357,13
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,1.5,3.9,Pointsbet,Tottenham Hotspur,2383616,94122357,14
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,2.5,11,Pointsbet,Tottenham Hotspur,2383616,94122357,15
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,3.5,41,Pointsbet,Tottenham Hotspur,2383616,94122357,16
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,0.5,1.56,Pointsbet,NA,2383616,94122357,31
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,1.5,3.7,Pointsbet,NA,2383616,94122357,32
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,2.5,10.5,Pointsbet,NA,2383616,94122357,33
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,3.5,36,Pointsbet,NA,2383616,94122357,34
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,1.5,1.04,Pointsbet,Tottenham Hotspur,2383616,94122357,37
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,2.5,1.18,Pointsbet,Tottenham Hotspur,2383616,94122357,38
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,3.5,1.5,Pointsbet,Tottenham Hotspur,2383616,94122357,39
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,4.5,2.15,Pointsbet,Tottenham Hotspur,2383616,94122357,40
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,5.5,3.3,Pointsbet,Tottenham Hotspur,2383616,94122357,41
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,6.5,5.25,Pointsbet,Tottenham Hotspur,2383616,94122357,42
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,0.5,1.03,Pointsbet,NA,2383616,94122357,49
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,1.5,1.19,Pointsbet,NA,2383616,94122357,50
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,2.5,1.65,Pointsbet,NA,2383616,94122357,51
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,3.5,2.55,Pointsbet,NA,2383616,94122357,52
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,4.5,4.4,Pointsbet,NA,2383616,94122357,53
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,5.5,8,Pointsbet,NA,2383616,94122357,54
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,0.5,1.22,Pointsbet,NA,2383616,94122357,55
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,1.5,1.95,Pointsbet,NA,2383616,94122357,56
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,2.5,4.2,Pointsbet,NA,2383616,94122357,57
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,3.5,9.5,Pointsbet,NA,2383616,94122357,58
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,4.5,23,Pointsbet,NA,2383616,94122357,59
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R. Aït Nouri,NA,5.5,81,Pointsbet,NA,2383616,94122357,60
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,0.5,1.18,Pointsbet,Tottenham Hotspur,2383616,94122357,67
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,1.5,1.87,Pointsbet,Tottenham Hotspur,2383616,94122357,68
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,2.5,3.7,Pointsbet,Tottenham Hotspur,2383616,94122357,69
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,3.5,8,Pointsbet,Tottenham Hotspur,2383616,94122357,70
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,4.5,20,Pointsbet,Tottenham Hotspur,2383616,94122357,71
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,5.5,61,Pointsbet,Tottenham Hotspur,2383616,94122357,72
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,0.5,1.03,Pointsbet,NA,2383616,94122357,73
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,1.5,1.21,Pointsbet,NA,2383616,94122357,74
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,2.5,1.67,Pointsbet,NA,2383616,94122357,75
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,3.5,2.5,Pointsbet,NA,2383616,94122357,76
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,4.5,4.4,Pointsbet,NA,2383616,94122357,77
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,M. Cherki,NA,5.5,8.5,Pointsbet,NA,2383616,94122357,78
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,0.5,1.05,Pointsbet,Tottenham Hotspur,2383616,94122357,97
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,1.5,1.29,Pointsbet,Tottenham Hotspur,2383616,94122357,98
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,2.5,1.83,Pointsbet,Tottenham Hotspur,2383616,94122357,99
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,3.5,3.1,Pointsbet,Tottenham Hotspur,2383616,94122357,100
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,4.5,5.75,Pointsbet,Tottenham Hotspur,2383616,94122357,101
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,5.5,11,Pointsbet,Tottenham Hotspur,2383616,94122357,102
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,1.5,1.08,Pointsbet,NA,2383616,94122357,103
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,2.5,1.29,Pointsbet,NA,2383616,94122357,104
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,3.5,1.8,Pointsbet,NA,2383616,94122357,105
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,4.5,2.7,Pointsbet,NA,2383616,94122357,106
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,5.5,4.4,Pointsbet,NA,2383616,94122357,107
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,O. Marmoush,NA,6.5,7.5,Pointsbet,NA,2383616,94122357,108
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,0.5,1.65,Pointsbet,Tottenham Hotspur,2383616,94122357,109
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,1.5,3.9,Pointsbet,Tottenham Hotspur,2383616,94122357,110
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,2.5,12,Pointsbet,Tottenham Hotspur,2383616,94122357,111
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,3.5,41,Pointsbet,Tottenham Hotspur,2383616,94122357,112
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,0.5,1.59,Pointsbet,Manchester City,2383616,94122357,145
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,1.5,3.9,Pointsbet,Manchester City,2383616,94122357,146
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,2.5,11,Pointsbet,Manchester City,2383616,94122357,147
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,3.5,51,Pointsbet,Manchester City,2383616,94122357,148
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Cristian Romero,Tottenham Hotspur,0.5,1.83,Pointsbet,Manchester City,2383616,94122357,157
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Cristian Romero,Tottenham Hotspur,1.5,5.25,Pointsbet,Manchester City,2383616,94122357,158
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Cristian Romero,Tottenham Hotspur,2.5,20,Pointsbet,Manchester City,2383616,94122357,159
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,0.5,1.06,Pointsbet,Manchester City,2383616,94122357,169
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,1.5,1.31,Pointsbet,Manchester City,2383616,94122357,170
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,2.5,1.95,Pointsbet,Manchester City,2383616,94122357,171
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,3.5,3.4,Pointsbet,Manchester City,2383616,94122357,172
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,4.5,7,Pointsbet,Manchester City,2383616,94122357,173
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,5.5,16,Pointsbet,Manchester City,2383616,94122357,174
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,0.5,1.48,Pointsbet,Manchester City,2383616,94122357,175
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,1.5,3.25,Pointsbet,Manchester City,2383616,94122357,176
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,2.5,9,Pointsbet,Manchester City,2383616,94122357,177
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,3.5,26,Pointsbet,Manchester City,2383616,94122357,178
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,4.5,91,Pointsbet,Manchester City,2383616,94122357,179
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,0.5,1.08,Pointsbet,Manchester City,2383616,94122357,181
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,1.5,1.4,Pointsbet,Manchester City,2383616,94122357,182
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,2.5,2.2,Pointsbet,Manchester City,2383616,94122357,183
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,3.5,4,Pointsbet,Manchester City,2383616,94122357,184
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,4.5,8,Pointsbet,Manchester City,2383616,94122357,185
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,5.5,17,Pointsbet,Manchester City,2383616,94122357,186
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,0.5,1.13,Pointsbet,Manchester City,2383616,94122357,199
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,1.5,1.67,Pointsbet,Manchester City,2383616,94122357,200
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,2.5,3.1,Pointsbet,Manchester City,2383616,94122357,201
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,3.5,6.5,Pointsbet,Manchester City,2383616,94122357,202
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,4.5,16,Pointsbet,Manchester City,2383616,94122357,203
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,5.5,41,Pointsbet,Manchester City,2383616,94122357,204
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Micky van de Ven,Tottenham Hotspur,0.5,2.9,Pointsbet,Manchester City,2383616,94122357,205
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Micky van de Ven,Tottenham Hotspur,1.5,12,Pointsbet,Manchester City,2383616,94122357,206
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Micky van de Ven,Tottenham Hotspur,2.5,81,Pointsbet,Manchester City,2383616,94122357,207
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,0.5,1.22,Pointsbet,Manchester City,2383616,94122357,217
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,1.5,2.1,Pointsbet,Manchester City,2383616,94122357,218
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,2.5,4.4,Pointsbet,Manchester City,2383616,94122357,219
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,3.5,10.5,Pointsbet,Manchester City,2383616,94122357,220
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,4.5,29,Pointsbet,Manchester City,2383616,94122357,221
-Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,5.5,81,Pointsbet,Manchester City,2383616,94122357,222
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Aké,NA,1.5,3.7,Pointsbet,NA,2383616,94122357,8
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Aké,NA,2.5,19,Pointsbet,NA,2383616,94122357,9
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,0.5,2.3,Pointsbet,Tottenham Hotspur,2383616,94122357,13
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,1.5,8.5,Pointsbet,Tottenham Hotspur,2383616,94122357,14
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,John Stones,Manchester City,2.5,19,Pointsbet,Tottenham Hotspur,2383616,94122357,15
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Bernardo Silva,Manchester City,0.5,1.95,Pointsbet,Tottenham Hotspur,2383616,94122357,19
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Bernardo Silva,Manchester City,1.5,5,Pointsbet,Tottenham Hotspur,2383616,94122357,20
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Bernardo Silva,Manchester City,2.5,19,Pointsbet,Tottenham Hotspur,2383616,94122357,21
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,0.5,2.35,Pointsbet,NA,2383616,94122357,31
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,1.5,8.5,Pointsbet,NA,2383616,94122357,32
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,R<c3><ba>ben Dias,NA,2.5,23,Pointsbet,NA,2383616,94122357,33
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,1.5,1.08,Pointsbet,Tottenham Hotspur,2383616,94122357,37
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,2.5,1.59,Pointsbet,Tottenham Hotspur,2383616,94122357,38
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,3.5,2.75,Pointsbet,Tottenham Hotspur,2383616,94122357,39
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,4.5,5.75,Pointsbet,Tottenham Hotspur,2383616,94122357,40
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,5.5,10,Pointsbet,Tottenham Hotspur,2383616,94122357,41
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Erling Haaland,Manchester City,6.5,19,Pointsbet,Tottenham Hotspur,2383616,94122357,42
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,1.5,1.13,Pointsbet,NA,2383616,94122357,50
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,2.5,1.69,Pointsbet,NA,2383616,94122357,51
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,3.5,3.1,Pointsbet,NA,2383616,94122357,52
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,4.5,5.75,Pointsbet,NA,2383616,94122357,53
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,T. Reijnders,NA,5.5,15,Pointsbet,NA,2383616,94122357,54
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,0.5,1.87,Pointsbet,Tottenham Hotspur,2383616,94122357,67
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,1.5,5,Pointsbet,Tottenham Hotspur,2383616,94122357,68
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,2.5,19,Pointsbet,Tottenham Hotspur,2383616,94122357,69
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Nico González,Manchester City,3.5,81,Pointsbet,Tottenham Hotspur,2383616,94122357,70
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,J<c3><a9>r<c3><a9>my Doku,NA,0.5,1.33,Pointsbet,NA,2383616,94122357,79
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,J<c3><a9>r<c3><a9>my Doku,NA,1.5,2.5,Pointsbet,NA,2383616,94122357,80
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,J<c3><a9>r<c3><a9>my Doku,NA,2.5,5,Pointsbet,NA,2383616,94122357,81
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,J<c3><a9>r<c3><a9>my Doku,NA,3.5,12,Pointsbet,NA,2383616,94122357,82
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,J<c3><a9>r<c3><a9>my Doku,NA,4.5,26,Pointsbet,NA,2383616,94122357,83
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,0.5,1.33,Pointsbet,Tottenham Hotspur,2383616,94122357,97
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,1.5,2.55,Pointsbet,Tottenham Hotspur,2383616,94122357,98
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,2.5,6,Pointsbet,Tottenham Hotspur,2383616,94122357,99
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,3.5,15,Pointsbet,Tottenham Hotspur,2383616,94122357,100
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Oscar Bobb,Manchester City,4.5,51,Pointsbet,Tottenham Hotspur,2383616,94122357,101
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,0.5,2.4,Pointsbet,Tottenham Hotspur,2383616,94122357,109
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,1.5,10.5,Pointsbet,Tottenham Hotspur,2383616,94122357,110
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rico Lewis,Manchester City,2.5,41,Pointsbet,Tottenham Hotspur,2383616,94122357,111
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,0.5,4.2,Pointsbet,Manchester City,2383616,94122357,145
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Rodrigo Bentancur,Tottenham Hotspur,1.5,19,Pointsbet,Manchester City,2383616,94122357,146
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,João Palhinha,Tottenham Hotspur,1.5,4.2,Pointsbet,Manchester City,2383616,94122357,152
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,João Palhinha,Tottenham Hotspur,2.5,16,Pointsbet,Manchester City,2383616,94122357,153
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Cristian Romero,Tottenham Hotspur,0.5,5.75,Pointsbet,Manchester City,2383616,94122357,157
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Cristian Romero,Tottenham Hotspur,1.5,41,Pointsbet,Manchester City,2383616,94122357,158
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,3.5,2.1,Pointsbet,Manchester City,2383616,94122357,172
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,4.5,6,Pointsbet,Manchester City,2383616,94122357,173
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Richarlison,Tottenham Hotspur,5.5,21,Pointsbet,Manchester City,2383616,94122357,174
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,2.5,4.2,Pointsbet,Manchester City,2383616,94122357,177
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pedro Porro,Tottenham Hotspur,3.5,19,Pointsbet,Manchester City,2383616,94122357,178
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,0.5,2.4,Pointsbet,Manchester City,2383616,94122357,181
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,1.5,7.5,Pointsbet,Manchester City,2383616,94122357,182
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Mohammed Kudus,Tottenham Hotspur,2.5,26,Pointsbet,Manchester City,2383616,94122357,183
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Djed Spence,Tottenham Hotspur,0.5,12,Pointsbet,Manchester City,2383616,94122357,187
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,2.5,2.5,Pointsbet,Manchester City,2383616,94122357,201
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,3.5,9,Pointsbet,Manchester City,2383616,94122357,202
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Brennan Johnson,Tottenham Hotspur,4.5,41,Pointsbet,Manchester City,2383616,94122357,203
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Micky van de Ven,Tottenham Hotspur,0.5,6.5,Pointsbet,Manchester City,2383616,94122357,205
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,1.5,4.2,Pointsbet,Manchester City,2383616,94122357,218
+Manchester City v Tottenham Hotspur,Manchester City,Tottenham Hotspur,Player Shots,Pape Matar Sarr,Tottenham Hotspur,2.5,23,Pointsbet,Manchester City,2383616,94122357,219
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,0.5,1.4,Pointsbet,NA,2383721,94167011,1
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,1.5,2.85,Pointsbet,NA,2383721,94167011,2
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,2.5,7.5,Pointsbet,NA,2383721,94167011,3
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,3.5,23,Pointsbet,NA,2383721,94167011,4
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,1.5,2.9,Pointsbet,NA,2383721,94167011,2
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,2.5,7,Pointsbet,NA,2383721,94167011,3
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,3.5,20,Pointsbet,NA,2383721,94167011,4
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Henderson,NA,4.5,81,Pointsbet,NA,2383721,94167011,5
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,0.5,1.83,Pointsbet,Aston Villa,2383721,94167011,7
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,1.5,5.75,Pointsbet,Aston Villa,2383721,94167011,8
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,1.5,5.25,Pointsbet,Aston Villa,2383721,94167011,8
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,2.5,20,Pointsbet,Aston Villa,2383721,94167011,9
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,3.5,91,Pointsbet,Aston Villa,2383721,94167011,10
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kristoffer Ajer,Brentford,3.5,81,Pointsbet,Aston Villa,2383721,94167011,10
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,0.5,1.04,Pointsbet,Aston Villa,2383721,94167011,25
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,1.5,1.27,Pointsbet,Aston Villa,2383721,94167011,26
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,2.5,1.8,Pointsbet,Aston Villa,2383721,94167011,27
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,3.5,3,Pointsbet,Aston Villa,2383721,94167011,28
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,4.5,5.75,Pointsbet,Aston Villa,2383721,94167011,29
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,5.5,11,Pointsbet,Aston Villa,2383721,94167011,30
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yoane Wissa,Brentford,5.5,12,Pointsbet,Aston Villa,2383721,94167011,30
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,0.5,1.36,Pointsbet,Aston Villa,2383721,94167011,37
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,1.5,2.75,Pointsbet,Aston Villa,2383721,94167011,38
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,2.5,6.5,Pointsbet,Aston Villa,2383721,94167011,39
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,3.5,20,Pointsbet,Aston Villa,2383721,94167011,40
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,1.5,2.85,Pointsbet,Aston Villa,2383721,94167011,38
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,2.5,7.5,Pointsbet,Aston Villa,2383721,94167011,39
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,3.5,19,Pointsbet,Aston Villa,2383721,94167011,40
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Frank Onyeka,Brentford,4.5,71,Pointsbet,Aston Villa,2383721,94167011,41
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,0.5,1.65,Pointsbet,Aston Villa,2383721,94167011,49
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,0.5,1.19,Pointsbet,Aston Villa,2383721,94167011,43
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,1.5,1.87,Pointsbet,Aston Villa,2383721,94167011,44
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,2.5,3.7,Pointsbet,Aston Villa,2383721,94167011,45
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,3.5,8.5,Pointsbet,Aston Villa,2383721,94167011,46
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,4.5,21,Pointsbet,Aston Villa,2383721,94167011,47
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mikkel Damsgaard,Brentford,5.5,61,Pointsbet,Aston Villa,2383721,94167011,48
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,0.5,1.67,Pointsbet,Aston Villa,2383721,94167011,49
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,1.5,4,Pointsbet,Aston Villa,2383721,94167011,50
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,2.5,13,Pointsbet,Aston Villa,2383721,94167011,51
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,2.5,12,Pointsbet,Aston Villa,2383721,94167011,51
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Sepp van den Berg,Brentford,3.5,41,Pointsbet,Aston Villa,2383721,94167011,52
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Nathan Collins,Brentford,0.5,2.15,Pointsbet,Aston Villa,2383721,94167011,55
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Nathan Collins,Brentford,1.5,7.5,Pointsbet,Aston Villa,2383721,94167011,56
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Nathan Collins,Brentford,2.5,31,Pointsbet,Aston Villa,2383721,94167011,57
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,0.5,1.11,Pointsbet,Aston Villa,2383721,94167011,67
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Nathan Collins,Brentford,1.5,7,Pointsbet,Aston Villa,2383721,94167011,56
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Nathan Collins,Brentford,2.5,29,Pointsbet,Aston Villa,2383721,94167011,57
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,0.5,1.1,Pointsbet,NA,2383721,94167011,61
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,1.5,1.59,Pointsbet,NA,2383721,94167011,62
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,2.5,2.7,Pointsbet,NA,2383721,94167011,63
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,3.5,5.25,Pointsbet,NA,2383721,94167011,64
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,4.5,11,Pointsbet,NA,2383721,94167011,65
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,F<c3><a1>bio Carvalho,NA,5.5,29,Pointsbet,NA,2383721,94167011,66
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,0.5,1.1,Pointsbet,Aston Villa,2383721,94167011,67
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,1.5,1.63,Pointsbet,Aston Villa,2383721,94167011,68
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,2.5,2.85,Pointsbet,Aston Villa,2383721,94167011,69
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,2.5,2.75,Pointsbet,Aston Villa,2383721,94167011,69
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,3.5,5.75,Pointsbet,Aston Villa,2383721,94167011,70
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,4.5,12,Pointsbet,Aston Villa,2383721,94167011,71
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,5.5,31,Pointsbet,Aston Villa,2383721,94167011,72
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Hickey,NA,0.5,1.74,Pointsbet,NA,2383721,94167011,73
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,4.5,13,Pointsbet,Aston Villa,2383721,94167011,71
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Myles Peart-Harris,Brentford,5.5,29,Pointsbet,Aston Villa,2383721,94167011,72
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Hickey,NA,0.5,1.71,Pointsbet,NA,2383721,94167011,73
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Hickey,NA,1.5,4.5,Pointsbet,NA,2383721,94167011,74
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Hickey,NA,2.5,16,Pointsbet,NA,2383721,94167011,75
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Hickey,NA,3.5,61,Pointsbet,NA,2383721,94167011,76
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,0.5,1.09,Pointsbet,Aston Villa,2383721,94167011,79
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,1.5,1.48,Pointsbet,Aston Villa,2383721,94167011,80
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,1.5,1.5,Pointsbet,Aston Villa,2383721,94167011,80
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,2.5,2.5,Pointsbet,Aston Villa,2383721,94167011,81
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,3.5,4.5,Pointsbet,Aston Villa,2383721,94167011,82
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,4.5,10,Pointsbet,Aston Villa,2383721,94167011,83
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,5.5,21,Pointsbet,Aston Villa,2383721,94167011,84
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,3.5,4.75,Pointsbet,Aston Villa,2383721,94167011,82
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,4.5,10.5,Pointsbet,Aston Villa,2383721,94167011,83
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Keane Lewis-Potter,Brentford,5.5,23,Pointsbet,Aston Villa,2383721,94167011,84
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,0.5,1.06,Pointsbet,NA,2383721,94167011,85
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,1.5,1.31,Pointsbet,NA,2383721,94167011,86
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,2.5,1.95,Pointsbet,NA,2383721,94167011,87
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,3.5,3.4,Pointsbet,NA,2383721,94167011,88
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,2.5,2,Pointsbet,NA,2383721,94167011,87
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,3.5,3.3,Pointsbet,NA,2383721,94167011,88
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,4.5,6.5,Pointsbet,NA,2383721,94167011,89
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Thiago Alc<c3><a2>ntara,NA,5.5,13,Pointsbet,NA,2383721,94167011,90
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,0.5,1.25,Pointsbet,Aston Villa,2383721,94167011,91
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,1.5,2.2,Pointsbet,Aston Villa,2383721,94167011,92
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,1.5,2.25,Pointsbet,Aston Villa,2383721,94167011,92
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,2.5,4.75,Pointsbet,Aston Villa,2383721,94167011,93
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,3.5,12,Pointsbet,Aston Villa,2383721,94167011,94
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,4.5,31,Pointsbet,Aston Villa,2383721,94167011,95
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,0.5,1.06,Pointsbet,Aston Villa,2383721,94167011,97
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,1.5,1.33,Pointsbet,Aston Villa,2383721,94167011,98
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,2.5,2,Pointsbet,Aston Villa,2383721,94167011,99
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,3.5,3.4,Pointsbet,Aston Villa,2383721,94167011,100
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,4.5,7,Pointsbet,Aston Villa,2383721,94167011,101
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,5.5,13,Pointsbet,Aston Villa,2383721,94167011,102
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Yegor Yarmolyuk,Brentford,4.5,36,Pointsbet,Aston Villa,2383721,94167011,95
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,0.5,1.08,Pointsbet,Aston Villa,2383721,94167011,97
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,1.5,1.44,Pointsbet,Aston Villa,2383721,94167011,98
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,2.5,2.35,Pointsbet,Aston Villa,2383721,94167011,99
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,3.5,4.4,Pointsbet,Aston Villa,2383721,94167011,100
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,4.5,9.5,Pointsbet,Aston Villa,2383721,94167011,101
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Kevin Schade,Brentford,5.5,21,Pointsbet,Aston Villa,2383721,94167011,102
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,0.5,1.08,Pointsbet,NA,2383721,94167011,103
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,1.5,1.44,Pointsbet,NA,2383721,94167011,104
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,2.5,2.3,Pointsbet,NA,2383721,94167011,105
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,3.5,4.2,Pointsbet,NA,2383721,94167011,106
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,4.5,9,Pointsbet,NA,2383721,94167011,107
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,5.5,21,Pointsbet,NA,2383721,94167011,108
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,0.5,1.05,Pointsbet,Brentford,2383721,94167011,115
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,1.5,1.29,Pointsbet,Brentford,2383721,94167011,116
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,2.5,1.87,Pointsbet,Brentford,2383721,94167011,117
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,3.5,3.25,Pointsbet,Brentford,2383721,94167011,118
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,4.5,6,Pointsbet,Brentford,2383721,94167011,119
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,5.5,12,Pointsbet,Brentford,2383721,94167011,120
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,2.5,2.4,Pointsbet,NA,2383721,94167011,105
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,3.5,4.4,Pointsbet,NA,2383721,94167011,106
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,4.5,9.5,Pointsbet,NA,2383721,94167011,107
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,A. Milambo,NA,5.5,20,Pointsbet,NA,2383721,94167011,108
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,M. Kayode,NA,0.5,2.4,Pointsbet,NA,2383721,94167011,109
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,M. Kayode,NA,1.5,9,Pointsbet,NA,2383721,94167011,110
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,M. Kayode,NA,2.5,36,Pointsbet,NA,2383721,94167011,111
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,0.5,1.06,Pointsbet,Brentford,2383721,94167011,115
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,1.5,1.31,Pointsbet,Brentford,2383721,94167011,116
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,2.5,2,Pointsbet,Brentford,2383721,94167011,117
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,3.5,3.6,Pointsbet,Brentford,2383721,94167011,118
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,4.5,7,Pointsbet,Brentford,2383721,94167011,119
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Dango Ouattara,Bournemouth,5.5,15,Pointsbet,Brentford,2383721,94167011,120
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lucas Digne,Aston Villa,0.5,1.59,Pointsbet,Brentford,2383721,94167011,121
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lucas Digne,Aston Villa,1.5,3.7,Pointsbet,Brentford,2383721,94167011,122
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lucas Digne,Aston Villa,2.5,10.5,Pointsbet,Brentford,2383721,94167011,123
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lucas Digne,Aston Villa,3.5,36,Pointsbet,Brentford,2383721,94167011,124
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,0.5,1.09,Pointsbet,Brentford,2383721,94167011,127
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,1.5,1.56,Pointsbet,Brentford,2383721,94167011,128
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,2.5,2.6,Pointsbet,Brentford,2383721,94167011,129
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,3.5,4.75,Pointsbet,Brentford,2383721,94167011,130
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,4.5,11,Pointsbet,Brentford,2383721,94167011,131
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,5.5,26,Pointsbet,Brentford,2383721,94167011,132
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,0.5,1.09,Pointsbet,Brentford,2383721,94167011,133
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,1.5,1.48,Pointsbet,Brentford,2383721,94167011,134
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,2.5,2.4,Pointsbet,Brentford,2383721,94167011,135
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lucas Digne,Aston Villa,3.5,41,Pointsbet,Brentford,2383721,94167011,124
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,0.5,1.08,Pointsbet,Brentford,2383721,94167011,127
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,1.5,1.44,Pointsbet,Brentford,2383721,94167011,128
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,2.5,2.35,Pointsbet,Brentford,2383721,94167011,129
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,3.5,4.4,Pointsbet,Brentford,2383721,94167011,130
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,4.5,9,Pointsbet,Brentford,2383721,94167011,131
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Youri Tielemans,Aston Villa,5.5,20,Pointsbet,Brentford,2383721,94167011,132
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,0.5,1.1,Pointsbet,Brentford,2383721,94167011,133
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,1.5,1.53,Pointsbet,Brentford,2383721,94167011,134
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,2.5,2.5,Pointsbet,Brentford,2383721,94167011,135
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,3.5,4.5,Pointsbet,Brentford,2383721,94167011,136
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,4.5,10,Pointsbet,Brentford,2383721,94167011,137
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,John McGinn,Aston Villa,5.5,23,Pointsbet,Brentford,2383721,94167011,138
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,0.5,1.87,Pointsbet,NA,2383721,94167011,139
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,1.5,5.25,Pointsbet,NA,2383721,94167011,140
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,2.5,20,Pointsbet,NA,2383721,94167011,141
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,3.5,81,Pointsbet,NA,2383721,94167011,142
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,0.5,1.9,Pointsbet,NA,2383721,94167011,139
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,1.5,5.75,Pointsbet,NA,2383721,94167011,140
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,2.5,21,Pointsbet,NA,2383721,94167011,141
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Mings,NA,3.5,101,Pointsbet,NA,2383721,94167011,142
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,0.5,1.01,Pointsbet,Brentford,2383721,94167011,145
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,1.5,1.09,Pointsbet,Brentford,2383721,94167011,146
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,2.5,1.36,Pointsbet,Brentford,2383721,94167011,147
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,3.5,1.9,Pointsbet,Brentford,2383721,94167011,148
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,4.5,3.1,Pointsbet,Brentford,2383721,94167011,149
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,5.5,5.25,Pointsbet,Brentford,2383721,94167011,150
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,0.5,1.05,Pointsbet,NA,2383721,94167011,157
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,1.5,1.29,Pointsbet,NA,2383721,94167011,158
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,2.5,1.87,Pointsbet,NA,2383721,94167011,159
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,3.5,3.25,Pointsbet,NA,2383721,94167011,160
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,4.5,6,Pointsbet,NA,2383721,94167011,161
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,5.5,12,Pointsbet,NA,2383721,94167011,162
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,2.5,1.33,Pointsbet,Brentford,2383721,94167011,147
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,3.5,1.83,Pointsbet,Brentford,2383721,94167011,148
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,4.5,2.9,Pointsbet,Brentford,2383721,94167011,149
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ollie Watkins,Aston Villa,5.5,5,Pointsbet,Brentford,2383721,94167011,150
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,0.5,1.06,Pointsbet,NA,2383721,94167011,157
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,1.5,1.36,Pointsbet,NA,2383721,94167011,158
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,2.5,2.05,Pointsbet,NA,2383721,94167011,159
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,3.5,3.7,Pointsbet,NA,2383721,94167011,160
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,4.5,7.5,Pointsbet,NA,2383721,94167011,161
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Buendía,NA,5.5,15,Pointsbet,NA,2383721,94167011,162
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Matty Cash,Aston Villa,0.5,1.63,Pointsbet,Brentford,2383721,94167011,163
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Matty Cash,Aston Villa,1.5,3.9,Pointsbet,Brentford,2383721,94167011,164
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Matty Cash,Aston Villa,2.5,12,Pointsbet,Brentford,2383721,94167011,165
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Matty Cash,Aston Villa,3.5,36,Pointsbet,Brentford,2383721,94167011,166
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,0.5,1.77,Pointsbet,NA,2383721,94167011,169
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,1.5,4.75,Pointsbet,NA,2383721,94167011,170
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,1.5,5,Pointsbet,NA,2383721,94167011,170
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,2.5,17,Pointsbet,NA,2383721,94167011,171
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,3.5,61,Pointsbet,NA,2383721,94167011,172
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,0.5,1.83,Pointsbet,Brentford,2383721,94167011,175
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,1.5,5.25,Pointsbet,Brentford,2383721,94167011,176
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,2.5,19,Pointsbet,Brentford,2383721,94167011,177
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,3.5,71,Pointsbet,Brentford,2383721,94167011,178
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,B. Kamara,NA,3.5,71,Pointsbet,NA,2383721,94167011,172
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,0.5,1.87,Pointsbet,Brentford,2383721,94167011,175
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,1.5,5.75,Pointsbet,Brentford,2383721,94167011,176
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,2.5,21,Pointsbet,Brentford,2383721,94167011,177
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Pau Torres,Aston Villa,3.5,91,Pointsbet,Brentford,2383721,94167011,178
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,0.5,1.01,Pointsbet,NA,2383721,94167011,181
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,1.5,1.08,Pointsbet,NA,2383721,94167011,182
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,2.5,1.25,Pointsbet,NA,2383721,94167011,183
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,3.5,1.67,Pointsbet,NA,2383721,94167011,184
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,4.5,2.35,Pointsbet,NA,2383721,94167011,185
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,3.5,1.65,Pointsbet,NA,2383721,94167011,184
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,4.5,2.3,Pointsbet,NA,2383721,94167011,185
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Malen,NA,5.5,3.7,Pointsbet,NA,2383721,94167011,186
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,0.5,1.08,Pointsbet,Brentford,2383721,94167011,187
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,1.5,1.42,Pointsbet,Brentford,2383721,94167011,188
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,2.5,2.3,Pointsbet,Brentford,2383721,94167011,189
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,3.5,4.2,Pointsbet,Brentford,2383721,94167011,190
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,4.5,9.5,Pointsbet,Brentford,2383721,94167011,191
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,5.5,21,Pointsbet,Brentford,2383721,94167011,192
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,0.5,1.19,Pointsbet,Brentford,2383721,94167011,193
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,1.5,1.95,Pointsbet,Brentford,2383721,94167011,194
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,2.5,3.9,Pointsbet,Brentford,2383721,94167011,195
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,3.5,9,Pointsbet,Brentford,2383721,94167011,196
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,4.5,23,Pointsbet,Brentford,2383721,94167011,197
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,5.5,71,Pointsbet,Brentford,2383721,94167011,198
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,0.5,1.31,Pointsbet,Brentford,2383721,94167011,199
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,1.5,2.35,Pointsbet,Brentford,2383721,94167011,200
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,2.5,5.25,Pointsbet,Brentford,2383721,94167011,201
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,3.5,15,Pointsbet,Brentford,2383721,94167011,202
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,4.5,41,Pointsbet,Brentford,2383721,94167011,203
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,0.5,1.18,Pointsbet,Brentford,2383721,94167011,205
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,1.5,1.8,Pointsbet,Brentford,2383721,94167011,206
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,0.5,1.07,Pointsbet,Brentford,2383721,94167011,187
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,1.5,1.36,Pointsbet,Brentford,2383721,94167011,188
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,2.5,2.15,Pointsbet,Brentford,2383721,94167011,189
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,3.5,3.9,Pointsbet,Brentford,2383721,94167011,190
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,4.5,7.5,Pointsbet,Brentford,2383721,94167011,191
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Morgan Rogers,Aston Villa,5.5,16,Pointsbet,Brentford,2383721,94167011,192
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,0.5,1.25,Pointsbet,Brentford,2383721,94167011,193
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,1.5,2.25,Pointsbet,Brentford,2383721,94167011,194
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,2.5,4.75,Pointsbet,Brentford,2383721,94167011,195
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,3.5,12,Pointsbet,Brentford,2383721,94167011,196
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Amadou Onana,Aston Villa,4.5,36,Pointsbet,Brentford,2383721,94167011,197
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,0.5,1.33,Pointsbet,Brentford,2383721,94167011,199
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,1.5,2.75,Pointsbet,Brentford,2383721,94167011,200
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,2.5,6.5,Pointsbet,Brentford,2383721,94167011,201
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,3.5,20,Pointsbet,Brentford,2383721,94167011,202
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Ian Maatsen,Aston Villa,4.5,61,Pointsbet,Brentford,2383721,94167011,203
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,0.5,1.16,Pointsbet,Brentford,2383721,94167011,205
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,1.5,1.83,Pointsbet,Brentford,2383721,94167011,206
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,2.5,3.4,Pointsbet,Brentford,2383721,94167011,207
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,3.5,7.5,Pointsbet,Brentford,2383721,94167011,208
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,4.5,20,Pointsbet,Brentford,2383721,94167011,209
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,3.5,8,Pointsbet,Brentford,2383721,94167011,208
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,4.5,19,Pointsbet,Brentford,2383721,94167011,209
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Samuel Iling-Junior,Aston Villa,5.5,61,Pointsbet,Brentford,2383721,94167011,210
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,0.5,1.83,Pointsbet,Brentford,2383721,94167011,211
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,1.5,5.25,Pointsbet,Brentford,2383721,94167011,212
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,0.5,1.9,Pointsbet,Brentford,2383721,94167011,211
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,1.5,5.75,Pointsbet,Brentford,2383721,94167011,212
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,2.5,23,Pointsbet,Brentford,2383721,94167011,213
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,Lamare Bogarde,Aston Villa,3.5,101,Pointsbet,Brentford,2383721,94167011,214
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,0.5,1.06,Pointsbet,NA,2383721,94167011,223
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,1.5,1.33,Pointsbet,NA,2383721,94167011,224
 Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,2.5,2.05,Pointsbet,NA,2383721,94167011,225
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,3.5,3.7,Pointsbet,NA,2383721,94167011,226
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,4.5,7.5,Pointsbet,NA,2383721,94167011,227
-Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,5.5,13,Pointsbet,NA,2383721,94167011,228
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Adam Smith,Bournemouth,0.5,2.85,Pointsbet,Wolverhampton Wanderers,2383720,94167755,1
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,3.5,3.6,Pointsbet,NA,2383721,94167011,226
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,4.5,7,Pointsbet,NA,2383721,94167011,227
+Brentford v Aston Villa,Brentford,Aston Villa,Player Shots,E. Guessand,NA,5.5,15,Pointsbet,NA,2383721,94167011,228
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Adam Smith,Bournemouth,0.5,2.75,Pointsbet,Wolverhampton Wanderers,2383720,94167755,1
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Adam Smith,Bournemouth,1.5,12,Pointsbet,Wolverhampton Wanderers,2383720,94167755,2
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Adam Smith,Bournemouth,2.5,71,Pointsbet,Wolverhampton Wanderers,2383720,94167755,3
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,0.5,1.09,Pointsbet,Wolverhampton Wanderers,2383720,94167755,7
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,1.5,1.5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,8
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,2.5,2.5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,9
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,3.5,4.75,Pointsbet,Wolverhampton Wanderers,2383720,94167755,10
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,4.5,10,Pointsbet,Wolverhampton Wanderers,2383720,94167755,11
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Philip Billing,Bournemouth,5.5,23,Pointsbet,Wolverhampton Wanderers,2383720,94167755,12
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Adam Smith,Bournemouth,2.5,61,Pointsbet,Wolverhampton Wanderers,2383720,94167755,3
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,0.5,1.03,Pointsbet,Wolverhampton Wanderers,2383720,94167755,13
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,1.5,1.18,Pointsbet,Wolverhampton Wanderers,2383720,94167755,14
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,2.5,1.59,Pointsbet,Wolverhampton Wanderers,2383720,94167755,15
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,2.5,1.63,Pointsbet,Wolverhampton Wanderers,2383720,94167755,15
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,3.5,2.4,Pointsbet,Wolverhampton Wanderers,2383720,94167755,16
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,4.5,4.2,Pointsbet,Wolverhampton Wanderers,2383720,94167755,17
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,David Brooks,Bournemouth,5.5,8,Pointsbet,Wolverhampton Wanderers,2383720,94167755,18
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,0.5,1.8,Pointsbet,Wolverhampton Wanderers,2383720,94167755,19
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,1.5,5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,20
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,2.5,17,Pointsbet,Wolverhampton Wanderers,2383720,94167755,21
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,3.5,61,Pointsbet,Wolverhampton Wanderers,2383720,94167755,22
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,0.5,1.8,Pointsbet,Wolverhampton Wanderers,2383720,94167755,25
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,1.5,5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,26
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,2.5,16,Pointsbet,Wolverhampton Wanderers,2383720,94167755,27
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,3.5,61,Pointsbet,Wolverhampton Wanderers,2383720,94167755,28
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,2.5,19,Pointsbet,Wolverhampton Wanderers,2383720,94167755,21
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcos Senesi,Bournemouth,3.5,71,Pointsbet,Wolverhampton Wanderers,2383720,94167755,22
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,0.5,1.83,Pointsbet,Wolverhampton Wanderers,2383720,94167755,25
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,1.5,4.75,Pointsbet,Wolverhampton Wanderers,2383720,94167755,26
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,2.5,17,Pointsbet,Wolverhampton Wanderers,2383720,94167755,27
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Tyler Adams,Bournemouth,3.5,71,Pointsbet,Wolverhampton Wanderers,2383720,94167755,28
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,0.5,1.03,Pointsbet,Wolverhampton Wanderers,2383720,94167755,31
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,1.5,1.18,Pointsbet,Wolverhampton Wanderers,2383720,94167755,32
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,1.5,1.19,Pointsbet,Wolverhampton Wanderers,2383720,94167755,32
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,2.5,1.63,Pointsbet,Wolverhampton Wanderers,2383720,94167755,33
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,3.5,2.5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,34
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,4.5,4.4,Pointsbet,Wolverhampton Wanderers,2383720,94167755,35
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,4.5,4.2,Pointsbet,Wolverhampton Wanderers,2383720,94167755,35
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Marcus Tavernier,Bournemouth,5.5,8,Pointsbet,Wolverhampton Wanderers,2383720,94167755,36
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Chris Mepham,Bournemouth,0.5,2.05,Pointsbet,Wolverhampton Wanderers,2383720,94167755,37
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Chris Mepham,Bournemouth,1.5,6.5,Pointsbet,Wolverhampton Wanderers,2383720,94167755,38
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Chris Mepham,Bournemouth,2.5,26,Pointsbet,Wolverhampton Wanderers,2383720,94167755,39
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Chris Mepham,Bournemouth,3.5,91,Pointsbet,Wolverhampton Wanderers,2383720,94167755,40
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,0.5,1.005,Pointsbet,Wolverhampton Wanderers,2383720,94167755,49
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,1.5,1.05,Pointsbet,Wolverhampton Wanderers,2383720,94167755,50
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,2.5,1.18,Pointsbet,Wolverhampton Wanderers,2383720,94167755,51
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,3.5,1.48,Pointsbet,Wolverhampton Wanderers,2383720,94167755,52
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,4.5,2.05,Pointsbet,Wolverhampton Wanderers,2383720,94167755,53
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,5.5,3.1,Pointsbet,Wolverhampton Wanderers,2383720,94167755,54
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,0.5,1.005,Pointsbet,NA,2383720,94167755,61
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,1.5,1.06,Pointsbet,NA,2383720,94167755,62
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,2.5,1.19,Pointsbet,NA,2383720,94167755,63
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,3.5,1.5,Pointsbet,NA,2383720,94167755,64
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,4.5,2.1,Pointsbet,NA,2383720,94167755,65
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Traorè,NA,5.5,3.1,Pointsbet,NA,2383720,94167755,66
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,James Hill,Bournemouth,0.5,1.63,Pointsbet,Wolverhampton Wanderers,2383720,94167755,67
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,James Hill,Bournemouth,1.5,3.7,Pointsbet,Wolverhampton Wanderers,2383720,94167755,68
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,James Hill,Bournemouth,2.5,12,Pointsbet,Wolverhampton Wanderers,2383720,94167755,69
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,James Hill,Bournemouth,3.5,51,Pointsbet,Wolverhampton Wanderers,2383720,94167755,70
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Juli<c3><a1>n Araujo,NA,0.5,2.1,Pointsbet,NA,2383720,94167755,73
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Juli<c3><a1>n Araujo,NA,1.5,6.5,Pointsbet,NA,2383720,94167755,74
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Juli<c3><a1>n Araujo,NA,2.5,23,Pointsbet,NA,2383720,94167755,75
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,0.5,1.53,Pointsbet,NA,2383720,94167755,85
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,2.5,1.19,Pointsbet,Wolverhampton Wanderers,2383720,94167755,51
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,3.5,1.53,Pointsbet,Wolverhampton Wanderers,2383720,94167755,52
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,4.5,2.1,Pointsbet,Wolverhampton Wanderers,2383720,94167755,53
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Antoine Semenyo,Bournemouth,5.5,3.25,Pointsbet,Wolverhampton Wanderers,2383720,94167755,54
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,0.5,1.56,Pointsbet,NA,2383720,94167755,85
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,1.5,3.4,Pointsbet,NA,2383720,94167755,86
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,2.5,10,Pointsbet,NA,2383720,94167755,87
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,3.5,31,Pointsbet,NA,2383720,94167755,88
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,0.5,1.09,Pointsbet,Wolverhampton Wanderers,2383720,94167755,91
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,1.5,1.53,Pointsbet,Wolverhampton Wanderers,2383720,94167755,92
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,2.5,2.6,Pointsbet,Wolverhampton Wanderers,2383720,94167755,93
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,3.5,5.25,Pointsbet,Wolverhampton Wanderers,2383720,94167755,94
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,2.5,10.5,Pointsbet,NA,2383720,94167755,87
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,A. Truffert,NA,3.5,36,Pointsbet,NA,2383720,94167755,88
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,0.5,1.11,Pointsbet,Wolverhampton Wanderers,2383720,94167755,91
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,1.5,1.59,Pointsbet,Wolverhampton Wanderers,2383720,94167755,92
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,2.5,2.7,Pointsbet,Wolverhampton Wanderers,2383720,94167755,93
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,3.5,5.75,Pointsbet,Wolverhampton Wanderers,2383720,94167755,94
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,4.5,12,Pointsbet,Wolverhampton Wanderers,2383720,94167755,95
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,5.5,29,Pointsbet,Wolverhampton Wanderers,2383720,94167755,96
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Soler,NA,0.5,1.83,Pointsbet,NA,2383720,94167755,103
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Soler,NA,1.5,5.25,Pointsbet,NA,2383720,94167755,104
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Soler,NA,2.5,19,Pointsbet,NA,2383720,94167755,105
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Soler,NA,3.5,81,Pointsbet,NA,2383720,94167755,106
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,0.5,1.02,Pointsbet,NA,2383720,94167755,109
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,1.5,1.16,Pointsbet,NA,2383720,94167755,110
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,2.5,1.59,Pointsbet,NA,2383720,94167755,111
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,3.5,2.4,Pointsbet,NA,2383720,94167755,112
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,4.5,4,Pointsbet,NA,2383720,94167755,113
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Kroupi,NA,5.5,7.5,Pointsbet,NA,2383720,94167755,114
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,0.5,1.65,Pointsbet,NA,2383720,94167755,115
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,1.5,3.9,Pointsbet,NA,2383720,94167755,116
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Alex Scott,Bournemouth,5.5,26,Pointsbet,Wolverhampton Wanderers,2383720,94167755,96
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,0.5,1.63,Pointsbet,NA,2383720,94167755,115
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,1.5,3.7,Pointsbet,NA,2383720,94167755,116
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,2.5,12,Pointsbet,NA,2383720,94167755,117
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,3.5,41,Pointsbet,NA,2383720,94167755,118
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,0.5,2.4,Pointsbet,Bournemouth,2383720,94167755,127
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,1.5,9.5,Pointsbet,Bournemouth,2383720,94167755,128
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,B. Diakité,NA,3.5,36,Pointsbet,NA,2383720,94167755,118
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,0.5,2.5,Pointsbet,Bournemouth,2383720,94167755,127
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,1.5,10,Pointsbet,Bournemouth,2383720,94167755,128
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Matt Doherty,Wolverhampton Wanderers,2.5,51,Pointsbet,Bournemouth,2383720,94167755,129
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,0.5,1.09,Pointsbet,Bournemouth,2383720,94167755,133
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,1.5,1.53,Pointsbet,Bournemouth,2383720,94167755,134
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,2.5,2.6,Pointsbet,Bournemouth,2383720,94167755,135
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,3.5,5.25,Pointsbet,Bournemouth,2383720,94167755,136
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,4.5,12,Pointsbet,Bournemouth,2383720,94167755,137
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Hee-chan Hwang,Wolverhampton Wanderers,5.5,29,Pointsbet,Bournemouth,2383720,94167755,138
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,0.5,1.13,Pointsbet,Bournemouth,2383720,94167755,139
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,1.5,1.69,Pointsbet,Bournemouth,2383720,94167755,140
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,2.5,3,Pointsbet,Bournemouth,2383720,94167755,141
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,3.5,6,Pointsbet,Bournemouth,2383720,94167755,142
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,4.5,15,Pointsbet,Bournemouth,2383720,94167755,143
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,0.5,1.15,Pointsbet,Bournemouth,2383720,94167755,139
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,1.5,1.71,Pointsbet,Bournemouth,2383720,94167755,140
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,2.5,3.1,Pointsbet,Bournemouth,2383720,94167755,141
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,3.5,7,Pointsbet,Bournemouth,2383720,94167755,142
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,4.5,16,Pointsbet,Bournemouth,2383720,94167755,143
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jean-Ricner Bellegarde,Wolverhampton Wanderers,5.5,36,Pointsbet,Bournemouth,2383720,94167755,144
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Santiago Bueno,Wolverhampton Wanderers,0.5,2.5,Pointsbet,Bournemouth,2383720,94167755,145
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Santiago Bueno,Wolverhampton Wanderers,1.5,10,Pointsbet,Bournemouth,2383720,94167755,146
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Santiago Bueno,Wolverhampton Wanderers,2.5,41,Pointsbet,Bournemouth,2383720,94167755,147
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,0.5,1.08,Pointsbet,NA,2383720,94167755,151
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,1.5,1.36,Pointsbet,NA,2383720,94167755,152
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,2.5,2.2,Pointsbet,NA,2383720,94167755,153
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,3.5,4,Pointsbet,NA,2383720,94167755,154
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,4.5,8,Pointsbet,NA,2383720,94167755,155
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,1.5,1.42,Pointsbet,NA,2383720,94167755,152
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,2.5,2.3,Pointsbet,NA,2383720,94167755,153
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,3.5,4.4,Pointsbet,NA,2383720,94167755,154
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,4.5,9,Pointsbet,NA,2383720,94167755,155
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Arias,NA,5.5,20,Pointsbet,NA,2383720,94167755,156
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,0.5,1.04,Pointsbet,NA,2383720,94167755,157
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,1.5,1.27,Pointsbet,NA,2383720,94167755,158
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,2.5,1.8,Pointsbet,NA,2383720,94167755,159
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,3.5,2.9,Pointsbet,NA,2383720,94167755,160
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,1.5,1.25,Pointsbet,NA,2383720,94167755,158
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,2.5,1.83,Pointsbet,NA,2383720,94167755,159
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,3.5,3,Pointsbet,NA,2383720,94167755,160
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,4.5,5.75,Pointsbet,NA,2383720,94167755,161
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,5.5,11,Pointsbet,NA,2383720,94167755,162
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,0.5,1.07,Pointsbet,NA,2383720,94167755,163
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,1.5,1.36,Pointsbet,NA,2383720,94167755,164
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,2.5,2.1,Pointsbet,NA,2383720,94167755,165
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,3.5,3.7,Pointsbet,NA,2383720,94167755,166
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,4.5,7.5,Pointsbet,NA,2383720,94167755,167
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,S. Kalajdzic,NA,5.5,17,Pointsbet,NA,2383720,94167755,168
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J<c3><b8>rgen Strand Larsen,NA,5.5,12,Pointsbet,NA,2383720,94167755,162
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,K. Hoever,NA,0.5,1.74,Pointsbet,NA,2383720,94167755,169
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,K. Hoever,NA,1.5,4.5,Pointsbet,NA,2383720,94167755,170
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,K. Hoever,NA,2.5,15,Pointsbet,NA,2383720,94167755,171
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,K. Hoever,NA,3.5,61,Pointsbet,NA,2383720,94167755,172
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,K. Hoever,NA,3.5,51,Pointsbet,NA,2383720,94167755,172
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,0.5,1.1,Pointsbet,NA,2383720,94167755,175
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,1.5,1.56,Pointsbet,NA,2383720,94167755,176
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,2.5,2.6,Pointsbet,NA,2383720,94167755,177
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,2.5,2.7,Pointsbet,NA,2383720,94167755,177
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,3.5,5.25,Pointsbet,NA,2383720,94167755,178
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,4.5,12,Pointsbet,NA,2383720,94167755,179
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,5.5,26,Pointsbet,NA,2383720,94167755,180
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,0.5,2.25,Pointsbet,Bournemouth,2383720,94167755,181
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,1.5,8,Pointsbet,Bournemouth,2383720,94167755,182
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,2.5,31,Pointsbet,Bournemouth,2383720,94167755,183
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Yerson Mosquera,Wolverhampton Wanderers,0.5,2.15,Pointsbet,Bournemouth,2383720,94167755,187
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Yerson Mosquera,Wolverhampton Wanderers,1.5,7,Pointsbet,Bournemouth,2383720,94167755,188
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Yerson Mosquera,Wolverhampton Wanderers,2.5,31,Pointsbet,Bournemouth,2383720,94167755,189
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,M. Munetsi,NA,5.5,29,Pointsbet,NA,2383720,94167755,180
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,0.5,2.3,Pointsbet,Bournemouth,2383720,94167755,181
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,1.5,8.5,Pointsbet,Bournemouth,2383720,94167755,182
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Toti,Wolverhampton Wanderers,2.5,36,Pointsbet,Bournemouth,2383720,94167755,183
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,0.5,1.36,Pointsbet,NA,2383720,94167755,193
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,1.5,2.75,Pointsbet,NA,2383720,94167755,194
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,2.5,7,Pointsbet,NA,2383720,94167755,195
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,3.5,20,Pointsbet,NA,2383720,94167755,196
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,4.5,71,Pointsbet,NA,2383720,94167755,197
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,0.5,1.71,Pointsbet,NA,2383720,94167755,199
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,1.5,4.4,Pointsbet,NA,2383720,94167755,200
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,2.5,13,Pointsbet,NA,2383720,94167755,201
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,3.5,61,Pointsbet,NA,2383720,94167755,202
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,André,Wolverhampton Wanderers,0.5,2.1,Pointsbet,Bournemouth,2383720,94167755,205
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,André,Wolverhampton Wanderers,1.5,7,Pointsbet,Bournemouth,2383720,94167755,206
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,André,Wolverhampton Wanderers,2.5,29,Pointsbet,Bournemouth,2383720,94167755,207
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,0.5,1.63,Pointsbet,NA,2383720,94167755,211
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,1.5,3.9,Pointsbet,NA,2383720,94167755,212
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,Jo<c3><a3>o Gomes,NA,4.5,81,Pointsbet,NA,2383720,94167755,197
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,0.5,1.65,Pointsbet,NA,2383720,94167755,199
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,1.5,4,Pointsbet,NA,2383720,94167755,200
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,2.5,12,Pointsbet,NA,2383720,94167755,201
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,D. Wolfe,NA,3.5,36,Pointsbet,NA,2383720,94167755,202
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,0.5,1.65,Pointsbet,NA,2383720,94167755,211
+Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,1.5,4,Pointsbet,NA,2383720,94167755,212
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,2.5,12,Pointsbet,NA,2383720,94167755,213
 Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,E. Agbadou,NA,3.5,41,Pointsbet,NA,2383720,94167755,214
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Bueno,NA,0.5,1.74,Pointsbet,NA,2383720,94167755,223
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Bueno,NA,1.5,4.75,Pointsbet,NA,2383720,94167755,224
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Bueno,NA,2.5,16,Pointsbet,NA,2383720,94167755,225
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,H. Bueno,NA,3.5,61,Pointsbet,NA,2383720,94167755,226
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Tchatchoua,NA,0.5,1.65,Pointsbet,NA,2383720,94167755,241
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Tchatchoua,NA,1.5,4,Pointsbet,NA,2383720,94167755,242
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Tchatchoua,NA,2.5,12,Pointsbet,NA,2383720,94167755,243
-Bournemouth v Wolverhampton Wanderers,Bournemouth,Wolverhampton Wanderers,Player Shots,J. Tchatchoua,NA,3.5,41,Pointsbet,NA,2383720,94167755,244
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Kyle Walker,NA,0.5,2.1,Pointsbet,NA,2383722,94170182,1
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Kyle Walker,NA,1.5,7,Pointsbet,NA,2383722,94170182,2
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Kyle Walker,NA,2.5,29,Pointsbet,NA,2383722,94170182,3
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,0.5,1.13,Pointsbet,NA,2383722,94170182,7
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,1.5,1.65,Pointsbet,NA,2383722,94170182,8
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,2.5,2.9,Pointsbet,NA,2383722,94170182,9
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,3.5,6.5,Pointsbet,NA,2383722,94170182,10
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,4.5,15,Pointsbet,NA,2383722,94170182,11
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Barnes,NA,5.5,36,Pointsbet,NA,2383722,94170182,12
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Laurent,NA,0.5,1.27,Pointsbet,NA,2383722,94170182,13
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Laurent,NA,1.5,2.25,Pointsbet,NA,2383722,94170182,14
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Laurent,NA,2.5,4.75,Pointsbet,NA,2383722,94170182,15
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Laurent,NA,3.5,12,Pointsbet,NA,2383722,94170182,16
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Laurent,NA,4.5,36,Pointsbet,NA,2383722,94170182,17
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,0.5,1.67,Pointsbet,NA,2383722,94170182,19
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,1.5,4,Pointsbet,NA,2383722,94170182,20
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,2.5,12,Pointsbet,NA,2383722,94170182,21
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,3.5,36,Pointsbet,NA,2383722,94170182,22
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,25
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,1.5,1.36,Pointsbet,NA,2383722,94170182,26
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,2.5,2.2,Pointsbet,NA,2383722,94170182,27
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,3.5,4,Pointsbet,NA,2383722,94170182,28
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,0.5,1.71,Pointsbet,NA,2383722,94170182,19
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,1.5,4.2,Pointsbet,NA,2383722,94170182,20
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,2.5,13,Pointsbet,NA,2383722,94170182,21
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,J. Cullen,NA,3.5,61,Pointsbet,NA,2383722,94170182,22
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,0.5,1.07,Pointsbet,NA,2383722,94170182,25
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,1.5,1.33,Pointsbet,NA,2383722,94170182,26
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,2.5,2.05,Pointsbet,NA,2383722,94170182,27
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,3.5,3.7,Pointsbet,NA,2383722,94170182,28
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,4.5,7.5,Pointsbet,NA,2383722,94170182,29
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,5.5,17,Pointsbet,NA,2383722,94170182,30
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Joe Worrall,NA,0.5,1.83,Pointsbet,NA,2383722,94170182,37
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Joe Worrall,NA,1.5,5.75,Pointsbet,NA,2383722,94170182,38
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Joe Worrall,NA,2.5,21,Pointsbet,NA,2383722,94170182,39
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,43
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,1.5,1.48,Pointsbet,NA,2383722,94170182,44
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,2.5,2.4,Pointsbet,NA,2383722,94170182,45
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,3.5,4.5,Pointsbet,NA,2383722,94170182,46
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,4.5,10,Pointsbet,NA,2383722,94170182,47
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Edwards,NA,5.5,23,Pointsbet,NA,2383722,94170182,48
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Bruun Larsen,NA,5.5,15,Pointsbet,NA,2383722,94170182,30
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Ekdal,NA,0.5,2.35,Pointsbet,NA,2383722,94170182,61
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Ekdal,NA,1.5,9,Pointsbet,NA,2383722,94170182,62
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Ekdal,NA,2.5,36,Pointsbet,NA,2383722,94170182,63
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,0.5,1.01,Pointsbet,NA,2383722,94170182,67
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,1.5,1.11,Pointsbet,NA,2383722,94170182,68
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,2.5,1.36,Pointsbet,NA,2383722,94170182,69
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,3.5,1.95,Pointsbet,NA,2383722,94170182,70
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,4.5,3.1,Pointsbet,NA,2383722,94170182,71
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Z. Flemming,NA,5.5,5,Pointsbet,NA,2383722,94170182,72
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Ekdal,NA,2.5,41,Pointsbet,NA,2383722,94170182,63
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,0.5,1.16,Pointsbet,NA,2383722,94170182,91
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,1.5,1.8,Pointsbet,NA,2383722,94170182,92
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,2.5,3.4,Pointsbet,NA,2383722,94170182,93
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,1.5,1.83,Pointsbet,NA,2383722,94170182,92
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,2.5,3.6,Pointsbet,NA,2383722,94170182,93
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,3.5,7.5,Pointsbet,NA,2383722,94170182,94
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,4.5,19,Pointsbet,NA,2383722,94170182,95
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,5.5,61,Pointsbet,NA,2383722,94170182,96
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Esteve,NA,0.5,2.35,Pointsbet,NA,2383722,94170182,97
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Esteve,NA,1.5,9,Pointsbet,NA,2383722,94170182,98
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,4.5,20,Pointsbet,NA,2383722,94170182,95
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Hannibal,NA,5.5,51,Pointsbet,NA,2383722,94170182,96
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Esteve,NA,0.5,2.4,Pointsbet,NA,2383722,94170182,97
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Esteve,NA,1.5,9.5,Pointsbet,NA,2383722,94170182,98
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,M. Esteve,NA,2.5,41,Pointsbet,NA,2383722,94170182,99
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,0.5,1.07,Pointsbet,NA,2383722,94170182,103
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,1.5,1.33,Pointsbet,NA,2383722,94170182,104
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,0.5,1.06,Pointsbet,NA,2383722,94170182,103
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,1.5,1.31,Pointsbet,NA,2383722,94170182,104
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,2.5,2,Pointsbet,NA,2383722,94170182,105
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,3.5,3.6,Pointsbet,NA,2383722,94170182,106
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,3.5,3.4,Pointsbet,NA,2383722,94170182,106
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,4.5,7,Pointsbet,NA,2383722,94170182,107
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,5.5,13,Pointsbet,NA,2383722,94170182,108
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,0.5,1.04,Pointsbet,NA,2383722,94170182,109
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,1.5,1.27,Pointsbet,NA,2383722,94170182,110
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,2.5,1.8,Pointsbet,NA,2383722,94170182,111
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,3.5,3,Pointsbet,NA,2383722,94170182,112
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,4.5,5.25,Pointsbet,NA,2383722,94170182,113
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Tchaouna,NA,5.5,11,Pointsbet,NA,2383722,94170182,114
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lesley Ugochukwu,NA,0.5,1.65,Pointsbet,NA,2383722,94170182,115
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lesley Ugochukwu,NA,1.5,4,Pointsbet,NA,2383722,94170182,116
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lesley Ugochukwu,NA,2.5,12,Pointsbet,NA,2383722,94170182,117
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lesley Ugochukwu,NA,3.5,41,Pointsbet,NA,2383722,94170182,118
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,0.5,1.01,Pointsbet,NA,2383722,94170182,121
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,1.5,1.1,Pointsbet,NA,2383722,94170182,122
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,2.5,1.4,Pointsbet,NA,2383722,94170182,123
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,3.5,1.95,Pointsbet,NA,2383722,94170182,124
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,4.5,3.1,Pointsbet,NA,2383722,94170182,125
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,5.5,5.25,Pointsbet,NA,2383722,94170182,126
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Sonne,NA,0.5,1.53,Pointsbet,NA,2383722,94170182,127
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Sonne,NA,1.5,3.4,Pointsbet,NA,2383722,94170182,128
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Sonne,NA,2.5,10,Pointsbet,NA,2383722,94170182,129
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Sonne,NA,3.5,36,Pointsbet,NA,2383722,94170182,130
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lucas Pires,NA,0.5,1.8,Pointsbet,NA,2383722,94170182,133
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lucas Pires,NA,1.5,4.5,Pointsbet,NA,2383722,94170182,134
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lucas Pires,NA,2.5,16,Pointsbet,NA,2383722,94170182,135
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Lucas Pires,NA,3.5,61,Pointsbet,NA,2383722,94170182,136
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,0.5,1.74,Pointsbet,NA,2383722,94170182,145
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,1.5,4.5,Pointsbet,NA,2383722,94170182,146
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,2.5,16,Pointsbet,NA,2383722,94170182,147
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,3.5,61,Pointsbet,NA,2383722,94170182,148
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,0.5,1.16,Pointsbet,NA,2383722,94170182,151
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,1.5,1.8,Pointsbet,NA,2383722,94170182,152
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,2.5,3.4,Pointsbet,NA,2383722,94170182,153
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,3.5,7.5,Pointsbet,NA,2383722,94170182,154
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,4.5,17,Pointsbet,NA,2383722,94170182,155
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. James Ramsey,NA,5.5,51,Pointsbet,NA,2383722,94170182,156
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,157
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,1.5,1.42,Pointsbet,NA,2383722,94170182,158
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,2.5,2.3,Pointsbet,NA,2383722,94170182,159
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,3.5,4.2,Pointsbet,NA,2383722,94170182,160
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,4.5,9,Pointsbet,NA,2383722,94170182,161
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,A. Broja,NA,5.5,20,Pointsbet,NA,2383722,94170182,162
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,0.5,1.14,Pointsbet,NA,2383722,94170182,169
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,1.5,1.69,Pointsbet,NA,2383722,94170182,170
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,2.5,3,Pointsbet,NA,2383722,94170182,171
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,3.5,6.5,Pointsbet,NA,2383722,94170182,172
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,4.5,15,Pointsbet,NA,2383722,94170182,173
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Browne,NA,5.5,36,Pointsbet,NA,2383722,94170182,174
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,0.5,1.09,Pointsbet,NA,2383722,94170182,175
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,1.5,1.53,Pointsbet,NA,2383722,94170182,176
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,2.5,2.5,Pointsbet,NA,2383722,94170182,177
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,3.5,5,Pointsbet,NA,2383722,94170182,178
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,4.5,10.5,Pointsbet,NA,2383722,94170182,179
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,P. Roberts,NA,5.5,26,Pointsbet,NA,2383722,94170182,180
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,0.5,1.07,Pointsbet,NA,2383722,94170182,187
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,1.5,1.36,Pointsbet,NA,2383722,94170182,188
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,2.5,2.15,Pointsbet,NA,2383722,94170182,189
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,3.5,3.7,Pointsbet,NA,2383722,94170182,190
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,4.5,7.5,Pointsbet,NA,2383722,94170182,191
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Rusyn,NA,5.5,17,Pointsbet,NA,2383722,94170182,192
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,0.5,1.06,Pointsbet,NA,2383722,94170182,193
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,1.5,1.31,Pointsbet,NA,2383722,94170182,194
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,2.5,2,Pointsbet,NA,2383722,94170182,195
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,3.5,3.4,Pointsbet,NA,2383722,94170182,196
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,4.5,6.5,Pointsbet,NA,2383722,94170182,197
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,W. Isidor,NA,5.5,15,Pointsbet,NA,2383722,94170182,198
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,0.5,1.69,Pointsbet,NA,2383722,94170182,199
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,1.5,4.2,Pointsbet,NA,2383722,94170182,200
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,L. Foster,NA,5.5,17,Pointsbet,NA,2383722,94170182,108
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,0.5,1.05,Pointsbet,NA,2383722,94170182,121
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,1.5,1.29,Pointsbet,NA,2383722,94170182,122
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,2.5,1.83,Pointsbet,NA,2383722,94170182,123
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,3.5,3.1,Pointsbet,NA,2383722,94170182,124
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,4.5,5.75,Pointsbet,NA,2383722,94170182,125
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Jaidon Anthony,NA,5.5,12,Pointsbet,NA,2383722,94170182,126
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,0.5,1.65,Pointsbet,NA,2383722,94170182,145
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,1.5,3.9,Pointsbet,NA,2383722,94170182,146
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,2.5,12,Pointsbet,NA,2383722,94170182,147
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Q. Hartman,NA,3.5,41,Pointsbet,NA,2383722,94170182,148
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Xhaka,NA,0.5,1.59,Pointsbet,NA,2383722,94170182,163
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Xhaka,NA,1.5,3.7,Pointsbet,NA,2383722,94170182,164
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Xhaka,NA,2.5,11,Pointsbet,NA,2383722,94170182,165
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Xhaka,NA,3.5,36,Pointsbet,NA,2383722,94170182,166
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,0.5,1.63,Pointsbet,NA,2383722,94170182,199
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,1.5,4,Pointsbet,NA,2383722,94170182,200
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,2.5,12,Pointsbet,NA,2383722,94170182,201
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Ballard,NA,3.5,41,Pointsbet,NA,2383722,94170182,202
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Neill,NA,0.5,1.53,Pointsbet,NA,2383722,94170182,211
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Neill,NA,1.5,3.3,Pointsbet,NA,2383722,94170182,212
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Neill,NA,2.5,9,Pointsbet,NA,2383722,94170182,213
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Neill,NA,3.5,29,Pointsbet,NA,2383722,94170182,214
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,D. Neill,NA,4.5,91,Pointsbet,NA,2383722,94170182,215
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,0.5,1.15,Pointsbet,NA,2383722,94170182,217
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,1.5,1.71,Pointsbet,NA,2383722,94170182,218
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,2.5,3.1,Pointsbet,NA,2383722,94170182,219
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,3.5,6.5,Pointsbet,NA,2383722,94170182,220
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,4.5,15,Pointsbet,NA,2383722,94170182,221
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Enzo Le Fã©E,NA,5.5,36,Pointsbet,NA,2383722,94170182,222
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,0.5,1.8,Pointsbet,NA,2383722,94170182,223
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,1.5,5,Pointsbet,NA,2383722,94170182,224
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,2.5,19,Pointsbet,NA,2383722,94170182,225
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,3.5,81,Pointsbet,NA,2383722,94170182,226
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,1.5,4.75,Pointsbet,NA,2383722,94170182,224
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,2.5,17,Pointsbet,NA,2383722,94170182,225
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,T. Hume,NA,3.5,71,Pointsbet,NA,2383722,94170182,226
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,235
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,1.5,1.4,Pointsbet,NA,2383722,94170182,236
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,1.5,1.42,Pointsbet,NA,2383722,94170182,236
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,2.5,2.3,Pointsbet,NA,2383722,94170182,237
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,3.5,4.2,Pointsbet,NA,2383722,94170182,238
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,3.5,4.4,Pointsbet,NA,2383722,94170182,238
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,4.5,9,Pointsbet,NA,2383722,94170182,239
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,5.5,21,Pointsbet,NA,2383722,94170182,240
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,0.5,1.13,Pointsbet,NA,2383722,94170182,241
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,1.5,1.67,Pointsbet,NA,2383722,94170182,242
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,2.5,2.9,Pointsbet,NA,2383722,94170182,243
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Simon Adingra,NA,5.5,20,Pointsbet,NA,2383722,94170182,240
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,0.5,1.14,Pointsbet,NA,2383722,94170182,241
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,1.5,1.69,Pointsbet,NA,2383722,94170182,242
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,2.5,3.1,Pointsbet,NA,2383722,94170182,243
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,3.5,6,Pointsbet,NA,2383722,94170182,244
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,4.5,15,Pointsbet,NA,2383722,94170182,245
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,H. Diarra,NA,5.5,36,Pointsbet,NA,2383722,94170182,246
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,247
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,1.5,1.48,Pointsbet,NA,2383722,94170182,248
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,2.5,2.35,Pointsbet,NA,2383722,94170182,249
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,3.5,4.5,Pointsbet,NA,2383722,94170182,250
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,4.5,10,Pointsbet,NA,2383722,94170182,251
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,1.5,1.44,Pointsbet,NA,2383722,94170182,248
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,2.5,2.3,Pointsbet,NA,2383722,94170182,249
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,3.5,4.2,Pointsbet,NA,2383722,94170182,250
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,4.5,9,Pointsbet,NA,2383722,94170182,251
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,C. Talbi,NA,5.5,21,Pointsbet,NA,2383722,94170182,252
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,0.5,1.63,Pointsbet,NA,2383722,94170182,259
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,1.5,3.9,Pointsbet,NA,2383722,94170182,260
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,0.5,1.71,Pointsbet,NA,2383722,94170182,259
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,1.5,4.4,Pointsbet,NA,2383722,94170182,260
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,2.5,12,Pointsbet,NA,2383722,94170182,261
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,3.5,36,Pointsbet,NA,2383722,94170182,262
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,N. Sadiki,NA,3.5,51,Pointsbet,NA,2383722,94170182,262
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,0.5,1.06,Pointsbet,NA,2383722,94170182,265
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,1.5,1.31,Pointsbet,NA,2383722,94170182,266
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,2.5,1.95,Pointsbet,NA,2383722,94170182,267
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,3.5,3.3,Pointsbet,NA,2383722,94170182,268
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,3.5,3.4,Pointsbet,NA,2383722,94170182,268
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,4.5,7,Pointsbet,NA,2383722,94170182,269
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,5.5,15,Pointsbet,NA,2383722,94170182,270
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,0.5,1.08,Pointsbet,NA,2383722,94170182,271
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,1.5,1.5,Pointsbet,NA,2383722,94170182,272
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,2.5,2.5,Pointsbet,NA,2383722,94170182,273
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,3.5,4.75,Pointsbet,NA,2383722,94170182,274
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,4.5,10.5,Pointsbet,NA,2383722,94170182,275
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Marc Guiu,NA,5.5,26,Pointsbet,NA,2383722,94170182,276
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Masuaku,NA,0.5,1.63,Pointsbet,NA,2383722,94170182,277
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Masuaku,NA,1.5,3.9,Pointsbet,NA,2383722,94170182,278
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Masuaku,NA,2.5,12,Pointsbet,NA,2383722,94170182,279
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,Masuaku,NA,3.5,36,Pointsbet,NA,2383722,94170182,280
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,0.5,1.4,Pointsbet,NA,2383722,94170182,283
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,1.5,2.9,Pointsbet,NA,2383722,94170182,284
-Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,2.5,7.5,Pointsbet,NA,2383722,94170182,285
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,Eliezer Mayenda,NA,5.5,13,Pointsbet,NA,2383722,94170182,270
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,0.5,1.36,Pointsbet,NA,2383722,94170182,283
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,1.5,2.85,Pointsbet,NA,2383722,94170182,284
+Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,2.5,7,Pointsbet,NA,2383722,94170182,285
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,3.5,21,Pointsbet,NA,2383722,94170182,286
 Burnley v Sunderland,Burnley,Sunderland,Player Shots,O. Alderete,NA,4.5,71,Pointsbet,NA,2383722,94170182,287
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,0.5,1.02,Pointsbet,Leeds United,2383895,94167206,1
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,1.5,1.13,Pointsbet,Leeds United,2383895,94167206,2
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,2.5,1.48,Pointsbet,Leeds United,2383895,94167206,3
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,3.5,2.15,Pointsbet,Leeds United,2383895,94167206,4
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,4.5,3.6,Pointsbet,Leeds United,2383895,94167206,5
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,5.5,6,Pointsbet,Leeds United,2383895,94167206,6
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,0.5,1.04,Pointsbet,NA,2383895,94167206,7
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,1.5,1.29,Pointsbet,NA,2383895,94167206,8
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,2.5,1.87,Pointsbet,NA,2383895,94167206,9
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,3.5,3.25,Pointsbet,NA,2383895,94167206,10
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,4.5,6,Pointsbet,NA,2383895,94167206,11
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,5.5,12,Pointsbet,NA,2383895,94167206,12
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,0.5,1.01,Pointsbet,Leeds United,2383895,94167206,1
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,1.5,1.11,Pointsbet,Leeds United,2383895,94167206,2
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,2.5,1.4,Pointsbet,Leeds United,2383895,94167206,3
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,3.5,2,Pointsbet,Leeds United,2383895,94167206,4
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,4.5,3.1,Pointsbet,Leeds United,2383895,94167206,5
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Leandro Trossard,Arsenal,5.5,5.25,Pointsbet,Leeds United,2383895,94167206,6
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,0.5,1.07,Pointsbet,NA,2383895,94167206,7
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,1.5,1.36,Pointsbet,NA,2383895,94167206,8
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,2.5,2,Pointsbet,NA,2383895,94167206,9
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,3.5,3.7,Pointsbet,NA,2383895,94167206,10
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,4.5,7,Pointsbet,NA,2383895,94167206,11
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ødegaard,NA,5.5,13,Pointsbet,NA,2383895,94167206,12
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,0.5,1.04,Pointsbet,Leeds United,2383895,94167206,13
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,1.5,1.27,Pointsbet,Leeds United,2383895,94167206,14
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,2.5,1.83,Pointsbet,Leeds United,2383895,94167206,15
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,2.5,1.8,Pointsbet,Leeds United,2383895,94167206,15
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,3.5,3,Pointsbet,Leeds United,2383895,94167206,16
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,4.5,5.75,Pointsbet,Leeds United,2383895,94167206,17
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,5.5,12,Pointsbet,Leeds United,2383895,94167206,18
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,0.5,1.09,Pointsbet,Leeds United,2383895,94167206,25
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Mikel Merino,Arsenal,5.5,11,Pointsbet,Leeds United,2383895,94167206,18
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,0.5,1.1,Pointsbet,Leeds United,2383895,94167206,25
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,1.5,1.53,Pointsbet,Leeds United,2383895,94167206,26
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,2.5,2.5,Pointsbet,Leeds United,2383895,94167206,27
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,3.5,4.75,Pointsbet,Leeds United,2383895,94167206,28
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,4.5,10.5,Pointsbet,Leeds United,2383895,94167206,29
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,2.5,2.6,Pointsbet,Leeds United,2383895,94167206,27
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,3.5,5,Pointsbet,Leeds United,2383895,94167206,28
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,4.5,11,Pointsbet,Leeds United,2383895,94167206,29
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Declan Rice,Arsenal,5.5,26,Pointsbet,Leeds United,2383895,94167206,30
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,1.5,1.08,Pointsbet,NA,2383895,94167206,37
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,2.5,1.29,Pointsbet,NA,2383895,94167206,38
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,3.5,1.74,Pointsbet,NA,2383895,94167206,39
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,4.5,2.6,Pointsbet,NA,2383895,94167206,40
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,5.5,4.4,Pointsbet,NA,2383895,94167206,41
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,2.5,1.25,Pointsbet,NA,2383895,94167206,38
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,3.5,1.67,Pointsbet,NA,2383895,94167206,39
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,4.5,2.4,Pointsbet,NA,2383895,94167206,40
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,5.5,4,Pointsbet,NA,2383895,94167206,41
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gyökeres,NA,6.5,7,Pointsbet,NA,2383895,94167206,42
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jurrien Timber,Arsenal,0.5,1.69,Pointsbet,Leeds United,2383895,94167206,49
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jurrien Timber,Arsenal,1.5,4.4,Pointsbet,Leeds United,2383895,94167206,50
@@ -614,114 +438,114 @@ Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jurrien Timber,Arsenal,
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,0.5,1.01,Pointsbet,Leeds United,2383895,94167206,55
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,1.5,1.11,Pointsbet,Leeds United,2383895,94167206,56
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,2.5,1.36,Pointsbet,Leeds United,2383895,94167206,57
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,3.5,2,Pointsbet,Leeds United,2383895,94167206,58
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,3.5,1.95,Pointsbet,Leeds United,2383895,94167206,58
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,4.5,3.1,Pointsbet,Leeds United,2383895,94167206,59
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Noni Madueke,Arsenal,5.5,5.25,Pointsbet,Leeds United,2383895,94167206,60
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,0.5,1.59,Pointsbet,Leeds United,2383895,94167206,61
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,1.5,3.9,Pointsbet,Leeds United,2383895,94167206,62
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,2.5,12,Pointsbet,Leeds United,2383895,94167206,63
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,3.5,51,Pointsbet,Leeds United,2383895,94167206,64
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,0.5,2.3,Pointsbet,Leeds United,2383895,94167206,73
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,1.5,8.5,Pointsbet,Leeds United,2383895,94167206,74
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,2.5,36,Pointsbet,Leeds United,2383895,94167206,75
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,0.5,1.63,Pointsbet,Leeds United,2383895,94167206,61
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,1.5,3.7,Pointsbet,Leeds United,2383895,94167206,62
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,2.5,11,Pointsbet,Leeds United,2383895,94167206,63
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jakub Kiwior,Arsenal,3.5,36,Pointsbet,Leeds United,2383895,94167206,64
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,0.5,2.25,Pointsbet,Leeds United,2383895,94167206,73
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,1.5,7.5,Pointsbet,Leeds United,2383895,94167206,74
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,William Saliba,Arsenal,2.5,31,Pointsbet,Leeds United,2383895,94167206,75
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,0.5,1.01,Pointsbet,Leeds United,2383895,94167206,79
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,1.5,1.08,Pointsbet,Leeds United,2383895,94167206,80
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,2.5,1.29,Pointsbet,Leeds United,2383895,94167206,81
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,2.5,1.31,Pointsbet,Leeds United,2383895,94167206,81
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,3.5,1.77,Pointsbet,Leeds United,2383895,94167206,82
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,4.5,2.7,Pointsbet,Leeds United,2383895,94167206,83
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bukayo Saka,Arsenal,5.5,4.4,Pointsbet,Leeds United,2383895,94167206,84
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,0.5,1.03,Pointsbet,Leeds United,2383895,94167206,91
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,1.5,1.21,Pointsbet,Leeds United,2383895,94167206,92
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,2.5,1.67,Pointsbet,Leeds United,2383895,94167206,93
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,3.5,2.55,Pointsbet,Leeds United,2383895,94167206,94
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,4.5,4.5,Pointsbet,Leeds United,2383895,94167206,95
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,5.5,9,Pointsbet,Leeds United,2383895,94167206,96
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,0.5,1.48,Pointsbet,Leeds United,2383895,94167206,97
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,1.5,3.25,Pointsbet,Leeds United,2383895,94167206,98
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,2.5,8.5,Pointsbet,Leeds United,2383895,94167206,99
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,3.5,26,Pointsbet,Leeds United,2383895,94167206,100
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,4.5,91,Pointsbet,Leeds United,2383895,94167206,101
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Cristhian Mosquera,Arsenal,0.5,2.05,Pointsbet,Leeds United,2383895,94167206,103
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,0.5,1.02,Pointsbet,Leeds United,2383895,94167206,91
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,1.5,1.16,Pointsbet,Leeds United,2383895,94167206,92
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,2.5,1.56,Pointsbet,Leeds United,2383895,94167206,93
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,3.5,2.35,Pointsbet,Leeds United,2383895,94167206,94
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,4.5,4,Pointsbet,Leeds United,2383895,94167206,95
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Gabriel Martinelli,Arsenal,5.5,7,Pointsbet,Leeds United,2383895,94167206,96
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,0.5,1.53,Pointsbet,Leeds United,2383895,94167206,97
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,1.5,3.4,Pointsbet,Leeds United,2383895,94167206,98
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,2.5,9.5,Pointsbet,Leeds United,2383895,94167206,99
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Martín Zubimendi,Arsenal,3.5,29,Pointsbet,Leeds United,2383895,94167206,100
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Cristhian Mosquera,Arsenal,0.5,2.1,Pointsbet,Leeds United,2383895,94167206,103
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Cristhian Mosquera,Arsenal,1.5,6.5,Pointsbet,Leeds United,2383895,94167206,104
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Cristhian Mosquera,Arsenal,2.5,26,Pointsbet,Leeds United,2383895,94167206,105
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,0.5,1.02,Pointsbet,Leeds United,2383895,94167206,109
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,1.5,1.14,Pointsbet,Leeds United,2383895,94167206,110
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,2.5,1.42,Pointsbet,Leeds United,2383895,94167206,111
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,3.5,2.1,Pointsbet,Leeds United,2383895,94167206,112
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,4.5,3.4,Pointsbet,Leeds United,2383895,94167206,113
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,5.5,6.5,Pointsbet,Leeds United,2383895,94167206,114
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Byram,NA,0.5,2,Pointsbet,NA,2383895,94167206,127
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Cristhian Mosquera,Arsenal,2.5,29,Pointsbet,Leeds United,2383895,94167206,105
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,0.5,1.01,Pointsbet,Leeds United,2383895,94167206,109
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,1.5,1.13,Pointsbet,Leeds United,2383895,94167206,110
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,2.5,1.44,Pointsbet,Leeds United,2383895,94167206,111
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,3.5,2,Pointsbet,Leeds United,2383895,94167206,112
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,4.5,3.3,Pointsbet,Leeds United,2383895,94167206,113
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ethan Nwaneri,Arsenal,5.5,5.75,Pointsbet,Leeds United,2383895,94167206,114
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Byram,NA,0.5,2.1,Pointsbet,NA,2383895,94167206,127
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Byram,NA,1.5,6.5,Pointsbet,NA,2383895,94167206,128
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Byram,NA,2.5,23,Pointsbet,NA,2383895,94167206,129
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Rodon,NA,0.5,3.3,Pointsbet,NA,2383895,94167206,133
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Rodon,NA,1.5,19,Pointsbet,NA,2383895,94167206,134
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,0.5,1.08,Pointsbet,NA,2383895,94167206,139
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,1.5,1.48,Pointsbet,NA,2383895,94167206,140
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,2.5,2.35,Pointsbet,NA,2383895,94167206,141
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,3.5,4.5,Pointsbet,NA,2383895,94167206,142
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,4.5,10.5,Pointsbet,NA,2383895,94167206,143
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D.James,NA,5.5,23,Pointsbet,NA,2383895,94167206,144
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,0.5,1.77,Pointsbet,NA,2383895,94167206,151
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,1.5,4.75,Pointsbet,NA,2383895,94167206,152
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Byram,NA,2.5,26,Pointsbet,NA,2383895,94167206,129
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Rodon,NA,0.5,3.1,Pointsbet,NA,2383895,94167206,133
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Rodon,NA,1.5,15,Pointsbet,NA,2383895,94167206,134
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Rodon,NA,2.5,81,Pointsbet,NA,2383895,94167206,135
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,0.5,1.74,Pointsbet,NA,2383895,94167206,151
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,1.5,4.5,Pointsbet,NA,2383895,94167206,152
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,2.5,16,Pointsbet,NA,2383895,94167206,153
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,3.5,71,Pointsbet,NA,2383895,94167206,154
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Sean Longstaff,NA,0.5,1.59,Pointsbet,NA,2383895,94167206,157
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Sean Longstaff,NA,1.5,3.7,Pointsbet,NA,2383895,94167206,158
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Sean Longstaff,NA,2.5,11,Pointsbet,NA,2383895,94167206,159
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Sean Longstaff,NA,3.5,36,Pointsbet,NA,2383895,94167206,160
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,0.5,1.08,Pointsbet,NA,2383895,94167206,163
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,1.5,1.42,Pointsbet,NA,2383895,94167206,164
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,2.5,2.35,Pointsbet,NA,2383895,94167206,165
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,3.5,4.4,Pointsbet,NA,2383895,94167206,166
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,4.5,9.5,Pointsbet,NA,2383895,94167206,167
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,5.5,21,Pointsbet,NA,2383895,94167206,168
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J.Bogle,NA,3.5,51,Pointsbet,NA,2383895,94167206,154
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,0.5,1.11,Pointsbet,NA,2383895,94167206,163
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,1.5,1.59,Pointsbet,NA,2383895,94167206,164
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,2.5,2.7,Pointsbet,NA,2383895,94167206,165
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,3.5,5.75,Pointsbet,NA,2383895,94167206,166
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,4.5,12,Pointsbet,NA,2383895,94167206,167
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Nmecha,NA,5.5,29,Pointsbet,NA,2383895,94167206,168
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Struijk,NA,0.5,1.95,Pointsbet,NA,2383895,94167206,169
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Struijk,NA,1.5,5.75,Pointsbet,NA,2383895,94167206,170
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Struijk,NA,1.5,6.5,Pointsbet,NA,2383895,94167206,170
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Struijk,NA,2.5,21,Pointsbet,NA,2383895,94167206,171
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Struijk,NA,3.5,81,Pointsbet,NA,2383895,94167206,172
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,0.5,1.15,Pointsbet,NA,2383895,94167206,175
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,1.5,1.77,Pointsbet,NA,2383895,94167206,176
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,2.5,3.3,Pointsbet,NA,2383895,94167206,177
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,3.5,7.5,Pointsbet,NA,2383895,94167206,178
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,4.5,17,Pointsbet,NA,2383895,94167206,179
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,0.5,1.14,Pointsbet,NA,2383895,94167206,175
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,1.5,1.71,Pointsbet,NA,2383895,94167206,176
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,2.5,3.25,Pointsbet,NA,2383895,94167206,177
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,3.5,7,Pointsbet,NA,2383895,94167206,178
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,4.5,16,Pointsbet,NA,2383895,94167206,179
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,J. Piroe,NA,5.5,41,Pointsbet,NA,2383895,94167206,180
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,0.5,1.77,Pointsbet,NA,2383895,94167206,181
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,0.5,1.74,Pointsbet,NA,2383895,94167206,181
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,1.5,4.5,Pointsbet,NA,2383895,94167206,182
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,2.5,16,Pointsbet,NA,2383895,94167206,183
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,3.5,61,Pointsbet,NA,2383895,94167206,184
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,0.5,1.42,Pointsbet,NA,2383895,94167206,187
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,1.5,3,Pointsbet,NA,2383895,94167206,188
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,2.5,8,Pointsbet,NA,2383895,94167206,189
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,3.5,23,Pointsbet,NA,2383895,94167206,190
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,2.5,15,Pointsbet,NA,2383895,94167206,183
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Ao Tanaka,NA,3.5,51,Pointsbet,NA,2383895,94167206,184
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,0.5,1.33,Pointsbet,NA,2383895,94167206,187
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,1.5,2.5,Pointsbet,NA,2383895,94167206,188
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,2.5,6,Pointsbet,NA,2383895,94167206,189
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,3.5,17,Pointsbet,NA,2383895,94167206,190
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Jack Harrison,NA,4.5,51,Pointsbet,NA,2383895,94167206,191
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bornauw,NA,0.5,2,Pointsbet,NA,2383895,94167206,193
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bornauw,NA,1.5,6.5,Pointsbet,NA,2383895,94167206,194
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bornauw,NA,2.5,26,Pointsbet,NA,2383895,94167206,195
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bijol,NA,0.5,2.5,Pointsbet,NA,2383895,94167206,199
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bijol,NA,1.5,10,Pointsbet,NA,2383895,94167206,200
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bijol,NA,2.5,51,Pointsbet,NA,2383895,94167206,201
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,0.5,1.27,Pointsbet,NA,2383895,94167206,211
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,1.5,2.35,Pointsbet,NA,2383895,94167206,212
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,2.5,5.25,Pointsbet,NA,2383895,94167206,213
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,3.5,15,Pointsbet,NA,2383895,94167206,214
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,4.5,41,Pointsbet,NA,2383895,94167206,215
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bornauw,NA,1.5,7,Pointsbet,NA,2383895,94167206,194
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Bornauw,NA,2.5,29,Pointsbet,NA,2383895,94167206,195
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,0.5,1.08,Pointsbet,NA,2383895,94167206,205
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,1.5,1.48,Pointsbet,NA,2383895,94167206,206
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,2.5,2.35,Pointsbet,NA,2383895,94167206,207
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,3.5,4.4,Pointsbet,NA,2383895,94167206,208
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,4.5,9.5,Pointsbet,NA,2383895,94167206,209
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,L. Ramazani,NA,5.5,21,Pointsbet,NA,2383895,94167206,210
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,0.5,1.25,Pointsbet,NA,2383895,94167206,211
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,1.5,2.2,Pointsbet,NA,2383895,94167206,212
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,2.5,5,Pointsbet,NA,2383895,94167206,213
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,3.5,13,Pointsbet,NA,2383895,94167206,214
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,B. Aaronson,NA,4.5,36,Pointsbet,NA,2383895,94167206,215
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Gruev,NA,0.5,2.55,Pointsbet,NA,2383895,94167206,217
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Gruev,NA,1.5,11,Pointsbet,NA,2383895,94167206,218
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Gruev,NA,2.5,51,Pointsbet,NA,2383895,94167206,219
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Gruev,NA,1.5,10.5,Pointsbet,NA,2383895,94167206,218
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Gruev,NA,2.5,61,Pointsbet,NA,2383895,94167206,219
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,0.5,1.11,Pointsbet,NA,2383895,94167206,223
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,1.5,1.59,Pointsbet,NA,2383895,94167206,224
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,2.5,2.75,Pointsbet,NA,2383895,94167206,225
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,3.5,5.25,Pointsbet,NA,2383895,94167206,226
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,4.5,12,Pointsbet,NA,2383895,94167206,227
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,D. Gnonto,NA,5.5,36,Pointsbet,NA,2383895,94167206,228
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,0.5,1.36,Pointsbet,NA,2383895,94167206,229
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,1.5,2.9,Pointsbet,NA,2383895,94167206,230
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,2.5,7.5,Pointsbet,NA,2383895,94167206,231
 Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,3.5,21,Pointsbet,NA,2383895,94167206,232
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,4.5,71,Pointsbet,NA,2383895,94167206,233
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,0.5,1.5,Pointsbet,NA,2383895,94167206,235
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,1.5,3.3,Pointsbet,NA,2383895,94167206,236
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,2.5,9,Pointsbet,NA,2383895,94167206,237
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,3.5,29,Pointsbet,NA,2383895,94167206,238
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,0.5,1.04,Pointsbet,NA,2383895,94167206,253
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,1.5,1.24,Pointsbet,NA,2383895,94167206,254
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,2.5,1.77,Pointsbet,NA,2383895,94167206,255
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,3.5,2.85,Pointsbet,NA,2383895,94167206,256
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,4.5,5.25,Pointsbet,NA,2383895,94167206,257
-Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,5.5,10.5,Pointsbet,NA,2383895,94167206,258
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,A. Stach,NA,4.5,81,Pointsbet,NA,2383895,94167206,233
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,0.5,1.44,Pointsbet,NA,2383895,94167206,235
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,1.5,3.1,Pointsbet,NA,2383895,94167206,236
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,2.5,8,Pointsbet,NA,2383895,94167206,237
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,3.5,26,Pointsbet,NA,2383895,94167206,238
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,I. Schmidt,NA,4.5,91,Pointsbet,NA,2383895,94167206,239
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,0.5,1.03,Pointsbet,NA,2383895,94167206,253
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,1.5,1.22,Pointsbet,NA,2383895,94167206,254
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,2.5,1.71,Pointsbet,NA,2383895,94167206,255
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,3.5,2.7,Pointsbet,NA,2383895,94167206,256
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,4.5,4.5,Pointsbet,NA,2383895,94167206,257
+Arsenal v Leeds United,Arsenal,Leeds United,Player Shots,Dominic Calvert-Lewin,NA,5.5,9.5,Pointsbet,NA,2383895,94167206,258
 Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player Shots,James Tarkowski,Everton,0.5,1.8,Pointsbet,Brighton & Hove Albion,2384921,94227195,7
 Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player Shots,James Tarkowski,Everton,1.5,5.25,Pointsbet,Brighton & Hove Albion,2384921,94227195,8
 Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player Shots,James Tarkowski,Everton,2.5,19,Pointsbet,Brighton & Hove Albion,2384921,94227195,9
@@ -881,30 +705,30 @@ Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player Shots,D. 
 Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player Shots,D. Coppola,NA,3.5,61,Pointsbet,NA,2384921,94227195,214
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nathaniel Clyne,Crystal Palace,0.5,2.05,Pointsbet,Nottingham Forest,2384920,94227192,1
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nathaniel Clyne,Crystal Palace,1.5,6.5,Pointsbet,Nottingham Forest,2384920,94227192,2
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nathaniel Clyne,Crystal Palace,2.5,26,Pointsbet,Nottingham Forest,2384920,94227192,3
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nathaniel Clyne,Crystal Palace,2.5,29,Pointsbet,Nottingham Forest,2384920,94227192,3
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,0.5,1.4,Pointsbet,Nottingham Forest,2384920,94227192,7
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,1.5,2.9,Pointsbet,Nottingham Forest,2384920,94227192,8
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,1.5,3,Pointsbet,Nottingham Forest,2384920,94227192,8
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,2.5,7.5,Pointsbet,Nottingham Forest,2384920,94227192,9
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,3.5,20,Pointsbet,Nottingham Forest,2384920,94227192,10
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,3.5,21,Pointsbet,Nottingham Forest,2384920,94227192,10
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Will Hughes,Crystal Palace,4.5,71,Pointsbet,Nottingham Forest,2384920,94227192,11
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,0.5,1.14,Pointsbet,Nottingham Forest,2384920,94227192,13
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,1.5,1.74,Pointsbet,Nottingham Forest,2384920,94227192,14
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,2.5,3.1,Pointsbet,Nottingham Forest,2384920,94227192,15
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,2.5,3.25,Pointsbet,Nottingham Forest,2384920,94227192,15
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,3.5,6.5,Pointsbet,Nottingham Forest,2384920,94227192,16
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,4.5,16,Pointsbet,Nottingham Forest,2384920,94227192,17
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jefferson Lerma,Crystal Palace,5.5,36,Pointsbet,Nottingham Forest,2384920,94227192,18
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,0.5,1.02,Pointsbet,NA,2384920,94227192,19
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,1.5,1.11,Pointsbet,NA,2384920,94227192,20
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,2.5,1.36,Pointsbet,NA,2384920,94227192,21
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,3.5,1.95,Pointsbet,NA,2384920,94227192,22
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,4.5,3.25,Pointsbet,NA,2384920,94227192,23
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,1.5,1.13,Pointsbet,NA,2384920,94227192,20
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,2.5,1.42,Pointsbet,NA,2384920,94227192,21
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,3.5,2.05,Pointsbet,NA,2384920,94227192,22
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,4.5,3.3,Pointsbet,NA,2384920,94227192,23
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Édouard,NA,5.5,5.75,Pointsbet,NA,2384920,94227192,24
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,0.5,1.02,Pointsbet,Nottingham Forest,2384920,94227192,25
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,0.5,1.03,Pointsbet,Nottingham Forest,2384920,94227192,25
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,1.5,1.18,Pointsbet,Nottingham Forest,2384920,94227192,26
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,2.5,1.56,Pointsbet,Nottingham Forest,2384920,94227192,27
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,2.5,1.59,Pointsbet,Nottingham Forest,2384920,94227192,27
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,3.5,2.35,Pointsbet,Nottingham Forest,2384920,94227192,28
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,4.5,3.9,Pointsbet,Nottingham Forest,2384920,94227192,29
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,5.5,7,Pointsbet,Nottingham Forest,2384920,94227192,30
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,4.5,4,Pointsbet,Nottingham Forest,2384920,94227192,29
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Jean-Philippe Mateta,Crystal Palace,5.5,7.5,Pointsbet,Nottingham Forest,2384920,94227192,30
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Isma<c3><af>la Sarr,NA,0.5,1.04,Pointsbet,NA,2384920,94227192,31
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Isma<c3><af>la Sarr,NA,1.5,1.25,Pointsbet,NA,2384920,94227192,32
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Isma<c3><af>la Sarr,NA,2.5,1.77,Pointsbet,NA,2384920,94227192,33
@@ -916,111 +740,114 @@ Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Muñoz,NA,2.5,6,Pointsbet,NA,2384920,94227192,45
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Muñoz,NA,3.5,19,Pointsbet,NA,2384920,94227192,46
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Muñoz,NA,4.5,61,Pointsbet,NA,2384920,94227192,47
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,0.5,1.44,Pointsbet,NA,2384920,94227192,49
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,0.5,1.48,Pointsbet,NA,2384920,94227192,49
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,1.5,3.1,Pointsbet,NA,2384920,94227192,50
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,2.5,9,Pointsbet,NA,2384920,94227192,51
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,3.5,29,Pointsbet,NA,2384920,94227192,52
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,0.5,1.69,Pointsbet,Nottingham Forest,2384920,94227192,55
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,1.5,4.4,Pointsbet,Nottingham Forest,2384920,94227192,56
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,2.5,15,Pointsbet,Nottingham Forest,2384920,94227192,57
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,3.5,26,Pointsbet,NA,2384920,94227192,52
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,M. Lacroix,NA,4.5,91,Pointsbet,NA,2384920,94227192,53
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,0.5,1.67,Pointsbet,Nottingham Forest,2384920,94227192,55
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,1.5,4.2,Pointsbet,Nottingham Forest,2384920,94227192,56
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,2.5,12,Pointsbet,Nottingham Forest,2384920,94227192,57
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Richards,Crystal Palace,3.5,51,Pointsbet,Nottingham Forest,2384920,94227192,58
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sosa,NA,0.5,1.53,Pointsbet,NA,2384920,94227192,61
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sosa,NA,0.5,1.56,Pointsbet,NA,2384920,94227192,61
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sosa,NA,1.5,3.4,Pointsbet,NA,2384920,94227192,62
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sosa,NA,2.5,9.5,Pointsbet,NA,2384920,94227192,63
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sosa,NA,3.5,31,Pointsbet,NA,2384920,94227192,64
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Marc Gu<c3><a9>hi,NA,0.5,1.95,Pointsbet,NA,2384920,94227192,67
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Marc Gu<c3><a9>hi,NA,1.5,6,Pointsbet,NA,2384920,94227192,68
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Marc Gu<c3><a9>hi,NA,2.5,21,Pointsbet,NA,2384920,94227192,69
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,0.5,1.08,Pointsbet,Nottingham Forest,2384920,94227192,73
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Marc Gu<c3><a9>hi,NA,1.5,6.5,Pointsbet,NA,2384920,94227192,68
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Marc Gu<c3><a9>hi,NA,2.5,23,Pointsbet,NA,2384920,94227192,69
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,0.5,1.09,Pointsbet,Nottingham Forest,2384920,94227192,73
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,1.5,1.48,Pointsbet,Nottingham Forest,2384920,94227192,74
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,2.5,2.3,Pointsbet,Nottingham Forest,2384920,94227192,75
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,3.5,4.2,Pointsbet,Nottingham Forest,2384920,94227192,76
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,4.5,8.5,Pointsbet,Nottingham Forest,2384920,94227192,77
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,5.5,19,Pointsbet,Nottingham Forest,2384920,94227192,78
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,2.5,2.35,Pointsbet,Nottingham Forest,2384920,94227192,75
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,3.5,4.4,Pointsbet,Nottingham Forest,2384920,94227192,76
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,4.5,9.5,Pointsbet,Nottingham Forest,2384920,94227192,77
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Naouirou Ahamada,Crystal Palace,5.5,21,Pointsbet,Nottingham Forest,2384920,94227192,78
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,0.5,1.87,Pointsbet,Nottingham Forest,2384920,94227192,79
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,1.5,6,Pointsbet,Nottingham Forest,2384920,94227192,80
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,2.5,21,Pointsbet,Nottingham Forest,2384920,94227192,81
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,0.5,1.03,Pointsbet,NA,2384920,94227192,85
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,1.5,5.25,Pointsbet,Nottingham Forest,2384920,94227192,80
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,2.5,20,Pointsbet,Nottingham Forest,2384920,94227192,81
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Tyrick Mitchell,Crystal Palace,3.5,91,Pointsbet,Nottingham Forest,2384920,94227192,82
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,0.5,1.04,Pointsbet,NA,2384920,94227192,85
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,1.5,1.24,Pointsbet,NA,2384920,94227192,86
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,2.5,1.74,Pointsbet,NA,2384920,94227192,87
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,3.5,2.75,Pointsbet,NA,2384920,94227192,88
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,2.5,1.8,Pointsbet,NA,2384920,94227192,87
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,3.5,2.85,Pointsbet,NA,2384920,94227192,88
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,4.5,5,Pointsbet,NA,2384920,94227192,89
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Rak-Sakyi,NA,5.5,10,Pointsbet,NA,2384920,94227192,90
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,0.5,1.08,Pointsbet,NA,2384920,94227192,91
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,1.5,1.44,Pointsbet,NA,2384920,94227192,92
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,2.5,2.3,Pointsbet,NA,2384920,94227192,93
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,2.5,2.4,Pointsbet,NA,2384920,94227192,93
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,3.5,4.4,Pointsbet,NA,2384920,94227192,94
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,4.5,9,Pointsbet,NA,2384920,94227192,95
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,J. Devenny,NA,5.5,20,Pointsbet,NA,2384920,94227192,96
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,0.5,1.36,Pointsbet,Nottingham Forest,2384920,94227192,97
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,1.5,2.75,Pointsbet,Nottingham Forest,2384920,94227192,98
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,0.5,1.33,Pointsbet,Nottingham Forest,2384920,94227192,97
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,1.5,2.7,Pointsbet,Nottingham Forest,2384920,94227192,98
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,2.5,6.5,Pointsbet,Nottingham Forest,2384920,94227192,99
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,3.5,19,Pointsbet,Nottingham Forest,2384920,94227192,100
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Adam Wharton,Crystal Palace,4.5,61,Pointsbet,Nottingham Forest,2384920,94227192,101
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,0.5,1.08,Pointsbet,Crystal Palace,2384920,94227192,103
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,1.5,1.44,Pointsbet,Crystal Palace,2384920,94227192,104
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,1.5,1.48,Pointsbet,Crystal Palace,2384920,94227192,104
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,2.5,2.35,Pointsbet,Crystal Palace,2384920,94227192,105
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,3.5,4.5,Pointsbet,Crystal Palace,2384920,94227192,106
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,4.5,9.5,Pointsbet,Crystal Palace,2384920,94227192,107
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,5.5,21,Pointsbet,Crystal Palace,2384920,94227192,108
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,0.5,2.15,Pointsbet,Crystal Palace,2384920,94227192,115
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,3.5,4.75,Pointsbet,Crystal Palace,2384920,94227192,106
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,4.5,10,Pointsbet,Crystal Palace,2384920,94227192,107
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Chris Wood,Nottingham Forest,5.5,23,Pointsbet,Crystal Palace,2384920,94227192,108
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,0.5,2.2,Pointsbet,Crystal Palace,2384920,94227192,115
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,1.5,7.5,Pointsbet,Crystal Palace,2384920,94227192,116
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,2.5,29,Pointsbet,Crystal Palace,2384920,94227192,117
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ola Aina,Nottingham Forest,2.5,36,Pointsbet,Crystal Palace,2384920,94227192,117
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,0.5,1.02,Pointsbet,Crystal Palace,2384920,94227192,121
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,1.5,1.14,Pointsbet,Crystal Palace,2384920,94227192,122
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,2.5,1.48,Pointsbet,Crystal Palace,2384920,94227192,123
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,3.5,2.15,Pointsbet,Crystal Palace,2384920,94227192,124
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,4.5,3.6,Pointsbet,Crystal Palace,2384920,94227192,125
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,5.5,6.5,Pointsbet,Crystal Palace,2384920,94227192,126
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Taiwo Awoniyi,Nottingham Forest,5.5,6,Pointsbet,Crystal Palace,2384920,94227192,126
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sangaré,NA,0.5,1.83,Pointsbet,NA,2384920,94227192,133
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sangaré,NA,1.5,5.25,Pointsbet,NA,2384920,94227192,134
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sangaré,NA,2.5,19,Pointsbet,NA,2384920,94227192,135
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Sangaré,NA,3.5,81,Pointsbet,NA,2384920,94227192,136
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,0.5,1.04,Pointsbet,Crystal Palace,2384920,94227192,139
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,1.5,1.27,Pointsbet,Crystal Palace,2384920,94227192,140
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,2.5,1.8,Pointsbet,Crystal Palace,2384920,94227192,141
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,3.5,2.9,Pointsbet,Crystal Palace,2384920,94227192,142
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,4.5,5.25,Pointsbet,Crystal Palace,2384920,94227192,143
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,5.5,10.5,Pointsbet,Crystal Palace,2384920,94227192,144
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,2.5,1.83,Pointsbet,Crystal Palace,2384920,94227192,141
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,3.5,3,Pointsbet,Crystal Palace,2384920,94227192,142
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,4.5,5.75,Pointsbet,Crystal Palace,2384920,94227192,143
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Morgan Gibbs-White,Nottingham Forest,5.5,11,Pointsbet,Crystal Palace,2384920,94227192,144
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,0.5,1.18,Pointsbet,Crystal Palace,2384920,94227192,151
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,1.5,1.83,Pointsbet,Crystal Palace,2384920,94227192,152
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,2.5,3.7,Pointsbet,Crystal Palace,2384920,94227192,153
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,3.5,8,Pointsbet,Crystal Palace,2384920,94227192,154
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,4.5,21,Pointsbet,Crystal Palace,2384920,94227192,155
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,5.5,51,Pointsbet,Crystal Palace,2384920,94227192,156
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,0.5,1.69,Pointsbet,NA,2384920,94227192,157
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,1.5,4.2,Pointsbet,NA,2384920,94227192,158
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,2.5,13,Pointsbet,NA,2384920,94227192,159
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,3.5,51,Pointsbet,NA,2384920,94227192,160
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,4.5,20,Pointsbet,Crystal Palace,2384920,94227192,155
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Ryan Yates,Nottingham Forest,5.5,61,Pointsbet,Crystal Palace,2384920,94227192,156
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,0.5,1.71,Pointsbet,NA,2384920,94227192,157
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,1.5,4.5,Pointsbet,NA,2384920,94227192,158
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,2.5,15,Pointsbet,NA,2384920,94227192,159
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Nikola Milenkovi<c4><87>,NA,3.5,61,Pointsbet,NA,2384920,94227192,160
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,0.5,1.13,Pointsbet,Crystal Palace,2384920,94227192,163
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,1.5,1.67,Pointsbet,Crystal Palace,2384920,94227192,164
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,2.5,2.9,Pointsbet,Crystal Palace,2384920,94227192,165
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,2.5,3,Pointsbet,Crystal Palace,2384920,94227192,165
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,3.5,6,Pointsbet,Crystal Palace,2384920,94227192,166
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,4.5,15,Pointsbet,Crystal Palace,2384920,94227192,167
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Callum Hudson-Odoi,Nottingham Forest,5.5,36,Pointsbet,Crystal Palace,2384920,94227192,168
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,0.5,1.42,Pointsbet,Crystal Palace,2384920,94227192,175
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,0.5,1.4,Pointsbet,Crystal Palace,2384920,94227192,175
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,1.5,2.9,Pointsbet,Crystal Palace,2384920,94227192,176
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,2.5,7.5,Pointsbet,Crystal Palace,2384920,94227192,177
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,3.5,23,Pointsbet,Crystal Palace,2384920,94227192,178
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,3.5,20,Pointsbet,Crystal Palace,2384920,94227192,178
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Neco Williams,Nottingham Forest,4.5,81,Pointsbet,Crystal Palace,2384920,94227192,179
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,0.5,1.08,Pointsbet,NA,2384920,94227192,181
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,1.5,1.42,Pointsbet,NA,2384920,94227192,182
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,2.5,2.3,Pointsbet,NA,2384920,94227192,183
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,2.5,2.35,Pointsbet,NA,2384920,94227192,183
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,3.5,4.4,Pointsbet,NA,2384920,94227192,184
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,4.5,9.5,Pointsbet,NA,2384920,94227192,185
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,4.5,9,Pointsbet,NA,2384920,94227192,185
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,D. Ndoye,NA,5.5,20,Pointsbet,NA,2384920,94227192,186
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Felipe Rodrigues,NA,0.5,2.3,Pointsbet,NA,2384920,94227192,187
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Felipe Rodrigues,NA,0.5,2.35,Pointsbet,NA,2384920,94227192,187
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Felipe Rodrigues,NA,1.5,9,Pointsbet,NA,2384920,94227192,188
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Felipe Rodrigues,NA,2.5,51,Pointsbet,NA,2384920,94227192,189
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Felipe Rodrigues,NA,2.5,41,Pointsbet,NA,2384920,94227192,189
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,0.5,1.74,Pointsbet,Crystal Palace,2384920,94227192,211
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,1.5,4.75,Pointsbet,Crystal Palace,2384920,94227192,212
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,1.5,4.5,Pointsbet,Crystal Palace,2384920,94227192,212
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,2.5,16,Pointsbet,Crystal Palace,2384920,94227192,213
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,3.5,81,Pointsbet,Crystal Palace,2384920,94227192,214
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,0.5,1.09,Pointsbet,Crystal Palace,2384920,94227192,223
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,1.5,1.5,Pointsbet,Crystal Palace,2384920,94227192,224
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,2.5,2.5,Pointsbet,Crystal Palace,2384920,94227192,225
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,3.5,4.5,Pointsbet,Crystal Palace,2384920,94227192,226
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,4.5,10,Pointsbet,Crystal Palace,2384920,94227192,227
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,5.5,23,Pointsbet,Crystal Palace,2384920,94227192,228
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,Murillo,Nottingham Forest,3.5,61,Pointsbet,Crystal Palace,2384920,94227192,214
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,0.5,1.08,Pointsbet,Crystal Palace,2384920,94227192,223
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,1.5,1.44,Pointsbet,Crystal Palace,2384920,94227192,224
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,2.5,2.35,Pointsbet,Crystal Palace,2384920,94227192,225
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,3.5,4.4,Pointsbet,Crystal Palace,2384920,94227192,226
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,4.5,9,Pointsbet,Crystal Palace,2384920,94227192,227
+Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,James McAtee,Manchester City,5.5,20,Pointsbet,Crystal Palace,2384920,94227192,228
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,A. Kalimuendo,NA,0.5,1.05,Pointsbet,NA,2384920,94227192,235
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,A. Kalimuendo,NA,1.5,1.29,Pointsbet,NA,2384920,94227192,236
 Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player Shots,A. Kalimuendo,NA,2.5,1.9,Pointsbet,NA,2384920,94227192,237
