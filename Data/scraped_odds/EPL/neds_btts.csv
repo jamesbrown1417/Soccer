@@ -1,9 +1,15 @@
 match,market_name,home_team,away_team,yes_price,no_price,margin,agency
-Crystal Palace v Nottingham Forest,Both Teams to Score,Crystal Palace,Nottingham Forest,1.83,1.9100000000000001,1.07,Neds
-Brentford v Aston Villa,Both Teams to Score,Brentford,Aston Villa,1.73,2,1.08,Neds
+Chelsea v Fulham,Both Teams to Score,Chelsea,Fulham,1.83,1.9100000000000001,1.07,Neds
+Crystal Palace v Nottingham Forest,Both Teams to Score,Crystal Palace,Nottingham Forest,1.75,1.95,1.08,Neds
+Aston Villa v Crystal Palace,Both Teams to Score,Aston Villa,Crystal Palace,1.83,1.9100000000000001,1.07,Neds
+Leeds United v Newcastle United,Both Teams to Score,Leeds United,Newcastle United,1.67,2.1,1.07,Neds
+Nottingham Forest v West Ham United,Both Teams to Score,Nottingham Forest,West Ham United,1.95,1.8,1.07,Neds
 Fulham v Manchester United,Both Teams to Score,Fulham,Manchester United,1.67,2.1,1.07,Neds
-Newcastle United v Liverpool,Both Teams to Score,Newcastle United,Liverpool,1.5,2.45,1.07,Neds
-Everton v Brighton & Hove Albion,Both Teams to Score,Everton,Brighton & Hove Albion,1.8,1.95,1.07,Neds
-Burnley v Sunderland AFC,Both Teams to Score,Burnley,Sunderland AFC,1.95,1.75,1.08,Neds
-Bournemouth v Wolverhampton Wanderers,Both Teams to Score,Bournemouth,Wolverhampton Wanderers,1.73,2.05,1.07,Neds
-Arsenal v Leeds United,Both Teams to Score,Arsenal,Leeds United,1.95,1.75,1.08,Neds
+Newcastle United v Liverpool,Both Teams to Score,Newcastle United,Liverpool,1.5,2.5,1.07,Neds
+Liverpool v Arsenal,Both Teams to Score,Liverpool,Arsenal,1.7,2.05,1.08,Neds
+Everton v Brighton & Hove Albion,Both Teams to Score,Everton,Brighton & Hove Albion,1.75,2,1.07,Neds
+Manchester United v Burnley,Both Teams to Score,Manchester United,Burnley,2.1,1.67,1.07,Neds
+Tottenham Hotspur v Bournemouth,Both Teams to Score,Tottenham Hotspur,Bournemouth,1.6,2.2,1.08,Neds
+Brighton & Hove Albion v Manchester City,Both Teams to Score,Brighton & Hove Albion,Manchester City,1.5699999999999998,2.3,1.07,Neds
+Wolverhampton Wanderers v Everton,Both Teams to Score,Wolverhampton Wanderers,Everton,1.85,1.85,1.08,Neds
+Sunderland AFC v Brentford,Both Teams to Score,Sunderland AFC,Brentford,1.75,2,1.07,Neds
