@@ -1025,7 +1025,7 @@
             "name": "Milos Kerkez",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 380,
+            "sort_order": 390,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "18ab1496-d750-4429-8b18-1d6436797497": {
@@ -1496,7 +1496,7 @@
             "name": "Riccardo Calafiori",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 200,
+            "sort_order": 210,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "224b4e46-212a-4425-9e2c-2bcc17869e7f": {
@@ -4049,7 +4049,7 @@
             "name": "Hugo Ekitike",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 400,
+            "sort_order": 370,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "5d483ea5-8a02-45b9-9b53-8c9757e26438": {
@@ -4477,7 +4477,7 @@
             "name": "Viktor Gyokeres",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 470,
+            "sort_order": 460,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "672e5cbd-632a-4158-8422-8bc423a5da74": {
@@ -4638,7 +4638,7 @@
             "name": "Mikel Merino",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 210,
+            "sort_order": 200,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "6d167322-d29d-4804-9a2f-b6e29ee82f78": {
@@ -4772,7 +4772,7 @@
             "name": "Giovanni Leoni",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 340,
+            "sort_order": 350,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "70555f13-3068-466e-81dd-229112ecff74": {
@@ -5025,7 +5025,7 @@
             "name": "Curtis Jones",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 480,
+            "sort_order": 470,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "76b6dd62-057b-479a-8ebb-5210b50b3e65": {
@@ -7457,7 +7457,7 @@
             "name": "Ryan Gravenberch",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 370,
+            "sort_order": 380,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "b13a97d8-13da-4f61-bcbd-8f7659d46c30": {
@@ -7472,7 +7472,7 @@
             "name": "Jurrien Timber",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 330,
+            "sort_order": 340,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "b1525024-676d-4ac3-97a6-95e4240c01b9": {
@@ -7801,7 +7801,7 @@
             "name": "Rio Ngumoha",
             "home_away": "HOME",
             "visible": true,
-            "sort_order": 390,
+            "sort_order": 400,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "b79da792-79e1-4936-96c3-33c31dc36a2a": {
@@ -9946,7 +9946,7 @@
             "name": "Cristhian Mosquera",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 460,
+            "sort_order": 480,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "e85a0b39-804b-495e-9dd0-ecd5c347191b": {
@@ -9954,7 +9954,7 @@
             "name": "Gabriel Magalhaes",
             "home_away": "AWAY",
             "visible": true,
-            "sort_order": 350,
+            "sort_order": 330,
             "market_id": "f6707174-3ede-4e9e-9ba4-eb9a4e746e4b"
         },
         "e8debdf9-cd38-408d-9821-c323832c4603": {
@@ -17264,8 +17264,8 @@
             "entrant_ids": [
                 "fe8df8f8-c2d8-4e08-9c09-27d66dd23575",
                 "c8c0a9f3-75e2-4f51-bc92-2cee9a775d62",
-                "2249145b-6619-4f56-a2f9-d5030c59931a",
                 "6cad724f-3780-4352-b7d9-ff74bc98e078",
+                "2249145b-6619-4f56-a2f9-d5030c59931a",
                 "a45da219-8aeb-4a4f-ac8d-c1d81b645afa",
                 "f6548e9d-f8c3-48b1-94d8-ee708f01fd4a",
                 "08468421-82aa-47be-8eb8-18521d5ba5d0",
@@ -17276,22 +17276,22 @@
                 "971d505c-f877-4a55-bfa7-697e121db1f5",
                 "20b5b3a5-50d8-4382-9f33-9fad86f2e0eb",
                 "1bb79851-5693-4d11-8b16-3950bf90bd4e",
+                "e85a0b39-804b-495e-9dd0-ecd5c347191b",
                 "b14a9291-d8d0-4d76-8353-33782648419d",
                 "703b2c73-c16f-4343-b3bf-a9d665f297b6",
-                "e85a0b39-804b-495e-9dd0-ecd5c347191b",
                 "73ba8f49-f1b3-484b-96e1-2d798bb4cc09",
+                "5cf4cce5-8ecc-431d-937e-299abc769627",
                 "b10fc4ae-2467-436e-94d9-90733f6688cf",
                 "18a3d6e2-f2bf-4988-8c5c-5382a98fc748",
                 "b78c8fb9-b05e-46d6-b0b5-14740f90f915",
-                "5cf4cce5-8ecc-431d-937e-299abc769627",
                 "e1df0a0f-b0f5-43a2-b5ac-9f4ed9afc01a",
                 "a8550c8c-9149-4399-965a-f254c2a2e118",
                 "9c054e1f-ebcd-49ea-9490-656d97362d54",
                 "a47845ab-7262-4b88-ad0e-d670016632f4",
                 "39033ead-0f30-4e06-aba6-4749c9cfedb9",
-                "e82d69b3-3b62-4501-b855-8bf9d44445d5",
                 "6711342a-ab17-44e2-8da3-7de1b2a0ac13",
                 "768c1d4f-d9cd-4ac7-847c-a4ad7ac96e2b",
+                "e82d69b3-3b62-4501-b855-8bf9d44445d5",
                 "d6cce3b3-8037-4d21-9dab-988c5b96d8eb",
                 "82f8a37d-8925-45e5-ba69-53026da67991",
                 "7944b0b1-8ec4-436b-b860-db996011719e",
@@ -18700,8 +18700,8 @@
         },
         "1bb79851-5693-4d11-8b16-3950bf90bd4e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 11,
+                "denominator": 4
             }
         },
         "1be85f0c-b9d1-4702-9df3-693b0b0957f8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21070,8 +21070,8 @@
         },
         "5cf4cce5-8ecc-431d-937e-299abc769627:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 29,
+                "denominator": 10
             }
         },
         "5d483ea5-8a02-45b9-9b53-8c9757e26438:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21418,8 +21418,8 @@
         },
         "6711342a-ab17-44e2-8da3-7de1b2a0ac13:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "672e5cbd-632a-4158-8422-8bc423a5da74:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21550,8 +21550,8 @@
         },
         "6cad724f-3780-4352-b7d9-ff74bc98e078:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "6d167322-d29d-4804-9a2f-b6e29ee82f78:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -21862,8 +21862,8 @@
         },
         "768c1d4f-d9cd-4ac7-847c-a4ad7ac96e2b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 18,
-                "denominator": 5
+                "numerator": 7,
+                "denominator": 2
             }
         },
         "76b6dd62-057b-479a-8ebb-5210b50b3e65:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -25858,8 +25858,8 @@
         },
         "e85a0b39-804b-495e-9dd0-ecd5c347191b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 10
+                "numerator": 14,
+                "denominator": 5
             }
         },
         "e8debdf9-cd38-408d-9821-c323832c4603:940b8704-e497-4a76-b390-00918ff7d282:": {
