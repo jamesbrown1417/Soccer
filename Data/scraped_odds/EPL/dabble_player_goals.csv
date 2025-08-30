@@ -1,18 +1,33 @@
 home_team,away_team,market_name,player_name,line,over_price,under_price,agency,match
-Everton,Brighton & Hove Albion,Player Goals,Kaoru Mitoma,0.5,3.24,NA,Dabble,Everton v Brighton & Hove Albion
-Everton,Brighton & Hove Albion,Player Goals,Iliman Ndiaye,0.5,3.6,NA,Dabble,Everton v Brighton & Hove Albion
-Crystal Palace,Nottingham Forest,Player Goals,Jean-Philippe Mateta,0.5,2.52,NA,Dabble,Crystal Palace v Nottingham Forest
-Crystal Palace,Nottingham Forest,Player Goals,Dan Ndoye,0.5,4.05,NA,Dabble,Crystal Palace v Nottingham Forest
-Crystal Palace,Nottingham Forest,Player Goals,Chris Wood,0.5,2.93,NA,Dabble,Crystal Palace v Nottingham Forest
-Fulham,Manchester United,Player Goals,Rodrigo Muniz,0.5,2.7,NA,Dabble,Fulham v Manchester United
-Fulham,Manchester United,Player Goals,Matheus Cunha,0.5,2.88,NA,Dabble,Fulham v Manchester United
-Fulham,Manchester United,Player Goals,Bryan Mbeumo,0.5,2.88,NA,Dabble,Fulham v Manchester United
-Fulham,Manchester United,Player Goals,Benjamin Sesko,0.5,2.25,NA,Dabble,Fulham v Manchester United
-Fulham,Manchester United,Player Goals,Ra<c3><ba>l Jim<c3><a9>nez,0.5,2.61,NA,Dabble,Fulham v Manchester United
-Newcastle United,Liverpool,Player Goals,Cody Gakpo,0.5,2.79,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Harvey Barnes,0.5,3.15,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Mohamed Salah,0.5,1.89,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Anthony Elanga,0.5,3.15,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Florian Wirtz,0.5,3.06,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Hugo Ekitike,0.5,2.16,NA,Dabble,Newcastle United v Liverpool
-Newcastle United,Liverpool,Player Goals,Anthony Gordon,0.5,2.7,NA,Dabble,Newcastle United v Liverpool
+Chelsea,Fulham,Player Goals,Ra<c3><ba>l Jim<c3><a9>nez,0.5,2.7,NA,Dabble,Chelsea v Fulham
+Chelsea,Fulham,Player Goals,Jo<c3><a3>o Pedro,0.5,1.89,NA,Dabble,Chelsea v Fulham
+Chelsea,Fulham,Player Goals,Estevao,0.5,2.7,NA,Dabble,Chelsea v Fulham
+Chelsea,Fulham,Player Goals,Joshua King,0.5,8.1,NA,Dabble,Chelsea v Fulham
+Chelsea,Fulham,Player Goals,Liam Delap,0.5,2.25,NA,Dabble,Chelsea v Fulham
+Chelsea,Fulham,Player Goals,Rodrigo Muniz,0.5,2.7,NA,Dabble,Chelsea v Fulham
+Wolverhampton Wanderers,Everton,Player Goals,Marshall Munetsi,0.5,2.7,NA,Dabble,Wolverhampton Wanderers v Everton
+Wolverhampton Wanderers,Everton,Player Goals,Jhon Arias,0.5,4.5,NA,Dabble,Wolverhampton Wanderers v Everton
+Wolverhampton Wanderers,Everton,Player Goals,Iliman Ndiaye,0.5,2.7,NA,Dabble,Wolverhampton Wanderers v Everton
+Wolverhampton Wanderers,Everton,Player Goals,Jack Grealish,0.5,4.5,NA,Dabble,Wolverhampton Wanderers v Everton
+Wolverhampton Wanderers,Everton,Player Goals,Thierno Barry,0.5,2.7,NA,Dabble,Wolverhampton Wanderers v Everton
+Wolverhampton Wanderers,Everton,Player Goals,Jørgen Strand Larsen,0.5,2.7,NA,Dabble,Wolverhampton Wanderers v Everton
+Manchester United,Burnley,Player Goals,Bryan Mbeumo,0.5,2.25,NA,Dabble,Manchester United v Burnley
+Manchester United,Burnley,Player Goals,Jaidon Anthony,0.5,4.5,NA,Dabble,Manchester United v Burnley
+Manchester United,Burnley,Player Goals,Benjamin Sesko,0.5,1.89,NA,Dabble,Manchester United v Burnley
+Manchester United,Burnley,Player Goals,Matheus Cunha,0.5,2.25,NA,Dabble,Manchester United v Burnley
+Manchester United,Burnley,Player Goals,Lyle Foster,0.5,4.5,NA,Dabble,Manchester United v Burnley
+Tottenham Hotspur,Bournemouth,Player Goals,Evanilson,0.5,2.7,NA,Dabble,Tottenham Hotspur v Bournemouth
+Tottenham Hotspur,Bournemouth,Player Goals,Eli Kroupi,0.5,2.7,NA,Dabble,Tottenham Hotspur v Bournemouth
+Tottenham Hotspur,Bournemouth,Player Goals,Mohammed Kudus,0.5,2.7,NA,Dabble,Tottenham Hotspur v Bournemouth
+Tottenham Hotspur,Bournemouth,Player Goals,Richarlison,0.5,1.89,NA,Dabble,Tottenham Hotspur v Bournemouth
+Sunderland,Brentford,Player Goals,Kevin Schade,0.5,2.7,NA,Dabble,Sunderland v Brentford
+Sunderland,Brentford,Player Goals,Wilson Isidor,0.5,2.7,NA,Dabble,Sunderland v Brentford
+Sunderland,Brentford,Player Goals,Simon Adingra,0.5,4.5,NA,Dabble,Sunderland v Brentford
+Sunderland,Brentford,Player Goals,Dango Ouattara,0.5,2.7,NA,Dabble,Sunderland v Brentford
+Leeds United,Newcastle United,Player Goals,Dominic Calvert-Lewin,0.5,2.7,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,Lukas Nmecha,0.5,8.1,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,Dan James,0.5,8.1,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,Joël Piroe,0.5,4.5,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,Harvey Barnes,0.5,2.7,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,Anthony Elanga,0.5,4.5,NA,Dabble,Leeds United v Newcastle United
+Leeds United,Newcastle United,Player Goals,William Osula,0.5,2.7,NA,Dabble,Leeds United v Newcastle United

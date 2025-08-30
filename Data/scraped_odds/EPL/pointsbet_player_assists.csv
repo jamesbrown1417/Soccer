@@ -1,73 +1,226 @@
 match,home_team,away_team,market_name,player_name,player_team,line,over_price,agency,opposition_team,EventKey,MarketKey,OutcomeKey
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Idrissa Gueye,Everton,0.5,8.5,Pointsbet,Brighton & Hove Albion,2384921,94227197,1
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,James Tarkowski,Everton,0.5,21,Pointsbet,Brighton & Hove Albion,2384921,94227197,2
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Michael Keane,Everton,0.5,20,Pointsbet,Brighton & Hove Albion,2384921,94227197,3
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Kiernan Dewsbury-Hall,Everton,0.5,5.25,Pointsbet,Brighton & Hove Albion,2384921,94227197,4
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,James Garner,Everton,0.5,6,Pointsbet,Brighton & Hove Albion,2384921,94227197,5
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Joe O'Brien,NA,0.5,15,Pointsbet,NA,2384921,94227197,9
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Iliman Ndiaye,Everton,0.5,5.75,Pointsbet,Brighton & Hove Albion,2384921,94227197,11
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Tim Iroegbunam,Everton,0.5,15,Pointsbet,Brighton & Hove Albion,2384921,94227197,12
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,T. Barry,NA,0.5,7.5,Pointsbet,NA,2384921,94227197,13
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Jack Grealish,Everton,0.5,5.75,Pointsbet,Brighton & Hove Albion,2384921,94227197,14
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Danny Welbeck,Brighton & Hove Albion,0.5,8,Pointsbet,Everton,2384921,94227197,16
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Lewis Dunk,Brighton & Hove Albion,0.5,19,Pointsbet,Everton,2384921,94227197,18
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Matt O'Riley,Brighton & Hove Albion,0.5,5,Pointsbet,Everton,2384921,94227197,22
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Kaoru Mitoma,Brighton & Hove Albion,0.5,5.75,Pointsbet,Everton,2384921,94227197,23
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,M. De Cuyper,NA,0.5,5.75,Pointsbet,NA,2384921,94227197,24
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Mats Wieffer,Brighton & Hove Albion,0.5,6.5,Pointsbet,Everton,2384921,94227197,26
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Jan Paul van Hecke,Brighton & Hove Albion,0.5,21,Pointsbet,Everton,2384921,94227197,27
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Yasin Ayari,Brighton & Hove Albion,0.5,6.5,Pointsbet,Everton,2384921,94227197,29
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Carlos Baleba,Brighton & Hove Albion,0.5,13,Pointsbet,Everton,2384921,94227197,33
-Everton v Brighton & Hove Albion,Everton,Brighton & Hove Albion,Player assists,Yankuba Minteh,Brighton & Hove Albion,0.5,4.75,Pointsbet,Everton,2384921,94227197,34
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Will Hughes,Crystal Palace,0.5,6.5,Pointsbet,Nottingham Forest,2384920,94227194,2
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Jean-Philippe Mateta,Crystal Palace,0.5,6.5,Pointsbet,Nottingham Forest,2384920,94227194,5
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Isma<c3><af>la Sarr,NA,0.5,5.75,Pointsbet,NA,2384920,94227194,6
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,D. Muñoz,NA,0.5,5.25,Pointsbet,NA,2384920,94227194,8
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,M. Lacroix,NA,0.5,17,Pointsbet,NA,2384920,94227194,9
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Chris Richards,Crystal Palace,0.5,13,Pointsbet,Nottingham Forest,2384920,94227194,10
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Tyrick Mitchell,Crystal Palace,0.5,7.5,Pointsbet,Nottingham Forest,2384920,94227194,14
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,J. Devenny,NA,0.5,5.25,Pointsbet,NA,2384920,94227194,16
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Adam Wharton,Crystal Palace,0.5,5.75,Pointsbet,Nottingham Forest,2384920,94227194,17
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Chris Wood,Nottingham Forest,0.5,10.5,Pointsbet,Crystal Palace,2384920,94227194,18
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Ola Aina,Nottingham Forest,0.5,10,Pointsbet,Crystal Palace,2384920,94227194,20
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Sangaré,NA,0.5,13,Pointsbet,NA,2384920,94227194,23
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Morgan Gibbs-White,Nottingham Forest,0.5,4.4,Pointsbet,Crystal Palace,2384920,94227194,24
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Nikola Milenkovi<c4><87>,NA,0.5,21,Pointsbet,NA,2384920,94227194,27
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Callum Hudson-Odoi,Nottingham Forest,0.5,6.5,Pointsbet,Crystal Palace,2384920,94227194,28
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Neco Williams,Nottingham Forest,0.5,7.5,Pointsbet,Crystal Palace,2384920,94227194,30
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,D. Ndoye,NA,0.5,6.5,Pointsbet,NA,2384920,94227194,31
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Elliot Anderson,Nottingham Forest,0.5,7.5,Pointsbet,Crystal Palace,2384920,94227194,35
-Crystal Palace v Nottingham Forest,Crystal Palace,Nottingham Forest,Player assists,Murillo,Nottingham Forest,0.5,17,Pointsbet,Crystal Palace,2384920,94227194,36
-Fulham v Manchester United,Fulham,Manchester United,Player assists,R. Jiménez,NA,0.5,8,Pointsbet,NA,2385052,94227271,1
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Timothy Castagne,Fulham,0.5,9.5,Pointsbet,Manchester United,2385052,94227271,2
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Tom Cairney,Fulham,0.5,8.5,Pointsbet,Manchester United,2385052,94227271,3
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Kenny Tete,Fulham,0.5,8,Pointsbet,Manchester United,2385052,94227271,4
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Harrison Reed,Fulham,0.5,9.5,Pointsbet,Manchester United,2385052,94227271,5
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Alex Iwobi,Fulham,0.5,6,Pointsbet,Manchester United,2385052,94227271,6
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Harry Wilson,Fulham,0.5,4.75,Pointsbet,Manchester United,2385052,94227271,7
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Traoré,NA,0.5,4.75,Pointsbet,NA,2385052,94227271,8
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Sa<c5><a1>a Luki<c4><87>,NA,0.5,11,Pointsbet,NA,2385052,94227271,9
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Joachim Andersen,Fulham,0.5,17,Pointsbet,Manchester United,2385052,94227271,10
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Andreas Pereira,Fulham,0.5,4.75,Pointsbet,Manchester United,2385052,94227271,11
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Sander Berge,Fulham,0.5,13,Pointsbet,Manchester United,2385052,94227271,12
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Emile Smith Rowe,Fulham,0.5,7,Pointsbet,Manchester United,2385052,94227271,14
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Jorge Cuenca,Fulham,0.5,17,Pointsbet,Manchester United,2385052,94227271,15
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Calvin Bassey,Fulham,0.5,16,Pointsbet,Manchester United,2385052,94227271,16
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Rodrigo Muniz,Fulham,0.5,10,Pointsbet,Manchester United,2385052,94227271,17
-Fulham v Manchester United,Fulham,Manchester United,Player assists,M. Godo,NA,0.5,5.25,Pointsbet,NA,2385052,94227271,18
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Luke Shaw,Manchester United,0.5,7,Pointsbet,Fulham,2385052,94227271,19
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Bruno Fernandes,Manchester United,0.5,3.6,Pointsbet,Fulham,2385052,94227271,21
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Harry Maguire,Manchester United,0.5,19,Pointsbet,Fulham,2385052,94227271,22
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Matthijs de Ligt,Manchester United,0.5,21,Pointsbet,Fulham,2385052,94227271,23
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Mason Mount,Manchester United,0.5,4.4,Pointsbet,Fulham,2385052,94227271,24
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Diogo Dalot,Manchester United,0.5,6,Pointsbet,Fulham,2385052,94227271,27
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Matheus Cunha,Manchester United,0.5,3.9,Pointsbet,Fulham,2385052,94227271,28
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Joshua Zirkzee,Manchester United,0.5,6,Pointsbet,Fulham,2385052,94227271,29
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Bryan Mbeumo,Manchester United,0.5,4.2,Pointsbet,Fulham,2385052,94227271,30
-Fulham v Manchester United,Fulham,Manchester United,Player assists,B. Šeško,NA,0.5,5.25,Pointsbet,NA,2385052,94227271,32
-Fulham v Manchester United,Fulham,Manchester United,Player assists,M. Ugarte,NA,0.5,9.5,Pointsbet,NA,2385052,94227271,34
-Fulham v Manchester United,Fulham,Manchester United,Player assists,R. Højlund,NA,0.5,6.5,Pointsbet,NA,2385052,94227271,36
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Leny Yoro,Manchester United,0.5,17,Pointsbet,Fulham,2385052,94227271,37
-Fulham v Manchester United,Fulham,Manchester United,Player assists,T. Fredricson,NA,0.5,16,Pointsbet,NA,2385052,94227271,38
-Fulham v Manchester United,Fulham,Manchester United,Player assists,Kobbie Mainoo,Manchester United,0.5,8,Pointsbet,Fulham,2385052,94227271,39
-Fulham v Manchester United,Fulham,Manchester United,Player assists,P. Dorgu,NA,0.5,5.25,Pointsbet,NA,2385052,94227271,40
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Tosin Adarabioyo,Chelsea,0.5,15,Pointsbet,Fulham,2392254,94555792,5
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Trevoh Chalobah,Chelsea,0.5,13,Pointsbet,Fulham,2392254,94555792,6
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Reece James,Chelsea,0.5,4,Pointsbet,Fulham,2392254,94555792,7
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Marc Cucurella,Chelsea,0.5,6.5,Pointsbet,Fulham,2392254,94555792,8
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Pedro Neto,Chelsea,0.5,4.2,Pointsbet,Fulham,2392254,94555792,9
+Chelsea v Fulham,Chelsea,Fulham,Player assists,E. Fernández,NA,0.5,4.5,Pointsbet,NA,2392254,94555792,11
+Chelsea v Fulham,Chelsea,Fulham,Player assists,João Pedro,Chelsea,0.5,3.9,Pointsbet,Fulham,2392254,94555792,12
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Mois<c3><a9>s Caicedo,NA,0.5,7.5,Pointsbet,NA,2392254,94555792,13
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Wesley Fofana,Chelsea,0.5,17,Pointsbet,Fulham,2392254,94555792,14
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Malo Gusto,Chelsea,0.5,6,Pointsbet,Fulham,2392254,94555792,15
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Liam Delap,Chelsea,0.5,5.75,Pointsbet,Fulham,2392254,94555792,16
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Andrey Santos,Chelsea,0.5,6,Pointsbet,Fulham,2392254,94555792,19
+Chelsea v Fulham,Chelsea,Fulham,Player assists,J. Bynoe-Gittens,NA,0.5,5.25,Pointsbet,NA,2392254,94555792,21
+Chelsea v Fulham,Chelsea,Fulham,Player assists,J. Hato,NA,0.5,13,Pointsbet,NA,2392254,94555792,23
+Chelsea v Fulham,Chelsea,Fulham,Player assists,R. Jiménez,NA,0.5,9,Pointsbet,NA,2392254,94555792,25
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Timothy Castagne,Fulham,0.5,12,Pointsbet,Chelsea,2392254,94555792,26
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Tom Cairney,Fulham,0.5,10,Pointsbet,Chelsea,2392254,94555792,27
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Kenny Tete,Fulham,0.5,10.5,Pointsbet,Chelsea,2392254,94555792,28
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Harrison Reed,Fulham,0.5,10,Pointsbet,Chelsea,2392254,94555792,29
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Alex Iwobi,Fulham,0.5,7,Pointsbet,Chelsea,2392254,94555792,30
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Traoré,NA,0.5,6,Pointsbet,NA,2392254,94555792,32
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Sa<c5><a1>a Luki<c4><87>,NA,0.5,12,Pointsbet,NA,2392254,94555792,33
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Joachim Andersen,Fulham,0.5,21,Pointsbet,Chelsea,2392254,94555792,34
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Andreas Pereira,Fulham,0.5,6,Pointsbet,Chelsea,2392254,94555792,35
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Sander Berge,Fulham,0.5,16,Pointsbet,Chelsea,2392254,94555792,36
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Ryan Sessegnon,Fulham,0.5,7,Pointsbet,Chelsea,2392254,94555792,38
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Emile Smith Rowe,Fulham,0.5,8.5,Pointsbet,Chelsea,2392254,94555792,39
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Jorge Cuenca,Fulham,0.5,20,Pointsbet,Chelsea,2392254,94555792,40
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Calvin Bassey,Fulham,0.5,21,Pointsbet,Chelsea,2392254,94555792,41
+Chelsea v Fulham,Chelsea,Fulham,Player assists,Rodrigo Muniz,Fulham,0.5,10.5,Pointsbet,Chelsea,2392254,94555792,42
+Chelsea v Fulham,Chelsea,Fulham,Player assists,M. Godo,NA,0.5,6.5,Pointsbet,NA,2392254,94555792,43
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Xhaka,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,1
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Masuaku,NA,0.5,6,Pointsbet,NA,2392405,94560661,2
+Sunderland v Brentford,Sunderland,Brentford,Player assists,P. Roberts,NA,0.5,5,Pointsbet,NA,2392405,94560661,4
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Reinildo,NA,0.5,16,Pointsbet,NA,2392405,94560661,6
+Sunderland v Brentford,Sunderland,Brentford,Player assists,W. Isidor,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,9
+Sunderland v Brentford,Sunderland,Brentford,Player assists,D. Neill,NA,0.5,9,Pointsbet,NA,2392405,94560661,11
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Enzo Le Fã©E,NA,0.5,4.5,Pointsbet,NA,2392405,94560661,12
+Sunderland v Brentford,Sunderland,Brentford,Player assists,T. Hume,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,13
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Simon Adingra,NA,0.5,6.5,Pointsbet,NA,2392405,94560661,14
+Sunderland v Brentford,Sunderland,Brentford,Player assists,H. Diarra,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,15
+Sunderland v Brentford,Sunderland,Brentford,Player assists,C. Talbi,NA,0.5,6,Pointsbet,NA,2392405,94560661,16
+Sunderland v Brentford,Sunderland,Brentford,Player assists,N. Sadiki,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,18
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Eliezer Mayenda,NA,0.5,7,Pointsbet,NA,2392405,94560661,19
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Marc Guiu,NA,0.5,7.5,Pointsbet,NA,2392405,94560661,20
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Mukiele,NA,0.5,12,Pointsbet,NA,2392405,94560661,21
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Henderson,NA,0.5,7.5,Pointsbet,NA,2392405,94560661,22
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Kristoffer Ajer,Brentford,0.5,20,Pointsbet,Sunderland,2392405,94560661,23
+Sunderland v Brentford,Sunderland,Brentford,Player assists,R. Henry,NA,0.5,8.5,Pointsbet,NA,2392405,94560661,24
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Mathias Jensen,Brentford,0.5,5.25,Pointsbet,Sunderland,2392405,94560661,25
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Yoane Wissa,Brentford,0.5,5.75,Pointsbet,Sunderland,2392405,94560661,26
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Frank Onyeka,Brentford,0.5,7,Pointsbet,Sunderland,2392405,94560661,27
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Ethan Pinnock,Brentford,0.5,26,Pointsbet,Sunderland,2392405,94560661,28
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Mikkel Damsgaard,Brentford,0.5,5.25,Pointsbet,Sunderland,2392405,94560661,29
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Sepp van den Berg,Brentford,0.5,21,Pointsbet,Sunderland,2392405,94560661,30
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Nathan Collins,Brentford,0.5,16,Pointsbet,Sunderland,2392405,94560661,31
+Sunderland v Brentford,Sunderland,Brentford,Player assists,F<c3><a1>bio Carvalho,NA,0.5,5.75,Pointsbet,NA,2392405,94560661,32
+Sunderland v Brentford,Sunderland,Brentford,Player assists,A. Hickey,NA,0.5,9.5,Pointsbet,NA,2392405,94560661,34
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Keane Lewis-Potter,Brentford,0.5,6.5,Pointsbet,Sunderland,2392405,94560661,35
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Thiago Alc<c3><a2>ntara,NA,0.5,5.75,Pointsbet,NA,2392405,94560661,36
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Yegor Yarmolyuk,Brentford,0.5,8.5,Pointsbet,Sunderland,2392405,94560661,37
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Kevin Schade,Brentford,0.5,6.5,Pointsbet,Sunderland,2392405,94560661,38
+Sunderland v Brentford,Sunderland,Brentford,Player assists,A. Milambo,NA,0.5,6,Pointsbet,NA,2392405,94560661,39
+Sunderland v Brentford,Sunderland,Brentford,Player assists,M. Kayode,NA,0.5,11,Pointsbet,NA,2392405,94560661,40
+Sunderland v Brentford,Sunderland,Brentford,Player assists,Dango Ouattara,Bournemouth,0.5,5.75,Pointsbet,Sunderland,2392405,94560661,41
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Dominic Solanke,Tottenham Hotspur,0.5,5,Pointsbet,Bournemouth,2392406,94555727,2
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Rodrigo Bentancur,Tottenham Hotspur,0.5,6.5,Pointsbet,Bournemouth,2392406,94555727,3
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,João Palhinha,Tottenham Hotspur,0.5,12,Pointsbet,Bournemouth,2392406,94555727,4
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Cristian Romero,Tottenham Hotspur,0.5,15,Pointsbet,Bournemouth,2392406,94555727,5
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Danso,NA,0.5,13,Pointsbet,NA,2392406,94555727,6
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Richarlison,Tottenham Hotspur,0.5,6.5,Pointsbet,Bournemouth,2392406,94555727,7
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Pedro Porro,Tottenham Hotspur,0.5,3.3,Pointsbet,Bournemouth,2392406,94555727,8
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Mohammed Kudus,Tottenham Hotspur,0.5,3.4,Pointsbet,Bournemouth,2392406,94555727,9
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Djed Spence,Tottenham Hotspur,0.5,7,Pointsbet,Bournemouth,2392406,94555727,10
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Brennan Johnson,Tottenham Hotspur,0.5,4.2,Pointsbet,Bournemouth,2392406,94555727,11
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Micky van de Ven,Tottenham Hotspur,0.5,12,Pointsbet,Bournemouth,2392406,94555727,12
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Pape Matar Sarr,Tottenham Hotspur,0.5,6,Pointsbet,Bournemouth,2392406,94555727,14
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,M. Tel,NA,0.5,4.2,Pointsbet,NA,2392406,94555727,15
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Wilson Odobert,Tottenham Hotspur,0.5,4.5,Pointsbet,Bournemouth,2392406,94555727,16
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Lucas Bergvall,Tottenham Hotspur,0.5,5.75,Pointsbet,Bournemouth,2392406,94555727,17
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Andre Gray,NA,0.5,6.5,Pointsbet,NA,2392406,94555727,18
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Adam Smith,Bournemouth,0.5,13,Pointsbet,Tottenham Hotspur,2392406,94555727,19
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,David Brooks,Bournemouth,0.5,5,Pointsbet,Tottenham Hotspur,2392406,94555727,20
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Marcos Senesi,Bournemouth,0.5,11,Pointsbet,Tottenham Hotspur,2392406,94555727,21
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Tyler Adams,Bournemouth,0.5,10.5,Pointsbet,Tottenham Hotspur,2392406,94555727,22
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Marcus Tavernier,Bournemouth,0.5,5,Pointsbet,Tottenham Hotspur,2392406,94555727,23
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Justin Kluivert,Bournemouth,0.5,6,Pointsbet,Tottenham Hotspur,2392406,94555727,24
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Antoine Semenyo,Bournemouth,0.5,6.5,Pointsbet,Tottenham Hotspur,2392406,94555727,26
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Evanilson,Bournemouth,0.5,8.5,Pointsbet,Tottenham Hotspur,2392406,94555727,27
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,H. Traorè,NA,0.5,6,Pointsbet,NA,2392406,94555727,28
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,James Hill,Bournemouth,0.5,20,Pointsbet,Tottenham Hotspur,2392406,94555727,29
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,B. Diakité,NA,0.5,13,Pointsbet,NA,2392406,94555727,32
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,A. Truffert,NA,0.5,5.75,Pointsbet,NA,2392406,94555727,33
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Alex Scott,Bournemouth,0.5,8.5,Pointsbet,Tottenham Hotspur,2392406,94555727,34
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,J. Soler,NA,0.5,7.5,Pointsbet,NA,2392406,94555727,36
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,E. Kroupi,NA,0.5,7.5,Pointsbet,NA,2392406,94555727,37
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,A. Adli,NA,0.5,5.75,Pointsbet,NA,2392406,94555727,38
+Tottenham Hotspur v Bournemouth,Tottenham Hotspur,Bournemouth,Player assists,Ben Doak,Liverpool,0.5,6,Pointsbet,Tottenham Hotspur,2392406,94555727,39
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Byram,NA,0.5,7,Pointsbet,NA,2392643,94554558,2
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Dominic Calvert-Lewin,NA,0.5,7,Pointsbet,NA,2392643,94554558,3
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Rodon,NA,0.5,23,Pointsbet,NA,2392643,94554558,4
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,D.James,NA,0.5,5.25,Pointsbet,NA,2392643,94554558,5
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,G. Gudmundsson,NA,0.5,12,Pointsbet,NA,2392643,94554558,6
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,J.Bogle,NA,0.5,8.5,Pointsbet,NA,2392643,94554558,7
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Sean Longstaff,NA,0.5,10.5,Pointsbet,NA,2392643,94554558,8
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Nmecha,NA,0.5,5,Pointsbet,NA,2392643,94554558,9
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Struijk,NA,0.5,19,Pointsbet,NA,2392643,94554558,10
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,J. Piroe,NA,0.5,7.5,Pointsbet,NA,2392643,94554558,11
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Jack Harrison,NA,0.5,5.25,Pointsbet,NA,2392643,94554558,12
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Bornauw,NA,0.5,9.5,Pointsbet,NA,2392643,94554558,13
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Bijol,NA,0.5,20,Pointsbet,NA,2392643,94554558,14
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,B. Aaronson,NA,0.5,6.5,Pointsbet,NA,2392643,94554558,16
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,I. Gruev,NA,0.5,9,Pointsbet,NA,2392643,94554558,17
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,D. Gnonto,NA,0.5,5.75,Pointsbet,NA,2392643,94554558,18
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,A. Stach,NA,0.5,5.25,Pointsbet,NA,2392643,94554558,19
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,James Justin,Leicester City,0.5,7.5,Pointsbet,Leeds United,2392643,94554558,24
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Emil Krafth,Newcastle United,0.5,10.5,Pointsbet,Leeds United,2392643,94554558,25
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Dan Burn,Newcastle United,0.5,19,Pointsbet,Leeds United,2392643,94554558,26
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Kieran Trippier,Newcastle United,0.5,4,Pointsbet,Leeds United,2392643,94554558,28
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Jacob Murphy,Newcastle United,0.5,5.75,Pointsbet,Leeds United,2392643,94554558,30
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Harvey Barnes,Newcastle United,0.5,5.25,Pointsbet,Leeds United,2392643,94554558,32
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,B. Guimarães,NA,0.5,7,Pointsbet,NA,2392643,94554558,33
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,S. Botman,NA,0.5,20,Pointsbet,NA,2392643,94554558,34
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,M. Thiaw,NA,0.5,21,Pointsbet,NA,2392643,94554558,35
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Anthony Elanga,Newcastle United,0.5,4.2,Pointsbet,Leeds United,2392643,94554558,36
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Lewis Hall,Newcastle United,0.5,6,Pointsbet,Leeds United,2392643,94554558,39
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,William Osula,Newcastle United,0.5,5.25,Pointsbet,Leeds United,2392643,94554558,40
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,L. Miley,NA,0.5,7.5,Pointsbet,NA,2392643,94554558,41
+Leeds United v Newcastle United,Leeds United,Newcastle United,Player assists,Jacob Ramsey,Aston Villa,0.5,6.5,Pointsbet,Leeds United,2392643,94554558,42
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,James Milner,Brighton & Hove Albion,0.5,7.5,Pointsbet,Manchester City,2393590,94617614,1
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Danny Welbeck,Brighton & Hove Albion,0.5,8.5,Pointsbet,Manchester City,2393590,94617614,2
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Jo<c3><ab>l Veltman,NA,0.5,16,Pointsbet,NA,2393590,94617614,3
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Lewis Dunk,Brighton & Hove Albion,0.5,20,Pointsbet,Manchester City,2393590,94617614,4
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Boscagli,NA,0.5,23,Pointsbet,NA,2393590,94617614,5
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Igor,Brighton & Hove Albion,0.5,21,Pointsbet,Manchester City,2393590,94617614,7
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Matt O'Riley,Brighton & Hove Albion,0.5,6,Pointsbet,Manchester City,2393590,94617614,8
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Tariq Lamptey,Brighton & Hove Albion,0.5,6.5,Pointsbet,Manchester City,2393590,94617614,9
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Kaoru Mitoma,Brighton & Hove Albion,0.5,5.75,Pointsbet,Manchester City,2393590,94617614,10
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,M. De Cuyper,NA,0.5,5.75,Pointsbet,NA,2393590,94617614,11
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Mats Wieffer,Brighton & Hove Albion,0.5,7.5,Pointsbet,Manchester City,2393590,94617614,12
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Jan Paul van Hecke,Brighton & Hove Albion,0.5,21,Pointsbet,Manchester City,2393590,94617614,13
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Yasin Ayari,Brighton & Hove Albion,0.5,6.5,Pointsbet,Manchester City,2393590,94617614,15
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,D. Gómez,NA,0.5,8,Pointsbet,NA,2393590,94617614,16
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Carlos Baleba,Brighton & Hove Albion,0.5,16,Pointsbet,Manchester City,2393590,94617614,19
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Yankuba Minteh,Brighton & Hove Albion,0.5,5,Pointsbet,Manchester City,2393590,94617614,20
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Brajan Gruda,Brighton & Hove Albion,0.5,5.25,Pointsbet,Manchester City,2393590,94617614,21
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,D. Coppola,NA,0.5,19,Pointsbet,NA,2393590,94617614,22
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Gündogan,NA,0.5,5.25,Pointsbet,NA,2393590,94617614,23
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Aké,NA,0.5,17,Pointsbet,NA,2393590,94617614,24
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,John Stones,Manchester City,0.5,17,Pointsbet,Brighton & Hove Albion,2393590,94617614,25
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Bernardo Silva,Manchester City,0.5,4,Pointsbet,Brighton & Hove Albion,2393590,94617614,26
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,R<c3><ba>ben Dias,NA,0.5,21,Pointsbet,NA,2393590,94617614,28
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Erling Haaland,Manchester City,0.5,6,Pointsbet,Brighton & Hove Albion,2393590,94617614,29
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Phil Foden,Manchester City,0.5,3.9,Pointsbet,Brighton & Hove Albion,2393590,94617614,30
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,T. Reijnders,NA,0.5,6,Pointsbet,NA,2393590,94617614,31
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Matheus Nunes,Manchester City,0.5,5.75,Pointsbet,Brighton & Hove Albion,2393590,94617614,32
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Nico González,Manchester City,0.5,7,Pointsbet,Brighton & Hove Albion,2393590,94617614,33
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,M. Cherki,NA,0.5,3.9,Pointsbet,NA,2393590,94617614,34
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,J<c3><a9>r<c3><a9>my Doku,NA,0.5,4.4,Pointsbet,NA,2393590,94617614,35
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Oscar Bobb,Manchester City,0.5,4,Pointsbet,Brighton & Hove Albion,2393590,94617614,38
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,O. Marmoush,NA,0.5,4.4,Pointsbet,NA,2393590,94617614,39
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Rico Lewis,Manchester City,0.5,7.5,Pointsbet,Brighton & Hove Albion,2393590,94617614,40
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,Nico O'Reilly,Manchester City,0.5,7,Pointsbet,Brighton & Hove Albion,2393590,94617614,41
+Brighton & Hove Albion v Manchester City,Brighton & Hove Albion,Manchester City,Player assists,A. Khusanov,NA,0.5,19,Pointsbet,NA,2393590,94617614,42
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Chris Wood,Nottingham Forest,0.5,7,Pointsbet,West Ham United,2393591,94620368,1
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Willy Boly,Nottingham Forest,0.5,17,Pointsbet,West Ham United,2393591,94620368,2
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Ola Aina,Nottingham Forest,0.5,6.5,Pointsbet,West Ham United,2393591,94620368,3
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Taiwo Awoniyi,Nottingham Forest,0.5,7.5,Pointsbet,West Ham United,2393591,94620368,4
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Sangaré,NA,0.5,10.5,Pointsbet,NA,2393591,94620368,6
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Morgan Gibbs-White,Nottingham Forest,0.5,3.1,Pointsbet,West Ham United,2393591,94620368,7
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,O. Richards,NA,0.5,6.5,Pointsbet,NA,2393591,94620368,8
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Ryan Yates,Nottingham Forest,0.5,11,Pointsbet,West Ham United,2393591,94620368,9
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Nikola Milenkovi<c4><87>,NA,0.5,17,Pointsbet,NA,2393591,94620368,10
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Callum Hudson-Odoi,Nottingham Forest,0.5,4.75,Pointsbet,West Ham United,2393591,94620368,11
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Neco Williams,Nottingham Forest,0.5,5.75,Pointsbet,West Ham United,2393591,94620368,13
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,D. Ndoye,NA,0.5,4.75,Pointsbet,NA,2393591,94620368,14
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Felipe Rodrigues,NA,0.5,13,Pointsbet,NA,2393591,94620368,15
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Elliot Anderson,Nottingham Forest,0.5,5.25,Pointsbet,West Ham United,2393591,94620368,18
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Murillo,Nottingham Forest,0.5,15,Pointsbet,West Ham United,2393591,94620368,19
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Douglas Luiz,NA,0.5,4.75,Pointsbet,NA,2393591,94620368,21
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,A. Kalimuendo,NA,0.5,6.5,Pointsbet,NA,2393591,94620368,22
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,James McAtee,Manchester City,0.5,4.5,Pointsbet,Nottingham Forest,2393591,94620368,23
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Füllkrug,NA,0.5,9,Pointsbet,NA,2393591,94620368,25
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,James Ward-Prowse,West Ham United,0.5,7,Pointsbet,Nottingham Forest,2393591,94620368,26
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Callum Wilson,West Ham United,0.5,11,Pointsbet,Nottingham Forest,2393591,94620368,28
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Tomas Soucek,NA,0.5,12,Pointsbet,NA,2393591,94620368,30
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,G. Rodríguez,NA,0.5,19,Pointsbet,NA,2393591,94620368,31
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Kyle Walker-Peters,West Ham United,0.5,12,Pointsbet,Nottingham Forest,2393591,94620368,33
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Jarrod Bowen,West Ham United,0.5,6.5,Pointsbet,Nottingham Forest,2393591,94620368,34
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Lucas Paquet<c3><a1>,NA,0.5,7,Pointsbet,NA,2393591,94620368,35
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Aaron Wan-Bissaka,West Ham United,0.5,9,Pointsbet,Nottingham Forest,2393591,94620368,36
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Andy Irving,NA,0.5,10,Pointsbet,NA,2393591,94620368,37
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,Max Kilman,NA,0.5,26,Pointsbet,NA,2393591,94620368,39
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,F. Potts,NA,0.5,11,Pointsbet,NA,2393591,94620368,41
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,O. Scarles,NA,0.5,10,Pointsbet,NA,2393591,94620368,42
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,C. Marshall,NA,0.5,8.5,Pointsbet,NA,2393591,94620368,43
+Nottingham Forest v West Ham United,Nottingham Forest,West Ham United,Player assists,E.H.M. Diouf,NA,0.5,7.5,Pointsbet,NA,2393591,94620368,44
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Mohamed Salah,Liverpool,0.5,4.2,Pointsbet,Arsenal,2393744,94619484,1
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Virgil van Dijk,Liverpool,0.5,19,Pointsbet,Arsenal,2393744,94619484,2
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Andrew Robertson,Liverpool,0.5,6.5,Pointsbet,Arsenal,2393744,94619484,3
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Joe Gomez,Liverpool,0.5,10.5,Pointsbet,Arsenal,2393744,94619484,4
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Wataru Endo,Liverpool,0.5,9,Pointsbet,Arsenal,2393744,94619484,6
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Chiesa,NA,0.5,4.2,Pointsbet,NA,2393744,94619484,7
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Konaté,NA,0.5,23,Pointsbet,NA,2393744,94619484,8
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Cody Gakpo,Liverpool,0.5,6,Pointsbet,Arsenal,2393744,94619484,9
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Dominik Szoboszlai,Liverpool,0.5,5.75,Pointsbet,Arsenal,2393744,94619484,10
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Curtis Jones,Liverpool,0.5,7,Pointsbet,Arsenal,2393744,94619484,11
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Ryan Gravenberch,Liverpool,0.5,10,Pointsbet,Arsenal,2393744,94619484,12
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Harvey Elliott,Liverpool,0.5,6,Pointsbet,Arsenal,2393744,94619484,14
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Conor Bradley,Liverpool,0.5,6.5,Pointsbet,Arsenal,2393744,94619484,15
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,F. Wirtz,NA,0.5,3.7,Pointsbet,NA,2393744,94619484,16
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,H. Ekitike,NA,0.5,4.2,Pointsbet,NA,2393744,94619484,17
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Milos Kerkez,Liverpool,0.5,6.5,Pointsbet,Arsenal,2393744,94619484,18
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Leandro Trossard,Arsenal,0.5,4.75,Pointsbet,Liverpool,2393744,94619484,19
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Mikel Merino,Arsenal,0.5,6.5,Pointsbet,Liverpool,2393744,94619484,20
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Declan Rice,Arsenal,0.5,6.5,Pointsbet,Liverpool,2393744,94619484,22
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Gabriel Magalh<c3><a3>es,NA,0.5,29,Pointsbet,NA,2393744,94619484,23
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Gyökeres,NA,0.5,4.4,Pointsbet,NA,2393744,94619484,25
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Jurrien Timber,Arsenal,0.5,10.5,Pointsbet,Liverpool,2393744,94619484,27
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Noni Madueke,Arsenal,0.5,6.5,Pointsbet,Liverpool,2393744,94619484,28
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Riccardo Calafiori,Arsenal,0.5,11,Pointsbet,Liverpool,2393744,94619484,32
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Gabriel Martinelli,Arsenal,0.5,5.25,Pointsbet,Liverpool,2393744,94619484,33
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Martín Zubimendi,Arsenal,0.5,13,Pointsbet,Liverpool,2393744,94619484,34
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Ethan Nwaneri,Arsenal,0.5,5.25,Pointsbet,Liverpool,2393744,94619484,36
+Liverpool v Arsenal,Liverpool,Arsenal,Player assists,Eberechi Eze,Crystal Palace,0.5,4.75,Pointsbet,Liverpool,2393744,94619484,38
