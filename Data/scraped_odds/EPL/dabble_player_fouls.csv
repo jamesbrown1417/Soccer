@@ -1,35 +1,56 @@
 home_team,away_team,market_name,player_name,line,over_price,under_price,agency,match
-Chelsea,Fulham,Player Fouls,Mois<c3><a9>s Caicedo,2,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player Fouls,Joachim Andersen,1,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player Fouls,Sander Berge,1.5,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player Fouls,Sa<c5><a1>a Luki<c4><87>,3,1.8,1.8,Dabble,Chelsea v Fulham
-Wolverhampton Wanderers,Everton,Player Fouls,Jhon Arias,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player Fouls,James Tarkowski,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player Fouls,Tim Iroegbunam,1.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player Fouls,Jean-Ricner Bellegarde,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player Fouls,Carlos Alcaraz,1.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player Fouls,André,1.5,1.89,NA,Dabble,Wolverhampton Wanderers v Everton
-Manchester United,Burnley,Player Fouls,Hannibal Mejbri,2,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player Fouls,Josh Cullen,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player Fouls,Manuel Ugarte,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player Fouls,Casemiro,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player Fouls,Josh Laurent,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player Fouls,Mason Mount,1,1.8,1.8,Dabble,Manchester United v Burnley
-Tottenham Hotspur,Bournemouth,Player Fouls,Cristian Romero,1.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player Fouls,Tyler Adams,1.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player Fouls,Alex Scott,1.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player Fouls,Marcos Senesi,1.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player Fouls,Rodrigo Bentancur,2,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player Fouls,Pedro Porro,1,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Sunderland,Brentford,Player Fouls,Habib Diarra,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player Fouls,Noah Sadiki,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player Fouls,Thiago,2,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player Fouls,Yegor Yarmolyuk,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player Fouls,Jenson Seelt,1.5,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player Fouls,Nathan Collins,1,1.8,1.8,Dabble,Sunderland v Brentford
-Leeds United,Newcastle United,Player Fouls,Dan Burn,1,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player Fouls,Bruno Guimarães,1.5,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player Fouls,William Osula,1.5,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player Fouls,Gabriel Gudmundsson,1.5,2.25,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player Fouls,Jayden Bogle,1,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player Fouls,llia Gruev,1,1.8,1.8,Dabble,Leeds United v Newcastle United
+Arsenal,Nottingham Forest,Player Fouls,Elliot Anderson,1.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Declan Rice,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Dan Ndoye,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Viktor Gyökeres,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Nikola Milenković,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Jurriën Timber,1.5,1.89,NA,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Riccardo Calafiori,1.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player Fouls,Ryan Yates,2.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Crystal Palace,Sunderland,Player Fouls,Reinildo,1.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player Fouls,Will Hughes,1.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player Fouls,Justin Devenny,1,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player Fouls,Habib Diarra,1,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player Fouls,Enzo Le Fee,1,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player Fouls,Chris Richards,0.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Everton,Aston Villa,Player Fouls,James Tarkowski,1,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player Fouls,John McGinn,1.5,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player Fouls,Tim Iroegbunam,2,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player Fouls,Lamare Bogarde,1.5,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player Fouls,Jake O'Brien,1,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player Fouls,Idrissa Gueye,1.5,1.8,1.8,Dabble,Everton v Aston Villa
+Newcastle United,Wolverhampton Wanderers,Player Fouls,Sandro Tonali,1.5,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player Fouls,Dan Burn,1,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player Fouls,Emmanuel Agbadou,1,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player Fouls,André,1.5,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Fulham,Leeds United,Player Fouls,Pascal Struijk,1,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player Fouls,llia Gruev,1,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player Fouls,Saša Lukić,2,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player Fouls,Sander Berge,1,1.8,1.8,Dabble,Fulham v Leeds United
+Bournemouth,Brighton & Hove Albion,Player Fouls,Alex Scott,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player Fouls,Mats Wieffer,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player Fouls,David Brooks,1,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player Fouls,Diego Gomez,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player Fouls,Marcos Senesi,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player Fouls,Jan Paul van Hecke,1,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+West Ham United,Tottenham Hotspur,Player Fouls,Joao Palhinha,2,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player Fouls,James Ward-Prowse,1,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player Fouls,Rodrigo Bentancur,2,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player Fouls,Tomáš Souček,1.5,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player Fouls,Pape Matar Sarr,1.5,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player Fouls,Konstantinos Mavropanos,1,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+Brentford,Chelsea,Player Fouls,Thiago,1.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player Fouls,Enzo Fernández,1.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player Fouls,Trevoh Chalobah,1,1.89,NA,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player Fouls,Sepp van den Berg,1,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player Fouls,Nathan Collins,1,1.8,1.8,Dabble,Brentford v Chelsea
+Burnley,Liverpool,Player Fouls,Hannibal Mejbri,2,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player Fouls,Jacob Bruun Larsen,1,1.89,NA,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player Fouls,Alexis Mac Allister,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player Fouls,Alexander Isak,1,1.89,NA,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player Fouls,Lesley Ugochukwu,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player Fouls,Cody Gakpo,1,1.8,1.8,Dabble,Burnley v Liverpool
+Manchester City,Manchester United,Player Fouls,Bernardo Silva,1,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player Fouls,Jérémy Doku,1,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player Fouls,Manuel Ugarte,1.5,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player Fouls,Bruno Fernandes,1.5,1.89,NA,Dabble,Manchester City v Manchester United

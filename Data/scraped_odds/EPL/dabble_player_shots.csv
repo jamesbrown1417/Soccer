@@ -1,47 +1,83 @@
 home_team,away_team,market_name,player_name,line,over_price,under_price,agency,match
-Chelsea,Fulham,Player shots,Jo<c3><a3>o Pedro,2.5,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player shots,Liam Delap,3,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player shots,Enzo Fern<c3><a1>ndez,1.5,1.8,1.8,Dabble,Chelsea v Fulham
-Chelsea,Fulham,Player shots,Alex Iwobi,1.5,1.89,NA,Dabble,Chelsea v Fulham
-Wolverhampton Wanderers,Everton,Player shots,Dwight McNeil,1.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Kiernan Dewsbury-Hall,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Jhon Arias,2,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Jørgen Strand Larsen,2,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Jack Grealish,2,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Jean-Ricner Bellegarde,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Marshall Munetsi,1.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Thierno Barry,2.5,1.89,NA,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,João Gomes,1,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Wolverhampton Wanderers,Everton,Player shots,Carlos Alcaraz,1.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Everton
-Manchester United,Burnley,Player shots,Matthijs de Ligt,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Lyle Foster,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Bryan Mbeumo,3,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Zian Flemming,1.5,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Matheus Cunha,3.5,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Jacob Bruun Larsen,1.5,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Marcus Edwards,1,1.8,1.8,Dabble,Manchester United v Burnley
-Manchester United,Burnley,Player shots,Mason Mount,2,1.8,1.8,Dabble,Manchester United v Burnley
-Tottenham Hotspur,Bournemouth,Player shots,Adrien Truffert,0.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Richarlison,3,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Pape Matar Sarr,1,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Brennan Johnson,2,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Antoine Semenyo,2.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Rodrigo Bentancur,1,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,David Brooks,2,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Tottenham Hotspur,Bournemouth,Player shots,Marcus Tavernier,1.5,1.8,1.8,Dabble,Tottenham Hotspur v Bournemouth
-Sunderland,Brentford,Player shots,Chemsdine Talbi,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Mikkel Damsgaard,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Simon Adingra,1.5,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Granit Xhaka,1,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Kevin Schade,2,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,F<c3><a1>bio Carvalho,2,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Eliezer Mayenda,2,1.8,1.8,Dabble,Sunderland v Brentford
-Sunderland,Brentford,Player shots,Thiago,2.5,1.8,1.8,Dabble,Sunderland v Brentford
-Leeds United,Newcastle United,Player shots,Jacob Ramsey,0.5,1.89,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Harvey Barnes,2.5,2.25,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Joël Piroe,2,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Anthony Elanga,2,1.8,1.8,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Dan James,2.5,2.25,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,William Osula,2.5,1.89,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Wilfried Gnonto,2.5,2.25,NA,Dabble,Leeds United v Newcastle United
-Leeds United,Newcastle United,Player shots,Dominic Calvert-Lewin,2.5,1.8,1.8,Dabble,Leeds United v Newcastle United
+Arsenal,Nottingham Forest,Player shots,Viktor Gyökeres,3.5,1.89,NA,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Dan Ndoye,1.5,1.89,NA,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Elliot Anderson,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Morgan Gibbs-White,1.5,1.89,NA,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Chris Wood,1.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Callum Hudson-Odoi,1,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Noni Madueke,2.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Declan Rice,1.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Martin Ødegaard,2,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Arsenal,Nottingham Forest,Player shots,Eberechi Eze,2.5,1.8,1.8,Dabble,Arsenal v Nottingham Forest
+Crystal Palace,Sunderland,Player shots,Simon Adingra,1,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Jean-Philippe Mateta,3.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Brian Brobbey,2.5,1.89,NA,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Granit Xhaka,0.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Wilson Isidor,1.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Yeremy Pino,2,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Eliezer Mayenda,1.5,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Crystal Palace,Sunderland,Player shots,Will Hughes,1,1.8,1.8,Dabble,Crystal Palace v Sunderland
+Everton,Aston Villa,Player shots,John McGinn,1.5,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Jack Grealish,2,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Morgan Rogers,2,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Evann Guessand,3,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Youri Tielemans,1,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Thierno Barry,2.5,1.8,1.8,Dabble,Everton v Aston Villa
+Everton,Aston Villa,Player shots,Kiernan Dewsbury-Hall,1.5,1.8,1.8,Dabble,Everton v Aston Villa
+Newcastle United,Wolverhampton Wanderers,Player shots,André,0.5,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Yoane Wissa,3.5,1.89,NA,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Marshall Munetsi,1.5,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Anthony Elanga,2,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Bruno Guimarães,1,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Hee-chan Hwang,1.5,1.8,1.8,Dabble,Newcastle United v Wolverhampton Wanderers
+Newcastle United,Wolverhampton Wanderers,Player shots,Nick Woltemade,3.5,1.89,NA,Dabble,Newcastle United v Wolverhampton Wanderers
+Fulham,Leeds United,Player shots,Sean Longstaff,0.5,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Wilfried Gnonto,2,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Brenden Aaronson,1,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Alex Iwobi,2.5,1.89,NA,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Gabriel Gudmundsson,0.5,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Ryan Sessegnon,1.5,1.89,NA,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Joshua King,2,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Joachim Andersen,0.5,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Anton Stach,1,1.8,1.8,Dabble,Fulham v Leeds United
+Fulham,Leeds United,Player shots,Antonee Robinson,0.5,1.8,1.8,Dabble,Fulham v Leeds United
+Bournemouth,Brighton & Hove Albion,Player shots,Evanilson,3,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Georginio Rutter,2.5,1.89,NA,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Yankuba Minteh,2,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Antoine Semenyo,3,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Marcus Tavernier,2,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,David Brooks,2,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Justin Kluivert,2.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Diego Gomez,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Kaoru Mitoma,2,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+Bournemouth,Brighton & Hove Albion,Player shots,Brajan Gruda,1.5,1.8,1.8,Dabble,Bournemouth v Brighton & Hove Albion
+West Ham United,Tottenham Hotspur,Player shots,El Hadji Diouf,1,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Jarrod Bowen,2.5,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Richarlison,2.5,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Kyle Walker-Peters,0.5,1.89,NA,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Xavi Simmons,3,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Djed Spence,0.5,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Mohammed Kudus,2,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,James Ward-Prowse,1,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Pape Matar Sarr,1,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+West Ham United,Tottenham Hotspur,Player shots,Callum Wilson,2,1.8,1.8,Dabble,West Ham United v Tottenham Hotspur
+Brentford,Chelsea,Player shots,Mikkel Damsgaard,1.5,1.89,NA,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Yegor Yarmolyuk,0.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Estevão,2.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Dango Ouattara,1.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Enzo Fernández,1.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,João Pedro,2.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Tyrique George,2.5,1.8,1.8,Dabble,Brentford v Chelsea
+Brentford,Chelsea,Player shots,Kevin Schade,1.5,1.8,1.8,Dabble,Brentford v Chelsea
+Burnley,Liverpool,Player shots,Alexis Mac Allister,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Dominik Szoboszlai,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Jacob Bruun Larsen,1,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Alexander Isak,3,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Zian Flemming,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Lyle Foster,1.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Cody Gakpo,2.5,1.8,1.8,Dabble,Burnley v Liverpool
+Burnley,Liverpool,Player shots,Hannibal Mejbri,1,1.8,1.8,Dabble,Burnley v Liverpool
+Manchester City,Manchester United,Player shots,Casemiro,1,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player shots,Erling Haaland,3.5,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player shots,Bruno Fernandes,2,1.8,1.8,Dabble,Manchester City v Manchester United
+Manchester City,Manchester United,Player shots,Benjamin Sesko,1.5,1.8,1.8,Dabble,Manchester City v Manchester United
