@@ -1,31 +1,92 @@
 match,start_time,market_name,home_team,away_team,line,over_price,under_price,margin,agency
-Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,1.5,1.2,3.9,1.09,TAB
-Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,2.5,1.68,2.05,1.083,TAB
-Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,3.5,2.7,1.4,1.085,TAB
-Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,1.5,1.25,3.6,1.078,TAB
-Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,2.5,1.75,1.95,1.084,TAB
-Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,3.5,2.9,1.35,1.086,TAB
-Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,1.5,1.38,2.8,1.082,TAB
-Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,2.5,2.15,1.62,1.082,TAB
-Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,3.5,3.9,1.2,1.09,TAB
-Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,1.5,1.28,3.3,1.084,TAB
-Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,2.5,1.87,1.8,1.09,TAB
-Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,3.5,3.15,1.3,1.087,TAB
-Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,1.5,1.22,3.8,1.083,TAB
-Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,2.5,1.7,2,1.088,TAB
-Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,3.5,2.9,1.35,1.086,TAB
-Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,1.5,1.42,2.6,1.089,TAB
-Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,2.5,2.3,1.55,1.08,TAB
-Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,3.5,4.25,1.18,1.083,TAB
-Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,1.5,1.25,3.5,1.086,TAB
-Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,2.5,1.8,1.87,1.09,TAB
-Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,3.5,3.15,1.3,1.087,TAB
-Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,1.5,1.25,3.6,1.078,TAB
-Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,2.5,1.75,1.95,1.084,TAB
-Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,3.5,2.9,1.35,1.086,TAB
-Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,2.5,1.42,2.6,1.089,TAB
-Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,3.5,2.1,1.65,1.082,TAB
-Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,4.5,3.4,1.25,1.094,TAB
-West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,1.5,1.22,3.8,1.083,TAB
-West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,2.5,1.7,2,1.088,TAB
-West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,3.5,2.7,1.4,1.085,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,0.5,1.03,10,1.071,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,1.5,1.22,4,1.07,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,2.5,1.72,2.05,1.069,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,3.5,2.8,1.4,1.071,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,4.5,5,1.15,1.07,TAB
+Nottingham Forest v Chelsea,2025-10-18T11:30:00.000Z,Match Goals,Nottingham Forest,Chelsea,5.5,9,1.04,1.073,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,0.5,1.04,9,1.073,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,1.5,1.26,3.6,1.071,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,2.5,1.8,1.95,1.068,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,3.5,3,1.36,1.069,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,4.5,5.5,1.13,1.067,TAB
+Brighton & Hove Albion v Newcastle United,2025-10-18T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Newcastle United,5.5,11,1.02,1.071,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,0.5,1.08,7,1.069,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,1.5,1.44,2.7,1.065,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,2.5,2.3,1.58,1.068,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,3.5,4.2,1.2,1.071,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,4.5,8.5,1.05,1.07,TAB
+Burnley v Leeds United,2025-10-18T14:00:00.000Z,Match Goals,Burnley,Leeds United,5.5,17,1.01,1.049,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,0.5,1.05,8.5,1.07,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,1.5,1.28,3.5,1.067,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,2.5,1.87,1.87,1.07,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,3.5,3.2,1.32,1.07,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,4.5,6,1.11,1.068,TAB
+Crystal Palace v Bournemouth,2025-10-18T14:00:00.000Z,Match Goals,Crystal Palace,Bournemouth,5.5,11,1.02,1.071,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,0.5,1.02,11,1.071,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,1.5,1.22,4,1.07,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,2.5,1.68,2.1,1.071,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,3.5,2.7,1.44,1.065,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,4.5,5,1.15,1.07,TAB
+Manchester City v Everton,2025-10-18T14:00:00.000Z,Match Goals,Manchester City,Everton,5.5,9,1.04,1.073,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,0.5,1.09,6.5,1.071,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,1.5,1.44,2.7,1.065,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,2.5,2.35,1.55,1.071,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,3.5,4.2,1.2,1.071,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,4.5,8.5,1.05,1.07,TAB
+Sunderland v Wolverhampton Wanderers,2025-10-18T14:00:00.000Z,Match Goals,Sunderland,Wolverhampton Wanderers,5.5,17,0,Inf,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,0.5,1.05,8.5,1.07,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,1.5,1.32,3.2,1.07,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,2.5,2,1.75,1.071,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,3.5,3.6,1.26,1.071,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,4.5,7,1.08,1.069,TAB
+Fulham v Arsenal,2025-10-18T16:30:00.000Z,Match Goals,Fulham,Arsenal,5.5,15,1.01,1.057,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,0.5,1.04,9,1.073,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,1.5,1.28,3.5,1.067,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,2.5,1.87,1.87,1.07,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,3.5,3.2,1.32,1.07,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,4.5,6,1.11,1.068,TAB
+Tottenham Hotspur v Aston Villa,2025-10-19T13:00:00.000Z,Match Goals,Tottenham Hotspur,Aston Villa,5.5,11,1.02,1.071,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,0.5,1.01,15,1.057,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,1.5,1.11,6,1.068,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,2.5,1.4,2.8,1.071,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,3.5,2.05,1.72,1.069,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,4.5,3.3,1.3,1.072,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,5.5,6,1.11,1.068,TAB
+Liverpool v Manchester United,2025-10-19T15:30:00.000Z,Match Goals,Liverpool,Manchester United,6.5,10,1.03,1.071,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,0.5,1.05,8.5,1.07,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,1.5,1.3,3.3,1.072,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,2.5,1.95,1.8,1.068,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,3.5,3.3,1.3,1.072,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,4.5,6.5,1.09,1.071,TAB
+West Ham United v Brentford,2025-10-20T19:00:00.000Z,Match Goals,West Ham United,Brentford,5.5,11,1.02,1.071,TAB
+Leeds United v West Ham United,2025-10-24T19:00:00.000Z,Match Goals,Leeds United,West Ham United,1.5,1.3,3.1,1.092,TAB
+Leeds United v West Ham United,2025-10-24T19:00:00.000Z,Match Goals,Leeds United,West Ham United,2.5,1.95,1.75,1.084,TAB
+Leeds United v West Ham United,2025-10-24T19:00:00.000Z,Match Goals,Leeds United,West Ham United,3.5,3.5,1.25,1.086,TAB
+Chelsea v Sunderland,2025-10-25T14:00:00.000Z,Match Goals,Chelsea,Sunderland,1.5,1.2,4,1.083,TAB
+Chelsea v Sunderland,2025-10-25T14:00:00.000Z,Match Goals,Chelsea,Sunderland,2.5,1.68,2.05,1.083,TAB
+Chelsea v Sunderland,2025-10-25T14:00:00.000Z,Match Goals,Chelsea,Sunderland,3.5,2.7,1.4,1.085,TAB
+Newcastle United v Fulham,2025-10-25T14:00:00.000Z,Match Goals,Newcastle United,Fulham,1.5,1.25,3.5,1.086,TAB
+Newcastle United v Fulham,2025-10-25T14:00:00.000Z,Match Goals,Newcastle United,Fulham,2.5,1.8,1.9,1.082,TAB
+Newcastle United v Fulham,2025-10-25T14:00:00.000Z,Match Goals,Newcastle United,Fulham,3.5,3,1.32,1.091,TAB
+Manchester United v Brighton & Hove Albion,2025-10-25T16:30:00.000Z,Match Goals,Manchester United,Brighton & Hove Albion,2.5,1.52,2.3,1.093,TAB
+Manchester United v Brighton & Hove Albion,2025-10-25T16:30:00.000Z,Match Goals,Manchester United,Brighton & Hove Albion,3.5,2.3,1.55,1.08,TAB
+Manchester United v Brighton & Hove Albion,2025-10-25T16:30:00.000Z,Match Goals,Manchester United,Brighton & Hove Albion,4.5,4,1.2,1.083,TAB
+Brentford v Liverpool,2025-10-25T19:00:00.000Z,Match Goals,Brentford,Liverpool,2.5,1.45,2.5,1.09,TAB
+Brentford v Liverpool,2025-10-25T19:00:00.000Z,Match Goals,Brentford,Liverpool,3.5,2.15,1.62,1.082,TAB
+Brentford v Liverpool,2025-10-25T19:00:00.000Z,Match Goals,Brentford,Liverpool,4.5,3.6,1.25,1.078,TAB
+Arsenal v Crystal Palace,2025-10-26T14:00:00.000Z,Match Goals,Arsenal,Crystal Palace,1.5,1.22,3.8,1.083,TAB
+Arsenal v Crystal Palace,2025-10-26T14:00:00.000Z,Match Goals,Arsenal,Crystal Palace,2.5,1.75,1.95,1.084,TAB
+Arsenal v Crystal Palace,2025-10-26T14:00:00.000Z,Match Goals,Arsenal,Crystal Palace,3.5,2.9,1.35,1.086,TAB
+Aston Villa v Manchester City,2025-10-26T14:00:00.000Z,Match Goals,Aston Villa,Manchester City,1.5,1.2,4,1.083,TAB
+Aston Villa v Manchester City,2025-10-26T14:00:00.000Z,Match Goals,Aston Villa,Manchester City,2.5,1.62,2.15,1.082,TAB
+Aston Villa v Manchester City,2025-10-26T14:00:00.000Z,Match Goals,Aston Villa,Manchester City,3.5,2.6,1.42,1.089,TAB
+Bournemouth v Nottingham Forest,2025-10-26T14:00:00.000Z,Match Goals,Bournemouth,Nottingham Forest,1.5,1.25,3.6,1.078,TAB
+Bournemouth v Nottingham Forest,2025-10-26T14:00:00.000Z,Match Goals,Bournemouth,Nottingham Forest,2.5,1.75,1.95,1.084,TAB
+Bournemouth v Nottingham Forest,2025-10-26T14:00:00.000Z,Match Goals,Bournemouth,Nottingham Forest,3.5,2.9,1.35,1.086,TAB
+Wolverhampton Wanderers v Burnley,2025-10-26T14:00:00.000Z,Match Goals,Wolverhampton Wanderers,Burnley,1.5,1.4,2.7,1.085,TAB
+Wolverhampton Wanderers v Burnley,2025-10-26T14:00:00.000Z,Match Goals,Wolverhampton Wanderers,Burnley,2.5,2.2,1.58,1.087,TAB
+Wolverhampton Wanderers v Burnley,2025-10-26T14:00:00.000Z,Match Goals,Wolverhampton Wanderers,Burnley,3.5,4,1.2,1.083,TAB
+Everton v Tottenham Hotspur,2025-10-26T16:30:00.000Z,Match Goals,Everton,Tottenham Hotspur,1.5,1.28,3.3,1.084,TAB
+Everton v Tottenham Hotspur,2025-10-26T16:30:00.000Z,Match Goals,Everton,Tottenham Hotspur,2.5,1.9,1.8,1.082,TAB
+Everton v Tottenham Hotspur,2025-10-26T16:30:00.000Z,Match Goals,Everton,Tottenham Hotspur,3.5,3.3,1.28,1.084,TAB
