@@ -1,40 +1,45 @@
 home_team,away_team,market_name,player_name,line,over_price,under_price,agency,match
-Nottingham Forest,Chelsea,Player Shots On Target,Enzo Fernández shots-on-target,0.5,1.8,1.8,Dabble,Nottingham Forest v Chelsea
-Nottingham Forest,Chelsea,Player Shots On Target,Jamie Gittens shots-on-target,0.5,1.8,1.8,Dabble,Nottingham Forest v Chelsea
-Nottingham Forest,Chelsea,Player Shots On Target,Chris Wood shots-on-target,1,1.89,NA,Dabble,Nottingham Forest v Chelsea
-Nottingham Forest,Chelsea,Player Shots On Target,Igor Jesus shots-on-target,1.5,1.89,NA,Dabble,Nottingham Forest v Chelsea
-Crystal Palace,Bournemouth,Player Shots On Target,Jean-Philippe Mateta shots-on-target,1.5,1.89,NA,Dabble,Crystal Palace v Bournemouth
-Crystal Palace,Bournemouth,Player Shots On Target,David Brooks shots-on-target,0.5,1.8,1.8,Dabble,Crystal Palace v Bournemouth
-Crystal Palace,Bournemouth,Player Shots On Target,Justin Kluivert shots-on-target,0.5,1.8,1.8,Dabble,Crystal Palace v Bournemouth
-Crystal Palace,Bournemouth,Player Shots On Target,Antoine Semenyo shots-on-target,1,1.89,NA,Dabble,Crystal Palace v Bournemouth
-Manchester City,Everton,Player Shots On Target,Beto shots-on-target,0.5,1.89,NA,Dabble,Manchester City v Everton
-Manchester City,Everton,Player Shots On Target,Iliman Ndiaye shots-on-target,0.5,1.89,NA,Dabble,Manchester City v Everton
-Manchester City,Everton,Player Shots On Target,Tijjani Reijnders shots-on-target,1,2.25,NA,Dabble,Manchester City v Everton
-Manchester City,Everton,Player Shots On Target,Oscar Bobb shots-on-target,0.5,1.8,1.8,Dabble,Manchester City v Everton
-Manchester City,Everton,Player Shots On Target,Erling Haaland shots-on-target,2,1.89,NA,Dabble,Manchester City v Everton
-Manchester City,Everton,Player Shots On Target,Kiernan Dewsbury-Hall shots-on-target,0.5,2.7,NA,Dabble,Manchester City v Everton
-Burnley,Leeds United,Player Shots On Target,Zian Flemming shots-on-target,0.5,1.8,1.8,Dabble,Burnley v Leeds United
-Burnley,Leeds United,Player Shots On Target,Lyle Foster shots-on-target,0.5,1.8,1.8,Dabble,Burnley v Leeds United
-Burnley,Leeds United,Player Shots On Target,Jaidon Anthony shots-on-target,0.5,1.8,1.8,Dabble,Burnley v Leeds United
-Burnley,Leeds United,Player Shots On Target,Wilfried Gnonto shots-on-target,0.5,1.8,1.8,Dabble,Burnley v Leeds United
-Burnley,Leeds United,Player Shots On Target,Noah Okafor shots-on-target,0.5,1.8,1.8,Dabble,Burnley v Leeds United
-Brighton & Hove Albion,Newcastle United,Player Shots On Target,Anthony Gordon shots-on-target,1,1.89,NA,Dabble,Brighton & Hove Albion v Newcastle United
-Brighton & Hove Albion,Newcastle United,Player Shots On Target,Georginio Rutter shots-on-target,0.5,1.8,1.8,Dabble,Brighton & Hove Albion v Newcastle United
-Brighton & Hove Albion,Newcastle United,Player Shots On Target,Harvey Barnes shots-on-target,0.5,1.8,1.8,Dabble,Brighton & Hove Albion v Newcastle United
-Brighton & Hove Albion,Newcastle United,Player Shots On Target,Kaoru Mitoma shots-on-target,0.5,1.8,1.8,Dabble,Brighton & Hove Albion v Newcastle United
-Sunderland,Wolverhampton Wanderers,Player Shots On Target,Emmanuel Arokodare shots-on-target,0.5,1.8,1.8,Dabble,Sunderland v Wolverhampton Wanderers
-Sunderland,Wolverhampton Wanderers,Player Shots On Target,Jhon Arias shots-on-target,0.5,1.8,1.8,Dabble,Sunderland v Wolverhampton Wanderers
-Sunderland,Wolverhampton Wanderers,Player Shots On Target,Jørgen Strand Larsen shots-on-target,0.5,1.8,1.8,Dabble,Sunderland v Wolverhampton Wanderers
-Sunderland,Wolverhampton Wanderers,Player Shots On Target,Bertrand Traore shots-on-target,0.5,1.8,1.8,Dabble,Sunderland v Wolverhampton Wanderers
-Fulham,Arsenal,Player Shots On Target,Ra<c3><ba>l Jim<c3><a9>nez,0.5,1.8,1.8,Dabble,Fulham v Arsenal
-Fulham,Arsenal,Player Shots On Target,Eberechi Eze shots-on-target,1,1.89,NA,Dabble,Fulham v Arsenal
-Fulham,Arsenal,Player Shots On Target,Harry Wilson shots-on-target,0.5,1.89,NA,Dabble,Fulham v Arsenal
-Fulham,Arsenal,Player Shots On Target,Gabriel Martinelli shots-on-target,0.5,1.8,1.8,Dabble,Fulham v Arsenal
-Fulham,Arsenal,Player Shots On Target,Leandro Trossard shots-on-target,0.5,1.8,1.8,Dabble,Fulham v Arsenal
-Tottenham Hotspur,Aston Villa,Player Shots On Target,Ollie Watkins shots-on-target,1,1.89,NA,Dabble,Tottenham Hotspur v Aston Villa
-Tottenham Hotspur,Aston Villa,Player Shots On Target,Richarlison shots-on-target,1,1.89,NA,Dabble,Tottenham Hotspur v Aston Villa
-Tottenham Hotspur,Aston Villa,Player Shots On Target,Donyell Malen shots-on-target,0.5,1.8,1.8,Dabble,Tottenham Hotspur v Aston Villa
-Liverpool,Manchester United,Player Shots On Target,Alexander Isak shots-on-target,1,1.89,NA,Dabble,Liverpool v Manchester United
-Liverpool,Manchester United,Player Shots On Target,Benjamin Sesko shots-on-target,1,1.89,NA,Dabble,Liverpool v Manchester United
-Liverpool,Manchester United,Player Shots On Target,Bruno Fernandes shots-on-target,1,1.89,NA,Dabble,Liverpool v Manchester United
-Liverpool,Manchester United,Player Shots On Target,Mohamed Salah shots-on-target,1.5,1.89,NA,Dabble,Liverpool v Manchester United
+Chelsea,Sunderland,Player Shots On Target,Marc Guiu shots-on-target,1.5,1.89,NA,Dabble,Chelsea v Sunderland
+Chelsea,Sunderland,Player Shots On Target,Bertrand Traore shots-on-target,0.5,1.89,NA,Dabble,Chelsea v Sunderland
+Chelsea,Sunderland,Player Shots On Target,João Pedro shots-on-target,1.5,1.89,NA,Dabble,Chelsea v Sunderland
+Chelsea,Sunderland,Player Shots On Target,Wilson Isidor shots-on-target,0.5,1.89,NA,Dabble,Chelsea v Sunderland
+Chelsea,Sunderland,Player Shots On Target,Enzo Fernández shots-on-target,0.5,1.8,1.8,Dabble,Chelsea v Sunderland
+Newcastle United,Fulham,Player Shots On Target,Harry Wilson shots-on-target,0.5,2.25,NA,Dabble,Newcastle United v Fulham
+Newcastle United,Fulham,Player Shots On Target,Nick Woltemade shots-on-target,1.5,1.89,NA,Dabble,Newcastle United v Fulham
+Newcastle United,Fulham,Player Shots On Target,Ra<c3><ba>l Jim<c3><a9>nez,0.5,1.8,1.8,Dabble,Newcastle United v Fulham
+Newcastle United,Fulham,Player Shots On Target,Anthony Elanga shots-on-target,0.5,1.8,1.8,Dabble,Newcastle United v Fulham
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Yankuba Minteh shots-on-target,0.5,1.89,NA,Dabble,Manchester United v Brighton & Hove Albion
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Benjamin Sesko shots-on-target,1,1.89,NA,Dabble,Manchester United v Brighton & Hove Albion
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Bruno Fernandes shots-on-target,0.5,1.8,1.8,Dabble,Manchester United v Brighton & Hove Albion
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Danny Welbeck shots-on-target,0.5,1.8,1.8,Dabble,Manchester United v Brighton & Hove Albion
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Georginio Rutter shots-on-target,0.5,1.89,NA,Dabble,Manchester United v Brighton & Hove Albion
+Manchester United,Brighton & Hove Albion,Player Shots On Target,Amad Diallo shots-on-target,0.5,1.89,NA,Dabble,Manchester United v Brighton & Hove Albion
+Brentford,Liverpool,Player Shots On Target,Dango Ouattara shots-on-target,0.5,1.8,1.8,Dabble,Brentford v Liverpool
+Brentford,Liverpool,Player Shots On Target,Mohamed Salah shots-on-target,1.5,2.25,NA,Dabble,Brentford v Liverpool
+Brentford,Liverpool,Player Shots On Target,Dominik Szoboszlai shots-on-target,0.5,1.8,1.8,Dabble,Brentford v Liverpool
+Arsenal,Crystal Palace,Player Shots On Target,Gabriel Martinelli shots-on-target,0.5,1.8,1.8,Dabble,Arsenal v Crystal Palace
+Arsenal,Crystal Palace,Player Shots On Target,Viktor Gyökeres shots-on-target,1.5,1.89,NA,Dabble,Arsenal v Crystal Palace
+Arsenal,Crystal Palace,Player Shots On Target,Isma<c3><af>la Sarr,0.5,1.89,NA,Dabble,Arsenal v Crystal Palace
+Arsenal,Crystal Palace,Player Shots On Target,Jean-Philippe Mateta shots-on-target,0.5,1.8,1.8,Dabble,Arsenal v Crystal Palace
+Aston Villa,Manchester City,Player Shots On Target,Sávinho shots-on-target,0.5,1.8,1.8,Dabble,Aston Villa v Manchester City
+Aston Villa,Manchester City,Player Shots On Target,Tijjani Reijnders shots-on-target,0.5,1.8,1.8,Dabble,Aston Villa v Manchester City
+Aston Villa,Manchester City,Player Shots On Target,Evan Guessand shots-on-target,0.5,1.8,1.8,Dabble,Aston Villa v Manchester City
+Aston Villa,Manchester City,Player Shots On Target,Phil Foden shots-on-target,0.5,1.8,1.8,Dabble,Aston Villa v Manchester City
+Aston Villa,Manchester City,Player Shots On Target,Morgan Rogers shots-on-target,0.5,1.89,NA,Dabble,Aston Villa v Manchester City
+Aston Villa,Manchester City,Player Shots On Target,Donyell Malen shots-on-target,0.5,1.8,1.8,Dabble,Aston Villa v Manchester City
+Bournemouth,Nottingham Forest,Player Shots On Target,Chris Wood shots-on-target,0.5,1.8,1.8,Dabble,Bournemouth v Nottingham Forest
+Bournemouth,Nottingham Forest,Player Shots On Target,Eli Kroupi shots-on-target,1.5,2.25,NA,Dabble,Bournemouth v Nottingham Forest
+Bournemouth,Nottingham Forest,Player Shots On Target,Dan Ndoye shots-on-target,0.5,1.89,NA,Dabble,Bournemouth v Nottingham Forest
+Bournemouth,Nottingham Forest,Player Shots On Target,Marcus Tavernier shots-on-target,0.5,1.8,1.8,Dabble,Bournemouth v Nottingham Forest
+Bournemouth,Nottingham Forest,Player Shots On Target,Antoine Semenyo shots-on-target,1.5,2.25,NA,Dabble,Bournemouth v Nottingham Forest
+Bournemouth,Nottingham Forest,Player Shots On Target,Morgan Gibbs-White shots-on-target,0.5,1.89,NA,Dabble,Bournemouth v Nottingham Forest
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Zian Flemming shots-on-target,0.5,1.89,NA,Dabble,Wolverhampton Wanderers v Burnley
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Jaidon Anthony shots-on-target,0.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Burnley
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Lyle Foster shots-on-target,0.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Burnley
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Hee-chan Hwang shots-on-target,0.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Burnley
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Jørgen Strand Larsen shots-on-target,1.5,2.25,NA,Dabble,Wolverhampton Wanderers v Burnley
+Wolverhampton Wanderers,Burnley,Player Shots On Target,Marshall Munetsi shots-on-target,0.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Burnley
+Everton,Tottenham Hotspur,Player Shots On Target,Iliman Ndiaye shots-on-target,0.5,1.89,NA,Dabble,Everton v Tottenham Hotspur
+Everton,Tottenham Hotspur,Player Shots On Target,Beto shots-on-target,1,1.89,NA,Dabble,Everton v Tottenham Hotspur
+Everton,Tottenham Hotspur,Player Shots On Target,Richarlison shots-on-target,0.5,1.8,1.8,Dabble,Everton v Tottenham Hotspur
+Everton,Tottenham Hotspur,Player Shots On Target,Mathys Tel shots-on-target,1,1.89,NA,Dabble,Everton v Tottenham Hotspur
