@@ -1,60 +1,43 @@
 home_team,away_team,market_name,player_name,line,over_price,under_price,agency,match
-Chelsea,Everton,Player Tackles,Vitaliy Mykolenko,1.5,1.8,1.8,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,Enzo Fernández,1.5,1.8,1.8,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,Kiernan Dewsbury-Hall,1.5,1.8,1.8,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,James Garner,2.5,1.89,NA,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,Reece James,1.5,1.89,NA,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,Idrissa Gueye,2.5,1.8,1.8,Dabble,Chelsea v Everton
-Chelsea,Everton,Player Tackles,Andrey Santos,2.5,1.8,1.8,Dabble,Chelsea v Everton
-Liverpool,Brighton & Hove Albion,Player Tackles,Ferdi Kadıoğlu,2,1.89,NA,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Ibrahima Konaté,1.5,1.89,NA,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Ryan Gravenberch,1.5,1.8,1.8,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Virgil van Dijk,1,1.89,NA,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Curtis Jones,1.5,1.8,1.8,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Maxim De Cuyper,1.5,1.89,NA,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Carlos Baleba,1.5,1.8,1.8,Dabble,Liverpool v Brighton & Hove Albion
-Liverpool,Brighton & Hove Albion,Player Tackles,Diego Gomez,2.5,1.8,1.8,Dabble,Liverpool v Brighton & Hove Albion
-Burnley,Fulham,Player Tackles,Calvin Bassey,1.5,1.8,1.8,Dabble,Burnley v Fulham
-Burnley,Fulham,Player Tackles,Hjalmar Ekdal,1.5,1.89,NA,Dabble,Burnley v Fulham
-Burnley,Fulham,Player Tackles,Quilindschy Hartman,1.5,1.8,1.8,Dabble,Burnley v Fulham
-Burnley,Fulham,Player Tackles,Timothy Castagne,2,1.89,NA,Dabble,Burnley v Fulham
-Burnley,Fulham,Player Tackles,Florentino,3.5,1.89,NA,Dabble,Burnley v Fulham
-Burnley,Fulham,Player Tackles,Sander Berge,1.5,1.89,NA,Dabble,Burnley v Fulham
-Arsenal,Wolverhampton Wanderers,Player Tackles,André,2.5,1.89,NA,Dabble,Arsenal v Wolverhampton Wanderers
-Arsenal,Wolverhampton Wanderers,Player Tackles,Martin Zubimendi,1.5,1.89,NA,Dabble,Arsenal v Wolverhampton Wanderers
-Arsenal,Wolverhampton Wanderers,Player Tackles,Ben White,1.5,1.8,1.8,Dabble,Arsenal v Wolverhampton Wanderers
-Arsenal,Wolverhampton Wanderers,Player Tackles,Piero Hincapie,1.5,1.89,NA,Dabble,Arsenal v Wolverhampton Wanderers
-Arsenal,Wolverhampton Wanderers,Player Tackles,João Gomes,3.5,1.89,NA,Dabble,Arsenal v Wolverhampton Wanderers
-Arsenal,Wolverhampton Wanderers,Player Tackles,Ki-Jana Hoever,3.5,1.89,NA,Dabble,Arsenal v Wolverhampton Wanderers
-West Ham United,Aston Villa,Player Tackles,Freddie Potts,2.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,El Hadji Diouf,2,1.89,NA,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,Boubacar Kamara,2.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,Mateus Fernandes,2.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,Ezri Konsa,0.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,Aaron Wan-Bissaka,1.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,Matty Cash,2.5,1.89,NA,Dabble,West Ham United v Aston Villa
-West Ham United,Aston Villa,Player Tackles,John McGinn,1.5,1.8,1.8,Dabble,West Ham United v Aston Villa
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Morato,2.5,1.89,NA,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Nikola Milenković,1.5,1.89,NA,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Elliot Anderson,3.5,1.8,1.8,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Nicolo Savona,2.5,1.89,NA,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Pedro Porro,1.5,1.8,1.8,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Rodrigo Bentancur,1.5,1.8,1.8,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Archie Gray,1,1.89,NA,Dabble,Nottingham Forest v Tottenham Hotspur
-Nottingham Forest,Tottenham Hotspur,Player Tackles,Djed Spence,1.5,1.8,1.8,Dabble,Nottingham Forest v Tottenham Hotspur
-Crystal Palace,Manchester City,Player Tackles,Chris Richards,1.5,1.8,1.8,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Bernardo Silva,1.5,1.8,1.8,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Nico González,2.5,1.89,NA,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Tyrick Mitchell,2.5,1.8,1.8,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Marc Guéhi,1.5,1.8,1.8,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Joško Gvardiol,1.5,1.89,NA,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Rúben Dias,1,1.89,NA,Dabble,Crystal Palace v Manchester City
-Crystal Palace,Manchester City,Player Tackles,Adam Wharton,2.5,1.89,NA,Dabble,Crystal Palace v Manchester City
-Sunderland,Newcastle United,Player Tackles,Omar Alderete,1.5,1.89,NA,Dabble,Sunderland v Newcastle United
-Sunderland,Newcastle United,Player Tackles,Nordi Mukiele,2.5,1.89,NA,Dabble,Sunderland v Newcastle United
-Sunderland,Newcastle United,Player Tackles,Malick Thiaw,1.5,1.89,NA,Dabble,Sunderland v Newcastle United
-Sunderland,Newcastle United,Player Tackles,Sandro Tonali,1.5,1.89,NA,Dabble,Sunderland v Newcastle United
-Brentford,Leeds United,Player Tackles,Ao Tanaka,2.5,1.89,NA,Dabble,Brentford v Leeds United
-Brentford,Leeds United,Player Tackles,Sepp van den Berg,1.5,1.89,NA,Dabble,Brentford v Leeds United
-Brentford,Leeds United,Player Tackles,Ethan Ampadu,2.5,1.89,NA,Dabble,Brentford v Leeds United
-Brentford,Leeds United,Player Tackles,Vitaly Janelt,1.5,1.89,NA,Dabble,Brentford v Leeds United
+Newcastle United,Chelsea,Player Tackles,Trevoh Chalobah,1.5,1.89,NA,Dabble,Newcastle United v Chelsea
+Newcastle United,Chelsea,Player Tackles,Enzo Fernández,1.5,1.8,1.8,Dabble,Newcastle United v Chelsea
+Newcastle United,Chelsea,Player Tackles,Bruno Guimarães,2.5,1.89,NA,Dabble,Newcastle United v Chelsea
+Newcastle United,Chelsea,Player Tackles,Mois<c3><a9>s Caicedo,3.5,1.89,NA,Dabble,Newcastle United v Chelsea
+Newcastle United,Chelsea,Player Tackles,Sandro Tonali,1.5,1.8,1.8,Dabble,Newcastle United v Chelsea
+Manchester City,West Ham United,Player Tackles,Freddie Potts,2.5,1.89,NA,Dabble,Manchester City v West Ham United
+Manchester City,West Ham United,Player Tackles,Joško Gvardiol,1.5,1.89,NA,Dabble,Manchester City v West Ham United
+Manchester City,West Ham United,Player Tackles,Nico O'Reilly,2.5,1.89,NA,Dabble,Manchester City v West Ham United
+Manchester City,West Ham United,Player Tackles,Kyle Walker-Peters,1.5,1.8,1.8,Dabble,Manchester City v West Ham United
+Manchester City,West Ham United,Player Tackles,Jean-Clair Todibo,2,1.89,NA,Dabble,Manchester City v West Ham United
+Wolverhampton Wanderers,Brentford,Player Tackles,João Gomes,3.5,1.89,NA,Dabble,Wolverhampton Wanderers v Brentford
+Wolverhampton Wanderers,Brentford,Player Tackles,Yegor Yarmolyuk,2.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Brentford
+Wolverhampton Wanderers,Brentford,Player Tackles,Santiago Bueno,2.5,1.89,NA,Dabble,Wolverhampton Wanderers v Brentford
+Wolverhampton Wanderers,Brentford,Player Tackles,André,2.5,1.8,1.8,Dabble,Wolverhampton Wanderers v Brentford
+Wolverhampton Wanderers,Brentford,Player Tackles,Sepp van den Berg,1.5,1.89,NA,Dabble,Wolverhampton Wanderers v Brentford
+Bournemouth,Burnley,Player Tackles,Marcus Tavernier,1.5,1.8,1.8,Dabble,Bournemouth v Burnley
+Bournemouth,Burnley,Player Tackles,Josh Cullen,2,1.89,NA,Dabble,Bournemouth v Burnley
+Bournemouth,Burnley,Player Tackles,Maxime Esteve,1.5,2.25,NA,Dabble,Bournemouth v Burnley
+Bournemouth,Burnley,Player Tackles,Alex Scott,2,1.89,NA,Dabble,Bournemouth v Burnley
+Bournemouth,Burnley,Player Tackles,Bafode Diakite,1.5,1.89,NA,Dabble,Bournemouth v Burnley
+Brighton & Hove Albion,Sunderland,Player Tackles,Nordi Mukiele,2.5,1.8,1.8,Dabble,Brighton & Hove Albion v Sunderland
+Brighton & Hove Albion,Sunderland,Player Tackles,Jack Hinshelwood,2,1.89,NA,Dabble,Brighton & Hove Albion v Sunderland
+Brighton & Hove Albion,Sunderland,Player Tackles,Olivier Boscagli,1.5,1.8,1.8,Dabble,Brighton & Hove Albion v Sunderland
+Brighton & Hove Albion,Sunderland,Player Tackles,Chris Rigg,1.5,1.8,1.8,Dabble,Brighton & Hove Albion v Sunderland
+Tottenham Hotspur,Liverpool,Player Tackles,Alexis Mac Allister,2.5,1.8,1.8,Dabble,Tottenham Hotspur v Liverpool
+Tottenham Hotspur,Liverpool,Player Tackles,Cristian Romero,2.5,1.89,NA,Dabble,Tottenham Hotspur v Liverpool
+Tottenham Hotspur,Liverpool,Player Tackles,Joao Palhinha,4.5,1.8,1.8,Dabble,Tottenham Hotspur v Liverpool
+Tottenham Hotspur,Liverpool,Player Tackles,Ibrahima Konaté,2,1.89,NA,Dabble,Tottenham Hotspur v Liverpool
+Tottenham Hotspur,Liverpool,Player Tackles,Archie Gray,2,1.89,NA,Dabble,Tottenham Hotspur v Liverpool
+Tottenham Hotspur,Liverpool,Player Tackles,Conor Bradley,2.5,1.8,1.8,Dabble,Tottenham Hotspur v Liverpool
+Everton,Arsenal,Player Tackles,Bukayo Saka,1.5,1.89,NA,Dabble,Everton v Arsenal
+Everton,Arsenal,Player Tackles,James Garner,2.5,1.89,NA,Dabble,Everton v Arsenal
+Everton,Arsenal,Player Tackles,Riccardo Calafiori,2.5,1.89,NA,Dabble,Everton v Arsenal
+Everton,Arsenal,Player Tackles,James Tarkowski,1.5,1.89,NA,Dabble,Everton v Arsenal
+Leeds United,Crystal Palace,Player Tackles,Maxence Lacroix,1.5,1.89,NA,Dabble,Leeds United v Crystal Palace
+Leeds United,Crystal Palace,Player Tackles,Jaka Bijol,1.5,1.89,NA,Dabble,Leeds United v Crystal Palace
+Leeds United,Crystal Palace,Player Tackles,Ethan Ampadu,2.5,1.89,NA,Dabble,Leeds United v Crystal Palace
+Leeds United,Crystal Palace,Player Tackles,Adam Wharton,2.5,1.89,NA,Dabble,Leeds United v Crystal Palace
+Aston Villa,Manchester United,Player Tackles,Boubacar Kamara,2.5,1.89,NA,Dabble,Aston Villa v Manchester United
+Aston Villa,Manchester United,Player Tackles,Victor Lindelof,1,1.89,NA,Dabble,Aston Villa v Manchester United
+Aston Villa,Manchester United,Player Tackles,Manuel Ugarte,3.5,1.89,NA,Dabble,Aston Villa v Manchester United
+Aston Villa,Manchester United,Player Tackles,Matthijs de Ligt,1.5,1.89,NA,Dabble,Aston Villa v Manchester United
