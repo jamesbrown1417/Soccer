@@ -36,12 +36,12 @@ main_markets_function <- function() {
     get_team_names <- function(match) {
         team_names <-
             match |>
-            html_nodes(".normal_fgzdi7m") |>
+            html_nodes("[data-automation-id$='-competition-event-participant-1'], [data-automation-id$='-competition-event-participant-2']") |>
             html_text()
         
         # Home team and Away Team
         home_team <- team_names[1]
-        away_team <- team_names[3]
+        away_team <- team_names[2]
         
         # Output
         tibble(home_team, away_team)
@@ -51,7 +51,7 @@ main_markets_function <- function() {
     get_odds <- function(match) {
         odds <-
             match |>
-            html_nodes(".priceTextSize_frw9zm9") |>
+            html_nodes("[data-automation-id$='-three-outcome-captioned-text']") |>
             html_text() |>
             as.numeric()
         
@@ -66,10 +66,12 @@ main_markets_function <- function() {
     
     # Function to get start time
     get_start_time <- function(match) {
-        start_time <-
-            match |>
-            html_nodes(".oneLine_f15ay66x") |>
-            html_text()
+        start_node <- match |> html_node("time")
+        start_time <- start_node |> html_attr("datetime")
+        
+        if (is.na(start_time) || length(start_time) == 0) {
+            start_time <- start_node |> html_text()
+        }
         
         # Output
         tibble(start_time)
@@ -80,7 +82,7 @@ main_markets_function <- function() {
         bind_cols(
             map(matches, get_team_names) |> bind_rows() |> filter(!is.na(home_team)),
             map(matches, get_odds) |> bind_rows() |> filter(!is.na(home_win)),
-            map(matches, get_start_time) |> bind_rows()
+            map(matches, get_start_time) |> bind_rows() |> filter(!is.na(start_time))
         )
     
     #===============================================================================
@@ -121,12 +123,12 @@ player_props_function <- function() {
     get_team_names <- function(match) {
         team_names <-
             match |>
-            html_nodes(".normal_fgzdi7m") |>
+            html_nodes("[data-automation-id$='-competition-event-participant-1'], [data-automation-id$='-competition-event-participant-2']") |>
             html_text()
         
         # Home team and Away Team
         home_team <- team_names[1]
-        away_team <- team_names[3]
+        away_team <- team_names[2]
         
         # Output
         tibble(home_team, away_team)

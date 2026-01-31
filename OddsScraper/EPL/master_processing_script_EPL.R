@@ -15,7 +15,7 @@ run_scraping <- function(script_name) {
 }
 
 # Run all odds scraping scripts
-run_scraping("OddsScraper/EPL/TAB/scrape_TAB_EPL.R")
+run_scraping("OddsScraper/EPL/scrape_TAB_EPL.R")
 run_scraping("OddsScraper/EPL/scrape_Sportsbet_EPL.R")
 run_scraping("OddsScraper/EPL/scrape_pointsbet_EPL.R")
 run_scraping("OddsScraper/EPL/Neds/scrape_neds_EPL.R")
@@ -158,7 +158,7 @@ player_shots_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
-    select(match:agency) |>
+    select(match, player_name, line, over_price, under_price, agency) |>
     mutate(market_name = "Player Shots")
 
 # Write out
@@ -181,7 +181,7 @@ player_shots_on_target_data <-
     keep(~nrow(.x) > 0) |>
     bind_rows() |> 
     arrange(match, player_name, line, desc(over_price)) |> 
-    select(match:agency) |> 
+    select(match, player_name, line, over_price, under_price, agency) |>
     mutate(market_name = "Player Shots On Target")
 
 # Write out

@@ -273,7 +273,6 @@ player_shots_best_over_odds <-
     player_shots_data |>
     arrange(match, line, player_name, desc(over_price)) |> 
     group_by(match, line, player_name) |> 
-    slice_head(n = 1) |> 
     select(-CV, -under_price) |> 
     rename(over_agency = agency)
 
@@ -283,7 +282,6 @@ player_shots_best_under_odds <-
     filter(!is.na(under_price)) |> 
     arrange(match, line, player_name, desc(under_price)) |> 
     group_by(match, line, player_name) |> 
-    slice_head(n = 1) |> 
     select(-CV, -over_price) |> 
     rename(under_agency = agency)
 
