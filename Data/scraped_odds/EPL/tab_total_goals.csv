@@ -1,86 +1,31 @@
 match,start_time,market_name,home_team,away_team,line,over_price,under_price,margin,agency
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,0.5,1.02,11,1.071,TAB
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,1.5,1.24,3.8,1.07,TAB
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,2.5,1.72,2.05,1.069,TAB
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,3.5,2.8,1.4,1.071,TAB
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,4.5,5.5,1.13,1.067,TAB
-Bournemouth v Sunderland,2026-02-28T12:30:00.000Z,Match Goals,Bournemouth,Sunderland,5.5,10,1.03,1.071,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,0.5,1.03,10,1.071,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,1.5,1.24,3.8,1.07,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,2.5,1.75,2,1.071,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,3.5,2.9,1.38,1.069,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,4.5,5.5,1.13,1.067,TAB
-Burnley v Brentford,2026-02-28T15:00:00.000Z,Match Goals,Burnley,Brentford,5.5,10,1.03,1.071,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,0.5,1.01,15,1.057,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,1.5,1.13,5.5,1.067,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,2.5,1.44,2.7,1.065,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,3.5,2.1,1.68,1.071,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,4.5,3.5,1.28,1.067,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,5.5,6,1.11,1.068,TAB
-Liverpool v West Ham United,2026-02-28T15:00:00.000Z,Match Goals,Liverpool,West Ham United,6.5,11,1.02,1.071,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,0.5,1.03,10,1.071,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,1.5,1.22,4,1.07,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,2.5,1.72,2.05,1.069,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,3.5,2.8,1.4,1.071,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,4.5,5,1.15,1.07,TAB
-Newcastle United v Everton,2026-02-28T15:00:00.000Z,Match Goals,Newcastle United,Everton,5.5,9,1.04,1.073,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,0.5,1.03,10,1.071,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,1.5,1.24,3.8,1.07,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,2.5,1.75,2,1.071,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,3.5,2.9,1.38,1.069,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,4.5,5.5,1.13,1.067,TAB
-Leeds United v Manchester City,2026-02-28T17:30:00.000Z,Match Goals,Leeds United,Manchester City,5.5,10,1.03,1.071,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,0.5,1.03,10,1.071,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,1.5,1.26,3.6,1.071,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,2.5,1.8,1.95,1.068,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,3.5,3,1.36,1.069,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,4.5,5.5,1.13,1.067,TAB
-Brighton & Hove Albion v Nottingham Forest,2026-03-01T14:00:00.000Z,Match Goals,Brighton & Hove Albion,Nottingham Forest,5.5,10,1.03,1.071,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,0.5,1.02,11,1.071,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,1.5,1.22,4,1.07,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,2.5,1.72,2.05,1.069,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,3.5,2.8,1.4,1.071,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,4.5,5,1.15,1.07,TAB
-Fulham v Tottenham Hotspur,2026-03-01T14:00:00.000Z,Match Goals,Fulham,Tottenham Hotspur,5.5,9,1.04,1.073,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,0.5,1.02,11,1.071,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,1.5,1.18,4.5,1.07,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,2.5,1.6,2.25,1.069,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,3.5,2.5,1.5,1.067,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,4.5,4.5,1.18,1.07,TAB
-Manchester United v Crystal Palace,2026-03-01T14:00:00.000Z,Match Goals,Manchester United,Crystal Palace,5.5,8,1.06,1.068,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,0.5,1.02,11,1.071,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,1.5,1.22,4,1.07,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,2.5,1.68,2.1,1.071,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,3.5,2.7,1.44,1.065,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,4.5,5,1.15,1.07,TAB
-Arsenal v Chelsea,2026-03-01T16:30:00.000Z,Match Goals,Arsenal,Chelsea,5.5,9,1.04,1.073,TAB
-Bournemouth v Brentford,2026-03-03T19:30:00.000Z,Match Goals,Bournemouth,Brentford,1.5,1.18,4.25,1.083,TAB
-Bournemouth v Brentford,2026-03-03T19:30:00.000Z,Match Goals,Bournemouth,Brentford,2.5,1.58,2.2,1.087,TAB
-Bournemouth v Brentford,2026-03-03T19:30:00.000Z,Match Goals,Bournemouth,Brentford,3.5,2.4,1.5,1.083,TAB
-Everton v Burnley,2026-03-03T19:30:00.000Z,Match Goals,Everton,Burnley,1.5,1.28,3.3,1.084,TAB
-Everton v Burnley,2026-03-03T19:30:00.000Z,Match Goals,Everton,Burnley,2.5,1.87,1.8,1.09,TAB
-Everton v Burnley,2026-03-03T19:30:00.000Z,Match Goals,Everton,Burnley,3.5,3.15,1.3,1.087,TAB
-Leeds United v Sunderland,2026-03-03T19:30:00.000Z,Match Goals,Leeds United,Sunderland,1.5,1.3,3.1,1.092,TAB
-Leeds United v Sunderland,2026-03-03T19:30:00.000Z,Match Goals,Leeds United,Sunderland,2.5,1.95,1.75,1.084,TAB
-Leeds United v Sunderland,2026-03-03T19:30:00.000Z,Match Goals,Leeds United,Sunderland,3.5,3.5,1.25,1.086,TAB
-Wolverhampton Wanderers v Liverpool,2026-03-03T20:15:00.000Z,Match Goals,Wolverhampton Wanderers,Liverpool,2.5,1.52,2.3,1.093,TAB
-Wolverhampton Wanderers v Liverpool,2026-03-03T20:15:00.000Z,Match Goals,Wolverhampton Wanderers,Liverpool,3.5,2.3,1.55,1.08,TAB
-Wolverhampton Wanderers v Liverpool,2026-03-03T20:15:00.000Z,Match Goals,Wolverhampton Wanderers,Liverpool,4.5,4,1.2,1.083,TAB
-Aston Villa v Chelsea,2026-03-04T19:30:00.000Z,Match Goals,Aston Villa,Chelsea,1.5,1.2,4,1.083,TAB
-Aston Villa v Chelsea,2026-03-04T19:30:00.000Z,Match Goals,Aston Villa,Chelsea,2.5,1.62,2.15,1.082,TAB
-Aston Villa v Chelsea,2026-03-04T19:30:00.000Z,Match Goals,Aston Villa,Chelsea,3.5,2.6,1.42,1.089,TAB
-Brighton & Hove Albion v Arsenal,2026-03-04T19:30:00.000Z,Match Goals,Brighton & Hove Albion,Arsenal,1.5,1.25,3.5,1.086,TAB
-Brighton & Hove Albion v Arsenal,2026-03-04T19:30:00.000Z,Match Goals,Brighton & Hove Albion,Arsenal,2.5,1.8,1.87,1.09,TAB
-Brighton & Hove Albion v Arsenal,2026-03-04T19:30:00.000Z,Match Goals,Brighton & Hove Albion,Arsenal,3.5,3.15,1.3,1.087,TAB
-Fulham v West Ham United,2026-03-04T19:30:00.000Z,Match Goals,Fulham,West Ham United,1.5,1.22,3.8,1.083,TAB
-Fulham v West Ham United,2026-03-04T19:30:00.000Z,Match Goals,Fulham,West Ham United,2.5,1.75,1.95,1.084,TAB
-Fulham v West Ham United,2026-03-04T19:30:00.000Z,Match Goals,Fulham,West Ham United,3.5,2.8,1.38,1.082,TAB
-Manchester City v Nottingham Forest,2026-03-04T19:30:00.000Z,Match Goals,Manchester City,Nottingham Forest,2.5,1.52,2.3,1.093,TAB
-Manchester City v Nottingham Forest,2026-03-04T19:30:00.000Z,Match Goals,Manchester City,Nottingham Forest,3.5,2.25,1.55,1.09,TAB
-Manchester City v Nottingham Forest,2026-03-04T19:30:00.000Z,Match Goals,Manchester City,Nottingham Forest,4.5,3.9,1.2,1.09,TAB
-Newcastle United v Manchester United,2026-03-04T20:15:00.000Z,Match Goals,Newcastle United,Manchester United,2.5,1.5,2.4,1.083,TAB
-Newcastle United v Manchester United,2026-03-04T20:15:00.000Z,Match Goals,Newcastle United,Manchester United,3.5,2.2,1.58,1.087,TAB
-Newcastle United v Manchester United,2026-03-04T20:15:00.000Z,Match Goals,Newcastle United,Manchester United,4.5,3.8,1.22,1.083,TAB
-Tottenham Hotspur v Crystal Palace,2026-03-05T20:00:00.000Z,Match Goals,Tottenham Hotspur,Crystal Palace,1.5,1.25,3.5,1.086,TAB
-Tottenham Hotspur v Crystal Palace,2026-03-05T20:00:00.000Z,Match Goals,Tottenham Hotspur,Crystal Palace,2.5,1.8,1.9,1.082,TAB
-Tottenham Hotspur v Crystal Palace,2026-03-05T20:00:00.000Z,Match Goals,Tottenham Hotspur,Crystal Palace,3.5,2.9,1.35,1.086,TAB
+Burnley v Bournemouth,2026-03-14T15:00:00.000Z,Match Goals,Burnley,Bournemouth,1.5,1.2,3.9,1.09,TAB
+Burnley v Bournemouth,2026-03-14T15:00:00.000Z,Match Goals,Burnley,Bournemouth,2.5,1.68,2.05,1.083,TAB
+Burnley v Bournemouth,2026-03-14T15:00:00.000Z,Match Goals,Burnley,Bournemouth,3.5,2.7,1.4,1.085,TAB
+Sunderland v Brighton & Hove Albion,2026-03-14T15:00:00.000Z,Match Goals,Sunderland,Brighton & Hove Albion,1.5,1.3,3.1,1.092,TAB
+Sunderland v Brighton & Hove Albion,2026-03-14T15:00:00.000Z,Match Goals,Sunderland,Brighton & Hove Albion,2.5,1.95,1.75,1.084,TAB
+Sunderland v Brighton & Hove Albion,2026-03-14T15:00:00.000Z,Match Goals,Sunderland,Brighton & Hove Albion,3.5,3.5,1.25,1.086,TAB
+Arsenal v Everton,2026-03-14T17:30:00.000Z,Match Goals,Arsenal,Everton,1.5,1.25,3.5,1.086,TAB
+Arsenal v Everton,2026-03-14T17:30:00.000Z,Match Goals,Arsenal,Everton,2.5,1.8,1.9,1.082,TAB
+Arsenal v Everton,2026-03-14T17:30:00.000Z,Match Goals,Arsenal,Everton,3.5,3,1.32,1.091,TAB
+Chelsea v Newcastle United,2026-03-14T17:30:00.000Z,Match Goals,Chelsea,Newcastle United,2.5,1.42,2.6,1.089,TAB
+Chelsea v Newcastle United,2026-03-14T17:30:00.000Z,Match Goals,Chelsea,Newcastle United,3.5,2.1,1.65,1.082,TAB
+Chelsea v Newcastle United,2026-03-14T17:30:00.000Z,Match Goals,Chelsea,Newcastle United,4.5,3.5,1.25,1.086,TAB
+West Ham United v Manchester City,2026-03-14T20:00:00.000Z,Match Goals,West Ham United,Manchester City,2.5,1.45,2.5,1.09,TAB
+West Ham United v Manchester City,2026-03-14T20:00:00.000Z,Match Goals,West Ham United,Manchester City,3.5,2.15,1.62,1.082,TAB
+West Ham United v Manchester City,2026-03-14T20:00:00.000Z,Match Goals,West Ham United,Manchester City,4.5,3.6,1.25,1.078,TAB
+Crystal Palace v Leeds United,2026-03-15T14:00:00.000Z,Match Goals,Crystal Palace,Leeds United,1.5,1.3,3.1,1.092,TAB
+Crystal Palace v Leeds United,2026-03-15T14:00:00.000Z,Match Goals,Crystal Palace,Leeds United,2.5,1.95,1.75,1.084,TAB
+Crystal Palace v Leeds United,2026-03-15T14:00:00.000Z,Match Goals,Crystal Palace,Leeds United,3.5,3.5,1.25,1.086,TAB
+Manchester United v Aston Villa,2026-03-15T14:00:00.000Z,Match Goals,Manchester United,Aston Villa,1.5,1.2,4,1.083,TAB
+Manchester United v Aston Villa,2026-03-15T14:00:00.000Z,Match Goals,Manchester United,Aston Villa,2.5,1.62,2.15,1.082,TAB
+Manchester United v Aston Villa,2026-03-15T14:00:00.000Z,Match Goals,Manchester United,Aston Villa,3.5,2.6,1.42,1.089,TAB
+Nottingham Forest v Fulham,2026-03-15T14:00:00.000Z,Match Goals,Nottingham Forest,Fulham,1.5,1.28,3.3,1.084,TAB
+Nottingham Forest v Fulham,2026-03-15T14:00:00.000Z,Match Goals,Nottingham Forest,Fulham,2.5,1.87,1.8,1.09,TAB
+Nottingham Forest v Fulham,2026-03-15T14:00:00.000Z,Match Goals,Nottingham Forest,Fulham,3.5,3.15,1.3,1.087,TAB
+Liverpool v Tottenham Hotspur,2026-03-15T16:30:00.000Z,Match Goals,Liverpool,Tottenham Hotspur,2.5,1.42,2.6,1.089,TAB
+Liverpool v Tottenham Hotspur,2026-03-15T16:30:00.000Z,Match Goals,Liverpool,Tottenham Hotspur,3.5,2.1,1.65,1.082,TAB
+Liverpool v Tottenham Hotspur,2026-03-15T16:30:00.000Z,Match Goals,Liverpool,Tottenham Hotspur,4.5,3.5,1.25,1.086,TAB
+Brentford v Wolverhampton Wanderers,2026-03-16T20:00:00.000Z,Match Goals,Brentford,Wolverhampton Wanderers,1.5,1.2,4,1.083,TAB
+Brentford v Wolverhampton Wanderers,2026-03-16T20:00:00.000Z,Match Goals,Brentford,Wolverhampton Wanderers,2.5,1.68,2.05,1.083,TAB
+Brentford v Wolverhampton Wanderers,2026-03-16T20:00:00.000Z,Match Goals,Brentford,Wolverhampton Wanderers,3.5,2.6,1.42,1.089,TAB
